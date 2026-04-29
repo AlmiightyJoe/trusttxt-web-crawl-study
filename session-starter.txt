@@ -1,0 +1,48 @@
+Session Starter - trust.txt crawler
+
+1. Navigate to the project directory
+
+2. Activate virtual environment:
+	python3 -m venv venv
+	source venv/bin/activate
+
+3. Install dependencies:
+	pip install -r requirements.txt
+
+4. Verify configuration files:
+	- config/eu.json
+	- config/us.json
+
+5. Verify seed files exist:
+	- seeds_media_orgs_eu.txt
+	- seeds_media_orgs_us.txt
+	- news_eu.txt
+	- news_us.txt
+	
+6. Start the crawler:
+	Please refer to README
+	
+7. (optional) Start the session:
+	tmux new -s trustcrawl
+	
+	Can be detached - leave it running
+	CTRL + B -> D
+	You can now log out safely whilst the crawler is running
+	
+	to reattach:
+	tmux attach -t trustcrawl
+	
+	Note:
+	"trustcrawl" can be named something else
+
+----------------------------------------------
+
+Controls during execution:
+- press 'p' -> pause
+- press 'r' -> resume
+- press 'x' -> stop gracefully
+
+----------------------------------------------
+
+Outputs will be written to:
+crawler/output/
