@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html class="no-js" lang="tr">
+    <head>
+        <meta charset="utf-8" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="title" content="Kıbrıs haberleri Kıbrıs Postası&#039;nda okunur Ana Sayfa" />
+<meta name="description" content="Kıbrıs Postası Kıbrıs haber siteleri arasında açık ara lider. Kıbrıs haberleri Kıbrıs Postası&#039;nda okunur. Ana Sayfa" />
+<meta name="keywords" content="kıbrıs, kıbrıs postası, kıbrıs gazetesi, kıbrıs haberleri, kıbrıs internet haber, kktc, kktc haber, kıbrıs köşe yazarları, kıbrıs haber merkezi, Girne, Lefkoşa, Mağusa Ana Sayfa" />
+
+<link rel="preload" href="https://www.kibrispostasi.com/assets_v3/fonts/Saira-Regular.woff" as="font" type="font/woff" crossorigin />
+<link rel="preload" href="https://www.kibrispostasi.com/assets_v3/fonts/Saira-Medium.woff" as="font" type="font/woff" crossorigin />
+<link rel="preload" href="https://www.kibrispostasi.com/assets_v3/fonts/Saira-SemiBold.woff" as="font" type="font/woff" crossorigin />
+<link rel="preload" href="https://www.kibrispostasi.com/assets_v3/fonts/Saira-Bold.woff" as="font" type="font/woff" crossorigin />
+<link rel="preload" href="https://www.kibrispostasi.com/assets_v3/fonts/fa-brands-400.woff" as="font" type="font/woff" crossorigin />
+<link rel="preload" href="https://www.kibrispostasi.com/assets_v3/fonts/fa-regular-400.woff" as="font" type="font/woff" crossorigin />
+<link rel="preload" href="https://www.kibrispostasi.com/assets_v3/fonts/fa-solid-900.woff" as="font" type="font/woff" crossorigin />
+<link rel="preload" href="https://www.kibrispostasi.com/assets_v3/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin />
+<link rel="stylesheet" href="https://www.kibrispostasi.com/assets_v3/css/app_280921_1.css" />
+<link rel="shortcut icon" href="https://www.kibrispostasi.com/images/favicon.png" />
+
+<meta name="csrf-token" content="SpxGaBJUGcXDnRrlHPVAACp0HbDcSAZHd9mVRaeO" />
+<meta name="google-site-verification" content="ZcaWdG8rKxpBmoj9ZTu63O0l1sHlVu9ne1_QDZdQJRs" />
+	<meta http-equiv="refresh" content="300" />
+<meta property="fb:app_id" content="368741151007991" />
+<meta property="fb:pages" content="156466074385246" />
+<meta property="og:title" content="Kıbrıs haberleri Kıbrıs Postası&#039;nda okunur Ana Sayfa" />
+<meta property="og:description" content="Kıbrıs Postası Kıbrıs haber siteleri arasında açık ara lider. Kıbrıs haberleri Kıbrıs Postası&#039;nda okunur. Ana Sayfa" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.kibrispostasi.com" />
+<meta property="og:image" content="" />
+ <meta property="og:site_name" content="KIBRIS POSTASI" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:locale" content="tr_TR" />
+<meta property="article:author" content="https://www.facebook.com/Kibrispostasi" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@kibris_postasi" />
+<meta name="twitter:title" content="Kıbrıs haberleri Kıbrıs Postası&#039;nda okunur Ana Sayfa" />
+<meta name="twitter:description" content="Kıbrıs Postası Kıbrıs haber siteleri arasında açık ara lider. Kıbrıs haberleri Kıbrıs Postası&#039;nda okunur. Ana Sayfa" />
+<meta name="twitter:image" content="" />
+<meta name="twitter:domain" content="https://www.kibrispostasi.com" />
+<title>Kıbrıs haberleri Kıbrıs Postası'nda okunur Ana Sayfa</title>
+            </head>
+    <body>
+        <div class="off-canvas position-top" id="local-regions" data-off-canvas data-transition="overlap">
+	<div class="grid-container">
+        <div class="grid-x grid-margin-x align-center-middle">
+        	<div class="cell small-6 large-3 trans-back region-list">
+        		<ul>
+        		        			<li><a href="https://www.kibrispostasi.com/c86-GIRNE" target="_blank">GİRNE</a></li>
+        		        			<li><a href="https://www.kibrispostasi.com/c87-LEF

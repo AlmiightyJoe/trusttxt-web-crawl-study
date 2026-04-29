@@ -1,0 +1,18 @@
+# Oklahoma Gazette trust.txt file
+# For more information visit JournalList.net
+
+
+# social channels
+social=https://www.facebook.com/okgazette/
+social=https://twitter.com/okgazette
+social=https://www.instagram.com/okgazette/
+
+
+# vendors
+vendor=https://publishwithfoundation.com/
+vendor=https://newspack.com
+
+
+# contact
+contact=support-okgazette@desert.net
+contact=https://www.okgazette.com/oklahoma-contactus-page/

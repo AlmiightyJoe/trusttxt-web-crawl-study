@@ -1,0 +1,13 @@
+# trust.txt for Andrews County News
+# for more about trust.txt, see https://journallist.net/
+# Andrews County News belongs to the following organizations
+belongto=https://texaspress.com/
+belongto=https://nna.org/
+belongto=https://journallist.net/
+# these are the social channels controlled by the Andrews County News
+social=https://www.facebook.com/Andrews-County-News-302029093233364/
+# Andrews County News contact information
+contact=https://www.andrewscountynews.com/contact
+# Andrews County News uses these sites as a vendor
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net

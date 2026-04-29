@@ -1,0 +1,62 @@
+
+
+
+
+
+
+  
+  
+    
+    <!DOCTYPE html>
+<html class="uk-root" lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="/fdn-system/assets/pub/styles/desktop.min.css?cb=2a2b82daf7bee7cc7e6d16df8d210553" />
+<script src="/fdn-system/assets/pub/scripts/uikit.min.js"></script>
+<script src="/fdn-system/assets/pub/scripts/uikit-icons-fdn.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8">
+<meta name="layout" content="Home (Responsive, Live, Air)" />
+<script>
+window.__FOUNDATION_RESPONSIVE__ = true
+// 
+window.__FBAPIv__ = 'v3.2'
+// 
+</script>
+<script data-cfasync="false" src="/foundation/scripts/foundation-air-2-0-1.js?cb=52ea0f42990c59aa2cdb3effef0dcd27"></script>
+<link rel="alternate" type="application/rss+xml" title="Flagstaff Events RSS: Whole Site" href="https://flagstaff.calendareventstoday.com/flagstaff/Rss.xml" />
+<!-- include: admin -->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>window.googletag = window.googletag || {cmd: []};</script>
+<script>
+googletag.cmd.push(function() {
+Foundation = Foundation || {};
+Foundation.Ad = Foundation.Ad || {};
+Foundation.Ad.slots = Foundation.Ad.slots || {};
+Foundation.Ad.slots['div-gpt-ad-calendareventstoday_halfpage_1'] = googletag.defineSlot('/1006421/calendareventstoday_halfpage_1', [300, 600], 'div-gpt-ad-calendareventstoday_halfpage_1').addService(googletag.pubads());
+Foundation.Ad.slots['div-gpt-ad-calendareventstoday_mediumrectangle_1'] = googletag.defineSlot('/1006421/calendareventstoday_mediumrectangle_1', [300, 250], 'div-gpt-ad-calendareventstoday_mediumrectangle_1').addService(googletag.pubads());
+Foundation.Ad.slots['div-gpt-ad-calendareventstoday_mediumrectangle_2'] = googletag.defineSlot('/1006421/calendareventstoday_mediumrectangle_2', [300, 250], 'div-gpt-ad-calendareventstoday_mediumrectangle_2').addService(googletag.pubads());
+Foundation.Ad.slots['div-gpt-ad-calendareventstoday_mediumrectangle_3'] = googletag.defineSlot('/1006421/calendareventstoday_mediumrectangle_3', [300, 250], 'div-gpt-ad-calendareventstoday_mediumrectangle_3').addService(googletag.pubads());
+Foundation.Ad.slots['div-gpt-ad-calendareventstoday_mediumrectangle_4'] = googletag.defineSlot('/1006421/calendareventstoday_mediumrectangle_4', [300, 250], 'div-gpt-ad-calendareventstoday_mediumrectangle_4').addService(googletag.pubads());
+Foundation.Ad.slots['div-gpt-ad-calendareventstoday_mediumrectangle_5'] = googletag.defineSlot('/1006421/calendareventstoday_mediumrectangle_5', [300, 250], 'div-gpt-ad-calendareventstoday_mediumrectangle_5').addService(googletag.pubads());
+Foundation.Ad.slots['div-gpt-ad-calendareventstoday_portrait_300x1050'] = googletag.defineSlot('/1006421/calendareventstoday_portrait_300x1050', [300, 1050], 'div-gpt-ad-calendareventstoday_portrait_300x1050').addService(googletag.pubads());
+Foundation.Ad.slots['div-gpt-ad-calendareventstoday_billboard_1'] = googletag.defineSlot('/1006421/calendareventstoday_billboard_1', [970, 250], 'div-gpt-ad-calendareventstoday_billboard_1').addService(googletag.pubads());
+Foundation.Ad.slots['div-gpt-ad-calendareventstoday_billboard_2'] = googletag.defineSlot('/1006421/calendareventstoday_billboard_2', [970, 250], 'div-gpt-ad-calendareventstoday_billboard_2').addService(googletag.pubads());
+googletag.pubads().setTargeting('template', ["Home"]);
+googletag.pubads().setTargeting('media', ["responsive"]);
+googletag.pubads().setTargeting('market', ["flagstaff"]);
+googletag.pubads().collapseEmptyDivs();
+googletag.enableServices();
+Foundation.Ad.refresh = function (id) {
+if (id && Foundation.Ad.slots[id]) {
+// Clean up ad container.
+jQuery('#' + id).css({width: '', height: ''});
+// Refresh slot.
+googletag.pubads().refresh([Foundation.Ad.slots[id]]);
+}
+else {
+// Clean up all ad containers.
+jQuery('[data-content-type="ad"]').css({width: '', height: ''});
+// Refresh all (refreshable) slots.  Wish I could use Object.values().
+var slots = [];
+for (var id in Foundation.Ad.slots) {
+if (Foundati

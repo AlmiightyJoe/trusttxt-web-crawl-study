@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>İTV</title>
+    <base href="/" />
+    <style>
+      /* FONTS ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+      @font-face {
+        font-family: "m-black";
+        src: url("assets/fonts/montserrat/Montserrat-Black.otf");
+      }
+
+      @font-face {
+        font-family: "m-black-italic";
+        src: url("assets/fonts/montserrat/Montserrat-BlackItalic.otf");
+      }
+
+      @font-face {
+        font-family: "m-bold";
+        src: url("assets/fonts/montserrat/Montserrat-Bold.otf");
+      }
+
+      @font-face {
+        font-family: "m-bold-italic";
+        src: url("assets/fonts/montserrat/Montserrat-BoldItalic.otf");
+      }
+
+      @font-face {
+        font-family: "m-extra-bold";
+        src: url("assets/fonts/montserrat/Montserrat-ExtraBold.otf");
+      }
+
+      @font-face {
+        font-family: "m-extra-bold-italic";
+        src: url("assets/fonts/montserrat/Montserrat-ExtraBoldItalic.otf");
+      }
+
+      @font-face {
+        font-family: "m-extra-bold";
+        src: url("assets/fonts/montserrat/Montserrat-ExtraLight.otf");
+      }
+
+      @font-face {
+        font-family: "m-extra-light-italic";
+        src: url("assets/fonts/montserrat/Montserrat-ExtraLightItalic.otf");
+      }
+
+      @font-face {
+        font-family: "m-italic";
+        src: url("assets/fonts/montserrat/Montserrat-Italic.otf");
+      }
+
+      @font-face {
+        font-family: "m-light";
+        src: url("assets/fonts/montserrat/Montserrat-Light.otf");
+      }
+
+      @font-face {
+        font-family: "m-light-italic";
+        src: url("assets/fonts/montserrat/Montserrat-LightItalic.otf");
+      }
+
+      @font-face {
+        font-family: "m-medium";
+        src: url("assets/fonts/montserrat/Montserrat-Medium.otf");
+      }
+
+      @font-face {
+        font-family: "m-medium-italic";
+        src: url("assets/fonts/montserrat/Montserrat-MediumItalic.otf");
+      }
+
+      @font-face {
+        font-family: "m-regular";
+        src: url("assets/fonts/montserrat/Montserrat-Regular.otf");
+      }
+
+      @font-face {
+        font-family: "m-semi-bold";
+        src: url("assets/fonts/montserrat/Montserrat-SemiBold.otf");
+      }
+
+      @font-face {
+        font-family: "m-semi-bold-italic";
+        src: url("assets/fonts/montserrat/Montserrat-SemiBoldItalic.otf");
+      }
+
+      @font-face {
+        font-family: "m-thin";
+        src: url("assets/fonts/montserrat/Montserrat-Thin.otf");
+      }
+
+      @font-face {
+        font-family: "m-thin-italic";
+        src: url("assets/fonts/montserrat/Montserrat-ThinItalic.otf");
+      }
+
+      /* FRUTIGER */
+      @font-face {
+        font-family: "f-extra-black";
+        src: url("assets/fonts/frutiger/FrutigerNeueLTW1G-XBlack.otf");
+      }
+
+      @font-face {
+        font-family: "f-bold";
+        src: url("assets/fonts/frutiger/FrutigerNeueLTW1G-Bold.otf");
+      }
+
+      @font-face {
+        font-family: "f-black";
+        src: url("assets/fonts/frutiger/FrutigerNeueLTW1G-Black.otf");
+      }
+      /* ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| */
+    </style>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="./assets/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="./assets/favicon/site.webmanifest">
+    <link rel="mask-icon" href="./assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/sharer.js@latest/sharer.min.js"></script>
+
+  </head>
+  <body>
+    <app-

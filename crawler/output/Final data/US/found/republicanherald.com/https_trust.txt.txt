@@ -1,0 +1,6 @@
+# trust.txt for republicanherald.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-13 18:00:05 EDT
+
+contact=https://www.republicanherald.com/contact-us/
+datatrainingallowed=no

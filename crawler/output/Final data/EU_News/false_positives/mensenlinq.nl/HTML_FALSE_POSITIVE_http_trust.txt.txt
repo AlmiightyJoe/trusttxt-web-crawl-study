@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#E6344C?v=NF">
+    <link rel="shortcut icon" href="/favicons/favicon.ico">
+    <meta name="csrf-token" content="Y1QW50a9foxXybXmh6cdJwWrSk1KXUN0h6iYZAr6" />
+
+        
+    
+    <!-- app.blade.php -->
+    <script type="text/javascript">const Ziggy={"url":"https:\/\/mensenlinq.nl","port":null,"defaults":{},"routes":{"debugbar.openhandler":{"uri":"_debugbar\/open","methods":["GET","HEAD"]},"debugbar.clockwork":{"uri":"_debugbar\/clockwork\/{id}","methods":["GET","HEAD"],"parameters":["id"]},"debugbar.assets.css":{"uri":"_debugbar\/assets\/stylesheets","methods":["GET","HEAD"]},"debugbar.assets.js":{"uri":"_debugbar\/assets\/javascript","methods":["GET","HEAD"]},"debugbar.cache.delete":{"uri":"_debugbar\/cache\/{key}\/{tags?}","methods":["DELETE"],"parameters":["key","tags"]},"debugbar.queries.explain":{"uri":"_debugbar\/queries\/explain","methods":["POST"]},"buckaroo.return":{"uri":"buckaroo\/return","methods":["POST"]},"buckaroo.return-cancel":{"uri":"buckaroo\/return\/cancel","methods":["POST"]},"buckaroo.return-error":{"uri":"buckaroo\/return\/error","methods":["POST"]},"buckaroo.return-reject":{"uri":"buckaroo\/return\/reject","methods":["POST"]},"buckaroo.push":{"uri":"buckaroo\/push","methods":["POST"]},"sanctum.csrf-cookie":{"uri":"sanctum\/csrf-cookie","methods":["GET","HEAD"]},"ignition.healthCheck":{"uri":"_ignition\/health-check","methods":["GET","HEAD"]},"ignition.executeSolution":{"uri":"_ignition\/execute-solution","methods":["POST"]},"ignition.updateConfig":{"uri":"_ignition\/update-config","methods":["POST"]},"online-theemomenten":{"uri":"online-theemomenten","methods":["GET","HEAD"]},"home":{"uri":"\/","methods":["GET","HEAD"]},"newsletter-subscribe":{"uri":"newsletter\/subscribe","methods":["POST"]},"obituary":{"uri":"overlijdensberichten\/{person}","methods":["GET","HEAD"],"parameters":["person"],"bindings":{"person":"-"}},"obituary.access":{"uri":"overlijdensberichten\/{person}\/access-code","methods":["POST"],"parameters":["person"],"bindings":{"person":"-"}},"obituary.index":{"uri":"overlijdensberichten","methods":["GET","HEAD"]},"search.save":{"uri":"overlijdensberichten\/savesearch","methods":["POST"]},"search.index":{"uri":"zoekopdrachten\/{secret}","methods":["GET","HEAD"],"parameters":["secret"]},"search.activate":{"uri":"zoekopdrachten\/{secret}\/activate\/{search}","methods":["GET","HEAD"],"parameters":["secret","search"],"bindings":{"search":"id"}},"search.delete":{"uri":"zoekopdrachten\/{secret}\/{search}","methods":["DELETE"],"parameters":["secret","search"],"bindings":{"search":"id"}},"search.toggle":{"uri":"zoekopdrachten\/{secret}\/{search}\/toggle","methods":["PUT"],"parameters":["secret","search"],"bindings":{"search":"id"}},"search.interval":{"uri":"zoekopdrachten\/{secret}\/{search}\/interval","methods":["PUT"],"parameters":["secret","search"],"bindings":{"search":"id"}},"obituary.add-interaction":{"uri":"overlijdensberichten\/{person}\/interactie","methods":["POST"],"parameters":["person"],"bindings":{"person":"-"}},"obituary.add-reply":{"uri":"overlijdensberichten\/{person}\/interactie\/{interaction}\/reply","methods":["POST"],"parameters":["person","interaction"]},"obituary.heart":{"uri":"overlijdensberichten\/{person}\/interactie\/{interaction}\/heart","methods":["POST"],"parameters":["person","interaction"],"bindings":{"person":"-","interaction":"id"}},"advertisement.download":{"uri":"overlijdensberichten\/{person}\/ad\/{advertisementIndex}\/download","methods":["GET","HEAD"],"parameters":["person","advertisementIndex"],"bindings":{"person":"-"

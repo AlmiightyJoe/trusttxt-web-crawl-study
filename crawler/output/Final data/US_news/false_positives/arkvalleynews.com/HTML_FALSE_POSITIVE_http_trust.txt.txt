@@ -1,0 +1,90 @@
+<html>
+	<head>
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113487260-1"></script>
+            <script>
+                 window.dataLayer = window.dataLayer || [];
+                 function gtag(){dataLayer.push(arguments);}
+                 gtag('js', new Date());
+                 gtag('config', 'UA-113487260-1');
+            </script>
+		<title>Ark Valley News - Front Page</title>
+		<script src="http://www.arkvalleynews.com/img/avn.js"></script>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+                <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- 
+		<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+		<link rel="stylesheet" href="/resources/demos/style.css">
+		<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+-->
+
+
+<style type="text/css">
+<!--
+P {min-width: 100px;}
+.hi {background-color:#EDEDDB;color:#000000;font-family:Arial,Helvetica,Georgia;font-size:12pt;text-decoration: none;text-shadow: 1px 1px #c0c0c0;}
+.lo {
+background: #cccc99; /* Old browsers */
+background: -moz-linear-gradient(left,  #cccc99 33%, #edf4cd 96%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #cccc99 33%,#edf4cd 96%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #cccc99 33%,#edf4cd 96%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cccc99', endColorstr='#edf4cd',GradientType=1 ); /* IE6-9 */
+color:#000000;font-family:Arial,Helvetica,Georgia;font-size:12pt;text-decoration: none;}
+.trtitle {background-color:#669238;font-family:Tahoma;font-size:18pt;text-align:center;color:white}
+h3 { color:#ff0000}
+
+
+a:link { text-decoration:none;color:#0000cc;}
+a:hover { text-decoration:none;color:#3366CC;}
+
+  .ui-menu { text-align:left;width: 200px; background-color:#cccc99; color:#303030}
+  .ui-widget-header { padding: 0.2em; background-color:#000000; color:#cccc99}
+  .menu-item { text-align:left;color:green}
+
+-->
+</style>
+
+
+		
+	</head>
+
+<script>
+function tdmove(oCell, bEnable){
+	if (bEnable){
+		oCell.className = "hi"; 
+		oCell.style.cursor = "hand";
+                //alert("length: " + oCell.all.length);
+	} else  {
+		oCell.className = "lo";
+		oCell.style.cursor = "auto";
+	}
+}
+
+function nav3(iPage){
+   window.location.href = "isite.dll?" + iPage;
+}
+</script>
+
+
+
+	<body bgcolor="#c0c0c0" alink=red topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="CSScriptInit();">
+<center>
+		<table border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+			<tr>
+        <td width="175" bgcolor="#000000"><img src="http://www.arkvalleynews.com/img/avart/spacer.gif" width="145" height="10" border="0"></td>
+	<td width="35"><img src="http://www.arkvalleynews.com/img/avart/spacer.gif" width="35" height="10" border="0"></td>
+	<td width="479"></td>
+	<td width="15"><img src="http://www.arkvalleynews.com/img/avart/spacer.gif" width="15" height="10" border="0"></td>
+	<td width="120"><img src="http://www.arkvalleynews.com/img/avart/spacer.gif" width="120" height="10" border="0"></td>
+			</tr>
+			<tr>
+	<td width="175" bgcolor="#000000"><FORM method=post action=isite.dll?isite~search~12~>
+<input type=hidden name=section value=''><input type=text size=12 name=search id=search><BR> <input type=submit value=Search></form></td>
+	<td width="35"><img src="http://www.arkvalleynews.com/img/avart/spacer.gif" width="35" height="68" border="0"></td>
+	<td width="479" align="center"><a href="isite.dll?985991279873"><img src="http://www.arkvalleynews.com/img/avart/avnflag.gif" width="485" height="131" border="0"></a></td>
+	<td width="15"><img src="http://www.arkvalleynews.com/img/avart/spacer.gif" width="15" height="68" border="0"></td>
+	<td width="120"><img src="http://www.arkvalleynews.com/img/avart/spacer.gif" width="120" height="68" border="0"></td>
+			</tr>
+			<tr>
+	

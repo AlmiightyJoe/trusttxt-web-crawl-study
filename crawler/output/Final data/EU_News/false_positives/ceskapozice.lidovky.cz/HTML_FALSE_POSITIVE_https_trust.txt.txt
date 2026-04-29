@@ -1,0 +1,54 @@
+<!doctype html>
+
+<html class="css-d" lang="cs">
+<head>
+    
+    <meta charset="windows-1250">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta name="viewport" content="width=1030">
+    <title>Lidovky.cz - zpr&#225;vy, anal&#253;zy, rozhovory</title>
+    <meta name="description" property="og:description" lang="cs" content="Aktu&#225;ln&#237; zpr&#225;vy z domova i ze sv&#283;ta. Zpr&#225;vy z ekonomiky, byznysu, kultury a sportu. Pr&#367;vodce &#382;ivotn&#237;m stylem. Lidovky.cz - aktu&#225;ln&#237; zpr&#225;vy.">
+    <link rel="shortcut icon" href="https://1gr.cz/u/favicon/lidovky.ico">
+    <link rel="apple-touch-icon" href="https://1gr.cz/u/favicon/apple-touch-icon/lidovky-transparent.png">
+    <meta property="og:site_name" content="Lidovky.cz">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Lidovky.cz - zpr&#225;vy, anal&#253;zy, rozhovory">
+    <meta name="twitter:site" content="@lidovky">
+    <meta property="fb:app_id" content="214490152721559">
+    <link rel="preload" href="https://1gr.cz/fotky/lidovky/25/053/vidw/LRO8c9e49_veis2ab.jpg" as="image" fetchpriority="high">
+    <link rel="preload" href="https://1gr.cz/fonts/Bitter/Bitter-Semibold.woff2" as="font" type="font/woff2" crossorigin="">
+    <link rel="preload" href="https://1gr.cz/fonts/Bitter/Bitter-Regular.woff2" as="font" type="font/woff2" crossorigin="">
+    <link href="https://servis.idnes.cz/rss.aspx" rel="alternate" type="application/rss+xml" title="RSS">
+	<meta name="cXenseParse:pageclass" content="frontpage">
+	<meta name="cXenseParse:qiw-typobsahu" content="frontpage">
+	<meta name="cXenseParse:qiw-ostrov" content="ln_shp">
+	<meta name="cXenseParse:qiw-rubrika" content="ln_shp">
+	<meta name="cXenseParse:qiw-vylouceni" content="redesign24" data-separator=",">
+
+
+
+
+
+<script>var Unidata = { "exdomena": "www.lidovky.cz", "ostrov": "ln_shp", "rubrika": "ln_shp", "zobrazeni": "home", "verze": "A", "score": "ln_shp-DFA", "reklama": true, "timestamp": 1770849430617.0, "webtype": "full", "section": "ostatni", "subSection": "", "pageType": "main", "authors": [""], "keywords": ["redesign24"], "isLogged": false, "noAd": 0, "lidskost": 136758923781048
+    };
+        var pp_gemius_extraparameters = new Array('content=free', 'premium=false', 'verze=A', 'webtype=full');
+    
+</script>
+
+
+
+<script>   Unidata.prebidConfig = [
+{"halfpagead_rubrika_lazyload":{"code":"halfpagead_rubrika_lazyload","mediaTypes":{"banner":{"sizes":[[300,600],[300,300],[250,250],[300,250],[160,600],[120,600],[240,400],[120,240],[210,210],[250,360],[250,600]]}}},"wallpaper":{"code":"wallpaper","mediaTypes":{"banner":{"sizes":[[970,310],[750,100],[728,90],[970,250],[970,210],[500,200],[300,300],[480,300],[336,280],[750,200]]}}},"halfpagead_rubrika_spodni":{"code":"halfpagead_rubrika_spodni","mediaTypes":{"banner":{"sizes":[[300,600],[300,300],[250,250],[300,250],[160,600],[120,600],[240,400],[120,240],[210,210],[250,360],[250,600]]}}},"halfpagead_rubrika":{"code":"halfpagead_rubrika","mediaTypes":{"banner":{"sizes":[[300,600],[300,300],[250,250],[300,250],[160,600],[120,600],[240,400],[120,240],[210,210],[250,360],[250,600]]}}},"branding":{"code":"branding","mediaTypes":{"banner":{"sizes":[[2000,1280],[998,200],[998,100],[750,100],[728,90],[2000,1400],[970,100],[970,210],[970,90],[2000,1200],[1920,1080]]}}},"300x250":{"code":"300x250","mediaTypes":{"banner":{"sizes":[[300,250],[250,250],[210,210],[300,50],[300,100],[300,150],[200,200]]}}}}
+    ];</script>
+
+<script>   Unidata.biddingData = [
+{"branding":true,"halfpagead_rubrika":true,"halfpagead_rubrika_spodni":true,"halfpagead_rubrika_lazyload":true,"300x250":true,"nativ":true,"wallpaper":true,"halfpagead_infinite":true}
+    ];
+   
+</script>
+
+<script>window.cpexPackageConfig = {
+        publisherSettingsPath: 'https://cdn.cpex.cz/settings/production/mafra.js',
+    websiteSettingsPath: 'https://cdn.cpex.cz/settings/production/mafra/lidovky.cz.js'
+    }
+    document.head.appendChild(Object.assign(document.createElement('script'), { src: `https:

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie8" lang="ro"><![endif]-->
+<!--[if IE 9 ]><html class="ie9" lang="ro"><![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" lang="ro-RO"><!--<![endif]-->
+<head>
+	<title>Oradea Online</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<!-- Seo Meta -->
+		<meta name="description" content="Portalul de informatii din Oradea: magazine Oradea, catalogul firmelor, evenimente locale, program teatru, programul cinema, harta...">
+		<meta name="keywords" content="oradea, harta, map, ardeal, bihor, divertisment, curs valutar , vremea oradea,  hotel oradea, nagyvarad, grosswardein, romania, program cinema oradea, evenimente oradea">
+		<meta name="Author" content="Oradea Online">
+		<meta name="resource-type" content="document">
+		<meta name="classification" content="information">
+		<meta name="robots" content="all">
+		<meta name="distribution" content="global">
+		<meta name="rating" content="general">
+	<!-- Styles -->
+		<link rel="stylesheet" type="text/css" href="/assets/styles/style.css" />
+		<link rel="stylesheet" type="text/css" href="/assets/styles/icons.css" />
+		<link rel="stylesheet" type="text/css" href="/assets/styles/font-awesome.min.css" />
+		<link rel="stylesheet" type="text/css" href="/assets/styles/animate.css" />
+		<link rel="stylesheet" type="text/css" href="/assets/styles/responsive.css?12" />
+		<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,100,500' rel='stylesheet' type='text/css'>
+
+	<!-- Favicon -->
+		<link rel="shortcut icon" href="/favicon.png">
+		<link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
+
+	<!--[if IE]>
+		<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=EmulateIE8; IE=EDGE" />
+		<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1428039-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1428039-2');
+</script>
+
+
+	<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"Reclamele afisate pe acest site provin de la terti care pot folosi cookie-uri pentru a personaliza reclamele afisate","dismiss":"Am inteles","learnMore":"Detalii","link":null,"theme":"dark-bottom"};
+</script>	
+
+<style>
+#res, #val2 {
+    margin: 5px;
+    padding: 0 10px;
+    line-height: 24px;
+    height: 34px;
+    border: 1px solid #EBEBEB;
+    background: #F7F7F7;
+    border-radius: 3px;
+    color: #000;
+    cursor: text;
+    width: 45%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#val, #val1  {
+    margin: 5px;
+    padding: 0 10px;
+    line-height: 24px;
+    height: 34px;
+    border: 1px solid #EBEBEB;
+    background: #F7F7F7;
+    border-radius: 3px;
+    color: #000;
+    cursor: text;
+	float:right;
+    width: 45%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+}
+
+#fanback {
+display:none;
+background:rgba(0,0,0,0.7);
+width:100%;
+height:100%;
+position:fixed;
+top:0;
+left:0;
+z-index:99999;
+}
+#close {
+float:right;
+cursor:pointer;
+background:url(/fanclose.png) repeat;
+position:absolute;
+top:-22px;
+right:-22px;
+width:59px;
+height:59px;
+}
+
+#linkit,#linkit a.visited,#linkit a,#linkit a:hover {
+color:#80808B;
+font-size:10px;
+margin: 0 auto 5px auto;
+float:center;
+}
+.popup {
+	background: #FFF;
+	padding:20px;
+	width:460px;
+	margin:0 auto;
+	position:fixed;	
+	top:200px;
+	left:calc(50% - 230px);
+-webkit-box-shadow: inset 0 0 50px 0 #939393;
+-moz-box-shadow: inset 0 0 50px 0 #939393;
+box-shadow: inset 0 0 50px 0 #939393;
+-webkit-border-radius: 5px;
+-moz-bo

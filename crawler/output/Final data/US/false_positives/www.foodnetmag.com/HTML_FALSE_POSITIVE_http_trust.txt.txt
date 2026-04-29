@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>Site Not Found!</title>
+    <style type="text/css">
+       a {
+         outline: none;
+       }
+       #main {
+         display: block;
+         width: 500px;
+         height: 500px;
+         margin: 0 auto;
+         background: white url(/no_oranges.gif) no-repeat center center;
+       }
+    </style>
+  </head>
+  <body>
+    <a id="main" href="mailto:info@juicyorange.com"></a>
+  </body>
+</html>

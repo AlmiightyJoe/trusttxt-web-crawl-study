@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+
+<link rel="shortcut icon" href="https://www.studlife.com/favicon.ico?v=2" />
+<!-- Add meta tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="COPYRIGHT" content="&copy; 2022 Student Life" />
+<meta name="viewport" content="width=device-width, user-scalable=no">
+<meta name="verify-v1" content="Mm+8XnYG+W+BNJ6v7vXbuC4kPKXqWq0/vbJRTrXXsU0=" />
+<meta name="msvalidate.01" content="146B8A78EB5896E43A1B9E8E0B24CC15" />
+<style>
+  @keyframes slideIn {
+    0% {
+      transform: translateY(-60px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }
+  @keyframes growIn {
+    0% {
+      min-height: 0px
+    }
+    100% {
+      min-height: 60px;
+    }
+  }
+  @keyframes slideInMobile {
+      0% {
+        transform: translateY(-48px);
+      }
+      100% {
+        transform: translateY(0px);
+      }
+    }
+  @keyframes growInMobile {
+    0% {
+      min-height: 0px
+    }
+    100% {
+      min-height: 48px;
+    }
+  }
+  .survey-banner {
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Tillana', cursive;
+    /* font-family: 'Baloo Chettan'; */
+    /* font-family: roboto-slab, sans-serif; */
+    transform: translateY(-70px);
+    animation: .5s ease 2s 1 slideIn;
+    animation-fill-mode: forwards;
+    position: fixed;
+    z-index: 100000;
+    color: white;
+    padding: 8px;
+    font-size: 30px;
+    width: 100vw;
+    background-color: #67c8c7;
+  }
+  .survey-banner a {
+    color: black;
+  }
+  .survey-banner a:hover {
+    text-decoration: underline;
+  }
+  .survey-banner-bumper {
+    animation: .5s ease 2s 1 growIn;
+    animation-fill-mode: forwards;
+  }
+  .banner-img {
+    margin: 0 0 0 10px;
+    max-height: 30px;
+  }
+      @media only screen and (max-width: 598px) {
+      .survey-banner {
+        font-size: 24px;
+        transform: translateY(-58px);
+        animation: .5s ease 2s 1 slideInMobile;
+        animation-fill-mode: forwards;
+      }
+      .survey-banner-bumper {
+        animation: .5s ease 2s 1 growInMobile;
+        animation-fill-mode: forwards;
+      }
+  }
+@media only screen and (max-width: 350px) {
+   .survey-banner {
+     text-align: left;
+   }
+   .banner-img {
+       display: none;
+   }
+}
+@media only screen and (max-width: 500px) {
+  .special_image {
+    max-height:40px;
+  }
+  .banner-img {
+       display: none;
+   }
+}
+@media only screen and (max-width: 600px) {
+  .special_image {
+    max-height:40px;
+  }
+  .banner-img {
+       max-height: 25px;
+   }
+}
+
+@media only screen and (min-width: 600px) {
+  .special_image {
+    max-height:40px;
+  }
+}
+</style>
+
+		<!-- All in One SEO 4.3.9 - aioseo.com -->
+		<title>Student Life - The independent newspaper of Washington University in St. Louis</title>
+		<meta name="description" content="The independent newspaper of Washington University in St. Louis" />
+		<meta name="robots" content="max-image-preview:large" />
+		<link rel="canonical" href="https://www.studlife.com" />
+		<link rel="next" href="https://www.studlife.com/page/2" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.3.9" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="Student Life - The independent newspaper of Washington University in St. Louis" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Student Life - The independent newspaper of Washington University in St. Louis" />
+		<meta property="og:description" content="The independent newspaper of Washington University in St. Louis" />
+		<meta property="og:url" content="https://www.studlife.com" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Student Life - The independent newspaper of Washington University in St. Louis" />
+		<meta name="twitter:description" content="The independent newspaper of Washington University in St. Louis" />
+		<script 

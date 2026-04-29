@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://newmexico-kids.com/files/android-chrome-48x48.png" type="image/png" />
+<meta name="description" content="New Mexico Kids! family magazine is a bimonthly publication filled with detailed listings of activities for children, teens and their parents, grandparents and teachers, along with comprehensive directories of public and private schools, summer camps, afterschool programs and other vital resources." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://newmexico-kids.com/" />
+<link rel="shortlink" href="https://newmexico-kids.com/" />
+
+
+<meta property="og:image" content="http://www.newmexico-kids.com/sites/all/themes/redesign/images/NMKids.jpg" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<link rel="apple-touch-icon" sizes="57x57" href="/sites/all/themes/redesign/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/sites/all/themes/redesign/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/sites/all/themes/redesign/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/redesign/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/sites/all/themes/redesign/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/sites/all/themes/redesign/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/sites/all/themes/redesign/favicons/apple-touch-icon-144x144.png">
+<link rel="icon" type="image/png" href="/sites/all/themes/redesign/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/sites/all/themes/redesign/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/sites/all/themes/redesign/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/sites/all/themes/redesign/favicons/manifest.json">
+<link rel="mask-icon" href="/sites/all/themes/redesign/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<script src="https://cdn.broadstreetads.com/init-2.min.js"></script>
+
+<script>broadstreet.loadNetworkJS(7732)</script>
+
+  <title>Leading Directory of Summer Camps in Albuquerque and Santa Fe | New Mexico Kids! Family Magazine</title>
+  <link type="text/css" rel="stylesheet" href="https://newmexico-kids.com/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newmexico-kids.com/files/css/css_vZ_wrMQ9Og-YPPxa1q4us3N7DsZMJa-14jShHgRoRNo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newmexico-kids.com/files/css/css_Xf7AeVA0l7PpHptiPtudY_jcWzNqGmY8RFV7eY3Mv_g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newmexico-kids.com/files/css/css_T10a3dTGGzSKhrsb8GRmIK3KVcJRkumhHoLosr2teuE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://newmexico-kids.com/files/css/css_c1y_hXs26R6YrpSdmMcAW_b59PyC2br7hIKvl5SaYx0.css" media="all" />
+  <script type="text/javascript" src="https://newmexico-kids.com/files/js/js_YD9ro0PAqY25gGWrTki6TjRUG8TdokmmxjfqpNNfzVU.js"></script>
+<script type="text/javascript" src="https://newmexico-kids.com/files/js/js_n30pXQnW3jBEs-0F5DSDbKjwEtLHr6fCECjwLwM2EW4.js"></script>
+<script type="text/javascript" src="https://newmexico-kids.com/files/js/js_NpX2cwCeepkWZZ194B6-ViyVBHleaYLOx5R9EWBOMRU.js"></script>
+<script type="text/javascript" src="https://newmexico-kids.com/fi

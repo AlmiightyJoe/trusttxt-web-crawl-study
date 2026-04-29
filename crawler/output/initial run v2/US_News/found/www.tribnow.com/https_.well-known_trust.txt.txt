@@ -1,0 +1,23 @@
+member=http://texaspress.com
+﻿# Mount Pleasant Tribune trust.txt file
+# For more information visit journallist.net
+
+# memberships:
+belongto=https://www.texaspress.com/
+belongto=https://journallist.net/
+
+# control:
+control=https://www.campcountynow.com/
+control=https://www.steelcountrybee.com/
+
+# vendors:
+vendor=https://www.etypeservices.net/
+vendor=https://www.etypeservices.com/
+
+# social channels:
+social=https://www.facebook.com/dailytribune
+social=https://www.facebook.com/PittsburgTXGazette
+social=https://www.instagram.com/tribunephl/?hl=en
+
+# contact information here:
+contact=https://www.tribnow.com/contact

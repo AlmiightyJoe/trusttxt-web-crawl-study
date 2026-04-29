@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<!--[if IE 8]>			<html class="ie ie8"> <![endif]-->
+<!--[if IE 9]>			<html class="ie ie9"> <![endif]-->
+<!--[if gt IE 9]><!-->	
+<html> <!--<![endif]-->
+	<head>
+		<meta charset="utf-8" />		
+		<!-- mobile settings -->
+		<meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0" />
+		<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+		<!-- WEB FONTS : use %7C instead of | (pipe) -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400%7CRaleway:300,400,500,600,700%7CLato:300,400,400italic,600,700" rel="stylesheet" type="text/css" />
+		<!-- CORE CSS -->
+		<link href="https://alabamacoasting.com/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+		<!-- THEME CSS -->
+		<link href="https://alabamacoasting.com/assets/css/essentials.css" rel="stylesheet" type="text/css" />
+		<link href="https://alabamacoasting.com/assets/css/layout.css" rel="stylesheet" type="text/css" />
+		<!-- PAGE LEVEL SCRIPTS -->
+		<link href="https://alabamacoasting.com/assets/css/header-1.css" rel="stylesheet" type="text/css" />
+		<link href="https://alabamacoasting.com/assets/css/color_scheme/green.css" rel="stylesheet" type="text/css" id="color_scheme" />
+		<style type="text/css">
+			.well {
+				background: rgba(0,0,0,0.6) !important;
+			}
+			section#slider {
+				background: url('https://alabamacoasting.com/assets/images/Slider/hexagon.jpg') !important;
+				background-size: cover !important;
+			}
+		</style>
+	</head>
+	<body class="smoothscroll enable-animation">
+		<div id="wrapper">
+			<section id="slider" class="fullheight">
+				<div class="display-table">
+					<div class="display-table-cell vertical-align-middle">
+						<div class="container">
+							<div class="row">
+								<div class="well text-center col-md-8 col-xs-12 col-md-offset-2">
+									<h1 class="fa fa-refresh fa-spin size-80 theme-color"></h1>
+									<h2><strong>403 Redirect Error</strong></h2>
+									<p>We have encountered a URL redirect error and are unable to reach the requested web page. An email has been sent to our support team so that we can address this issue and prevent future errors. Thank you for your understanding.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- FOOTER -->
+		</div>
+		<!-- /wrapper -->
+		<!-- JAVASCRIPT FILES -->
+		<script type="text/javascript">var plugin_path = 'https://alabamacoasting.com/assets/plugins/';</script>
+		<script type="text/javascript" src="https://alabamacoasting.com/assets/plugins/jquery/jquery-2.1.4.min.js"></script>
+		<script type="text/javascript" src="https://alabamacoasting.com/assets/js/scripts.js"></script>				
+	</body>
+</html>

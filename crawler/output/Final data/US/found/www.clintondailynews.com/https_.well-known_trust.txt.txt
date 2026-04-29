@@ -1,0 +1,26 @@
+# Clinton Daily News | trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# Clinton Daily News | belongs to the following organizations
+#
+belongto=https://www.okpress.com/
+#
+# Clinton Daily News | social networks
+#
+social=https://www.facebook.com/ClintonDailyNews/
+social=https://twitter.com/ClintonDNSports
+#
+# Clinton Daily News | vendors
+#
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net
+#
+# Clinton Daily News | contact info
+#
+contact=https://www.clintondailynews.com/contact
+#
+# Copyright © 2022 Clinton Daily News. All rights reserved.

@@ -1,0 +1,91 @@
+<!doctype html>
+<!--[if lt IE 7]>		<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>			<html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>			<html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->	<html class="no-js" lang=""> <!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta property="og:title" content="The Virgin Islands Consortium">
+    <meta property="og:site_name" content="The Virgin Islands Consortium">
+    <meta property="og:image" content="https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/logo/1698613127_12logo.png">
+    <meta property="og:image:alt" content="The Virgin Islands Consortium">
+    <meta property="og:description" content="VI Consortium | Breaking News, USVI News, Caribbean News, Politics, Culture, Entertainment, Business, Government, Lifestyle, Carnival, Festivals and More">
+    <meta property="og:url" content="http://viconsortium.com">
+    <meta property="og:type" content="website">
+    <meta name="description" content="VI Consortium | Breaking News, USVI News, Caribbean News, Politics, Culture, Entertainment, Business, Government, Lifestyle, Carnival, Festivals and More">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="STl4WCuK0q8ZSH0tk0TTStUhK3944lxmpwtkwLy0">
+    <title>The Virgin Islands Consortium</title>
+    <link rel="shortcut icon" href="https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/favicon/1698613126_13favicon.png">
+<link rel="apple-touch-icon" href="https://viconsortium.nyc3.cdn.digitaloceanspaces.com/uploads/favicon/1698613126_13favicon.png">
+<link rel="shortcut icon" href="https://viconsortium.com/public/uploads/VIC-LOGO_12.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/web-style8.css">
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
+    <script src="/js/bootstrap-dropdownhover.min.js"></script>
+    <script src="/js/lazysizes.min.js"></script>
+    <style>
+        :root {
+            --bs-blue: #4DB2EC;
+            --bs-primary: #4DB2EC;
+            --bs-primary-rgb: 77, 178, 236;
+            --bs-link-color: #4DB2EC;
+            --bs-link-hover-color: #329bd6;
+        }
+
+        .text-primary {
+            color: #4DB2EC !important;
+        }
+
+        .bg-primary {
+            background-color: #4DB2EC !important;
+        }
+
+        .border-primary {
+            border-color: #4DB2EC !important;
+        }
+
+        .btn-primary {
+            --bs-btn-color: #ffffff;
+            --bs-btn-bg: #4DB2EC;
+            --bs-btn-border-color: #4DB2EC;
+            --bs-btn-hover-bg: #329bd6;
+            --bs-btn-hover-border-color: #329bd6;
+            --bs-btn-active-bg: #2a87c3;
+            --bs-btn-active-border-color: #2a87c3;
+            --bs-btn-disabled-bg: #4DB2EC;
+            --bs-btn-disabled-border-color: #4DB2EC;
+            color: #ffffff !important;
+        }
+
+        .btn-outline-primary {
+            --bs-btn-color: #4DB2EC;
+            --bs-btn-border-color: #4DB2EC;
+            --bs-btn-hover-bg: #4DB2EC;
+            --bs-btn-hover-border-color: #4DB2EC;
+            --bs-btn-active-bg: #2a87c3;
+            --bs-btn-active-border-color: #2a87c3;
+        }
+
+        .page-item.active .page-link,
+        .page-link:hover {
+            background-color: #4DB2EC;
+            border-color: #4DB2EC;
+        }
+
+        a {
+            color: inherit;
+        }
+
+        a.link-primary,
+        a.text-primary,
+        a[href] {
+            color: #4DB2EC;
+        }
+
+        a.

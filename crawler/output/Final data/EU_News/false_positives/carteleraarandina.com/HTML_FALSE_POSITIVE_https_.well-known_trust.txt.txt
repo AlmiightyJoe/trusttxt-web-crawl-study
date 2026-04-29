@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Title</title>
+<meta name="keywords" content="cartelera, arandina, aranda, duero, burgos, anuncios, clasificados, fotos, fotografias antiguas, horarios, autobuses, dormir, alojamiento, farmacias, recetas, basura, telefonos, agenda, cultura" />
+<meta name="description" content="Cartelera Arandina es la publicación comarcal de mayor difusión en Aranda de Duero y la Comarca." />
+
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cabin">
+<link href="https://www.carteleraarandina.com/css/estilos.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div id="fondo"><div class="contenedor">
+<div id="top">
+  <div id="logo"><h1 style="display:none;">Cartelera Arandina</h1><a href="https://www.carteleraarandina.com/"><img src="https://www.carteleraarandina.com/img/logo-cartelera.gif" width="490" height="158" border="0" alt="Cartelera Arandina.com" /></a></div>
+<div id="fb"><!--
+  <p class="doce">Síguenos en <a href="https://www.facebook.com/pages/Cartelera-Arandina/217390368289638" target="_blank">facebook</a>&nbsp;&nbsp; <a href="https://www.facebook.com/pages/Cartelera-Arandina/217390368289638" target="_blank"><img src="https://www.carteleraarandina.com/img/logo-fb.gif" alt="facebook" width="30" height="30" border="0" align="absmiddle" /></a></p>-->
+</div>
+<div id="tiempo"><iframe src="https://www.carteleraarandina.com/tiempo.php" frameborder="0" scrolling="no" width="90" height="103" ></iframe><div id="tiempondx"><p class="blancop">11 de febrero de 2026</p><p class="titulo">El tiempo</p><p class="doce">en Aranda de Duero</p><p><a href="https://www.aemet.es/es/eltiempo/prediccion/municipios/aranda-de-duero-id09018" target="_blank">Próximos días &nbsp;<img src="https://www.carteleraarandina.com/img/flecha-dias.gif" width="8" height="10" border="0" style="margin-bottom:-1px" /></a></p>
+</div>
+</div>
+<div id="descarga"><p><a href="/upload/iblock/d60/d60d8de723b292a7cab6301de36273f9.pdf" target="_blank">Nº1047</a></p>
+
+
+
+
+</div>
+</div>
+<div id="menu">
+<p><a class="itemmenu" href="https://www.carteleraarandina.com/">Inicio</a><img src="https://www.carteleraarandina.com/img/separador-items.gif" width="1" height="47" border="0" align="absmiddle" /><a class="itemmenu" href="https://www.carteleraarandina.com/quienes-somos/">Quiénes somos</a><img src="https://www.carteleraarandina.com/img/separador-items.gif" width="1" height="47" border="0" align="absmiddle" /><a class="itemmenu" href="https://www.carteleraarandina.com/noticias/">Noticias</a><img src="https://www.carteleraarandina.com/img/separador-items.gif" width="1" height="47" border="0" align="absmiddle" /><a class="itemmenu" href="https://www.carteleraarandina.com/cartelera/">Archivo
+<!--</span><span class="iteminf">&nbsp;-descargar-</span>--></a><img src="https://www.carteleraarandina.com/img/separador-items.gif" width="1" height="47" border="0" align="absmiddle" /><a class="itemmenu" href="https://www.carteleraarandina.com/clasificados/">Clasificados</a><img src="https://www.carteleraarandina.com/img/separador-items.gif" width="1" height="47" border="0" align="absmiddle" /><a class="itemmenu" href="https://www.carteleraarandina.com/fotos/">Galería fotográfica</a><img src="https://www.carteleraarandina.com/img/separador-items.gif" width="1" height="47" border="0" align="absmiddle" /><a class="itemmenu" href="https://www.carteleraarandina.com/datos-utiles/">Datos útiles</a><img src="https://www.carteleraarandina.com/img/separador-items.gif" width="1" height="47" border="0" align="absmiddle" />  <a class="itemmenu" href="https://www.carteleraarandina.com/contacto/">Contacto</a></p>
+
+
+
+</div>
+<div class="catalog-section-list">
+
+	<ul>
+	<li id="bx_2037796212_7"><a href="/Aplauso/">Aplauso&nbsp;(2)</a></li>
+	<li id="bx_2037796212_8"><a href="/Comarca/">Comarca&nbsp;(2)</a></li>
+	<li id="bx_203

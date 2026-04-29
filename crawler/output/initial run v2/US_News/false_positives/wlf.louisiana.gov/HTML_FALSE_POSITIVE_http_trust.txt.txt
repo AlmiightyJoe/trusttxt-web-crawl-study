@@ -1,0 +1,35 @@
+
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>404</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body id="four0four">
+    <a href="/">
+        <img src="/images/ldwf-logo.svg" width="235">
+    </a>
+    <h1 id="copy1"></h1>
+    <h2 id="copy2"></h2>
+    <p>Please try refreshing your browser or return to the <a href="/">home page.</a></p>
+    <script type="text/javascript">
+        var copy = [
+            ['404 Error?', 'Oh crappie.'],
+            ['404 Error.', 'Sorry your net results were a drag.'],
+            ['404 Error?', 'Something’s fishy.'],
+            ['404 Error.', 'Wild, huh? To get back to civilization, just hit refresh.'],
+            ['404 Error.', 'Refresh the page while we hunt for a solution.'],
+            ['404 Error?', 'Oh deer.']
+        ];
+        var rand = Math.random() * copy.length;
+        var i = Math.floor(rand);
+        document.getElementById('copy1').innerHTML = copy[i][0];
+        document.getElementById('copy2').innerHTML = copy[i][1];
+    </script>
+</body>
+</html>

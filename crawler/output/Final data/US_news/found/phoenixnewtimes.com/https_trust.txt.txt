@@ -1,0 +1,21 @@
+# Phoenix New Times trust.txt file
+# For more information visit JournalList.net
+
+
+# memberships
+belongto=https://aan.org/
+
+
+# social channels
+social=https://www.facebook.com/phoenixnewtimes
+social=https://twitter.com/phoenixnewtimes
+social=https://instagram.com/phoenixnewtimes
+
+
+# vendors
+vendor=https://wpvip.com/
+
+
+# contact
+contact=web@voicemediagroup.com
+contact=https://www.phoenixnewtimes.com/about/contact

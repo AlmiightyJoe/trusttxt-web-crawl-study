@@ -1,0 +1,6 @@
+# trust.txt for pilotonline.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-13 18:48:21 EDT
+
+contact=https://www.pilotonline.com/contact-us/
+datatrainingallowed=no

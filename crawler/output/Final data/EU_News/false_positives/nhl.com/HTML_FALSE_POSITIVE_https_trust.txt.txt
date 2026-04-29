@@ -1,0 +1,77 @@
+
+
+<!DOCTYPE html>
+<html class="-league-site" lang="en" dir="ltr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+<title>Official Site of the National Hockey League | NHL.com</title>
+<meta name="description" content="The official National Hockey League website including news, rosters, stats, schedules, teams, and video." />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Official Site of the National Hockey League | NHL.com" />
+<meta property="og:description" content="The official National Hockey League website including news, rosters, stats, schedules, teams, and video." />
+  <meta property="og:url" content="https://www.nhl.com/errors/not-found" />
+<meta property="og:image" content="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1697743790/prd/assets/nhl/logos/nhl_2568x1144.png" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="720" />
+<meta name="twitter:image" content="https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1697743790/prd/assets/nhl/logos/nhl_2568x1144.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Official Site of the National Hockey League | NHL.com" />
+<meta name="twitter:site" content="@nhl" />
+  <meta property="fb:app_id" content="372431651204016" />  
+  <link rel="canonical" href="https://www.nhl.com/errors/not-found" />
+
+    <link rel="shortcut icon" href=/assets/icons/fav/nhl/favicon.ico>
+<link rel="apple-touch-icon" sizes="180x180" href=/assets/icons/fav/nhl/favicon-apple-touch-icon.png>
+<link rel="icon" type="image/png" sizes="32x32" href=/assets/icons/fav/nhl/favicon-32x32.png>
+<link rel="icon" type="image/png" sizes="16x16" href=/assets/icons/fav/nhl/favicon-16x16.png>
+<meta name="theme-color" content="#ffffff">
+
+    <link rel="manifest" href="https://www.nhl.com/manifest.json" />
+    
+    <script>
+	const ADV_RESPONSIVE_MAP = {
+		leaderboard: [
+			{ breakpoint: [768, 1], sizes: [[728, 90]] },
+			{ breakpoint: [100, 1], sizes: [[320, 50]] },
+		],
+		"leaderboard-large": [ 
+			{ breakpoint: [1308, 1], sizes: [ [728, 90], [970, 90], [970, 250] ] },
+			{ breakpoint: [1024, 1], sizes: [ [728, 90], [970, 66], [970, 90] ] },
+			{ breakpoint: [768, 1], sizes: [[728, 90]] },
+			{ breakpoint: [100, 1], sizes: [[320, 50]] },
+		],
+		mrec: [
+			{ breakpoint: [100, 1], sizes: [[300, 250]] },
+		],
+		sponsorship: [
+			{ breakpoint: [100, 1], sizes: [[320, 40]] },
+		],
+	};
+	window.advResponsiveMap = ADV_RESPONSIVE_MAP;
+</script>
+
+    
+
+<!-- OneTrust Cookies Consent Notice start for nhl.com -->
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="d12228cf-ac4f-4972-9ae0-6eb70eba20e8" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for nhl.com -->
+        <link as="script" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" rel="preload">
+    <link as="script" href="/assets/js/main.js?_t=bb557764d54d213c72ef926f5efc72e7" rel="preload"></link><link as="style" href="/assets/css/base.css?_t=72282d49f33f56cccb86e554e6fc38ed" rel="preload"></link>
+    <link href="/assets/css/base.css?_t=72282d49f33f56cccb86e554e6fc38ed" rel="stylesheet" type="text/css" />
+    <link rel="dns-prefetch" href="https://media.d3.nhle.com" />
+<link rel="preconnect" href="https://media.d3.nhle.com" crossorigin />
+<link rel="dns-prefetch" href="https://storage.googleapis.com" />
+<link rel="preconnect" href="https://storage.googleapis.com" crossorigin />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&amp;display=swap">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" media="print" onload="this.onload

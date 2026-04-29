@@ -1,0 +1,6 @@
+# trust.txt for denverpost.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-13 15:54:04 MDT
+
+contact=https://www.denverpost.com/contact-us/
+datatrainingallowed=no

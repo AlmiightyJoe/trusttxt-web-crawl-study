@@ -1,0 +1,23 @@
+{
+  "output_dir": "output/EU_news",
+  "seeds_file": "seeds/news_eu.txt",
+  "visited_file": "state/eu_visited.txt",
+
+  "max_domains": 10000,
+  "timeout_seconds": 10,
+  "max_file_kb": 256,
+
+  "global_delay_seconds": 0.05,
+  "domain_pause_seconds": 0.10,
+
+  "http_fallback": true,
+  "user_agent": "trusttxt-research-crawler/6.0",
+  "same_etld1_only": false,
+
+  "max_redirects": 5,
+  "allow_cross_domain_redirects": false,
+  "allow_same_etld1_redirects": true,
+
+  "save_false_positive_samples": true,
+  "false_positive_sample_bytes": 4096
+}

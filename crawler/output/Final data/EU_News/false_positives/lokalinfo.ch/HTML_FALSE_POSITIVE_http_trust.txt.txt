@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Lokalinfo AG: Das Zürcher Medienhaus für Lokales</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="keywords" content="Lokainfo, Zürich, Quartierzeitungen, Zürich West, Zürich Nord, Zürich 2, Züriberg, Küsnachter, Lokalzeitungen" />
+<meta name="description" content="Die Lokalinfo AG, Herausgeberin der Zürcher Quartier- und Lokalzeitungen, ist ein Verlagshaus mit Sitz in Zürich-Altstetten. Unser kleines und flexibles Team stellt sich vollumfänglich in den Dienst der lokalen Berichterstattung, ganz gemäss dem Grundsatz «All business is local»." />
+<meta name="abstract" content="Die Lokalinfo AG, Herausgeberin der Zürcher Quartier- und Lokalzeitungen, ist ein Verlagshaus mit Sitz in Zürich-Altstetten. Unser kleines und flexibles Team stellt sich vollumfänglich in den Dienst der lokalen Berichterstattung, ganz gemäss dem Grundsatz «All business is local»." />
+
+
+<link rel="stylesheet" type="text/css" href="typo3temp/assets/compressed/merged-f68f1a4566ce939f8069c197f335019e-df6ed05193d7a81095c58cf4a1db13bd.css?1765360684" media="all">
+
+
+
+
+
+
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Condensed:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40063610-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-40063610-1');
+</script>
+<script data-ignore="1" data-cookieconsent="statistics" type="text/plain"></script><link rel="icon" href="https://www.lokalinfo.ch/fileadmin/user_upload/lokalinfofav.png" sizes="32x32"><link rel="icon" type="image/png" href="https://www.lokalinfo.ch/fileadmin/user_upload/lokalinfofav.png" sizes="16x16"><link rel="icon" type="image/png" href="https://www.lokalinfo.ch/fileadmin/user_upload/lokalinfofav.png" sizes="228x228"><link rel="shortcut icon" sizes="196x196" href="https://www.lokalinfo.ch/fileadmin/user_upload/lokalinfofav.png"><link rel="apple-touch-icon" sizes="180x180" href="https://www.lokalinfo.ch/fileadmin/user_upload/lokalinfofav.png"><meta name="msapplication-square310x310logo" content="https://www.lokalinfo.ch/fileadmin/user_upload/lokalinfofav.png" />
+</head>
+<body>
+<!-- Header --><!-- Background + Container --><div class="headerC88"><div style="" class="container"><!-- Header --><a href="/"><img id="logo" style="background:transparent;" src="/fileadmin/images/lokalinfo_logo.svg" alt="/fileadmin/images/lokalinfo_logo.svg" /></a><!-- HEADER CONTENT --><!-- SHOW DEFAULT THEME NAVIGATION --></div></div><!-- SECTIONS START --><!-- SECTIONS END --><!-- ABOVE PAGE CONTENT --><!-- Main --><!-- Container --><div class="container"><!--TYPO3SEARCH_begin--><!-- Min. 1 sidebars value is not empty --><!-- No sidebars are set --><div id="c7130" class="frame frame-default frame-type-html frame-layout-0"><style>
+  .headerC4102 > .container, .headerC88 > .container, .headerC4151 > .container, .headerC4150 > .container   {
+    text-align:center;
+    margin-bottom:40px;
+  }
+  .lokgrid img {
+
+  }
+  .lokgrid a, .werbung a {
+    padding: 10px 15px;
+    color: #fff;
+	background: #009FE3;
+    margin-top:15px;
+    display:inline-block;
+  }
+  .lokgrid .col-12 .ce-bodytext {
+	border: 1px solid #EAEAEA;
+	text-align: center;
+    font-size: 0.9rem;
+    line-height: 1.3rem;
+    padding: 25px;
+    padding-top: 60px;
+    margin-top: -40px;
+    mi

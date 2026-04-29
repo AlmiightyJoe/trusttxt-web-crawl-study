@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html class="no-js mh-one-sb" lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<title>Fast Tracking of permitting for the Donlin Gold Mine further erodes trust among Yukon-Kuskokwim Tribes &#8211; The Delta Discovery, Inc.</title>
+<meta name='robots' content='max-image-preview:large' />
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="B7Mhowd17Gva4IBuLerqOUl3Fc3aiCE8ZTnz0_mgVP4" />
+<meta name="msvalidate.01" content="4D958625B8744FBB4CAC8FF8328566B6" />
+<script type="ee4d4cd23f08471d22a50f62-text/javascript">window._wca = window._wca || [];</script>
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='preconnect' href='//c0.wp.com' />
+<link rel='preconnect' href='//i0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="The Delta Discovery, Inc. &raquo; Feed" href="https://deltadiscovery.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Delta Discovery, Inc. &raquo; Comments Feed" href="https://deltadiscovery.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://deltadiscovery.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdeltadiscovery.com%2Ffast-tracking-of-permitting-for-the-donlin-gold-mine-further-erodes-trust-among-yukon-kuskokwim-tribes%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://deltadiscovery.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdeltadiscovery.com%2Ffast-tracking-of-permitting-for-the-donlin-gold-mine-further-erodes-trust-among-yukon-kuskokwim-tribes%2F&#038;format=xml" />
+<script data-cfasync="false" data-wpfc-render="false">
+		(function () {
+			window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+
+			// Set the developer ID.
+			gtag('set', 'developer_id.dMmRkYz', true);
+
+			// Set default consent state based on plugin settings.
+			gtag('consent', 'default', {
+				'ad_storage': 'denied',
+				'analytics_storage': 'denied',
+				'ad_user_data': 'denied',
+				'ad_personalization': 'denied',
+				'security_storage': 'granted',
+				'functionality_storage': 'granted',
+				'wait_for_update': 500,
+			});
+		})();
+	</script>		<!-- This site uses the Google Analytics by MonsterInsights plugin v10.0.3 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-8VGQVPBZTL"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '10.0.3';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/deltadiscovery.com\/fast-tracking-of-permitting-for-the-donlin-gold-mine-further-erodes-trust-among-yukon-kuskokwim-tribes\/"};
+								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+
+								var disableStrs = [
+										'ga-disable-G-8VGQVPBZTL',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (documen

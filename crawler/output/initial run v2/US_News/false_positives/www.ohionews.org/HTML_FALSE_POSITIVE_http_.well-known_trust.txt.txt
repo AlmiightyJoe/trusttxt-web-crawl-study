@@ -1,0 +1,95 @@
+
+<!DOCTYPE HTML>
+<html>
+<head><!-- Begin Bootstrap Header -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+      <script src="https://www.ohionews.org/bootstrap4/js/jquery-3.7.1.min.js"></script>
+
+<!--  <link rel="stylesheet" href="/bootstrap4/css/fontawesome-all.min.css">-->
+      <link rel="stylesheet" href="https://www.ohionews.org/fontawesome-6.4.2/css/all.min.css?ver=002" />
+
+      <link href="https://www.ohionews.org/bootstrap4/css/bootstrap.min.css" rel="stylesheet">
+
+      <link rel="stylesheet" href="https://www.ohionews.org/bootstrap4/css/mdb.min.css" xmlns="http://www.w3.org/1999/html">
+      
+      
+
+
+
+<!-- End Bootstrap Header -->
+
+
+
+<title>ONMA | Home Page</title>
+<link rel="icon" type="image/x-icon" href="https://www.ohionews.org/aws/ONA/am/gi/favicon.ico?ver=8" />
+
+<style type='text/css'>.temp {color:#FFF;}</style><link href='https://www.ohionews.org/aws/ONA/pt/css/css_screen.css?ver=62' media='screen' rel='Stylesheet' type='text/css' />
+<style type='text/css'>.temp {color:#FFF;}</style><link href='https://www.ohionews.org/aws/ONA/pt/css/css_print.css?ver=2' media='print' rel='Stylesheet' type='text/css' />
+
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VFLNL67675"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VFLNL67675');
+</script>
+
+    <script src="/assets/application-59567b1d1b3111da2cfedd86f1027423ea4f58e3f933309a078f602362f44054.js"></script>
+    <link rel="stylesheet" media="screen" href="/assets/application-e4fe29a3b496940c4a410f8aece0366c723c10875cca6880111af4090adaeb9b.css" />
+    <script type='text/javascript'>//jQuery.noConflict();
+var x = [];
+var clicked = 0;
+jQuery(function($) {
+    group = $("input[value='ADDRESS: Origin']")
+    for (i = 0; i < group.length; i++) {
+      x_id = group[i].name.replace('fieldname', 'field');
+      x_form = group[i].form;
+      x.push($(x_form).find(("input[id='" + x_id + "']"))[0]);
+      console.log($(x));
+      if ( $(x[i]) != null) {
+        // $(x[i]).replaceWith('<span class="tcs_geo_span" style="position: relative">' + x[i].outerHTML + '<a id="geoloc_link" class="geoloc" style="margin-left: -14px; position: absolute; white-space:nowrap; overflow: hidden; display: none;" name="' + i + '" href="#"><i class="far fa-map-marker-alt location_marker" style="font-size: 15px; color: #CCCCCC"></i></a></span>');
+        // $("head").after('<link href="/bootstrap/css/fontawesome-all.min.css" rel="stylesheet">');
+      }
+    }
+    $(".geoloc").click(function() {
+      clicked = $(this).attr('name');
+      getLocation();
+    });
+});
+function getLocation(event) {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition);
+    } else {
+        x[clicked].value = "Geolocation is not supported by this browser.";
+      }}
+function showPosition(position) {
+    x[clicked].value = position.coords.latitude.toFixed(3) + ", " + position.coords.longitude.toFixed(3);
+}
+</script>
+
+<meta name="title" content="ONMA | Home Page" /></head>
+
+<body>
+
+<div id="page-container" class="homepage container z-depth-1">
+  
+
+<div id="social-links" class="z-depth-1 hide_on_print wow fadeInUp">
+  <ul>
+    <li id="site_search">
+<div class="tcssearch">
+<form action="/aws/ONA/page_template/get_search_results" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FulFpXMq8xjfA3x/Nk6y5r7ZZgV9XxF4MvjOtnHzolrJ43T0pgP3EitNav9RB7gNoBhvcExiHJp8ZCHngboU2g==" />
+    <

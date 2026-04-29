@@ -1,0 +1,6 @@
+# trust.txt for mendocinobeacon.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-12 11:50:02 PDT
+
+contact=https://www.mendocinobeacon.com/contact-us/
+datatrainingallowed=no

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="j5" xml:lang="de-de" lang="de-de" dir="ltr">
+
+<head>
+  
+  <meta charset="utf-8">
+	<meta name="description" content="Fridolin Medien AG - Ihre Glarner Zeitung!">
+	<meta name="generator" content="Joomla! - Open Source Content Management">
+	<title>Fridolin Medien AG – Home</title>
+	<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="Fridolin Medien AG – Home">
+	<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Fridolin Medien AG – Home">
+	<link href="/templates/ja_flix/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+<link href="/plugins/system/t4/themes/base/vendors/font-awesome5/css/all.min.css?c9d295" rel="stylesheet">
+	<link href="/plugins/system/t4/themes/base/vendors/font-awesome/css/font-awesome.min.css?c9d295" rel="stylesheet">
+	<link href="/plugins/system/t4/themes/base/vendors/icomoon/css/icomoon.css?c9d295" rel="stylesheet">
+	<link href="/templates/ja_flix/css/jomsocial.css?c9d295" rel="stylesheet">
+	<link href="/templates/ja_flix/js/owl-carousel/owl.carousel.min.css?c9d295" rel="stylesheet">
+	<link href="/templates/ja_flix/fonts/ionicons/css/ionicons.min.css?c9d295" rel="stylesheet">
+	<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1" rel="stylesheet">
+	<link href="/media/t4/optimize/css/c9e16733e82f9c30011ad2dbb692fed1.css?39e09c5878cd2d4f7066956282c588f4" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Barlow%3A%7CDM+Sans%3A400%2C500%7CBarlow+Semi+Condensed%3A500%2C600%2C700%2C800%2C900" rel="stylesheet">
+	<link href="/media/com_widgetkit/css/site.css" rel="stylesheet" id="widgetkit-site-css">
+	<style>.t4-palette-mainnav .nav>.dropdown>.dropdown-toggle .item-caret:before {border-top-color:#444;}
+.form-sppoll{padding-top:15px;}
+.form-sppoll .radio{padding: 3px 10px 3px 0;}
+.form-sppoll .btn {margin-top: 15px; padding: 8px 15px;}
+
+@media only screen and (min-width: 768px) {
+#jb_template .jobsFilterForm .jobs-filters .card-body.pb-1{display:flex;flex-grow:1;}
+#jb_template .jobsFilterForm .jobs-filters.card .card-body .row{width:75%;}
+#jb_template .jobsFilterForm .jobs-filters.card .card-body .row:first-child{width:25%;}
+#jb_template .jobsFilterForm .jobs-filters.card .card-body .row:first-child .mb-3{padding-left:2px;padding-right:2px; margin-bottom: 10px !important;}
+#jb_template .jobsFilterForm .jobs-filters.card .card-body .row .col-md-3 {flex: 0 0 33.33%; max-width: 33.33%; padding-left:2px;padding-right:2px;margin-bottom: 10px !important;}
+#jb_template .jobsFilterForm .jobs-filters.card .card-body .row .chosen-container{max-width: 100%;}
+#jb_template .jobsFilterForm .jobs-filters.card .card-body .row select{max-width: 100%;}
+}
+.jobsFilterForm .jobs-filters .card-body .filter_search{height: inherit; padding: 5px 10px;}
+.jobsFilterForm .jobs-filters .card-body .row{margin-right: 0; margin-left: 0;}
+#jb_template .jobsFilterForm .card-body.pb-1{padding:15px;}
+#jb_template > .card{padding:0;}
+#jb_template > .card > .card-body{padding:15px;}
+#jb_template .card-footer{padding:15px;}
+#jb_template .jobsFilterForm .jobs-filters.card .card-body .row .chosen-container-single .chosen-single{height:34px;line-height:34px;}
+#jb_template .jobsFilterForm .jobs-filters.card .card-body .row .chosen-container-single .chosen-single div b{background-position:0 8px;}
+div.com-users-remind, div.com-users-reset {max-width:980px;margin-bottom: 40px;}
+.navbar-brand.logo-control img.logo-img {max-height:inherit;}
+.com_igallery .t4-main-body .component{padding-left:20px; padding-right:20px;}
+.ig-menu-grid-justified{margin-left:-10px;}
+.collapse___box > [data-toggle="collapse"]{position: relative; border: 2px solid #ddd; padding: 15px;cursor:pointer;display: block; padding-right: 45px; text-align: left;}
+.collapse___box .title:before {font-family: 'FontAwesome';position: absolute;right: 15px; font-size:14px; top:16px; cursor:pointer;}
+
+.collapse___box .title:not(.collapsed):before, .collapse___box .tit

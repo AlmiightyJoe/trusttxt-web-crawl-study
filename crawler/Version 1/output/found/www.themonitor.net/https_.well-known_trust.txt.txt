@@ -1,0 +1,15 @@
+# trust.txt for Mabank Monitor
+# for more about trust.txt, see https://journallist.net/
+# Mabank Monitor belongs to the following organizations
+belongto=https://texaspress.com/
+belongto=https://nna.org/
+belongto=https://journallist.net/
+# these are the social channels controlled by the Mabank Monitor
+social=https://www.facebook.com/The-Monitor-Newspaper-Cedar-Creek-Lake-517133334968800/
+social=https://twitter.com/CCLMonitor
+social=https://www.instagram.com/themonitornewspaperccl/
+# Mabank Monitor contact information
+contact=https://www.themonitor.net/contact
+# Mabank Monitor uses these sites as a vendor
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net

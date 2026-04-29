@@ -1,0 +1,2 @@
+# AI disclosure
+datatrainingallowed=no

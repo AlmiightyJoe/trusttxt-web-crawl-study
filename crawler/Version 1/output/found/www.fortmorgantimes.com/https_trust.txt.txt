@@ -1,0 +1,6 @@
+# trust.txt for fortmorgantimes.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-13 06:47:11 MDT
+
+contact=https://www.fortmorgantimes.com/contact-us/
+datatrainingallowed=no

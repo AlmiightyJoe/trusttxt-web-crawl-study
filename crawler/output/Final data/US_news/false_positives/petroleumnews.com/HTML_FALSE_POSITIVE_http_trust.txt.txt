@@ -1,0 +1,103 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HEAD><TITLE>Petroleum News - Providing coverage of Alaska, Canada and the continental U.S.</TITLE>
+<META http-equiv=content-type content="text/html; charset=iso-8859-1">
+<META 
+content="LNG,oil,natural gas,pipeline,Alaska,Canada,ANWR,North Slope,Prudhoe
+Bay,petroleum,energy,Mackenzie,Beaufort Sea,Anadarko,BP,coal,NPRA,Cook
+Inlet,news,Arctic,Kuparuk,Gulf of
+Mexico,Sakhalin,Alberta,Alpine,offshore,Bristol Bay,Kenai,British
+Columbia,gold,North America,Conoco" name=keywords>
+<META 
+content="Extensive archives. Weekly petroleum newspaper and frequent Petroleum News Bulletin, AdDirectory with individual company web page listings." 
+name=description>
+
+<META content=NOINDEX,NOFOLLOW name=ROBOTS>
+
+
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+
+<META content="MSHTML 6.00.2723.2500" name=GENERATOR>
+
+<!-- MADE FROM HTMLOS FORM filenotfoundMAKE.html -->
+
+</HEAD>
+
+<BODY vLink=blue aLink=blue link=blue bgColor=#cccccc>
+<STYLE>A:hover {
+	COLOR: #ffff00; TEXT-DECORATION: underline
+}
+A {
+	TEXT-DECORATION: none
+}
+</STYLE>
+<!--FROM WORLD CUP SITE
+<style type=text/css>
+<!--
+a { color: #000064; }
+a:visited { color: #990099; }
+a:hover { color: #0000ff; }
+.nav { font: bold 12px Verdana, Arial, sans-serif; color: #ffffff; }
+a.nav { text-decoration: none; color: #ffffff; }
+a.nav:visited { color: #ffffff; }
+a.nav:hover { text-decoration: underline; color: #ffcc00; }
+a.navlink { font: 11px Verdana, Arial, sans-serif; color: #000033; }
+a.navlink:visited { color: #000033; }
+a.navlink:hover { color: #0000ff; } FROM WORLD CUP SITE--><!--BEGIN OVERALL CONTAINMENT TABLE -->
+<TABLE width="100%">
+  <TBODY>
+  <TR>
+    <TD><!--TOTAL CONTAINMENT TABLE -->
+      <CENTER>
+      <TABLE width=750 bgColor=#336633>
+        <TBODY>
+        <TR>
+            <TD><!--CONTAINMENT TABLE FOR ALL TABLES set to uniform bgcolor--><!-- Begin Table for Heading --><!--BEGIN HOME HEADER --> 
+              <CENTER>
+            <TABLE width=750 bgColor=#336633>
+              <TBODY>
+              <TR>
+                <TD><!--CONTAINMENT TABLE FOR HEADER -->
+
+
+
+                           <IMG height="136" SRC="https://www.petroleumnews.com/finalheaders/homebannertest2.jpg" width=800 border=0 usemap="#homebanner"> 
+						  						  <map name="homebanner">
+<AREA alt="HOME PAGE" coords=3,113,112,136 href="https://www.petroleumnews.com/cgi-bin/start.cgi/homePNdetect.html" shape=RECT title="HOME PAGE">
+<AREA 
+                    alt="SUBSCRIPTIONS, Print Editions, Newsletter" 
+                    coords=117,113,229,136 
+                    href="https://www.petroleumnews.com/pnainfo.shtml" shape=RECT 
+                    title="SUBSCRIPTIONS, Print Editions, Online Editions">
+
+<AREA alt=PRODUCTS coords=240,113,348,136 href="https://www.petroleumnews.com/cgi-bin/start.cgi/products.html" shape=RECT title="Publications">
+
+<AREA alt="READ THE PETROLEUM NEWS ARCHIVE!" coords=353,113,465,136 href="https://www.petroleumnews.com/cgi-bin/start.cgi/archivesauto.html" shape=RECT title="READ THE PETROLEUM NEWS ARCHIVE">
+
+<AREA alt="ADVERTISING INFORMATION" coords=470,113,581,134 href="https://www.petroleumnews.com/adlist.shtml" shape=RECT title="ADVERTISING INFORMATION">
+
+<AREA alt="EVENTS" coords=583,113,693,134 href="https://www.petroleumnews.com/cgi-bin/start.cgi/eventsPN.html" shape=RECT title="EVENTS INFORMATION">
+
+
+
+<area shape="rect" 
+                    title="PETROLEUM NEWS BAKKEN, Online Editions"><AREA alt="PETROLEUM NEWS BAKKEN" coords="494,40,590,70" href="https://www.petroleumnews.com/cgi-bin/start.cgi/homeBKdetect.html">
+
+
+<area shape="rect"
+                    title="MINING NEWS NORTH, Online Editions"><AREA alt="MINING NEWS" coords="610,40,710,70" href="https://www.petroleumnews.com/cgi-bin/start.cgi/homeMNdetect.html">
+
+
+
+
+</map>
+
+
+
+
+
+
+</CENTER></TD></TR></TBODY></TABLE></CENTER><!--END CONTAINMENT TABLE FOR HEADER --><!--END NEW HEADER -->
+            <CENTER>
+            <TABLE cellPadding=0 width=756 bgColor=#336633 border=0 cellspacing=3><!-- BEGIN HOT LINKS LEFT TABLE -->

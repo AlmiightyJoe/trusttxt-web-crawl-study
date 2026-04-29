@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="de">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	made with ❤ by DACHCOM.DIGITAL AG, 9424 Rheineck.
+	https://www.dachcom.com / Tel. +41 71 886 48 68 / support@dachcom.ch
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<link rel="icon" href="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Images/favicon.ico" type="image/png">
+
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="description" content="Zeitung für freie Meinungsbildung, Ethik und Verantwortung.
+Für die Bekräftigung und Einhaltung des Völkerrechts, der Menschenrechte und des Humanitären Völkerrechts." />
+<meta name="author" content="Zeit-Fragen, Zürich" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="application-name" content="Zeit-Fragen" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Zeit-Fragen" />
+<meta property="og:url" content="https://www.zeit-fragen.ch/" />
+<meta property="og:description" content="Zeitung für freie Meinungsbildung, Ethik und Verantwortung.
+Für die Bekräftigung und Einhaltung des Völkerrechts, der Menschenrechte und des Humanitären Völkerrechts." />
+<meta property="og:title" content="Home" />
+<meta name="twitter:card" content="summary" />
+<meta name="revisit-after" content="7" />
+<meta name="google-site-verification" content="l_MCsrc1_i6V-8VAth8sJqqLfbsV1xDRaqZiGVIiiGU" />
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" media="all">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/css/7015c8c4ac5ff815b57530b221005fc6.css?1737968699" media="all">
+<link rel="stylesheet" href="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Css/main.css?1737968547" media="all">
+
+
+
+
+
+
+<title>Zeit-Fragen,&#32;Zürich</title>
+
+	
+			
+		
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Images/touchicons/apple-touch-icon-180x180.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Images/touchicons/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Images/touchicons/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Images/touchicons/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Images/touchicons/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Images/touchicons/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Images/touchicons/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="60x60" href="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Images/touchicons/apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon" href="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Images/touchicons/apple-touch-icon-57x57.png" />
+	<link rel="icon" type="image/png" sizes="192x192" href="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Images/touchicons/android-chrome-192x192.png" />
+
+	<meta property="og:image" content="/_assets/5701076aaefdeaf34f97275fc0f17fe4/Images/logo-share-de.png" />
+<link rel="canonical" href="https://www.zeit-fragen.ch/" /><link rel="alternate" hreflang="de" href="https://www.zeit-fragen.ch/" /><link rel="alternate" hreflang="en" href="https://www.zeit-fragen.ch/en/" /><link rel="alternate" hreflang="fr" href="https://www.zeit-fragen.ch/fr/" /><link rel="alternate" hreflang="it" href="https://www.zeit-fragen.ch/it/" /

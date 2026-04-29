@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="google-site-verification" content="w7UA_isZ8ICSosRHeoyD_aFY50MNQ8UFB6T_Ff8zAcc" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+    <title>China Daily Website - Connecting China Connecting the World</title>
+    <meta content="China News Business Information Weather Entertainment Beijing Shanghai Life Sports Photo" name="keywords" />
+    <meta content="Chinadaily.com.cn is the largest English portal in China, providing news, business information, BBS, learning materials. The Website has channels as China, BizChina, World, Opinion, Sports/Olympics, Entertainment, Lifestyle, Culture, Citylife, Photo, Forum and Weather." name="description" />
+    <link rel="stylesheet" charset="utf-8" type="text/css" href="//img2.chinadaily.com.cn/static/2017www_index_page_en/css/bootstrap.min.css" />
+    <link rel="stylesheet" charset="utf-8" type="text/css" href="//img2.chinadaily.com.cn/static/2017www_index_page_en/css/layout_bak.css?var=30" />
+    <link rel="stylesheet" charset="utf-8" type="text/css" href="//img2.chinadaily.com.cn/static/2017www_index_page_en/css/layout2.css" />
+    <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/2017www_index_page_en/css/r-public.css?var=22" />
+    <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/2017www_index_page_en/css/r-index.css?ver=6" />
+    <link rel="stylesheet" type="text/css" href="//img2.chinadaily.com.cn/static/common/css/public_eu.css" />
+  <!--  <script cms:pr-src="common/js/html5shiv.js"></script>
+    <script cms:pr-src="common/js/respond.min.js"></script>
+    <link href="//img2.chinadaily.com.cn/h5hack/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+    <link href="/h5hack/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+    <script src="/h5hack/respond.proxy.js"></script>	-->
+    <script type="text/javascript" src="https://www.chinadaily.com.cn/js/2016/koala.min.1.5.js" xml:space="preserve"></script><!--焦点图-->
+    <script src="https://www.chinadaily.com.cn/js/2016/tabs.js" type="text/javascript" xml:space="preserve"></script><!--选项卡-->
+    <script language="javascript" src="https://www.chinadaily.com.cn/js/2016/scroll2.js" type="text/javascript" xml:space="preserve"></script><!--图片左右滚动-->
+    <!--  <script type="text/javascript" src="//www.chinadaily.com.cn/js/2017/jquery.scroll.js"></script>  2017.1.19-->
+    <!--  <script type="text/javascript" src="//www.chinadaily.com.cn/js/2017/scroll.js"></script>   2017.1.19-->
+    <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/common/js/jquery.min.js"></script>
+    <script language="javascript" src="https://www.chinadaily.com.cn/js/2017/bootstrap.min.js" type="text/javascript" xml:space="preserve"></script><!-- bootstrap js -->
+    <script language="javascript" src="https://www.chinadaily.com.cn/js/2017/toucher.js" type="text/javascript" xml:space="preserve"></script>
+    <script language="javascript" src="https://www.chinadaily.com.cn/js/2017/public.js" type="text/javascript" xml:space="preserve"></script>
+
+    <script type="text/javascript" charset="utf-8" rel="stylesheet" xml:space="preserve" src="//img2.chinadaily.com.cn/static/common/js/adloading.js"></script>
+    <!--天润统计代码 Start-->
+    <META name="filetype" content="1" />
+    <META name="publishedtype" content="1" />
+    <META name="pagetype" content="2" />
+    <meta name="catalogs" content="www" />
+    <!--天润统计代码 End-->
+    <!--[if lt IE 9]>
+<script src="https://www.chinadaily.com.cn/js/2017/html5shiv.js"></script>
+<script src="https://www.chinadaily.com.cn/js/201

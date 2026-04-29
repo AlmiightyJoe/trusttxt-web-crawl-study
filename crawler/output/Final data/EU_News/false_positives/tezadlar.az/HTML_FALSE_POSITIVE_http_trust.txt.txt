@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="az" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+		<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	    <style id="azcs-fouc-guard">
+    .azcs-ticker-container,
+    .azcs-hero,
+    .azcs-qazet-single,
+    .azcs-qazet-wrapper,
+    .azcs-qazet-latest,
+    .azcs-posts-list,
+    .azcs-rn-widget,
+    .azcs-top-grid,
+    .azcs-news-grid-wrapper,
+    .azcs-calendar-wrap,
+    .azcs-archive-grid,
+    .azcs-category-archive,
+    .azcs-tag-archive,
+    .azcs-search-results,
+    .azcs-page,
+    .azcs-static-page,
+    .azcs-footer,
+    .azcs-posts-widget {
+        animation: azcs-reveal 0.2s ease-out both;
+    }
+    @keyframes azcs-reveal {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+    </style>
+    
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>Ana səhifə - Təzadlar | www.tezadlar.az</title>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://tezadlar.az/" />
+<meta property="og:locale" content="az_AZ" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ana səhifə - Təzadlar | www.tezadlar.az" />
+<meta property="og:url" content="https://tezadlar.az/" />
+<meta property="og:site_name" content="Təzadlar Qazeti | www.tezadlar.az" />
+<meta property="og:updated_time" content="2026-02-05T16:39:35+04:00" />
+<meta property="article:published_time" content="2022-10-05T07:04:11+04:00" />
+<meta property="article:modified_time" content="2026-02-05T16:39:35+04:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Ana səhifə - Təzadlar | www.tezadlar.az" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Berc" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="Less than a minute" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://tezadlar.az/#organization","name":"T\u0259zadlar Qazeti | www.tezadlar.az","logo":{"@type":"ImageObject","@id":"https://tezadlar.az/#logo","url":"https://tezadlar.az/wp-content/uploads/2025/02/tezadlar-new-logo.webp","contentUrl":"https://tezadlar.az/wp-content/uploads/2025/02/tezadlar-new-logo.webp","caption":"T\u0259zadlar Qazeti | www.tezadlar.az","inLanguage":"az","width":"1615","height":"273"}},{"@type":"WebSite","@id":"https://tezadlar.az/#website","url":"https://tezadlar.az","name":"T\u0259zadlar Qazeti | www.tezadlar.az","publisher":{"@id":"https://tezadlar.az/#organization"},"inLanguage":"az","potentialAction":{"@type":"SearchAction","target":"https://tezadlar.az/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://tezadlar.az/#webpage","url":"https://tezadlar.az/","name":"Ana s\u0259hif\u0259 - T\u0259zadlar | www.tezadlar.az","datePublished":"2022-10-05T07:04:11+04:00","dateModified":"2026-02-05T16:39:35+04:00","about":{"@id":"https://tezadlar.az/#organization"},"isPartOf":{"@id":"https://tezadlar.az/#website"},"inLanguage":"az"},{"@type":"Person","@id":"https://tezadlar.az/author/berc/","name":"Berc","url":"https://tezadlar.az/author/berc/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/dc4a405cc160bd351b0d22f0b217e1be?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/dc4a405cc160bd351b0d22f0b217e1be?s=96&amp;d=mm&amp;r=g","caption":"Berc","inLanguage":"az"},"sameAs":["https://wordpress-894359-5221776.cloudwaysapps.com"],"worksFor":{"@id":"https://tezadlar.az/#organization"}},{"@type":"Article","headline":"Ana s\u0259hif\u0259 - T\u0259zadlar | www.tezadlar.az","datePublished":"2022-10-05T07:04:11+04:00","dateModified":"2026-02-05T16:39:35+04:00","author":{"@id":"https://tezadlar.az/author/b

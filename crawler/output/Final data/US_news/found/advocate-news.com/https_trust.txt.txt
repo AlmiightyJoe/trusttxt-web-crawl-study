@@ -1,0 +1,6 @@
+# trust.txt for advocate-news.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-12 22:09:41 PDT
+
+contact=https://www.advocate-news.com/contact-us/
+datatrainingallowed=no

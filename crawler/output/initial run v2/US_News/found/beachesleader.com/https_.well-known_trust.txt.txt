@@ -1,0 +1,25 @@
+# The Beaches Leader  Ponte Vedra Leader trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# The Beaches Leader  Ponte Vedra Leader belongs to the following organizations
+#
+# belongto=  
+#
+# The Beaches Leader  Ponte Vedra Leader social networks
+#
+social=https://www.facebook.com/TheBeachesLeader
+social=https://www.instagram.com/thebeachesleader/
+#
+# The Beaches Leader  Ponte Vedra Leader vendors
+#
+vendor=https://www.etypeservices.com
+#
+# The Beaches Leader  Ponte Vedra Leader contact info
+#
+contact=https://www.beachesleader.com/about-us
+#
+# © 2022 The Beaches Leader  Ponte Vedra Leader

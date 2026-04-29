@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html class="tw" lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>Weekly Alibi | Alternative News, Not Alternative Facts</title>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://alibi.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Weekly Alibi | Alternative News, Not Alternative Facts" />
+<meta property="og:url" content="https://alibi.com/" />
+<meta property="og:site_name" content="Weekly Alibi" />
+<meta property="og:updated_time" content="2023-10-09T07:54:58-06:00" />
+<meta property="article:published_time" content="2023-01-05T04:50:50-07:00" />
+<meta property="article:modified_time" content="2023-10-09T07:54:58-06:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Weekly Alibi | Alternative News, Not Alternative Facts" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Andrew Rhyand" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="Less than a minute" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://alibi.com/#organization","name":"Weekly Alibi","url":"https://alibi.com","logo":{"@type":"ImageObject","@id":"https://alibi.com/#logo","url":"https://alibi.com/wp-content/uploads/2023/01/alibi-circle-a-500x180-1-e1673043537686.png","contentUrl":"https://alibi.com/wp-content/uploads/2023/01/alibi-circle-a-500x180-1-e1673043537686.png","caption":"Weekly Alibi","inLanguage":"en-US","width":"110","height":"40"}},{"@type":"WebSite","@id":"https://alibi.com/#website","url":"https://alibi.com","name":"Weekly Alibi","publisher":{"@id":"https://alibi.com/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://alibi.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://alibi.com/#webpage","url":"https://alibi.com/","name":"Weekly Alibi | Alternative News, Not Alternative Facts","datePublished":"2023-01-05T04:50:50-07:00","dateModified":"2023-10-09T07:54:58-06:00","about":{"@id":"https://alibi.com/#organization"},"isPartOf":{"@id":"https://alibi.com/#website"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://alibi.com/author/andrewrhyand/","name":"Andrew Rhyand","url":"https://alibi.com/author/andrewrhyand/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/14c32153a8077cfa11b6079cceeb0a6a96fcc0d2822a0a6a2bf2fc0433d7665a?s=96&amp;d=monsterid&amp;r=g","url":"https://secure.gravatar.com/avatar/14c32153a8077cfa11b6079cceeb0a6a96fcc0d2822a0a6a2bf2fc0433d7665a?s=96&amp;d=monsterid&amp;r=g","caption":"Andrew Rhyand","inLanguage":"en-US"},"sameAs":["https://alibi.com"],"worksFor":{"@id":"https://alibi.com/#organization"}},{"@type":"Article","headline":"Weekly Alibi | Alternative News, Not Alternative Facts","datePublished":"2023-01-05T04:50:50-07:00","dateModified":"2023-10-09T07:54:58-06:00","author":{"@id":"https://alibi.com/author/andrewrhyand/","name":"Andrew Rhyand"},"publisher":{"@id":"https://alibi.com/#organization"},"name":"Weekly Alibi | Alternative News, Not Alternative Facts","@id":"https://alibi.com/#richSnippet","isPartOf":{"@id":"https://alibi.com/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://alibi.com/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="ap

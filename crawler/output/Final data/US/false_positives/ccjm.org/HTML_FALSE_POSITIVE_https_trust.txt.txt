@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" 
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book#" >
+    <!--[if IE]><![endif]-->
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+<link rel="dns-prefetch" href="//securepubads.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//www.googletagmanager.com" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="preload" as="style" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/css/all.min.css" crossorigin="anonymous" />
+<link rel="shortcut icon" href="https://www.ccjm.org/sites/default/files/images/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="preconnect" href="https://www.medtargetsystem.com" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cleveland Clinic Journal of Medicine</title>  
+    <link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__BJ6Ou6QsBRtnFTmxaakamOIS8n4QswDP2XnnZ1sxtaM__NBuvkP6eInGIkb1aJvUHx5PX79XApuxBDkk_77W5tYk__tPAQ9_SwBx698ajKpBl0bpygryRQOMgd_jFY81EGiEQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__h8vL9XqZbR5p6fBA2D0scfV1qft6lIgY_4kzR5vHhPY__TUo9Mv_NYjK3hnPhdYYCgMhxSYMgi7y-CuoR5Hkzl4o__tPAQ9_SwBx698ajKpBl0bpygryRQOMgd_jFY81EGiEQ.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__dP_ngoDuhFgSOjBaXxQzhQl6mMIK0Vqg2ZspVU002uE__N9hybXWlND0BQQxOLd2z1vQlLSVMZF6ZkmCrWseSWqc__tPAQ9_SwBx698ajKpBl0bpygryRQOMgd_jFY81EGiEQ.css" media="all" />
+<style type="text/css" media="all">
+/* <![CDATA[ */
+#views-slideshow-bxslider-1.views-slideshow-bxslider .bx-wrapper .bx-controls-direction a{z-index:499}
+/* ]]> */
+</style>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__NhSHDIBpBT1i0tTwsCQxbVNR4ZMqZEdB2RcNFXMRXA8__QHt_bZrGr3xiyl0g_sb988Hoiof2qAmax5D8ejslqJk__tPAQ9_SwBx698ajKpBl0bpygryRQOMgd_jFY81EGiEQ.css" media="all" />
+<style type="text/css" media="all">
+/* <![CDATA[ */
+#views-slideshow-bxslider-1.views-slideshow-bxslider li img{margin-right:auto}
+/* ]]> */
+</style>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__npCWuMMhP4xBg4iyVjpnScKc0Zzf6fDT4X8sGS8ZDQA__QmKaoQaq8xBZbk9uwhMU262D5RagOkfQVPEQVi2ROvU__tPAQ9_SwBx698ajKpBl0bpygryRQOMgd_jFY81EGiEQ.css" media="all" />
+<style type="text/css" media="all">
+/* <![CDATA[ */
+#views-slideshow-bxslider-1.views-slideshow-bxslider .bx-wrapper .bx-caption{background:rgba(80,80,80,0.75)}
+/* ]]> */
+</style>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__ZQLHz9notsUx9qOilwO6JChFGUsOHOtXc9NSFP0A0ZI__pmd330yDkn62H-7g-dQ9XDTjr1HMTxfF4fcf95IDglA__tPAQ9_SwBx698ajKpBl0bpygryRQOMgd_jFY81EGiEQ.css" media="all" />
+<style type="text/css" media="all">
+/* <![CDATA[ */
+.user-menu-dropdown-logo>.menubar-nav>.nice-menu>.menuparent a:first-child{background:url('https://www.ccjm.org/sites/default/files/ccjm-umbrella.png') transparent no-repeat left center;padding-left:195px}
+/* ]]> */
+</style>
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__LEbt3zaRM64W3ljbMp_AUPRZ54vS-XvqGHcODB_GD_s__TH3oFr1figZlXgD9YXJ6Nwty1K8uw7uOQu6Ed9RkdGU__tPAQ9_SwBx698ajKpBl0bpygryRQOMgd_jFY81EGiEQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.css" media="all" />
+<style type="text/css" media="all">
+/* <![CDATA[ */
+#sliding-popup.sliding-popup-bottom,#sliding-popup.sliding-popup-bottom .eu-cookie-withdraw-banner,.eu-cookie-withdraw-tab{background:#0779bf}#sliding-popup.sliding-popup-bottom.eu-cookie-withdraw-wrapper{background:transparent}#sliding-popup .popup-content #popup-text h1,#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text h3,#sliding-popup .popup-content #popup-text p,.eu-cookie-compliance-secondary-

@@ -1,0 +1,2780 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html  lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>404 Error - AOPA</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="title" content="404 Error" />
+            <meta name="robots" content="noindex, nofollow">
+                <meta name="pagetype" content="WebPage" />
+        <!-- BEGIN NOINDEX -->
+        <meta property="og:title" content="404 Error" />
+    <!-- END NOINDEX -->
+        <meta property="og:url" content="https://www.aopa.org/404-error" />
+                        <meta name="twitter:title" content="404 Error" />
+            <meta name="twitter:site" content="@aopa" />
+                    <meta name="dcterms.title" content="404 Error" />
+            <meta name="dcterms.date" content="08-03-2016" />
+    <meta name="dcterms.type" content="Text" />
+    <meta name="dcterms.format" content="text/html" />
+        <meta name="dcterms.identifier" content="https://www.aopa.org/404-error" />
+        <link href="/bundles/styles/aopa/site-refresh.css?v=T0r04LzIrALTzapNKAX5M2MlvsO9spUw3KUBBuMXqoU1" rel="stylesheet"/>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAG8N_LwwgDsaSGQjSoluB6cyy0AyyASP0&libraries=places"></script>
+    <script src="https://js.stripe.com/v3/"></script>
+    <script src="/js/aopa/sfprogressbar/sfprogressbar.js"></script>
+
+        <link rel="canonical" href="https://www.aopa.org/404-error" />
+    <script>
+            var Aopa = {
+                AIRPORTS_API_URL: "https://webapp.aopa.org/AirportsAPI",
+                GOOGLE_MAPS_API_KEY: "AIzaSyDZDcKf_bdy492OuqusX-rrFLGGIgERPeI",
+                AERIUM_API_URL: "https://webapp.aopa.org/aerium"
+            };
+    </script>
+
+    
+        <style>
+			    body { margin: 0; padding: 0; background: #f9f8f8; color: #383838; font-family: 'Raleway', sans-serif; width: 100%; font-size: 17px; font-weight: 500; }
+*, *:after, *:before { box-sizing: border-box; -webkit-box-sizing: border-box; -ms-box-sizing: border-box; }
+*:focus { outline: none!important; }
+.container { max-width: 1260px; width: 100%; margin: 0 auto; padding: 0 30px; }
+.d-flex { display: -webkit-box; display: -ms-flexbox; display: -webkit-flex; display: flex; }
+.align-item-end { -webkit-box-align: end; -ms-flex-align: end; -webkit-align-items: flex-end; align-items: flex-end; }
+.justify-space-between { -webkit-box-pack: justify; -ms-flex-pack: justify; -webkit-justify-content: space-between; justify-content: space-between; }
+
+.banner { background-color: #f9f8f8; padding: 38px 0 75px; }
+.banner-img { padding-right: 40px; }
+.banner-img img { display: block; max-width: 100%; }
+.banner h1 { font-weight: 300; font-size: 76px; margin: 0; }
+.banner p { font-size: 19px; line-height: 27px; color: #383838; margin: 26px 0 0; font-weight: 400; }
+.banner p.mt-0 { margin-top: 11px; }
+.banner p.mt-50 { margin-top: 54px; }
+.banner ul { margin: 0; padding: 0; list-style: none; }
+.banner ul li { margin-top: 19px; }
+.banner ul a { color: #00a3e0; font-size: 17px; font-weight: 600; text-decoration: none; }
+.banner ul a:hover { color: #383838; }
+.banner-content { margin-right: 83px; max-width: 500px; width: 100%; }
+
+
+
+
+@media screen and (max-width: 1199px) {
+    .banner-content { margin-right: 0; }
+}
+@media screen and (max-width: 991px) {
+    .banner-content { max-width: 380px; }
+}
+@media screen and (max-width: 767px) {
+    .d-flex { -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; -webkit-flex-direction: column; flex-direction: column;}
+    .banner { padding: 30px 0; }
+    .banner-img { padding-right: 0; width: 100%; text-align: center; margin-bottom: 40px; }
+    .banner-img img { display: inline-block; }
+    .banner-content { max-width: 100%; }
+    .banner h1 { font-size: 50px; }
+    .banner p { font-size: 14px; margin-top: 15px; line-height: 22px; }
+    .banner p.mt-50 { margin-top: 30px; }
+    .banner ul li { margin-top: 10px; }
+    .banner ul a { font-size: 14px; }
+}
+        </style>
+        <script type="text/javascript">
+			    
+        </script>
+    <!-- global UTM tracker -->
+<script>
+(function () {
+  const params = new URLSearchParams(window.location.search);
+  const utmKeys = [
+    'utm_source',
+    'utm_medium',
+    'utm_campaign',
+    'utm_term',
+    'utm_content'
+  ];
+
+  const now = Date.now();
+  const twoWeeks = 1000 * 60 * 60 * 24 * 14; // 14 days in ms
+
+  const hasUTMInURL = utmKeys.some(key => params.has(key));
+
+  if (hasUTMInURL) {
+    // Save UTM params with timestamp
+    utmKeys.forEach(key => {
+      if (params.has(key)) {
+        const value = params.get(key);
+        if (value) {
+          localStorage.setItem(key, value);
+          localStorage.setItem(`${key}_timestamp`, now.toString());
+        }
+      }
+    });
+  } else {
+    // No UTM params — check for expired or missing timestamps
+    utmKeys.forEach(key => {
+      const ts = parseInt(localStorage.getItem(`${key}_timestamp`), 10);
+      if (isNaN(ts) || now - ts > twoWeeks) {
+        localStorage.removeItem(key);
+        localStorage.removeItem(`${key}_timestamp`);
+      }
+    });
+  }
+})();
+</script>
+
+<meta name="msvalidate.01" content="E4D8C5B11840FBA3553CA1DED804399A" />
+<script type="application/ld+json">
+{"@context" : "https://schema.org","@type" : "WebSite","name" : "Aircraft Owners and Pilots Association (AOPA)","alternateName" : "AOPA","url" : "https://www.aopa.org/","potentialAction":{"@type": "SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.aopa.org/search#q{search_term_string}&sort=relevancy"},"query-input": "required name=search_term_string"}}
+</script>
+
+
+<!-- <head> section GTM Code -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TZM532');</script>
+<!-- End Google Tag Manager -->
+<!-- /<head> section GTM Code -->
+
+<script defer data-domain="aopa.org" src="https://plausible.io/js/script.file-downloads.hash.outbound-links.pageview-props.tagged-events.js"></script>
+<script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+
+
+<script>
+!function(){const e="\n        body:not(.in-sitecore) .jhGated {\n            display: none !important;\n        }\n        body.fonzie:not(.in-sitecore) .jhGate {\n            display: none !important;\n        }\n        body.fonzie:not(.in-sitecore) .jhGated {\n            display: inline-block !important;\n        }\n    ",t=document.createElement("style");t.type="text/css",t.styleSheet?t.styleSheet.cssText=e:t.appendChild(document.createTextNode(e)),document.head.appendChild(t)}();const userLevels={none:0,webuser:1,member:2,pps:3};function getCookieValue(e){const t=document.cookie.split(";");for(let n=0;n<t.length;n++){const s=t[n].trim();if(s.startsWith(e+"="))return decodeURIComponent(s.substring(e.length+1))}return null}function isCookieExpired(e){const t=new Date;return new Date(e)<t}function getUserStatus(){const e=getCookieValue("Ticket");if(!e)return"none";const t=e.match(/expires&([^&]*)/),n=t?t[1]:null,s=e.indexOf("&aces&");if(-1===s)return"webuser";const o=e.indexOf("&",s+6),i=e.substring(s+6,-1!==o?o:e.length).split("*");return i.some((e=>e.startsWith("pps,")))?n&&isCookieExpired(n)?"expired":"pps":i.some((e=>e.startsWith("member,")))?n&&isCookieExpired(n)?"expired":"member":"webuser"}document.addEventListener("DOMContentLoaded",(()=>{const e=getUserStatus();document.querySelectorAll(".jhGated").forEach((t=>{const n=t.getAttribute("data-user-level")||"member";userLevels[e]<userLevels[n]?t.remove():t.style.display="inline-block"})),userLevels[e]>=userLevels.member&&document.body.classList.add("fonzie")}));
+</script>
+
+<style>
+
+@media screen and (min-width: 768px) and (max-width: 1110px) {
+    #mobileDrawer {
+        max-height: 60vh!important;
+        overflow-y: scroll!important;
+    }
+}
+
+
+/* unstickify the nav in EE */
+body.in-sitecore .js-refresh-nav.sticky-header {
+    position: relative!important;
+    z-index: 1!important;
+}
+
+/* Experimental removal of the utility nav going away on scroll */
+.sticky-header .header__links {
+    overflow: visible !important;
+    height: 40px!important;
+}
+
+
+/* Adding a little guy to the My Account link in Utility Nav */
+.utility-wrapper a[href="/account/aopaaccount"] {
+   font-weight: 600;
+    position: relative;
+    padding-left: 17px;
+}
+
+.utility-wrapper a[href="/account/aopaaccount"]:before {
+ content: url("https://download.aopa.org/web/user-icon.svg");
+display: inline-block;
+  width: 12px;
+  height: 10px;
+    position: absolute;
+    left: 0;
+    top: 2px;
+    opacity: 0.7;
+}
+
+
+
+
+
+
+
+
+
+    .hp-hero h3 {
+        bottom: 6px!important;
+    }
+
+
+
+
+.js-dropdown--open {
+    position: absolute;
+    display: block
+}
+ 
+@media(max-width: 1530px) {
+    .secondary-nav li:nth-of-type(3) .js-dropdown--open {
+        right:0;
+    }
+}
+
+
+.aircraftDetailLead a[href="https://www.aopa.org/go-fly/aircraft-and-ownership/buying-an-aircraft/vref-aircraft-valuation"] {
+    display: none!important;
+}
+
+.masonry__lightbox {
+    z-index: 99999!important;
+}
+
+.image-zoomable__zoom.js-image-zoomable__zoom--out  {
+    top: 0!important;
+    right: 20px!important;
+    bottom: auto!important;
+}
+
+.image-zoomable__bigimg {
+    z-index: 99999!important;
+}
+
+.image-zoomable:not(.is-zoomed) .image-zoomable__bigimg {
+    width:0!important;
+}
+
+.alert--notice,
+.alert alert--notice {
+    background-color: #f2c762;
+    color: #493903!important;
+}
+
+.alert--notice .alert__icon svg {
+    fill: #493903!important;
+}
+
+.alert--notice .alert__close:hover {
+    background-color: #493903!important;
+}
+
+.alert--notice .alert__text a {
+    color: #493903!important;
+}
+
+
+body.in-sitecore .js-refresh-nav.sticky-header {
+    display: none!important;
+}
+
+#mobileDrawer {
+    position: relative;
+    z-index: 90;
+}
+
+#breitling-widget,
+#breitling-watch-face,
+#closebutton {
+    z-index: 80!important;
+}
+
+
+
+.header__nav-main-list {
+    background: #ffffff;
+}
+
+</style>
+
+
+
+<script>
+
+
+
+
+
+		var globalVariables = {
+			pps_member_count: "70,000",
+		};
+
+		function aopaGlobalVars( img, reqVar ){
+			/* 
+			this function is triggered by an intentional image-load failure 
+			as the DOM renders image onerror handler requests this function, 
+			along with the variable that it wants from the following object.
+			It then swaps out the .textContent of the failed image's parent
+			with this new value
+			
+			Usage example: 
+			
+			<img src="nope" style="display:none;" onerror="aopaGlobalVars(this, 'variable_name_from_object');">
+			*/
+			
+			if ( val = globalVariables[reqVar]) img.parentNode.textContent = val;
+			return true;
+		}
+
+              function aopaGlobalVarsValue( reqVar ) {
+                       if ( val = globalVariables[reqVar]) return val;
+              }
+
+
+
+
+
+	</script>
+
+
+<style>
+
+    html, body {
+        height: initial!important;
+        min-height: 100vh!important;
+    }
+
+</style>
+
+
+<script>
+
+// Central helpers
+function setCookie(name, value, days, opts) {
+  var d = new Date();
+  d.setTime(d.getTime() + (days * 24 * 60 * 60 * 1000));
+  var parts = [
+    name + "=" + value,
+    "expires=" + d.toUTCString(),
+    "path=/",
+    "SameSite=Lax"
+  ];
+  if (opts && opts.domain) parts.push("domain=" + opts.domain);
+  if (opts && opts.secure) parts.push("Secure");
+  document.cookie = parts.join(";");
+}
+
+function getCookie(name) {
+  var m = document.cookie.match(new RegExp("(?:^|; )" + name.replace(/([.$?*|{}()[\]\\/+^])/g, '\\$1') + "=([^;]*)"));
+  return m ? m[1] : null;
+}
+
+function deleteCookie(name, opts) {
+  var parts = [name + "=; expires=Thu, 01 Jan 1970 00:00:00 GMT", "path=/", "SameSite=Lax"];
+  if (opts && opts.domain) parts.push("domain=" + opts.domain);
+  document.cookie = parts.join(";");
+}
+
+/**
+ * Save current URL and an optional lightweight payload for the thank-you page.
+ * @param {number} daysValid - cookie lifetime in days
+ * @param {object} payload   - small JSON-safe object, e.g. { message, ctaText, ctaHref, refTitle, imageUrl }
+ * @param {object} opts      - { domain: ".aopa.org", secure: true }
+ */
+function globalSetPostRedirect(daysValid = 1, payload = null, opts = {}) {
+  var data = {
+    url: window.location.href,
+    ts: Date.now(),
+    payload: payload || null
+  };
+
+  // Encode JSON compactly and safely for cookie storage
+  var encoded = encodeURIComponent(JSON.stringify(data));
+
+  // Cheap guardrail for cookie size. Trim payload if you must.
+  if (encoded.length > 3500) {
+    console.warn("PostRedirect cookie payload is getting chunky. Trim it under ~3.5KB.");
+  }
+
+  setCookie("PostRedirect", encoded, daysValid, opts);
+}
+
+/** Retrieve parsed data: { url, ts, payload } or null */
+function getPostRedirectData() {
+  var raw = getCookie("PostRedirect");
+  if (!raw) return null;
+  try {
+    return JSON.parse(decodeURIComponent(raw));
+  } catch (_) {
+    return null;
+  }
+}
+
+/** Use once then clear, to avoid weird loops */
+function consumePostRedirect(opts = {}) {
+  var data = getPostRedirectData();
+  deleteCookie("PostRedirect", opts);
+  return data;
+}
+
+</script>
+
+
+
+
+
+
+
+
+    
+<script data-ad-client="ca-pub-9197809393164564" async src="https://securepubads.g.doubleclick.net/pagead/js/adsbygoogle.js"></script>
+
+<script type="text/javascript">
+var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+  var topLeaderboard, middleLeaderboard, bottomLeaderboard, rectangle1, rectangle2, rectangle3,
+    mobileLeaderboard, adhesion, mobileRectangle1, mobileRectangle2, mobileRectangle3, mobileRectangle4,
+    overlay, outstream, widgetRectangle, inlineRectangle1, inlineRectangle2, inlineRectangle3, takeover1, takeover2;
+
+  var isMobile = /iPhone|iPod|BlackBerry|Opera Mini|(android|bb\d+|meego).+mobile/i.test(navigator.userAgent) && screen.width < 720;
+console.log('isMobile: '+isMobile);
+
+  googletag.cmd.push(function() {
+    pushdownSizes = [[970, 90], [970, 250]];
+    leaderboardSizes = [[728, 90], []];
+    rectangleSizes = [[300, 250], [300, 600]];
+    mobileLeaderboardSizes = [[320, 100], []];
+    mobileRectangleSizes = [[300, 250], []];
+    adhesionSizes = [[320, 50], [300, 50]];
+    takeoverSizes = [[2400, 1282], [1, 1]];
+    takeover2Sizes = [[1240, 158], [1, 1]];
+
+    pushdownMapping = googletag.sizeMapping()
+        .addSize([960, 720], pushdownSizes)
+        .addSize([0, 0], [])
+        .build();
+
+    leaderboardMapping = googletag.sizeMapping()
+        .addSize([768, 400], [728, 90], leaderboardSizes)
+        .addSize([0, 0], [])
+        .build();
+
+    rectangleMapping = googletag.sizeMapping()
+        .addSize([960, 720], rectangleSizes)
+        .addSize([768, 400], [300, 250])
+        .addSize([0, 0], [])
+        .build();
+
+    mobileLeaderboardMapping = googletag.sizeMapping()
+        .addSize([0, 0], mobileLeaderboardSizes)
+        .addSize([768, 400], [])
+        .build();
+
+    mobileRectangleMapping = googletag.sizeMapping()
+        .addSize([0, 0], mobileRectangleSizes)
+        .addSize([768, 400], [])
+        .build();
+
+    adhesionMapping = googletag.sizeMapping()
+        .addSize([0, 0], adhesionSizes)
+        .addSize([768, 400], [])
+        .build();
+       
+    takeoverMapping = googletag.sizeMapping()
+        .addSize(takeoverSizes)
+        .addSize([2400, 1282], [1, 1])
+        .build();
+
+    takeover2Mapping = googletag.sizeMapping()
+        .addSize(takeover2Sizes)
+        .addSize([1240, 158], [1, 1])
+        .build();
+
+    if (!isMobile) {
+          topLeaderboard = googletag
+            .defineSlot(
+              "/21794231495/news/leaderboard",
+              pushdownSizes,
+              "div-gpt-ad-leaderboard-top"
+            )
+            .defineSizeMapping(pushdownMapping)
+            .setTargeting('div_id', ['div-gpt-ad-leaderboard-top'])
+            .setTargeting('pos', ['1'])
+            .addService(googletag.pubads());
+          middleLeaderboard = googletag
+            .defineSlot(
+              "/21794231495/news/leaderboard",
+              leaderboardSizes,
+              "div-gpt-ad-leaderboard-middle"
+            )
+            .defineSizeMapping(leaderboardMapping)
+            .setTargeting('div_id', ['div-gpt-ad-leaderboard-middle'])
+            .setTargeting('pos', ['2'])
+            .addService(googletag.pubads());
+          middleLeaderboard2 = googletag
+            .defineSlot(
+              "/21794231495/news/leaderboard",
+              leaderboardSizes,
+              "div-gpt-ad-leaderboard-middle2"
+            )
+            .defineSizeMapping(leaderboardMapping)
+            .setTargeting('div_id', ['div-gpt-ad-leaderboard-middle2'])
+            .setTargeting('pos', ['3'])
+            .addService(googletag.pubads());
+          bottomLeaderboard = googletag
+            .defineSlot(
+              "/21794231495/news/leaderboard",
+              leaderboardSizes,
+              "div-gpt-ad-leaderboard-bottom"
+            )
+            .defineSizeMapping(leaderboardMapping)
+            .setTargeting('div_id', ['div-gpt-ad-leaderboard-bottom'])
+            .setTargeting('pos', ['4'])
+            .addService(googletag.pubads());
+          rectangle1 = googletag
+            .defineSlot(
+              "/21794231495/news/rectangle",
+              rectangleSizes,
+              "div-gpt-ad-rectangle-1"
+            )
+            .defineSizeMapping(rectangleMapping)
+            .setTargeting('div_id', ['div-gpt-ad-rectangle-1'])
+            .setTargeting('pos', ['1'])
+            .addService(googletag.pubads());
+          rectangle2 = googletag
+            .defineSlot(
+              "/21794231495/news/rectangle",
+              rectangleSizes,
+              "div-gpt-ad-rectangle-2"
+            )
+            .defineSizeMapping(rectangleMapping)
+            .setTargeting('div_id', ['div-gpt-ad-rectangle-2'])
+            .setTargeting('pos', ['2'])
+            .addService(googletag.pubads());
+          rectangle3 = googletag
+            .defineSlot(
+              "/21794231495/news/rectangle",
+              rectangleSizes,
+              "div-gpt-ad-rectangle-3"
+            )
+            .defineSizeMapping(rectangleMapping)
+            .setTargeting('div_id', ['div-gpt-ad-rectangle-3'])
+            .setTargeting('pos', ['3'])
+            .addService(googletag.pubads());
+
+           inlineRectangle1 = googletag
+            .defineSlot("/21794231495/news/rectangle", [300, 250], 'div-gpt-ad-rectangle-inline-1')
+            .setTargeting('div_id', ['div-gpt-ad-rectangle-inline-1'])
+            .setTargeting('pos', ['4'])
+            .addService(googletag.pubads());
+
+          inlineRectangle2 = googletag
+            .defineSlot("/21794231495/news/rectangle", [300, 250], 'div-gpt-ad-rectangle-inline-2')
+            .setTargeting('div_id', ['div-gpt-ad-rectangle-inline-2'])
+            .setTargeting('pos', ['5'])
+            .addService(googletag.pubads());
+
+          inlineRectangle3 = googletag
+            .defineSlot("/21794231495/news/rectangle", [300, 250], 'div-gpt-ad-rectangle-inline-3')
+            .setTargeting('div_id', ['div-gpt-ad-rectangle-inline-3'])
+            .setTargeting('pos', ['6'])
+            .addService(googletag.pubads());  
+
+          takeover1 = googletag
+            .defineSlot("/21794231495/news/background_takeover", [[2400, 1282], [1, 1]], 'div-gpt-ad-takeover-1')
+            .setTargeting('div_id', ['div-gpt-ad-takeover-1'])
+            .setTargeting('pos', ['1'])
+            .addService(googletag.pubads());  
+
+          takeover2 = googletag
+            .defineSlot("/21794231495/news/background_takeover2", [[1240, 158], [1, 1]], 'div-gpt-ad-takeover-2')
+            .setTargeting('div_id', ['div-gpt-ad-takeover-2'])
+            .setTargeting('pos', ['1'])
+            .addService(googletag.pubads()); 
+        }
+
+        if (isMobile) {
+          mobileLeaderboard = googletag
+            .defineSlot(
+              "/21794231495/news/mobile_leaderboard",
+              mobileLeaderboardSizes,
+              "div-gpt-ad-leaderboard-mobile"
+            )
+            .defineSizeMapping(mobileLeaderboardMapping)
+            .setTargeting('div_id', ['div-gpt-ad-leaderboard-mobile'])
+            .setTargeting('pos', ['1'])
+            .addService(googletag.pubads());
+          adhesion = googletag
+            .defineSlot(
+              "/21794231495/news/adhesion",
+              adhesionSizes,
+              "div-gpt-ad-adhesion"
+            )
+            .defineSizeMapping(adhesionMapping)
+            .setTargeting('div_id', ['div-gpt-ad-adhesion'])
+            .setTargeting('pos', ['2'])
+            .addService(googletag.pubads());
+          mobileRectangle1 = googletag
+            .defineSlot(
+              "/21794231495/news/mobile_rectangle",
+              mobileRectangleSizes,
+              "div-gpt-ad-rectangle-mobile-1"
+            )
+            .defineSizeMapping(mobileRectangleMapping)
+            .setTargeting('div_id', ['div-gpt-ad-rectangle-mobile-1'])
+            .setTargeting('pos', ['1'])
+            .addService(googletag.pubads());
+          mobileRectangle2 = googletag
+            .defineSlot(
+              "/21794231495/news/mobile_rectangle",
+              mobileRectangleSizes,
+              "div-gpt-ad-rectangle-mobile-2"
+            )
+            .defineSizeMapping(mobileRectangleMapping)
+            .setTargeting('div_id', ['div-gpt-ad-rectangle-mobile-2'])
+            .setTargeting('pos', ['2'])
+            .addService(googletag.pubads());
+          mobileRectangle3 = googletag
+            .defineSlot(
+              "/21794231495/news/mobile_rectangle",
+              mobileRectangleSizes,
+              "div-gpt-ad-rectangle-mobile-3"
+            )
+            .defineSizeMapping(mobileRectangleMapping)
+            .setTargeting('div_id', ['div-gpt-ad-rectangle-mobile-3'])
+            .setTargeting('pos', ['3'])
+            .addService(googletag.pubads());
+          mobileRectangle4 = googletag
+            .defineSlot(
+              "/21794231495/news/mobile_rectangle",
+              mobileRectangleSizes,
+              "div-gpt-ad-rectangle-mobile-4"
+            )
+            .defineSizeMapping(mobileRectangleMapping)
+            .setTargeting('div_id', ['div-gpt-ad-rectangle-mobile-4'])
+            .setTargeting('pos', ['4'])
+            .addService(googletag.pubads());
+
+            takeover1 = googletag
+            .defineSlot("/21794231495/news/background_takeover", [[2400, 1282], [1, 1]], 'div-gpt-ad-takeover-1')
+            .setTargeting('div_id', ['div-gpt-ad-takeover-1'])
+            .setTargeting('pos', ['1'])
+            .addService(googletag.pubads());  
+
+            takeover2 = googletag
+            .defineSlot("/21794231495/news/background_takeover2", [[1240, 158], [1, 1]], 'div-gpt-ad-takeover-2')
+            .setTargeting('div_id', ['div-gpt-ad-takeover-2'])
+            .setTargeting('pos', ['1'])
+            .addService(googletag.pubads());  
+        }
+
+        widgetRectangle = googletag
+            .defineSlot("/21794231495/widget", [300, 500], 'div-gpt-ad-1555436956123-0')
+            .setTargeting('div_id', ['div-gpt-ad-1555436956123-0'])
+            .setTargeting('pos', ['4'])
+            .addService(googletag.pubads());
+
+        overlay = googletag
+          .defineOutOfPageSlot("/21794231495/news/oop", "div-gpt-ad-oop")
+          .setTargeting('div_id', ['div-gpt-ad-oop'])
+          .setTargeting('pos', ['4'])
+          .addService(googletag.pubads());
+        outstream = googletag
+          .defineOutOfPageSlot("/21794231495/news/outstream", "div-gpt-ad-outstream")
+          .setTargeting('div_id', ['div-gpt-ad-outstream'])
+          .setTargeting('pos', ['5'])
+          .addService(googletag.pubads());
+        googletag.pubads()
+         .setTargeting('section','')
+.setTargeting('subsection','')
+
+.setTargeting('subsection2','')
+
+.setTargeting('topic',[])
+.setTargeting('aid','08798aef-4763-4f29-be2b-d136a5e928ef')
+.setTargeting('publication','')
+
+.setTargeting('publication_issue','')
+
+.setTargeting('ps.asnvolunteer','false')
+.setTargeting('ps.member','false')
+.setTargeting('ps.pps','false')
+.setTargeting('ps.osc','false')
+.setTargeting('ps.expires','')
+
+.setTargeting('ps.homeairport','')
+
+.setTargeting('pilottype','')
+
+.setTargeting('kw','')
+.setTargeting('page_type','Content Page')
+.setTargeting('isprod','true')
+;
+    googletag.pubads().collapseEmptyDivs();
+    googletag.pubads().disableInitialLoad();
+    googletag.enableServices();
+  });
+</script>
+    
+
+    
+
+    <meta name="referrer" content="no-referrer-when-downgrade">
+</head>
+
+<body class="join">
+    <script type='text/javascript'> author=''; topic=''; mem=''; memtype='';acttype=''; </script>
+    
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TZM532"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<style>
+
+.alert:not(.alert--notice) {
+    font-size: 1.2em!important;
+}
+.alerts {
+    display: block!important;
+}
+
+
+/* Hiding bookmark icon */
+	div.breadcrumbs .breadcrumbs__bookmark {
+		display: none!important;
+	}
+
+/* HIDING THE SHARE VIA EMAIL ICON */
+.at-icon-wrapper.at-share-btn.at-svc-email {
+	display: none!important;	
+}
+
+// temporary gated content styles, pending merge into master
+
+.gated-content-upsell {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 0.625rem;
+}
+
+@media screen and (min-width: 521px) {
+  .gated-content-upsell {    
+	padding: 0 20px;    
+	padding: 0 1.25rem;
+  }
+}
+
+@media screen and (min-width: 1201px) {
+  .gated-content-upsell {    
+	padding: 0 0;
+  }
+}
+
+.app *, .app *:after, .app *:before { 
+    display: none!important; 
+}
+	
+/* home page hero font hot-fix */
+h2.hero__title,
+.footer__large-link,
+.footer__info strong {
+	font-family: Raleway, Helvetica, Arial, sans-serif!important;
+}
+
+@media screen and (max-width: 759px) {
+
+.header__burger {
+    margin-left: auto;
+}
+
+    .accountpages .myaccount_sub_nav {
+        flex-wrap: wrap!important;
+        border-top: 1px solid #eee!important;
+    }
+
+
+    .accountpages .myaccount_sub_nav li {
+        display: block!important;
+        width: 50%!important;
+        margin-bottom: 0!important;
+        border-bottom: 1px solid #eee;
+    }
+
+    .accountpages .myaccount_sub_nav li:nth-child(2n) {
+        border-left: 1px solid #eee!important;
+    }
+
+    .accountpages a.button {
+        padding: 1em 2em!important;
+        margin: 1em 0!important;
+    }
+
+    .accountpages .membership_info_fields {
+        padding: 0 20px!important;
+    }
+
+    .accountpages .CCPAFooter {
+        padding: 20px!important;
+    }
+    
+}
+
+/*add CSS from GAM*/
+#div-gpt-ad-rectangle-mobile-1.advertisement--old-inline, #div-gpt-ad-rectangle-mobile-2.advertisement--old-inline, #div-gpt-ad-rectangle-mobile-3.advertisement--old-inline, #div-gpt-ad-rectangle-mobile-4.advertisement--old-inline{
+display:block;
+}
+@media (min-width: 881px){
+#div-gpt-ad-rectangle-mobile-1.advertisement--old-inline, #div-gpt-ad-rectangle-mobile-2.advertisement--old-inline, #div-gpt-ad-rectangle-mobile-3.advertisement--old-inline, #div-gpt-ad-rectangle-mobile-4.advertisement--old-inline{
+display:none;
+}
+}
+/*****  ADVERTISING *****/
+/* leaderboard */ 
+#div-gpt-ad-leaderboard-top iframe[data-is-safeframe='true']:hover, 
+#div-gpt-ad-leaderboard-top.hoverIE iframe {  
+	 height: 415px !important;  transition: all 400ms ease-in-out; 
+}
+
+/* expand Right sidebar Ad */
+
+#div-gpt-ad-rectangle-1 iframe[data-is-safeframe='true']:hover, 
+#div-gpt-ad-rectangle-2 iframe[data-is-safeframe='true']:hover,
+#div-gpt-ad-rectangle-3 iframe[data-is-safeframe='true']:hover,
+#div-gpt-ad-rectangle-4 iframe[data-is-safeframe='true']:hover,
+.column-300 #div-gpt-ad-rectangle-inline-1 iframe[data-is-safeframe='true']:hover,
+.column-300 #div-gpt-ad-rectangle-inline-2 iframe[data-is-safeframe='true']:hover,
+.column-300 #div-gpt-ad-rectangle-inline-3 iframe[data-is-safeframe='true']:hover,
+.column-300 #div-gpt-ad-rectangle-inline-4 iframe[data-is-safeframe='true']:hover,
+.column-373 #div-gpt-ad-rectangle-inline-1 iframe[data-is-safeframe='true']:hover,
+.column-373 #div-gpt-ad-rectangle-inline-2 iframe[data-is-safeframe='true']:hover,
+.column-373 #div-gpt-ad-rectangle-inline-3 iframe[data-is-safeframe='true']:hover,
+.column-373 #div-gpt-ad-rectangle-inline-4 iframe[data-is-safeframe='true']:hover,
+#div-gpt-ad-rectangle-1.hoverIE iframe,
+#div-gpt-ad-rectangle-2.hoverIE iframe,
+#div-gpt-ad-rectangle-3.hoverIE iframe,
+#div-gpt-ad-rectangle-inline-1.hoverIE iframe
+#div-gpt-ad-rectangle-inline-2.hoverIE iframe,
+#div-gpt-ad-rectangle-inline-3.hoverIE iframe {
+	width: 600px;
+	 transform: translateX(-300px);
+	transition: all 400ms ease-in-out;
+		position: relative;
+		z-index: 3;
+}
+
+  .column-860 #div-gpt-ad-rectangle-inline-1 .expandAd250R::after {
+	transform: rotate(-90deg);
+	left: calc(100% - 30px);
+		border-top-left-radius: 0;
+	}
+	.column-860 #div-gpt-ad-rectangle-inline-1 .expandAd250:hover::after {
+	   left: 572px;
+	   transform: rotate(90deg);
+	   border-bottom-left-radius: 0;
+	}
+
+
+
+/* expandAd250 inline */
+@media screen and (min-width: 610px) {
+  #div-gpt-ad-rectangle-inline-1 iframe[data-is-safeframe='true']:hover, 
+ #div-gpt-ad-rectangle-inline-1.hoverIE iframe {
+	width: 600px;
+	transition: all 400ms ease-in-out;
+		position: relative;
+		z-index: 3;
+  }
+}
+@media (min-width: 881px){
+#div-gpt-ad-1555436956123-0 div, #div-gpt-ad-1555436956123-0 div iframe{
+width:100% !important;
+height:540px !important;
+}
+}
+
+.intro-block__dateline{
+display:flex;
+height:45px;
+}
+
+.intro-block__magazinelogo svg{
+width:188px;
+margin-right:10px;
+overflow:visible; 
+fill: #878a8b;
+}
+.zEWidget-launcher { margin-bottom: 90px !important; }
+
+.hp-widgets__tools .widget-content section form input{
+line-height:0;
+}
+@media (min-width: 881px){.footer a.footer__social-link--shareaviation{display:none;}}
+.footer a.footer__social-link--shareaviation{display:none;}
+
+@media (max-width: 480px){
+	.column-860 .richtext img{
+		width:100% !important;
+	}
+}
+.lounchjep { display:none; }
+
+
+
+
+.pic-modal-overlay {
+	height: 0%;
+	overflow: hidden;
+}
+.pic-modal {
+	display: none;
+	height: 0%;
+	overflow: hidden;
+}
+</style>
+
+<script>
+// add a sitecore class if we're in EE
+document.addEventListener("DOMContentLoaded", function() {
+    if (window.Sitecore && window.Sitecore.PageModes && window.Sitecore.PageModes.ChromeManager) {
+        document.body.classList.add("in-sitecore");
+    }
+});
+
+
+// Update YCF modal success address
+if (window.location.href.indexOf("/training-and-safety") > 0) {
+	// Excludes /cfis and /lapsed-pilots sections
+	if ((window.location.href.indexOf("/cfis") == -1) && (window.location.href.indexOf("/lapsed-pilots") == -1)) {
+		// In the correct site section, defer until jQuery loads
+		defer(waitForYCFModal);
+	} else {
+		// Exit out, wrong subsection
+	}
+} else {
+	// Exit out, wrong site section
+}
+
+// Defer again for finding YCF element, which will be instantiated by jquery
+function deferYCF(method) {
+	var ycfModalPresent = document.getElementById("ycf-form");
+	if(ycfModalPresent) {
+		// Found YCF element, call method
+		method();
+	} else {
+		// Defer YCF tick
+		setTimeout(function() { deferYCF(method) }, 250);
+	}
+}
+function waitForYCFModal () {
+	deferYCF(updateYCFModal);
+}
+
+function updateYCFModal() {
+		document.getElementById("YCFSpecialEdForm").elements["_successURL"].value = "https://www.aopa.org/External-Redirects-and-Vanity-URLs/You-Can-Fly/Special-Edition-Nxtbook-redirect";
+}
+
+</script>
+
+<style>
+.coveo-facet-breadcrumb-clear {
+	position: relative;
+}
+.coveo-facet-breadcrumb-value {
+	background-color: #e6e6e6 !important;
+}
+</style>
+
+<script>
+function setCookie(name,value,days) {
+	var expires = "";
+	if (days) {
+		var date = new Date();
+		date.setTime(date.getTime() + (days*24*60*60*1000));
+		expires = "; expires=" + date.toUTCString();
+	}
+	document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+}
+
+setCookie('aopaYCF-special','true',7);
+</script>
+
+    <!-- BEGIN NOINDEX -->
+        <!-- Advertisement -->
+        <div class="advertisement">
+            <div class="l-wrapper">
+                <div class="l-column">
+                    <div id="div-gpt-ad-leaderboard-top">
+  <script>
+      if (!isMobile) {
+        googletag.cmd.push(function() {googletag.display('div-gpt-ad-leaderboard-top');googletag.pubads().refresh([topLeaderboard]);});
+      }
+  </script>
+</div>
+
+<div id="div-gpt-ad-leaderboard-mobile">
+    <script>
+        if (isMobile) {
+            googletag.cmd.push(function() {googletag.display('div-gpt-ad-leaderboard-mobile');googletag.pubads().refresh([mobileLeaderboard]);});
+        }
+    </script>
+  </div>
+
+                </div>
+            </div>
+        </div>
+
+
+    
+    
+    
+
+    
+    	<div class="alerts">
+	</div>
+
+    
+
+    
+<nav class="js-refresh-nav">
+  <div class="sticky-header-wrapper" style="height:auto">
+    <header class="header" id="header" style="top: -177px">
+      <div class="header__links">
+        <div class="l-wrapper">
+          <div class="l-column">
+            <ul class="utility-wrapper">
+                <li>
+    <a class="single-link" title="AOPA Foundation" href="https://foundation.aopa.org/" target="|Custom">AOPA Foundation</a>
+  </li>
+  <li>
+    <a class="single-link" href="https://webforms.aopa.org/give/756164/#!/donation/checkout">Donate</a>
+  </li>
+  <li>
+    <a class="single-link" href="https://www.aopa.org/login">LOGIN</a>
+  </li>
+
+                <li>
+    <a class="user-status-link" href="https://www.aopa.org/account/multipagejoin?pid=517757842&amp;keycode=M2007W01">Join Now</a>
+  </li>
+
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="l-wrapper main-nav-links">
+            <div class="header__logo--sticky">
+        <a href="/" aria-label="AOPA home">
+            <img src="/-/media/Images/AOPA-Main/AOPA-Special-Use-Logo_Wings-Only.png?h=22&amp;iar=0&amp;w=112&amp;hash=621EA0995F83A5CFCE32103196C46772" alt="AOPA" width="112" height="22" />
+        </a>
+    </div>
+<div class="header__aopa-links">
+  <ul class="secondary-nav">
+        <li class="secondary-item">
+          <button type="button" class="js-dropdownBtn secondary-nav__btn">
+            Products &amp; Discounts
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="feather feather-chevron-down dropdown-arrow">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
+          <ul class="secondary-dropdown hidden">
+            <li>
+              <div class="dropdown-menu__dropdown">
+                <div class="col-left">
+                  <p class="col-left__title">Products &amp; Discounts</p>
+                </div>
+                <div class="col-right">
+<a class="col-right__links" href="/membership/member-offers">Member Discounts</a><a class="col-right__links" href="/membership/products-and-discounts">AOPA Products &amp; Savings</a>                </div>
+              </div>
+            </li>
+          </ul>
+        </li>
+        <li class="secondary-item">
+          <button type="button" class="js-dropdownBtn secondary-nav__btn">
+            Medical, Licensing &amp; Career
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="feather feather-chevron-down dropdown-arrow">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
+          <ul class="secondary-dropdown hidden">
+            <li>
+              <div class="dropdown-menu__dropdown">
+                <div class="col-left">
+                  <p class="col-left__title">Medical, Licensing &amp; Career</p>
+                </div>
+                <div class="col-right">
+<a class="col-right__links" href="/go-fly/medical-resources">Medical Resources</a><a class="col-right__links" href="/go-fly/basicmed">BasicMed</a><a class="col-right__links" href="https://www.aopa.org/training-and-safety/cfis/flight-instructor-resources/cfi-renewal">CFI Renewal (eFIRC)</a><a class="col-right__links" href="/go-fly/pic">Pilot Information Center</a><a class="col-right__links" href="/training-and-safety/career">Career Pilots</a><a class="col-right__links" href="/about/hr/aviation-job-postings">Aviation Job Board</a>                </div>
+              </div>
+            </li>
+          </ul>
+        </li>
+        <li class="secondary-item">
+          <button type="button" class="js-dropdownBtn secondary-nav__btn">
+            Aircraft &amp; Ownership
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="feather feather-chevron-down dropdown-arrow">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
+          <ul class="secondary-dropdown hidden">
+            <li>
+              <div class="dropdown-menu__dropdown">
+                <div class="col-left">
+                  <p class="col-left__title">Aircraft &amp; Ownership</p>
+                </div>
+                <div class="col-right">
+<a class="col-right__links" href="/go-fly/aircraft-and-ownership" target="|Custom">Aircraft &amp; Ownership</a><a class="col-right__links" href="/go-fly/aircraft-and-ownership/aircraft-guide">Aircraft Guide</a><a class="col-right__links" href="https://finance.aopa.org/">AOPA Finance</a><a class="col-right__links" title="Aircraft Valuation" href="/go-fly/aircraft-and-ownership/buying-an-aircraft/aircraft-valuation">Aircraft Valuation</a><a class="col-right__links" href="https://youcanfly.aopa.org/flying-clubs/flying-club-finder#t=tagFlyingClubs&amp;sort=%40aopaufbusinessname%20ascending">Flying Club Finder</a><a class="col-right__links" href="https://www.assuredpartners.com/aerospace/light-aircraft-insurance/?utm_source=aopa&amp;utm_medium=web&amp;utm_campaign=website">Insurance</a><a class="col-right__links" href="/go-fly/aircraft-and-ownership/operating-costs-calculator">Operating Costs Calculator</a><a class="col-right__links" href="/go-fly/aircraft-and-ownership/buying-an-aircraft">Buying an Aircraft</a><a class="col-right__links" href="/go-fly/aircraft-and-ownership/selling-an-aircraft">Selling an Aircraft</a>                </div>
+              </div>
+            </li>
+          </ul>
+        </li>
+        <li class="secondary-item">
+          <button type="button" class="js-dropdownBtn secondary-nav__btn">
+            About AOPA
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="feather feather-chevron-down dropdown-arrow">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
+          <ul class="secondary-dropdown hidden">
+            <li>
+              <div class="dropdown-menu__dropdown">
+                <div class="col-left">
+                  <p class="col-left__title">About AOPA</p>
+                </div>
+                <div class="col-right">
+<a class="col-right__links" href="/about" target="|Custom">About AOPA</a><a class="col-right__links" href="/advertising" target="|Custom">Advertising</a><a class="col-right__links" href="https://iaopa.aopa.org/" target="|Custom">AOPA International</a><a class="col-right__links" href="/about/aopa-partners" target="|Custom">AOPA Partners</a><a class="col-right__links" href="https://www.flightoutfitters.com/aopa/">AOPA Merchandise</a><a class="col-right__links" href="/about/contact-aopa" target="|Custom">Contact AOPA</a><a class="col-right__links" href="/about/governance" target="|Custom">Governance</a><a class="col-right__links" href="/about/hr" target="|Custom">Join the AOPA Team</a><a class="col-right__links" href="/media-room" target="|Custom">Media Room</a><a class="col-right__links" href="/about/mission-vision-and-values" target="|Custom">Mission, Vision and Values</a>                </div>
+              </div>
+            </li>
+          </ul>
+        </li>
+    <li class="header__search">
+      ﻿    <button id="search-btn" type="button">
+      <svg viewBox="0 0 216 146">
+        <path d="M172.77,123.025L144.825,95.08c6.735-9.722,10.104-20.559,10.104-32.508c0-7.767-1.508-15.195-4.523-22.283
+ c-3.014-7.089-7.088-13.199-12.221-18.332s-11.242-9.207-18.33-12.221c-7.09-3.015-14.518-4.522-22.285-4.522
+ c-7.767,0-15.195,1.507-22.283,4.522c-7.089,3.014-13.199,7.088-18.332,12.221c-5.133,5.133-9.207,11.244-12.221,18.332
+ c-3.015,7.089-4.522,14.516-4.522,22.283c0,7.767,1.507,15.193,4.522,22.283c3.014,7.088,7.088,13.197,12.221,18.33
+ c5.133,5.134,11.244,9.207,18.332,12.222c7.089,3.015,14.516,4.522,22.283,4.522c11.951,0,22.787-3.369,32.509-10.104l27.945,27.863
+ c1.955,2.064,4.397,3.096,7.332,3.096c2.824,0,5.27-1.032,7.332-3.096c2.064-2.063,3.096-4.508,3.096-7.332
+ C175.785,127.479,174.781,125.034,172.77,123.025z M123.357,88.357c-7.143,7.143-15.738,10.714-25.787,10.714
+ c-10.048,0-18.643-3.572-25.786-10.714c-7.143-7.143-10.714-15.737-10.714-25.786c0-10.048,3.572-18.644,10.714-25.786
+ c7.142-7.143,15.738-10.714,25.786-10.714c10.048,0,18.643,3.572,25.787,10.714c7.143,7.142,10.715,15.738,10.715,25.786
+ C134.072,72.62,130.499,81.214,123.357,88.357z"></path>
+      </svg>
+      Search
+    </button>
+<form action="/trust.txt" class="hidden" id="search-form" method="post"><input name="__RequestVerificationToken" type="hidden" value="4CxJ5zmPEgbPAtTmhuDre3e6wEQxE5LdSmG8UY1EJfNDQ7zPzW_qlDbgqSFhK6vj92loKLFK15pYr9nFXGn7muqxtiz8hHapTof6F4EqJMo1" /><input id="scController" name="scController" type="hidden" value="Header" /><input id="scAction" name="scAction" type="hidden" value="QuickSearchBarSubmit" /><input id="scArea" name="scArea" type="hidden" value="Aopa" /><input id="SearchPageUrl" name="SearchPageUrl" type="hidden" value="/search" />      <label for="search-submit">
+        <button id="search-submit" type="submit">
+          <svg role="img" viewBox="0 0 216 146">
+            <title>Search submit button</title>
+            <path d="M172.77,123.025L144.825,95.08c6.735-9.722,10.104-20.559,10.104-32.508c0-7.767-1.508-15.195-4.523-22.283
+ c-3.014-7.089-7.088-13.199-12.221-18.332s-11.242-9.207-18.33-12.221c-7.09-3.015-14.518-4.522-22.285-4.522
+ c-7.767,0-15.195,1.507-22.283,4.522c-7.089,3.014-13.199,7.088-18.332,12.221c-5.133,5.133-9.207,11.244-12.221,18.332
+ c-3.015,7.089-4.522,14.516-4.522,22.283c0,7.767,1.507,15.193,4.522,22.283c3.014,7.088,7.088,13.197,12.221,18.33
+ c5.133,5.134,11.244,9.207,18.332,12.222c7.089,3.015,14.516,4.522,22.283,4.522c11.951,0,22.787-3.369,32.509-10.104l27.945,27.863
+ c1.955,2.064,4.397,3.096,7.332,3.096c2.824,0,5.27-1.032,7.332-3.096c2.064-2.063,3.096-4.508,3.096-7.332
+ C175.785,127.479,174.781,125.034,172.77,123.025z M123.357,88.357c-7.143,7.143-15.738,10.714-25.787,10.714
+ c-10.048,0-18.643-3.572-25.786-10.714c-7.143-7.143-10.714-15.737-10.714-25.786c0-10.048,3.572-18.644,10.714-25.786
+ c7.142-7.143,15.738-10.714,25.786-10.714c10.048,0,18.643,3.572,25.787,10.714c7.143,7.142,10.715,15.738,10.715,25.786
+ C134.072,72.62,130.499,81.214,123.357,88.357z"></path>
+          </svg>
+        </button>
+      </label>
+      <label for="Keyword"><input id="Keyword" name="Keyword" type="text" placeholder="Search by keyword"></label>
+      <button id="clear-search" aria-label="clear search input" type="reset">
+        <svg role="img" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg"><title>Clear search input button</title><path d="M8.51427 9.66683L5.00065 6.15321L1.48704 9.66683L0.333984 8.51378L3.8476 5.00016L0.333984 1.48655L1.48704 0.333496L5.00065 3.84711L8.51427 0.333496L9.66732 1.48655L6.1537 5.00016L9.66732 8.51378L8.51427 9.66683Z" fill="#002A3A"></path></svg>
+      </button>
+</form>
+    </li>
+  </ul>
+</div><div class="header__logo">
+  <a href="/" aria-label="AOPA home">
+<img src="/-/media/Images/AOPA-Main/aopa-logo_96x51.svg?iar=0&amp;w=112&amp;hash=4D2F91DC6A9D873C830DC9C26FD2A253" alt="AOPA" width="112" />  </a>
+</div>
+        <div class="header__nav">
+  <ul class="header__nav-main-list">
+        <li class="primary-item">
+          <a class="primary-link" href="#"
+                  aria-label="Open dropdown menu"
+                  type="button">
+            News &amp; Media
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="primary-arrow feather feather-chevron-down">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </a>
+          <ul class="header__nav-sub-list wrapNav primary-grid hidden">
+              <div class="primary-grid__text">
+                  <p class="primary-grid__title">
+                      News &amp; Media
+                  </p>
+                      <p class="primary-grid__description">
+                          Immerse yourself in a world of aviation insights: Explore in-depth articles, watch engaging videos, listen to enlightening podcasts, and join informative webinars.
+                      </p>
+                                </div>
+
+                  <div class="primary-grid__col1">
+                          <li>
+                              <a href="https://aopa.org/news-and-media/news-by-topic">Latest News</a>
+                          </li>
+                          <li>
+                              <a href="/news-and-media/publications">Magazines</a>
+                          </li>
+                          <li>
+                              <a href="/news-and-media/aopa-video">Videos</a>
+                          </li>
+                          <li>
+                              <a href="/news-and-media/podcasts/podcasts">Podcasts</a>
+                          </li>
+                  </div>
+                  <div class="primary-grid__col2">
+                          <li>
+                              <a href="/training-and-safety/online-learning/webinar-gallery">Webinars</a>
+                          </li>
+                          <li>
+                              <a href="/media-room">Media Room</a>
+                          </li>
+                          <li>
+                              <a href="/about/contact-aopa">Contact Us</a>
+                          </li>
+                          <li>
+                              <a href="/news-and-media/publications/newsletters">Newsletters</a>
+                          </li>
+                  </div>
+          </ul>
+        </li>
+        <li class="primary-item">
+          <a class="primary-link" href="#"
+                  aria-label="Open dropdown menu"
+                  type="button">
+            Training &amp; Safety
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="primary-arrow feather feather-chevron-down">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </a>
+          <ul class="header__nav-sub-list wrapNav primary-grid hidden">
+              <div class="primary-grid__text">
+                  <p class="primary-grid__title">
+                      Training &amp; Safety
+                  </p>
+                      <p class="primary-grid__description">
+                          Embark on a journey of continuous learning: from prepping for checkrides, perfecting instrument approaches, to proficiency flights. Enhance your aviation skills here!
+                      </p>
+                                </div>
+
+                  <div class="primary-grid__col1">
+                          <li>
+                              <a href="/training-and-safety" target="|Custom">Training &amp; Safety Home</a>
+                          </li>
+                          <li>
+                              <a href="/training-and-safety/learn-to-fly">Learn to Fly</a>
+                          </li>
+                          <li>
+                              <a href="/training-and-safety/air-safety-institute">Air Safety Institute</a>
+                          </li>
+                          <li>
+                              <a title="CFI Renewal (eFIRC)" href="https://www.aopa.org/training-and-safety/cfis/flight-instructor-resources/cfi-renewal">CFI Renewal (eFIRC)</a>
+                          </li>
+                          <li>
+                              <a href="/training-and-safety/flight-schools">Flight Schools</a>
+                          </li>
+                          <li>
+                              <a href="/training-and-safety/students">Students</a>
+                          </li>
+                  </div>
+                  <div class="primary-grid__col2">
+                          <li>
+                              <a href="https://www.aopa.org/training-and-safety/learn-to-fly/flight-schools#t=tagFlightSchools&amp;sort=%40aopaufbusinessname%20ascending">Flight School Finder</a>
+                          </li>
+                          <li>
+                              <a title="College Directory" href="/training-and-safety/learn-to-fly/colleges">College Directory</a>
+                          </li>
+                          <li>
+                              <a title="CFIs" href="/training-and-safety/cfis">CFIs</a>
+                          </li>
+                          <li>
+                              <a href="/training-and-safety/lapsed-pilots">Lapsed Pilots</a>
+                          </li>
+                          <li>
+                              <a href="/training-and-safety/active-pilots">Active Pilots</a>
+                          </li>
+                          <li>
+                              <a href="/training-and-safety/career">Career Pilots</a>
+                          </li>
+                  </div>
+                  <div class="primary-grid__col3">
+                          <li>
+                              <a href="/training-and-safety/flight-schools/aopa-flight-training-advantage">AOPA Flight Training Advantage</a>
+                          </li>
+                          <li>
+                              <a href="/go-fly/pic">Pilot Information Center</a>
+                          </li>
+                          <li>
+                              <a href="/training-and-safety/online-learning">Online Learning</a>
+                          </li>
+                          <li>
+                              <a href="/training-and-safety/flight-schools/flight-training-initiative/flight-training-awards-announcement" target="|Custom">Flight Training Awards</a>
+                          </li>
+                          <li>
+                              <a href="http://youcanfly.aopa.org/">You Can Fly</a>
+                          </li>
+                          <li>
+                              <a title="Aviation Scholarships" href="/training-and-safety/students/aopa-flight-training-scholarships" target="|Custom">Aviation Scholarships</a>
+                          </li>
+                  </div>
+          </ul>
+        </li>
+        <li class="primary-item">
+          <a class="primary-link" href="#"
+                  aria-label="Open dropdown menu"
+                  type="button">
+            Plan a Trip
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="primary-arrow feather feather-chevron-down">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </a>
+          <ul class="header__nav-sub-list wrapNav primary-grid hidden">
+              <div class="primary-grid__text">
+                  <p class="primary-grid__title">
+                      Plan a Trip
+                  </p>
+                      <p class="primary-grid__description">
+                          Embark on your next aviation adventure: Explore exciting destinations, read inspiring travel stories, plan your trip with our flight planner, and access exclusive discounts!
+                      </p>
+                                </div>
+
+                  <div class="primary-grid__col1">
+                          <li>
+                              <a href="/travel" target="|Custom">Trip Planning Home</a>
+                          </li>
+                          <li>
+                              <a title="Airport Directory" href="https://aopa.org/destinations/?t=airports">Airport Directory</a>
+                          </li>
+                          <li>
+                              <a title="Explore Destinations" href="https://aopa.org/destinations/?t=activities">Explore Destinations</a>
+                          </li>
+                          <li>
+                              <a href="/travel/destinations">Travel Stories</a>
+                          </li>
+                  </div>
+                  <div class="primary-grid__col2">
+                          <li>
+                              <a href="/travel/aopa-flight-planner">AOPA Flight Planner</a>
+                          </li>
+                          <li>
+                              <a href="/go-fly/tfrs">TFRs</a>
+                          </li>
+                          <li>
+                              <a href="/travel/aopa-weather">AOPA Weather</a>
+                          </li>
+                          <li>
+                              <a href="/travel/international-travel">International and Cross-Border Travel</a>
+                          </li>
+                  </div>
+                  <div class="primary-grid__col3">
+                          <li>
+                              <a href="/travel/travel-discounts" target="|Custom">Travel Discounts</a>
+                          </li>
+                          <li>
+                              <a href="/travel/emergency-assistance-plus">Emergency Assistance Plus</a>
+                          </li>
+                  </div>
+          </ul>
+        </li>
+        <li class="primary-item">
+          <a class="primary-link" href="#"
+                  aria-label="Open dropdown menu"
+                  type="button">
+            Events
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="primary-arrow feather feather-chevron-down">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </a>
+          <ul class="header__nav-sub-list wrapNav primary-grid hidden">
+              <div class="primary-grid__text">
+                  <p class="primary-grid__title">
+                      Events
+                  </p>
+                      <p class="primary-grid__description">
+                          Join the vibrant aviation community: Attend showcases, connect with fellow enthusiasts, participate in fly-ins, and immerse yourself in aviation events!
+                      </p>
+                                </div>
+
+                  <div class="primary-grid__col1">
+                          <li>
+                              <a href="/community" target="|Custom">AOPA Events Home</a>
+                          </li>
+                          <li>
+                              <a title="AOPA Events Calendar" href="https://aopa.org/destinations/?t=events">AOPA Events Calendar</a>
+                          </li>
+                          <li>
+                              <a href="/community/buckeye-air-fair-old" target="|Custom">AOPA Fly-In at the Buckeye Air Fair</a>
+                          </li>
+                          <li>
+                              <a title="AOPA President&#39;s Tour" href="/community/presidents-tour">AOPA President&#39;s Tour</a>
+                          </li>
+                          <li>
+                              <a href="/community/bob-hoover-award">Hoover Trophy Reception</a>
+                          </li>
+                  </div>
+                  <div class="primary-grid__col2">
+                          <li>
+                              <a title="AOPA Aviation Career Expo" href="/community/aopa-aviation-career-expo">AOPA Aviation Career Expo</a>
+                          </li>
+                          <li>
+                              <a href="/community/old-sun-n-fun">AOPA at SUN &#39;n FUN</a>
+                          </li>
+                          <li>
+                              <a href="/community/airventure">AOPA at EAA AirVenture</a>
+                          </li>
+                          <li>
+                              <a href="/community/triple-tree" target="|Custom">AOPA at the Triple Tree Fly-In</a>
+                          </li>
+                          <li>
+                              <a href="http://youcanfly.aopa.org/high-school/symposium" target="|Custom">High School Aviation STEM Symposium</a>
+                          </li>
+                  </div>
+          </ul>
+        </li>
+        <li class="primary-item">
+          <a class="primary-link" href="#"
+                  aria-label="Open dropdown menu"
+                  type="button">
+            Advocacy
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="primary-arrow feather feather-chevron-down">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </a>
+          <ul class="header__nav-sub-list wrapNav primary-grid hidden">
+              <div class="primary-grid__text">
+                  <p class="primary-grid__title">
+                      Advocacy
+                  </p>
+                      <p class="primary-grid__description">
+                          Join us in protecting your freedom to fly: Engage with state agencies, monitor airports, participate in lobbying efforts, and support general aviation!
+                      </p>
+                                </div>
+
+                  <div class="primary-grid__col1">
+                          <li>
+                              <a href="/advocacy" target="|Custom">AOPA Advocacy Home</a>
+                          </li>
+                          <li>
+                              <a href="/advocacy/100-unleaded-avgas">100 Unleaded Avgas</a>
+                          </li>
+                          <li>
+                              <a href="/advocacy/pilots">Pilot Advocacy</a>
+                          </li>
+                          <li>
+                              <a href="/advocacy/basicmed">BasicMed</a>
+                          </li>
+                          <li>
+                              <a href="/advocacy/state-advocacy">State Advocacy</a>
+                          </li>
+                          <li>
+                              <a href="/advocacy/aircraft">Aircraft Regulation</a>
+                          </li>
+                  </div>
+                  <div class="primary-grid__col2">
+                          <li>
+                              <a title="Airport Support Network" href="/advocacy/airport-support-network" target="|Custom">Airport Support Network</a>
+                          </li>
+                          <li>
+                              <a href="/advocacy/know-before-you-go">Transparency</a>
+                          </li>
+                          <li>
+                              <a href="/advocacy/airports-and-airspace">Airports, Airspace and Weather</a>
+                          </li>
+                          <li>
+                              <a href="/advocacy/take-action/political-action-committee">Political Action Committee</a>
+                          </li>
+                          <li>
+                              <a href="/advocacy/take-action">Take Action</a>
+                          </li>
+                  </div>
+          </ul>
+        </li>
+        <li class="primary-item">
+          <a class="primary-link" href="#"
+                  aria-label="Open dropdown menu"
+                  type="button">
+            Membership
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="primary-arrow feather feather-chevron-down">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </a>
+          <ul class="header__nav-sub-list wrapNav primary-grid hidden">
+              <div class="primary-grid__text">
+                  <p class="primary-grid__title">
+                      Membership
+                  </p>
+                      <p class="primary-grid__description">
+                          Join our community for exclusive benefits: Access pilot information, participate in sweepstakes, enjoy legal &amp; medical services, discounts, and enhance your aviation journey!
+                      </p>
+                                </div>
+
+                  <div class="primary-grid__col1">
+                          <li>
+                              <a href="/membership">Join AOPA</a>
+                          </li>
+                          <li>
+                              <a href="/account/flighttrainingjoinform" target="|Custom">Free Trial Membership</a>
+                          </li>
+                          <li>
+                              <a href="/account/militaryjoinform" target="|Custom">Military Membership</a>
+                          </li>
+                          <li>
+                              <a href="/account/studentjoinform" target="|Custom">Student Membership</a>
+                          </li>
+                          <li>
+                              <a href="/membership/sweeps">Sweepstakes</a>
+                          </li>
+                  </div>
+                  <div class="primary-grid__col2">
+                          <li>
+                              <a href="/membership/membership-benefits">Benefits of Membership</a>
+                          </li>
+                          <li>
+                              <a href="http://pilot-protection-services.aopa.org/">Legal &amp; Medical (PPS)</a>
+                          </li>
+                          <li>
+                              <a href="/membership/products-and-discounts">AOPA Products &amp; Savings</a>
+                          </li>
+                          <li>
+                              <a href="/go-fly/pic">Pilot Information Center</a>
+                          </li>
+                          <li>
+                              <a href="/membership/member-services">Member Services &amp; Support</a>
+                          </li>
+                  </div>
+                  <div class="primary-grid__col3">
+                          <li>
+                              <a href="/membership/member-offers">Member Discounts</a>
+                          </li>
+                          <li>
+                              <a href="/membership/aopa-credit-cards">World Mastercard&#174; </a>
+                          </li>
+                          <li>
+                              <a href="/membership/personal">Insurance Benefits</a>
+                          </li>
+                          <li>
+                              <a href="https://finance.aopa.org/?utm_source=membership-tab&amp;utm_medium=web&amp;utm_campaign=165-73400">Aircraft Financing</a>
+                          </li>
+                          <li>
+                              <a href="https://www.flightoutfitters.com/aopa/">AOPA Merchandise</a>
+                          </li>
+                  </div>
+          </ul>
+        </li>
+  </ul>
+</div>
+      </div>
+    </header>
+  </div>
+  <header class="header header--mobile" id="header--mobile">
+    <div class="header__toggle">
+      <div class="header__logo">
+  <a href="/" aria-label="AOPA home">
+<img src="/-/media/Images/AOPA-Main/AOPA-Special-Use-Logo_Wings-Only.png?h=19&amp;iar=0&amp;w=96&amp;hash=3E5EC5E261D20EC80CB5F37E32F17F46" alt="AOPA" width="96" height="19" />  </a>
+</div>
+      <a class="mobile-user-status-link" href="https://www.aopa.org/account/multipagejoin?pid=517757842&amp;keycode=M2007W01">Join Now</a>
+      <button type="button" id="mobileToggle" class="header__burger">
+        <svg id="burgerIcon" viewBox="0 0 10.7 8.6">
+          <g>
+            <path d="M0,1.1v1.1h10.7V1.1H0z M0,4.8h10.7v-1H0V4.8z M0,7.5h10.7v-1H0V7.5z"></path>
+          </g>
+        </svg>
+        <svg id="closeIcon" class="hidden" viewBox="-291 253 56 56">
+          <path d="M-280.4,294.1l13.1-13.1l-13.1-13.1l4.4-4.4l13.1,13.1l13.1-13.1l4.4,4.4l-13.1,13.1l13.1,13.1l-4.4,4.4l-13.1-13.1
+ l-13.1,13.1L-280.4,294.1z"></path>
+        </svg>
+      </button>
+    </div>
+    <div id="mobileDrawer" class="header__drawer hidden">
+      <ul class="header__aopa-links">
+          <li class="mobile-search">
+              ﻿<form action="/trust.txt" method="post"><input name="__RequestVerificationToken" type="hidden" value="W5CqAwKTKuIlB0ht_HKX-X0jUYEDcTfFg586I2mbhDSOi5Lm6KmiY-2sueV-rMhSiP5fWf7mmPWJqqRnDEpCzZ2P-dHrX3MKa37YehweYXQ1" /><input id="scController" name="scController" type="hidden" value="Header" /><input id="scAction" name="scAction" type="hidden" value="QuickSearchBarSubmit" /><input id="scArea" name="scArea" type="hidden" value="Aopa" /><input id="SearchPageUrl" name="SearchPageUrl" type="hidden" value="/search" /><input id="Keyword" name="Keyword" placeholder="Search by keyword" type="text" value="" />      <svg viewBox="0 0 216 146">
+        <path d="M172.77,123.025L144.825,95.08c6.735-9.722,10.104-20.559,10.104-32.508c0-7.767-1.508-15.195-4.523-22.283
+ c-3.014-7.089-7.088-13.199-12.221-18.332s-11.242-9.207-18.33-12.221c-7.09-3.015-14.518-4.522-22.285-4.522
+ c-7.767,0-15.195,1.507-22.283,4.522c-7.089,3.014-13.199,7.088-18.332,12.221c-5.133,5.133-9.207,11.244-12.221,18.332
+ c-3.015,7.089-4.522,14.516-4.522,22.283c0,7.767,1.507,15.193,4.522,22.283c3.014,7.088,7.088,13.197,12.221,18.33
+ c5.133,5.134,11.244,9.207,18.332,12.222c7.089,3.015,14.516,4.522,22.283,4.522c11.951,0,22.787-3.369,32.509-10.104l27.945,27.863
+ c1.955,2.064,4.397,3.096,7.332,3.096c2.824,0,5.27-1.032,7.332-3.096c2.064-2.063,3.096-4.508,3.096-7.332
+ C175.785,127.479,174.781,125.034,172.77,123.025z M123.357,88.357c-7.143,7.143-15.738,10.714-25.787,10.714
+ c-10.048,0-18.643-3.572-25.786-10.714c-7.143-7.143-10.714-15.737-10.714-25.786c0-10.048,3.572-18.644,10.714-25.786
+ c7.142-7.143,15.738-10.714,25.786-10.714c10.048,0,18.643,3.572,25.787,10.714c7.143,7.142,10.715,15.738,10.715,25.786
+ C134.072,72.62,130.499,81.214,123.357,88.357z"></path>
+      </svg>
+</form>
+          </li>
+      </ul>
+      <div class="header__nav">
+  <ul class="header__nav-main-list">
+        <li>
+          <button class="mobile-expand-btn js-dropdownBtn"
+                  aria-label="Open dropdown menu"
+                  type="button">
+            News &amp; Media
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="feather feather-chevron-down dropdown-arrow">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
+          <ul class="header__nav-sub-list hidden">
+            <li>
+                <p class="nav-description">
+                  Immerse yourself in a world of aviation insights: Explore in-depth articles, watch engaging videos, listen to enlightening podcasts, and join informative webinars.
+                </p>
+                            <a href="https://aopa.org/news-and-media/news-by-topic">Latest News</a><a href="/news-and-media/publications">Magazines</a><a href="/news-and-media/aopa-video">Videos</a><a href="/news-and-media/podcasts/podcasts">Podcasts</a><a href="/training-and-safety/online-learning/webinar-gallery">Webinars</a><a href="/media-room">Media Room</a><a href="/about/contact-aopa">Contact Us</a><a href="/news-and-media/publications/newsletters">Newsletters</a>            </li>
+          </ul>
+        </li>
+        <li>
+          <button class="mobile-expand-btn js-dropdownBtn"
+                  aria-label="Open dropdown menu"
+                  type="button">
+            Training &amp; Safety
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="feather feather-chevron-down dropdown-arrow">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
+          <ul class="header__nav-sub-list hidden">
+            <li>
+                <p class="nav-description">
+                  Embark on a journey of continuous learning: from prepping for checkrides, perfecting instrument approaches, to proficiency flights. Enhance your aviation skills here!
+                </p>
+                            <a href="/training-and-safety" target="|Custom">Training &amp; Safety Home</a><a href="/training-and-safety/learn-to-fly">Learn to Fly</a><a href="/training-and-safety/air-safety-institute">Air Safety Institute</a><a title="CFI Renewal (eFIRC)" href="https://www.aopa.org/training-and-safety/cfis/flight-instructor-resources/cfi-renewal">CFI Renewal (eFIRC)</a><a href="/training-and-safety/flight-schools">Flight Schools</a><a href="/training-and-safety/students">Students</a><a href="https://www.aopa.org/training-and-safety/learn-to-fly/flight-schools#t=tagFlightSchools&amp;sort=%40aopaufbusinessname%20ascending">Flight School Finder</a><a title="College Directory" href="/training-and-safety/learn-to-fly/colleges">College Directory</a><a title="CFIs" href="/training-and-safety/cfis">CFIs</a><a href="/training-and-safety/lapsed-pilots">Lapsed Pilots</a><a href="/training-and-safety/active-pilots">Active Pilots</a><a href="/training-and-safety/career">Career Pilots</a><a href="/training-and-safety/flight-schools/aopa-flight-training-advantage">AOPA Flight Training Advantage</a><a href="/go-fly/pic">Pilot Information Center</a><a href="/training-and-safety/online-learning">Online Learning</a><a href="/training-and-safety/flight-schools/flight-training-initiative/flight-training-awards-announcement" target="|Custom">Flight Training Awards</a><a href="http://youcanfly.aopa.org/">You Can Fly</a><a title="Aviation Scholarships" href="/training-and-safety/students/aopa-flight-training-scholarships" target="|Custom">Aviation Scholarships</a>            </li>
+          </ul>
+        </li>
+        <li>
+          <button class="mobile-expand-btn js-dropdownBtn"
+                  aria-label="Open dropdown menu"
+                  type="button">
+            Plan a Trip
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="feather feather-chevron-down dropdown-arrow">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
+          <ul class="header__nav-sub-list hidden">
+            <li>
+                <p class="nav-description">
+                  Embark on your next aviation adventure: Explore exciting destinations, read inspiring travel stories, plan your trip with our flight planner, and access exclusive discounts!
+                </p>
+                            <a href="/travel" target="|Custom">Trip Planning Home</a><a title="Airport Directory" href="https://aopa.org/destinations/?t=airports">Airport Directory</a><a title="Explore Destinations" href="https://aopa.org/destinations/?t=activities">Explore Destinations</a><a href="/travel/destinations">Travel Stories</a><a href="/travel/aopa-flight-planner">AOPA Flight Planner</a><a href="/go-fly/tfrs">TFRs</a><a href="/travel/aopa-weather">AOPA Weather</a><a href="/travel/international-travel">International and Cross-Border Travel</a><a href="/travel/travel-discounts" target="|Custom">Travel Discounts</a><a href="/travel/emergency-assistance-plus">Emergency Assistance Plus</a>            </li>
+          </ul>
+        </li>
+        <li>
+          <button class="mobile-expand-btn js-dropdownBtn"
+                  aria-label="Open dropdown menu"
+                  type="button">
+            Events
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="feather feather-chevron-down dropdown-arrow">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
+          <ul class="header__nav-sub-list hidden">
+            <li>
+                <p class="nav-description">
+                  Join the vibrant aviation community: Attend showcases, connect with fellow enthusiasts, participate in fly-ins, and immerse yourself in aviation events!
+                </p>
+                            <a href="/community" target="|Custom">AOPA Events Home</a><a title="AOPA Events Calendar" href="https://aopa.org/destinations/?t=events">AOPA Events Calendar</a><a href="/community/buckeye-air-fair-old" target="|Custom">AOPA Fly-In at the Buckeye Air Fair</a><a title="AOPA President&#39;s Tour" href="/community/presidents-tour">AOPA President&#39;s Tour</a><a href="/community/bob-hoover-award">Hoover Trophy Reception</a><a title="AOPA Aviation Career Expo" href="/community/aopa-aviation-career-expo">AOPA Aviation Career Expo</a><a href="/community/old-sun-n-fun">AOPA at SUN &#39;n FUN</a><a href="/community/airventure">AOPA at EAA AirVenture</a><a href="/community/triple-tree" target="|Custom">AOPA at the Triple Tree Fly-In</a><a href="http://youcanfly.aopa.org/high-school/symposium" target="|Custom">High School Aviation STEM Symposium</a>            </li>
+          </ul>
+        </li>
+        <li>
+          <button class="mobile-expand-btn js-dropdownBtn"
+                  aria-label="Open dropdown menu"
+                  type="button">
+            Advocacy
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="feather feather-chevron-down dropdown-arrow">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
+          <ul class="header__nav-sub-list hidden">
+            <li>
+                <p class="nav-description">
+                  Join us in protecting your freedom to fly: Engage with state agencies, monitor airports, participate in lobbying efforts, and support general aviation!
+                </p>
+                            <a href="/advocacy" target="|Custom">AOPA Advocacy Home</a><a href="/advocacy/100-unleaded-avgas">100 Unleaded Avgas</a><a href="/advocacy/pilots">Pilot Advocacy</a><a href="/advocacy/basicmed">BasicMed</a><a href="/advocacy/state-advocacy">State Advocacy</a><a href="/advocacy/aircraft">Aircraft Regulation</a><a title="Airport Support Network" href="/advocacy/airport-support-network" target="|Custom">Airport Support Network</a><a href="/advocacy/know-before-you-go">Transparency</a><a href="/advocacy/airports-and-airspace">Airports, Airspace and Weather</a><a href="/advocacy/take-action/political-action-committee">Political Action Committee</a><a href="/advocacy/take-action">Take Action</a>            </li>
+          </ul>
+        </li>
+        <li>
+          <button class="mobile-expand-btn js-dropdownBtn"
+                  aria-label="Open dropdown menu"
+                  type="button">
+            Membership
+            <svg xmlns="http://www.w3.org/2000/svg"
+                 viewBox="0 0 24 24"
+                 fill="none"
+                 stroke="currentColor"
+                 stroke-width="2"
+                 class="feather feather-chevron-down dropdown-arrow">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
+          <ul class="header__nav-sub-list hidden">
+            <li>
+                <p class="nav-description">
+                  Join our community for exclusive benefits: Access pilot information, participate in sweepstakes, enjoy legal &amp; medical services, discounts, and enhance your aviation journey!
+                </p>
+                            <a href="/membership">Join AOPA</a><a href="/account/flighttrainingjoinform" target="|Custom">Free Trial Membership</a><a href="/account/militaryjoinform" target="|Custom">Military Membership</a><a href="/account/studentjoinform" target="|Custom">Student Membership</a><a href="/membership/sweeps">Sweepstakes</a><a href="/membership/membership-benefits">Benefits of Membership</a><a href="http://pilot-protection-services.aopa.org/">Legal &amp; Medical (PPS)</a><a href="/membership/products-and-discounts">AOPA Products &amp; Savings</a><a href="/go-fly/pic">Pilot Information Center</a><a href="/membership/member-services">Member Services &amp; Support</a><a href="/membership/member-offers">Member Discounts</a><a href="/membership/aopa-credit-cards">World Mastercard&#174; </a><a href="/membership/personal">Insurance Benefits</a><a href="https://finance.aopa.org/?utm_source=membership-tab&amp;utm_medium=web&amp;utm_campaign=165-73400">Aircraft Financing</a><a href="https://www.flightoutfitters.com/aopa/">AOPA Merchandise</a>            </li>
+          </ul>
+        </li>
+  </ul>
+</div>
+      <div class="header__links">
+  <div>
+    <div class="l-column">
+      <ul>
+            <li>
+              <button class="mobile-expand-btn mobile-expand-btn--secondary js-dropdownBtn"
+                      aria-label="Open dropdown menu"
+                      type="button">
+                Products &amp; Discounts
+                <svg xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 24 24"
+                     fill="none"
+                     stroke="currentColor"
+                     stroke-width="2"
+                     class="feather feather-chevron-down dropdown-arrow">
+                  <polyline points="6 9 12 15 18 9"></polyline>
+                </svg>
+              </button>
+              <ul class="header__nav-sub-list hidden">
+                <li>
+                  <a class="link-indent" href="/membership/member-offers">Member Discounts</a><a class="link-indent" href="/membership/products-and-discounts">AOPA Products &amp; Savings</a>                </li>
+              </ul>
+            </li>
+            <li>
+              <button class="mobile-expand-btn mobile-expand-btn--secondary js-dropdownBtn"
+                      aria-label="Open dropdown menu"
+                      type="button">
+                Medical, Licensing &amp; Career
+                <svg xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 24 24"
+                     fill="none"
+                     stroke="currentColor"
+                     stroke-width="2"
+                     class="feather feather-chevron-down dropdown-arrow">
+                  <polyline points="6 9 12 15 18 9"></polyline>
+                </svg>
+              </button>
+              <ul class="header__nav-sub-list hidden">
+                <li>
+                  <a class="link-indent" href="/go-fly/medical-resources">Medical Resources</a><a class="link-indent" href="/go-fly/basicmed">BasicMed</a><a class="link-indent" href="https://www.aopa.org/training-and-safety/cfis/flight-instructor-resources/cfi-renewal">CFI Renewal (eFIRC)</a><a class="link-indent" href="/go-fly/pic">Pilot Information Center</a><a class="link-indent" href="/training-and-safety/career">Career Pilots</a><a class="link-indent" href="/about/hr/aviation-job-postings">Aviation Job Board</a>                </li>
+              </ul>
+            </li>
+            <li>
+              <button class="mobile-expand-btn mobile-expand-btn--secondary js-dropdownBtn"
+                      aria-label="Open dropdown menu"
+                      type="button">
+                Aircraft &amp; Ownership
+                <svg xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 24 24"
+                     fill="none"
+                     stroke="currentColor"
+                     stroke-width="2"
+                     class="feather feather-chevron-down dropdown-arrow">
+                  <polyline points="6 9 12 15 18 9"></polyline>
+                </svg>
+              </button>
+              <ul class="header__nav-sub-list hidden">
+                <li>
+                  <a class="link-indent" href="/go-fly/aircraft-and-ownership" target="|Custom">Aircraft &amp; Ownership</a><a class="link-indent" href="/go-fly/aircraft-and-ownership/aircraft-guide">Aircraft Guide</a><a class="link-indent" href="https://finance.aopa.org/">AOPA Finance</a><a class="link-indent" title="Aircraft Valuation" href="/go-fly/aircraft-and-ownership/buying-an-aircraft/aircraft-valuation">Aircraft Valuation</a><a class="link-indent" href="https://youcanfly.aopa.org/flying-clubs/flying-club-finder#t=tagFlyingClubs&amp;sort=%40aopaufbusinessname%20ascending">Flying Club Finder</a><a class="link-indent" href="https://www.assuredpartners.com/aerospace/light-aircraft-insurance/?utm_source=aopa&amp;utm_medium=web&amp;utm_campaign=website">Insurance</a><a class="link-indent" href="/go-fly/aircraft-and-ownership/operating-costs-calculator">Operating Costs Calculator</a><a class="link-indent" href="/go-fly/aircraft-and-ownership/buying-an-aircraft">Buying an Aircraft</a><a class="link-indent" href="/go-fly/aircraft-and-ownership/selling-an-aircraft">Selling an Aircraft</a>                </li>
+              </ul>
+            </li>
+            <li>
+              <button class="mobile-expand-btn mobile-expand-btn--secondary js-dropdownBtn"
+                      aria-label="Open dropdown menu"
+                      type="button">
+                About AOPA
+                <svg xmlns="http://www.w3.org/2000/svg"
+                     viewBox="0 0 24 24"
+                     fill="none"
+                     stroke="currentColor"
+                     stroke-width="2"
+                     class="feather feather-chevron-down dropdown-arrow">
+                  <polyline points="6 9 12 15 18 9"></polyline>
+                </svg>
+              </button>
+              <ul class="header__nav-sub-list hidden">
+                <li>
+                  <a class="link-indent" href="/about" target="|Custom">About AOPA</a><a class="link-indent" href="/advertising" target="|Custom">Advertising</a><a class="link-indent" href="https://iaopa.aopa.org/" target="|Custom">AOPA International</a><a class="link-indent" href="/about/aopa-partners" target="|Custom">AOPA Partners</a><a class="link-indent" href="https://www.flightoutfitters.com/aopa/">AOPA Merchandise</a><a class="link-indent" href="/about/contact-aopa" target="|Custom">Contact AOPA</a><a class="link-indent" href="/about/governance" target="|Custom">Governance</a><a class="link-indent" href="/about/hr" target="|Custom">Join the AOPA Team</a><a class="link-indent" href="/media-room" target="|Custom">Media Room</a><a class="link-indent" href="/about/mission-vision-and-values" target="|Custom">Mission, Vision and Values</a>                </li>
+              </ul>
+            </li>
+          <li>
+    <a class="mobile-single-link" title="AOPA Foundation" href="https://foundation.aopa.org/" target="|Custom">AOPA Foundation</a>
+  </li>
+  <li>
+    <a class="mobile-single-link" href="https://webforms.aopa.org/give/756164/#!/donation/checkout">Donate</a>
+  </li>
+  <li>
+    <a class="mobile-single-link" href="https://www.aopa.org/login">LOGIN</a>
+  </li>
+
+      </ul>
+    </div>
+  </div>
+</div>
+    </div>
+  </header>
+</nav>    
+    <!-- END NOINDEX -->
+
+    
+
+<div class="breadcrumbs">
+    <div class="l-wrapper">
+        <a class="breadcrumb" href="/" aria-label="Home">
+            <svg class="aopa-icon-button breadcrumb__home">
+                <use xlink:href="/dist/assets/svg-sprite.svg#home"></use>
+            </svg>
+            <svg class="aopa-icon-button">
+                <use xlink:href="/dist/assets/svg-sprite.svg#rightarrow"></use>
+            </svg>
+        </a>
+
+                <a class="breadcrumb__to-top" href="/" aria-label="Back">
+                    <svg class="aopa-icon-button">
+                        <use xlink:href="/dist/assets/svg-sprite.svg#breadcrumbbackarrow"></use>
+                    </svg>
+                </a>
+                <a class="breadcrumb" aria-label="404 Error">404 Error</a>
+
+
+    </div>
+</div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+<div id="div-gpt-ad-oop">
+    <script>
+        googletag.cmd.push(function() {googletag.display('div-gpt-ad-oop');googletag.pubads().refresh([overlay]);});
+      </script>
+  </div>
+
+  <div id="div-gpt-ad-outstream">
+    <script>
+        googletag.cmd.push(function() {googletag.display('div-gpt-ad-outstream');googletag.pubads().refresh([outstream]);});
+      </script>
+  </div>
+
+<style>
+.sticky {
+   position: fixed;
+}
+.sticky-rightrail {
+      position: fixed;
+       top: 120px;
+      z-index: 9999;
+ }
+@media screen and (max-width: 767px) {
+          .zopim {
+            bottom: 130px !important;
+          }
+        }
+.app {
+    bottom: 50px !important;
+}
+.adhesion-slot {
+    position: fixed;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    background-color: white;
+    z-index: 9999;
+    padding-bottom:0px;
+    background-image: url(https://www.aopa.org/dist/images/fullwidth_and_ad_bgpattern.jpg);
+}
+.adhesion-slot > div {
+      display: inline-block !important;
+    }
+.adhesion-slot-close-button {
+          float: right;
+          position: relative;
+          cursor: pointer;
+          z-index: 10000;
+          bottom: -10px;
+          right: 10px;
+          font-size: 15px;
+        }
+.advertisement{padding:0px;}
+.advertisement .l-wrapper .l-column div[data-google-query-id] {padding:.625rem 0;}
+.advertisement .l-wrapper .l-column{min-height:0px;}
+#div-gpt-ad-takeover-1 div{position: fixed; z-index: -1;}
+</style>
+
+
+
+    
+
+		<div class="richtext">
+			<main class="not-found">
+<section class="banner clearfix">
+<div class="container">
+<div class="d-flex align-item-end justify-space-between">
+<div class="banner-img">
+<img alt="" src="/-/media/Images/AOPA-Main/404-image.png" />
+</div>
+<div class="banner-content">
+<h1>Oops! </h1>
+<p class="mt-0">We seem to have lost the page you were looking for...</p>
+<p>We're sorry, but you encountered a 404 Error which means the page you are looking for doesn't appear to exist. Try returning to previous page and try again, or create a new search.</p>
+<p>If this issue persists please contact our support staff at 1.800.USA.AOPA (1.800.872.2672) or 301.695.2000 </p>
+<p class="mt-50">Here are some helpful links instead:</p>
+<ul class="banner-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="javascript:history.back()">Previous Page</a></li>
+    <li><a href="/search">Try a New Search</a></li>
+    <li><a href="/about/contact-aopa">Contact Us</a></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+</main>
+		</div>
+
+
+    <!-- BEGIN NOINDEX -->
+        <!-- Advertisement -->
+        <div class="advertisement">
+            <div class="l-wrapper">
+                <div class="l-column">
+                    <div id="div-gpt-ad-leaderboard-bottom" class="ad-unit-refresh ad-unit-lazy">
+    <script>
+        if (!isMobile) {
+            googletag.cmd.push(function() {googletag.display('div-gpt-ad-leaderboard-bottom');});
+        }
+    </script>
+</div>
+
+
+<div class="adhesion-slot">
+  <div id="div-gpt-ad-adhesion" class="ad-unit-refresh">
+      <script>
+          if (isMobile) {
+            googletag.cmd.push(function() {googletag.display('div-gpt-ad-adhesion');googletag.pubads().refresh([adhesion]);});
+            window.onload = function () {
+                          document.querySelector(".adhesion-slot-close-button").addEventListener("click", function () {
+					  googletag.destroySlots(adhesion);
+					  document.querySelector(".adhesion-slot").remove();
+			    });
+                }
+          }
+      </script>
+  </div>
+ <div class="adhesion-slot-close-button">X</div>
+</div>
+                </div>
+            </div>
+        </div>
+
+
+    
+        <footer class="footer-html footer">
+        
+<div class="l-wrapper">
+  <div class="l-column column-270 footer__about footer-column-two">
+  <ul>
+  <li>
+  <a href="/about">About AOPA</a>
+  </li>
+  <li>
+  <a href="/membership/join-aopa">Join AOPA</a>
+  </li>
+  <li>
+  <a href="/membership-old-hubspot">Membership</a>
+  </li>
+  <li>
+  <a href="/about/mission-vision-and-values">Mission, Vision and Values</a>
+  </li>
+  <li>
+  <a href="/about/governance">Governance</a>
+  </li>
+  <li>
+  <a href="/about/join-the-aopa-team">Join the AOPA Team</a>
+  </li>
+  <li>
+  <a href="/about/aopa-partners">AOPA Partners</a>
+  </li>
+  <li>
+  <a href="/about/presidents-page/speaker-request-form">Speaker Request Form</a>
+  </li>
+  </ul>
+  </div>
+  <div class="l-column column-270 footer__nav footer-column-three">
+  <ul>
+  <li>
+  <a href="/about/contact-aopa" class="footer__large-link">Contact AOPA</a>
+  </li>
+  <li>
+  <a href="/media-room" class="footer__large-link">Media Room</a>
+  </li>
+  <li>
+  <a href="/vanity-urls-and-redirects/advertise-on-this-site" class="footer__large-link">advertising</a>
+  </li>
+  <li>
+  <a href="/terms-of-use" class="footer__large-link">Terms of Use</a>
+  </li>
+  <li>
+  <a href="/cancellation-and-refund-policy" class="footer__large-link">Cancellation and Refund Policy</a>
+  </li>
+  <li>
+  <a href="/privacy-policy" class="footer__large-link">Privacy Policy</a>
+  </li>
+  <li>
+  <a href="/vanity-urls-and-redirects/aopa-job-board" class="footer__large-link">Aviation Jobs</a>
+  </li>
+  <li>
+  <a href="/aopa-merchandise" class="footer__large-link">AOPA Merchandise</a>
+  </li>
+  <li>
+  <a href="/dmca-agent-contact" class="footer__large-link">Contact DMCA Agent </a>
+  </li>
+  <li>
+  <a href="/privacy-policy/privacyrequest" class="footer__large-link">Privacy Request</a>
+  </li>
+  </ul>
+  </div>
+  <div class="l-column column-270 footer__brand">
+  <div class="footer__logo">
+  
+  <a href="/">
+  <img src="/-/media/Images/AOPA-Main/AOPA-Logo_Primary.png?h=548&amp;w=900&amp;la=en&amp;hash=31CDEB79B59198FC2C419019A6C545D1" alt="AOPA Logo"> </a>
+  </div>
+  <div class="footer__copyright">©2025 Aircraft Owners and Pilots Association</div>
+  <div class="footer__info">
+  <p>421 Aviation Way Frederick, MD, 21701</p>
+  <p><strong style="font-weight:600;"><a href="tel:800.872.2672">800.872.2672</a></strong></p>
+  <style> 
+  #back-to-top { display:none; }
+  /* Chat Icon bump up and down on mobile if there is a ad on bottom  css*/
+  @media only screen and (max-width: 600px) {
+  #launcher { bottom: 80px !important }
+  .bumpdown80 { bottom: 0px !important }
+  .bumpup80 { bottom: 80px !important }
+  }
+  /* Fix for name overflow on scrollup */
+  @media all and (min-width: 1111px) {
+      .sticky-header.is-scrolling-up .header__links {
+          overflow: visible !important;
+      }
+  }
+  /* fix for secondary nav overflow and background color */
+  .header__aopa-links ul li:nth-child(4):not(.header__user) a {
+      background: transparent;
+  }
+  @media (max-width: 1560px) {
+    .secondary-nav li:nth-of-type(3) .js-dropdown--open, .secondary-nav li:nth-of-type(4) .js-dropdown--open {
+      right: 0;
+    }
+  }
+  /* Fix for subscribe button styles */
+  .button--subscribe {
+    font-weight: 700!important;
+    background-color: transparent!important;
+      border: 2px solid #005e80!important;
+      color: #005e80!important;
+  }
+  .button--subscribe:hover {
+    background-color: #005e80!important;
+    color: #fff!important;
+  }
+  .button--unsubscribe {
+    font-weight: bold;
+  }
+  .button--subscribe.subscribed:hover {
+  
+  }
+  
+  </style>
+  <script language="JavaScript">
+  
+      // Chat Icon bump up and down on mobile if there is a ad on bottom js
+      if (typeof isMobile !== 'undefined') {   
+          document.querySelector(".adhesion-slot-close-button").addEventListener("click", function () {
+          $("#launcher").attr("style", "bottom:0px !important; position: fixed !important ;width: 48px;height: 50px;padding: 0px;margin: 10px 20px;position: fixed;    bottom: 0px;    overflow: visible;    opacity: 1;    border: 0px;    z-index: 999998;    transition-duration: 250ms;    transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1);    transition-property: opacity, top, bottom;    right: 0px;");
+          });
+      }
+  
+      // ========= Set up A/B testing for the join button
+      var Quotation=new Array() // do not change this!
+  
+      Quotation[0] = "https://www.aopa.org/account/multipagejoin?pid=108967&keycode=M1807W03";
+      //Quotation[1] = "https://www.aopa.org/account/aopajoinform?pid=108967&keycode=M1807W04";
+  
+      // ======================================
+      // Do not change anything below this line
+      // ======================================
+      var Q = Quotation.length;
+      var whichQuotation=Math.round(Math.random()*(Q-1));
+      //function showQuotation(){document.write(Quotation[whichQuotation]);}
+      //showQuotation();
+      //var myListItems = document.querySelector(".header__aopa-links ul li:first-child a").href = (Quotation[whichQuotation]);
+      </script>
+  <script type="text/javascript">
+      window.onload = function() {
+          if (window.jQuery) {
+              // jQuery is loaded  
+              $(window).load(function() {
+                  if ( typeof isMobile === 'undefined' ||   !isMobile ) {
+                      $('.advertisement').each(function() {
+                          if ($(this).height() < 25) {
+                              $(this).hide();
+                          } else {
+                              $(this).show();
+                          }
+                      });
+                  } else {
+                      $('.advertisement').each(function() {
+                          if ($(this).height() < 25) {
+                              $(this).attr('style', 'padding:0');
+                              $(this).find('.l-column').attr('style', 'min-height:0')
+                          } else {
+                              $(this).show();
+                          }
+                      });
+                  }
+              })
+          }
+      }
+    
+      // if on any training and safety child page 
+      if (!document.querySelector('body.in-sitecore') && window.location.href.indexOf("/training-and-safety") > 0 && document.querySelector(".l-column.column-300")) { //and on a training and safety page
+      //load the widget and widget copy
+      document.querySelector(".l-column.column-300").insertAdjacentHTML('afterbegin', 
+              `
+                  <style>
+                      .ycfEbookWidget {
+                          background-color: #f0f1f1;
+                          padding: 20px 25px;
+                          font-size: 12px;
+                          line-height: 1.7em;
+                          margin-bottom: 1.5rem;
+                      }
+  
+                      .ycfEbookWidget h2 {
+                          font-size: 2.6em;
+                          line-height: 1.2em;
+                          margin-bottom: .2em;
+                          position: relative;
+                      }
+  
+                      .ycfEbookWidget p {
+                          margin-bottom: 1em;
+                      }
+  
+                      .ycfEbookWidget p.widgetLead {
+                          font-size: 1.2em;
+                      }
+  
+                      .ycfEbookWidget h4 {
+                          margin-bottom: 0.3em;
+                          ;
+                      }
+  
+                      .ycfEbookWidget h2:after {
+                          content: '';
+                          display: block;
+                          position: absolute;
+                          top: -40px;
+                          right: -40px;
+                          background-image: url('https://www.aopa.org//-/media/Images/You-Can-Fly/YCFSpecialIssue/FT_YCF-Special-Issue-sticker.png');
+                          background-size: contain;
+                          background-repeat: no-repeat;
+                          height: 100px;
+                          width: 100px;
+                      }
+  
+                      @media screen and (min-width: 881px) and (max-width: 1180px) {
+                          .ycfEbookWidget h2:after {
+                              top: 40px;
+                              right: -20px;
+                              width: 75px;
+                              height: 75px;
+                          }
+                      }
+  
+                      .ycfEbookWidget strong {
+                          color: #000;
+                          font-weight: bold;
+                      }
+  
+                      .eBookWidgetForm input {
+                          line-height: 2.4em;
+                      }
+  
+                      .eBookWidgetForm .ycf-submit {
+                          text-align: center;
+                          display: block;
+                          color: #fff;
+                          background-color: #00a3e0;
+                          margin: 20px 0 !important;
+                          padding: 10px 13px;
+                          line-height: 1.2em;
+                          letter-spacing: 1px;
+                          font-family: \"raleway\", sans-serif;
+                          font-size: 16px;
+                          font-style: normal;
+                          font-weight: 700;
+                          width: 100%;
+                      }
+  
+                      .eBookWidgetForm .ycf-submit:hover {
+                          background-color: #002a3a;
+                          border-color: #002a3a;
+                      }
+  
+                      .eBookWidgetForm .privacypolicy {
+                          font-size: 0.8em;
+                          line-height: 1.3em;
+                      }
+                      #recaptchaElement > div {
+                          transform: scale(0.83);
+                          transform-origin: 0 0;
+                      }
+                      #btnSubmit[disabled] {
+                          opacity:.3;
+                      }
+                  </style>
+                  <div class="ycfEbookWidget" data-modal-name="YCF-Modal">
+                      <h2>You Can Fly !</h2>
+                      <img alt="" src="https://www.aopa.org//-/media/Images/You-Can-Fly/2502_YCF-FT-special-issue_Magazine_Mockup.png" />
+                      <div class="eBookWidgetForm"></div>
+                  </div>
+              `
+      );
+      // if logged in
+          if (acttype) { 
+              // and if on /flight-schools
+              if (!document.querySelector('body.in-sitecore') && window.location.href.indexOf("/training-and-safety/flight-schools") > 0 && document.querySelector(".l-column.column-300")) {
+                  // load box CTA
+                  document.querySelector(".eBookWidgetForm").insertAdjacentHTML('beforebegin',
+                      `
+                      <p class="widgetLead">AOPA is so passionate about supporting flight schools that we're offering you free countertop displays filled with our annual special issue, <strong>You Can Fly: Your Path to Become a Pilot</strong>.</p>
+                      <p>This beginning pilots' resource guide explains what you can expect from your introductory flight through initial training—and how to turn your dream of flying into reality.</p>
+                      `
+                  );
+                  document.querySelector(".eBookWidgetForm").insertAdjacentHTML('afterbegin',
+                      `
+                      <h4 style="font-size:1rem;">Get Your Free Resource Here !</h4>
+                      <input id="btnSubmit" type="button" name="getStuff" class="ycf-submit button" value="Learn More" onclick="window.location='https://www.aopa.org/landing-pages/flight-training-ycf-special-edition-box';">
+                      `
+                  );
+              } else { 
+                  // if on any other child page of training-safety
+                  document.querySelector(".eBookWidgetForm").insertAdjacentHTML('beforebegin',
+                      `
+                      <p class="widgetLead">Get instant access to Flight Training's special issue titled <strong>You Can Fly: Your Path to Become a Pilot</strong>.</p>
+                      <p>This beginning pilots' resource guide explains what you can expect from your introductory flight through initial training— and how to turn your dream of flying into reality. Simply enter your name and email address.</p>
+                      `
+                  );
+                  // load nxtbook cta
+                  document.querySelector(".eBookWidgetForm").insertAdjacentHTML('afterbegin',
+                      `
+                      <h4 style="font-size:1rem;">Get Your Free Resource Here !</h4>
+                      <input id="btnSubmit" type="button" name="getStuff" class="ycf-submit button" value="Read Now" onclick="window.location='https://www.nxtbook.com/nxtbooks/aopa/ft_202504/index.php';">
+                      `
+                  );
+              }
+          } else { 
+              // if not logged in
+              if (!document.querySelector('body.in-sitecore') && window.location.href.indexOf("/training-and-safety/flight-schools") > 0 && document.querySelector(".l-column.column-300")) {
+                  document.querySelector(".eBookWidgetForm").insertAdjacentHTML('beforebegin',
+                      `
+                      <p class="widgetLead">AOPA is so passionate about supporting flight schools that we're offering you free countertop displays filled with our annual special issue, <strong>You Can Fly: Your Path to Become a Pilot</strong>.</p>
+                      <p>This beginning pilots' resource guide explains what you can expect from your introductory flight through initial training—and how to turn your dream of flying into reality.</p>
+                      `
+                  );
+              } else {
+                  document.querySelector(".eBookWidgetForm").insertAdjacentHTML('beforebegin',
+                      `
+                      <p class="widgetLead">Get instant access to Flight Training's special issue titled <strong>You Can Fly: Your Path to Become a Pilot</strong>.</p>
+                      <p>This beginning pilots' resource guide explains what you can expect from your introductory flight through initial training— and how to turn your dream of flying into reality. Simply enter your name and email address.</p>
+                      `
+                  );
+              }
+              // load form
+              document.querySelector(".eBookWidgetForm").insertAdjacentHTML('afterbegin',
+                  `
+                  <h4>Get Your Free Guide Here !</h4>
+                  <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&orgId=00D8Z000002fe5n" name="YCFSpecialEdForm" id="YCFSpecialEdForm" method="post"> 
+                      <input type=hidden name='captcha_settings' value='{"keyname":"Captcha_v3","fallback":"true","orgId":"00D8Z000002fe5n","ts":"", "data-size":"compact"}'>
+                      <input type=hidden name="oid" value="00D8Z000002fe5n">
+                      <input type=hidden name="retURL" value="https://www.nxtbook.com/nxtbooks/aopa/ft_202504/index.php">
+  
+                      <div class="formRow"> 
+                          <span> 
+  
+                              <label for="first_name">First Name</label><input  id="first_name" maxlength="40" name="first_name" size="20" type="text" Required />
+  
+                          </span> 
+                          <span> 
+                              <label for="last_name">Last Name</label><input  id="last_name" maxlength="80" name="last_name" size="20" type="text" Required />
+                          </span> 
+                          <span>
+                              <label for="email">Email</label><input  id="email" maxlength="80" name="email" size="20" type="text" Required />
+                          </span> 
+                          <input  id="lead_source" maxlength="20" name="lead_source" size="20" type="hidden" value = "Flight Training Special Edition Web Form"  />
+                          <input  id="recordType" maxlength="20" name="recordType" size="20" type="hidden" value = "0128Z0000002HUf"  />
+                          <br>
+                          <br>
+                          <div id="recaptchaElement"></div>
+                          <input id="btnSubmit" type="submit" name="submit" class="ycf-submit button">
+                      
+                          <p class="privacypolicy">Please review AOPA&rsquo;s <a rel="noopener noreferrer" href="https://www.aopa.org/privacy-policy" target="_blank">privacy policy</a> to learn more about how your information is used.</p>
+                      </div>
+                  </form>
+                  `
+              );
+              var enableBtn = document.querySelector('#btnSubmit');
+              enableBtn.disabled = "true";
+  
+              function timestamp() {
+                  var response = document.getElementById("g-recaptcha-response");
+                  if (response == null || response.value.trim() == "") {
+                      var elems = JSON.parse(document.getElementsByName("captcha_settings")[0].value);
+                      elems["ts"] = JSON.stringify(new Date().getTime());
+                      document.getElementsByName("captcha_settings")[0].value = JSON.stringify(elems);
+                  }
+              }
+              setInterval(timestamp, 500);
+                  var onloadCaptchaCallback = function () {
+                      grecaptcha.render('recaptchaElement', {
+                      'sitekey': '6LdKf3wpAAAAAOIzscPk7N-MiyYhtcvZRh1WqGf8',
+                      'callback': 'handleCaptchaCallBack'
+                  });
+              };  
+              var handleCaptchaCallBack = (token) => {
+                  $('#CaptchaResponse').val(token);
+                  enableBtn.disabled = false;
+              }; 
+              let scriptEle = document.createElement("script");
+              scriptEle.setAttribute("src", "https://www.google.com/recaptcha/api.js?onload=onloadCaptchaCallback&render=explicit");
+              scriptEle.setAttribute("type", "text/javascript");
+              scriptEle.setAttribute("async", "async");
+              document.body.appendChild(scriptEle);
+  
+          }
+      }
+  
+      
+      if (!document.body.classList.contains('in-sitecore')) {
+          document.body.addEventListener('click', function(e) {
+              if (e.target.tagName === 'A' && e.target.getAttribute('target') && e.target.getAttribute('target').includes('|Custom')) {
+                  e.target.removeAttribute('target');
+  
+              }
+          });
+      }
+  
+  </script>
+  </div>
+  </div>
+  <div class="l-column column-270 footer__social">
+  <a href="https://hangar.aopa.org/home" class="footer__social-link--shareaviation"> <svg>
+  <use xlink:href="/dist/assets/svg-sprite.svg#shareaviation"></use>
+  </svg>
+  </a>
+  <a href="http://www.facebook.com/flywithaopa" class="footer__social-link--facebook" rel="noopener noreferrer" target="_blank" aria-label="Facebook"> <svg>
+  <use xlink:href="/dist/assets/svg-sprite.svg#facebook"></use>
+  </svg>
+  </a>
+  <a href="http://www.twitter.com/flywithaopa" class="footer__social-link--twitter" rel="noopener noreferrer" target="_blank" aria-label="Twitter"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg>
+  </a>
+  <a href="http://www.instagram.com/flywithaopa" class="footer__social-link--instagram" rel="noopener noreferrer" target="_blank" aria-label="Instagram"> <svg>
+  <use xlink:href="/dist/assets/svg-sprite.svg#instagram"></use>
+  </svg>
+  </a> <a href="https://www.youtube.com/AOPALive" class="footer__social-link--googleplus" rel="noopener noreferrer" target="_blank" aria-label="Youtube"> <svg>
+  <use xlink:href="/dist/assets/svg-sprite.svg#youtube2"></use>
+  </svg>
+  </a>
+  </div>
+  </div>
+    </footer>
+
+    
+<script src="/bundles/scripts/aopa/footer.js?v=0V5p0QjSb2rbi27NgQMHeSlffIbTyCwFCqAUjMp_N7M1"></script>
+
+
+
+            <script src="/dist/js/aopa.js"></script>
+    
+<script type="text/javascript">
+ $(function () {
+    $(window).scroll(function() {
+        $('.ad-unit-lazy').each(function() {
+            var $slot = $(this);
+            var gptSlot = $slot.isDefined();
+            if(gptSlot !== null && $slot.isElementVisibleOnViewport()) {
+                applyAdload(gptSlot);
+                $slot.removeClass("ad-unit-lazy");
+            }
+        });
+
+        $('.ad-unit-refresh').each(function() {
+            var $slot = $(this);
+            var gptSlot = $slot.isDefined();
+            if(gptSlot !== null && $slot.isElementVisibleOnViewport()) {
+                setInterval(function() {
+                    var id = $slot.attr('id');
+                    if($slot.isElementVisibleOnViewport() && !document.hidden) {
+                        console.log('Refresh ad slot '+ id);
+                        applyAdload(gptSlot);
+                    } else {
+                        console.log('Ad slot '+ id + ' is not in the viewport. Refresh skip');
+                    }
+                }, 30000);    
+                $slot.removeClass("ad-unit-refresh");
+            }
+        });
+
+    });
+
+    $.fn.isElementVisibleOnViewport = function () {
+        var elementTop = $(this).offset().top,
+            elementBottom = $(this).offset().top + $(this).outerHeight(),
+            screenTop = $(window).scrollTop(),
+            screenBottom = $(window).scrollTop() + window.innerHeight;
+        return ((screenBottom > elementTop) && (screenTop < elementBottom)) ? true : false;
+    };
+
+    $.fn.isDefined = function () {
+        if (window.googletag && googletag.apiReady){
+            var adunitID = $(this).attr('id');
+            var gptSlots = googletag.pubads().getSlots();
+            var slot = gptSlots.find(item => item.getSlotElementId() === adunitID);
+            return slot !== undefined ? slot : null;
+        }   
+    };
+
+    $.fn.stickyAdSlot = function (scrollTop, offset, infinite) {
+        var $block = $(this);
+        var stickyTimeout;
+		
+console.log($(window).scrollTop());
+console.log($('#div-gpt-ad-rectangle-2').offset().top);
+
+        if ($($block).hasClass('ad-unit-sticky')) {
+            clearTimeout(stickyTimeout);
+            if ($(window).scrollTop() > scrollTop) {
+                $block.addClass('sticky').css('top', offset);
+                if (stickyTimeout == undefined && !infinite) {
+                    var stickyTimeout = setTimeout(function() {
+                        $block.removeClass('sticky').removeClass('ad-unit-sticky');
+                    }, 7000);
+                }
+            } else {
+                $block.removeClass('sticky');
+            }
+        } else {
+            if ($(window).scrollTop() < scrollTop) {
+                $block.addClass('ad-unit-sticky');
+                clearTimeout(stickyTimeout);
+            }
+        }
+    };
+
+    function applyAdload(slot) {
+        if (slot) {
+            googletag.cmd.push(function() {
+                googletag.pubads().refresh([slot]);
+            });
+        }   
+    }
+
+    var stickyRightRailFunc = function (blockId) {
+        var block = document.getElementById(blockId);
+        if( block ){
+        var advBlock = block.closest(".advertisement");
+        var rect = advBlock.getBoundingClientRect();
+        var nextAdvBlock = document.getElementById("div-gpt-ad-leaderboard-bottom").closest(".advertisement");
+        var nextRect = nextAdvBlock.getBoundingClientRect();
+        var contentBlock = block.closest(".main").querySelectorAll(".l-column")[0];
+        var contentRect = contentBlock.getBoundingClientRect();
+        var startOffset = rect.top - 120;
+        var endOffset = nextRect.top - block.offsetHeight - 120;
+        var isDisabled = contentRect.bottom <= rect.bottom;
+
+if (isDisabled) {
+block.classList.remove('sticky-rightrail');
+return;
+};
+
+        if (startOffset <= 0 && !isDisabled && !block.classList.contains('sticky-rightrail')) {
+          block.classList.add('sticky-rightrail');
+        }
+
+        if ((startOffset > 0 || endOffset <= 0) && block.classList.contains('sticky-rightrail')) {
+            block.classList.remove('sticky-rightrail');
+        }
+
+      }
+
+      }
+
+document.addEventListener("scroll", function () {
+     if (!isMobile) stickyRightRailFunc('div-gpt-ad-rectangle-3');
+});
+
+ window.onload = function () {
+
+                          document.querySelector(".adhesion-slot-close-button").addEventListener("click", function () {
+console.log('Close adhesion');
+					  googletag.destroySlots(adhesion);
+					  document.querySelector(".adhesion-slot").remove();
+			    });
+                }
+
+// NOT FOR PILOT INFORMATION CENTER
+
+console.log("the takeover div exists");
+if(!$('.in-sitecore ').length){
+$('body').prepend("<div id=\"div-gpt-ad-takeover-1\"><script>googletag.cmd.push(function(){googletag.display(\"div-gpt-ad-takeover-1\")\;googletag.pubads().refresh([takeover1]);})\;<\/script><\/div>")
+}
+setTimeout(function(){ 
+	if ($('#div-gpt-ad-takeover-1 div iframe').length) {
+		if (!isMobile) {
+			$("<div id=\"div-gpt-ad-takeover-2\"><script>googletag.cmd.push(function(){googletag.display(\"div-gpt-ad-takeover-2\")\;googletag.pubads().refresh([takeover2]);})\;<\/script><\/div>").insertAfter(".header.header--mobile");
+			$('#div-gpt-ad-takeover-2').css({
+					   maxWidth: "1240px",
+		   margin: "0 auto",
+					   background: "rgba(255,255,255,0.6)"
+					   });
+		}
+                if (isMobile) {
+		  $('.takeOverBanner a').css({
+			   display: "block"
+		   });
+                  $('#div-gpt-ad-takeover-1 iframe').css({
+                           margin: "-300px 0 0 0"
+                  });
+		}
+		$('.advertisement').css({
+			background: "none",
+			display: "block",
+			marginleft: "initial auto"
+			});
+		$('body > .l-wrapper').css({
+			backgroundColor: "#fffff",
+			padding: "20px 20px",
+			maxWidth: "1240px",
+			margin: "0 auto"
+			});
+
+		$('.alerts').css({
+			maxWidth: "1240px",
+			margin: "0 auto"
+			});
+		$('.sticky-header-wrapper').css({
+			maxWidth: "1240px",
+			margin: "0 auto"
+			});
+		$('.breadcrumbs').css({
+			maxWidth: "1240px",
+			margin: "0 auto"
+			});
+
+		$('.hp-hero-wrapper').css({
+			maxWidth: "1240px",
+			margin: "0 auto"
+		});
+
+		$('.news-main').css({
+			padding: "20px 20px",
+			maxWidth: "1240px",
+			margin: "0 auto",
+                        background: "rgba(255,255,255,0.6)"
+			});	
+
+		$('body').css({
+			   background: "transparent"
+			   });
+                $('.hp-partners').css({
+			   background: "transparent"
+			   });
+
+	}
+
+}, 3000);
+  });
+</script>    
+    <script type="text/javascript">
+        if (window.location.href.indexOf("https://www.aopa.org/account/aopajoinform") == -1) {
+            document.write('<scri' + 'pt src="https://download.aopa.org/zopim/zopim1.js" async></' + 'script>');
+        }
+    </script>
+    <!-- END NOINDEX -->
+    
+    <div class="masonry__lightbox">
+        <div class="caption"></div>
+        <div class="filter"></div>
+        <div class="arrowr"></div>
+        <div class="arrowl"></div>
+        <div class="close"></div>
+    </div>
+<link rel="stylesheet" href="https://static.cloud.coveo.com/searchui/v2.10116/css/CoveoFullSearch.css" />
+<link rel="stylesheet" href="https://static.cloud.coveo.com/coveoforsitecore/ui/v0.64.7/css/CoveoForSitecore.css" />
+<script class="coveo-script" type="text/javascript" src='https://static.cloud.coveo.com/searchui/v2.10116/js/CoveoJsSearch.Lazy.min.js'></script>
+<script class="coveo-for-sitecore-script" type="text/javascript" src='https://static.cloud.coveo.com/coveoforsitecore/ui/v0.64.7/js/CoveoForSitecore.Lazy.min.js'></script>
+<script type="text/javascript" src="https://static.cloud.coveo.com/searchui/v2.10116/js/cultures/en.js"></script>
+
+<div>
+
+
+    
+    
+    <!-- Resources -->
+    <div id="SearchResourcesProperties_6981dd1746af4abd87168b0a749efe58"
+         class="CoveoForSitecoreContext"
+                    data-sc-should-have-analytics-component='true'
+            data-sc-analytics-enabled='true'
+            data-sc-current-language='en'
+            data-prebind-sc-language-field-name='fieldTranslator'
+            data-sc-language-field-name='_language'
+            data-sc-labels='{&quot;Created&quot; : &quot;Created&quot; , &quot;Created by&quot; : &quot;Created by&quot; , &quot;Creation time.&quot; : &quot;Creation time.&quot; , &quot;Language&quot; : &quot;Language&quot; , &quot;Last time modified.&quot; : &quot;Last time modified.&quot; , &quot;Template&quot; : &quot;Template&quot; , &quot;Uniform resource identifier&quot; : &quot;URI&quot; , &quot;Updated by&quot; : &quot;Updated by&quot; , &quot;If the problem persists contact the administrator.&quot; : &quot;If the problem persists contact the administrator.&quot; , &quot;Search is currently unavailable&quot; : &quot;Oops! Something went wrong on the server.&quot; , &quot;If the problem persists contact the administrator temp.&quot; : &quot;If the problem persists contact the administrator.&quot;}'
+            data-sc-maximum-age='900000'
+            data-sc-page-name='404 Error'
+            data-sc-page-name-full-path='/sitecore/content/Sites/AOPA Main/Website/404 Error'
+            data-sc-index-source-name='Coveo_web_index - aopaauth-aopa.prod-sc911'
+            data-sc-is-in-experience-editor='false'
+            data-sc-is-user-anonymous='true'
+            data-sc-item-uri='sitecore://web/{08798AEF-4763-4F29-BE2B-D136A5E928EF}?lang=en&amp;ver=3'
+            data-sc-item-id='08798aef-4763-4f29-be2b-d136a5e928ef'
+            data-prebind-sc-latest-version-field-name='fieldTranslator'
+            data-sc-latest-version-field-name='_latestversion'
+            data-sc-rest-endpoint-uri='/coveo/rest'
+            data-sc-analytics-endpoint-uri='/coveo/rest/ua'
+            data-sc-site-name='aopa'
+            data-sc-field-prefix='f'
+            data-sc-field-suffix='15850'
+            data-sc-prefer-source-specific-fields='true'
+            data-sc-external-fields='[{&quot;fieldName&quot;:&quot;permanentid&quot;,&quot;shouldEscape&quot;:false},{&quot;fieldName&quot;:&quot;aopaSiteName&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;aopaContentType&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;aopaTaxonomyName&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;aopaMembersOnlyContent&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;aopaNoIndexNoFollow&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;aopaThumbnailImage&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;aopaResultDate&quot;,&quot;shouldEscape&quot;:true},{&quot;fieldName&quot;:&quot;coveoImageUrl&quot;,&quot;shouldEscape&quot;:true}]'
+>
+    </div>
+    <script type="text/javascript">
+        var endpointConfiguration = {
+            itemUri: "sitecore://web/{08798AEF-4763-4F29-BE2B-D136A5E928EF}?lang=en&amp;ver=3",
+            siteName: "aopa",
+            restEndpointUri: "/coveo/rest"
+        };
+        if (typeof (CoveoForSitecore) !== "undefined") {
+            CoveoForSitecore.SearchEndpoint.configureSitecoreEndpoint(endpointConfiguration);
+            CoveoForSitecore.version = "5.0.1368.1";
+            var context = document.getElementById("SearchResourcesProperties_6981dd1746af4abd87168b0a749efe58");
+            if (!!context) {
+                CoveoForSitecore.Context.configureContext(context);
+            }
+        }
+    </script>
+</div>
+
+        <script>
+            // Code snippet to load and log page view analytics.
+            // Imported from https://github.com/coveo/coveo.analytics.js
+            (function (c, o, v, e, O, u, a) {
+                a = 'coveoua'; c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+                c[a].t = Date.now(); u = o.createElement(v); u.async = 1; u.src = e;
+                O = o.getElementsByTagName(v)[0]; O.parentNode.insertBefore(u, O)
+            })(window, document, 'script', 'https://static.cloud.coveo.com/coveo.analytics.js/2/coveoua.js');
+
+            document.addEventListener("CoveoSearchEndpointInitialized", function () {
+                var accessToken = Coveo && Coveo.SearchEndpoint && Coveo.SearchEndpoint.defaultEndpoint && Coveo.SearchEndpoint.defaultEndpoint.accessToken
+                    ? Coveo.SearchEndpoint.defaultEndpoint.accessToken.token
+                    : "";
+
+                var customMetadata = {"contentIdKey" : "permanentid" , "contentLanguage" : "en" , "contentIdValue" : "08798AEF47634F29BE2BD136A5E928EF" , "anonymous" : true};
+
+                if (typeof (CoveoForSitecoreUserContext) !== "undefined") {
+                    customMetadata["customData"] = {};
+                    var currentContext = CoveoForSitecoreUserContext.handler.getContext();
+                    Object.keys(currentContext).forEach(function(key) {
+                        customMetadata["customData"]["context_" + key] = currentContext[key];
+                    });
+                }
+
+                coveoua('onLoad', function() {
+                    Object.defineProperty(coveoanalytics.CoveoAnalyticsClient.prototype, 'baseUrl', { get() { return "/coveo/rest/ua" + "/v15" }});
+                    coveoua('init', accessToken);
+                    coveoua('send', 'view', customMetadata);
+                });
+            });
+
+        </script>
+
+    
+
+</body>
+</html>

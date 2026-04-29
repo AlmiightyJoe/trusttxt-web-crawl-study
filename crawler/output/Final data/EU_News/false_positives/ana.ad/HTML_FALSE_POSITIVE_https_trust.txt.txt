@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ca" lang="ca"/>
+<head>
+    <title>ANA - Agència de Notícies Andorrana</title>
+    <meta name="viewport" content="width=device-width">
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <meta http-equiv="Content-Script-Type" content="text/javascript"/>
+    <meta http-equiv="Content-Style-Type" content="text/css"/>
+    <meta http-equiv="cache-control" content="no-cache"/>
+    <meta http-equiv="expires" content="0"/>
+    <meta name="description"
+          content="L'ANA, Agència de Notícies Andorrana, va néixer amb l'objectiu de nodrir els professionals de la comunicació i gabinets de premsa, així com a institucions públiques i empreses privades, de contingut informatiu multimèdia. És a dir, oferir als abonats tota la informació en els formats de text, àudio, fotografies digitals i imatges de vídeo. A més de les notícies d'actualitat del dia relacionades amb Andorra i l'àmbit geogràfic pirinenc més proper, ofereix als seus clients l'agenda informativa i d'actes previstos."/>
+    <meta name="keywords"
+          content="agencia de noticies, gabinete noticiesde premsa, agencia de noticies andorra, gabinete de premsa andorra, sala de premsa andorra, actualitat andorra, política andorra, societat andorra, successos andorra, cultura andorra, economia andorra, notí­cies escaldes-engordany, notícies sant julià  de lòria, notí­cies andorra la vella, notícies encamp, notí­cies canillo, notí­cies ordino, notícies la massana, notícies pirineus,"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:description"
+          content="L'ANA, Agència de Notícies Andorrana, va néixer amb l'objectiu de nodrir els professionals de la comunicació i gabinets de premsa, així com a institucions públiques i empreses privades, de contingut informatiu multimèdia." />
+        <meta name="twitter:image" content="https://www.ana.ad/assets/img/logo.png"/>
+    <meta name="twitter:site" content="@agenciaana"/>
+    <meta name="twitter:title"
+          content="ANA"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:title"
+          content="ANA"/>
+    <meta property="og:url" content="http://ana.ad/trust.txt"/>
+
+    <meta property="og:image" content="https://www.ana.ad/assets/img/logo.png"/>
+    <meta property="og:image:width" content="3294"/>
+    <meta property="og:image:height" content="1109"/>
+    <meta property="og:description"
+          content="L'ANA, Agència de Notícies Andorrana, va néixer amb l'objectiu de nodrir els professionals de la comunicació i gabinets de premsa, així com a institucions públiques i empreses privades, de contingut informatiu multimèdia."/>
+
+    <link href="/styles/output.css" rel="stylesheet">
+
+    <script type="text/javascript" src="/assets/flickity/flickity.pkgd.min.js"></script>
+    <link href="/assets/flickity/flickity.css" rel="stylesheet"/>
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <!--
+    <link rel="stylesheet" type="text/css" media="screen" href="/styles/public.css"/>
+    <link rel="stylesheet" type="text/css" href="/styles/ticker-style.css"/>
+
+    <script type="text/javascript" src="/js/jquery-1.6.4.min.js"></script>
+    <script type="text/javascript" src="/js/jquery/jquery.ticker.js"></script>
+    -->
+
+    <script type='text/javascript' src="/js/tarteaucitron/tarteaucitron.min.js"></script>
+    <script type='text/javascript' src="/js/tarteaucitron/tarteaucitron.init.js"></script>
+
+    <!--
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-9369474-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName

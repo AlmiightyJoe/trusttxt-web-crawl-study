@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="da" xml:lang="da">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" /><title>Skive nyheder indenfor kultur, sport og erhverv - nyheder Skive og Omegn</title>
+		
+		<meta name="Title" content="Skive nyheder indenfor kultur, sport og erhverv - nyheder Skive og Omegn" />
+		<meta name="Description" content="Portalen med nyheder, virksomhedsregister for Skive, Salling, Fjends, Vinderup og Fur. Nyt fra Skiveegnen find det her." />
+		<meta name="Robots" content="ALL" />
+		<meta http-equiv="Content-language" content="da" />
+		<meta name="google-site-verification" content="4beasGJuQWNUp2X6B7Cw2nGQk2PqCWH3WNsEeFy8gv8" />
+
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<link href="https://fonts.googleapis.com/css?family=Mada|Montserrat|Roboto" rel="stylesheet"> 
+		<link rel="icon" href="https://www.skive-her.dk/favicon.ico" type="image/x-icon"/>
+		<link rel="shortcut icon" href="https://www.skive-her.dk/favicon.ico" type="image/x-icon"/>
+		<link rel="stylesheet" type="text/css" href="/css/style36.css" media="screen"/>
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+		
+		
+	 
+		<meta property="og:title" content="Skive nyheder indenfor kultur, sport og erhverv - nyheder Skive og Omegn"/>
+		
+		<meta property="og:image" content="https://www.skive-her.dk/images/logo2.png"/>
+		
+		<meta property="og:site_name" content="Skive Her"/>
+		<meta property="og:description" content="Portalen med nyheder, virksomhedsregister for Skive, Salling, Fjends, Vinderup og Fur. Nyt fra Skiveegnen find det her." />
+		<meta property="og:url" content="https://www.skive-her.dk/.well-known/trust.txt" />
+		<meta property="og:type" content="website" />
+		
+		<!-- Facebook Pixel Code -->
+			<script type="text/javascript">
+			!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+			n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+			document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+			fbq('init', '1567799613509979');
+			fbq('track', "PageView");</script>
+			<noscript><img height="1" width="1" style="display:none"
+			src="https://www.facebook.com/tr?id=1567799613509979&ev=PageView&noscript=1"
+			/></noscript>
+			<!-- End Facebook Pixel Code -->
+
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-61447265-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-61447265-1');
+</script>
+<script type="text/javascript" src="https://www.skive-her.dk/js/shop_007.js"></script>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
+<script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"5aef02e7a6597fbd5b1f20e8d","lid":"12f40adfbe"}) })</script>
+		
+		</head>
+	<body>
+				<style type="text/css">
+            ::-moz-selection { /* Code for Firefox */
+                 background: #d47b22;
+                  color: white;
+            }
+            ::selection {
+                 background: #d47b22;
+                  color: white;
+            }
+        </style>
+		<div id="fb-root"></div>
+
+<div id="baggrund">
+	<div id="body_con"><a name="top"></a>
+		<div i

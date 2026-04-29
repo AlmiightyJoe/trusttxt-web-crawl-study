@@ -1,0 +1,37 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, user-scalable=no"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/_next/static/css/d724e81896e0a7d8.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/961c6d4e20d4320e.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/10fd4086fbefcf19.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/75300d95c2633f5f.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/64b8e11cddb5bcb6.css" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-d76307b282cff54b.js"/><script src="/_next/static/chunks/0f4efedf-592609b1e7f5e4eb.js" async=""></script><script src="/_next/static/chunks/99200-31c468678c90e831.js" async=""></script><script src="/_next/static/chunks/main-app-8d8fc4249ffc5003.js" async=""></script><script src="/_next/static/chunks/mui-e70767be1f9c9ad3.js" async=""></script><script src="/_next/static/chunks/16482-b3ff062e6c303367.js" async=""></script><script src="/_next/static/chunks/84674-17812c4af516f2fe.js" async=""></script><script src="/_next/static/chunks/44420-f459cefe930efe6d.js" async=""></script><script src="/_next/static/chunks/51662-a433c1bbe579ae5b.js" async=""></script><script src="/_next/static/chunks/app/layout-801daeb1d1f3c950.js" async=""></script><script src="/_next/static/chunks/app/error-7fd45efa86d1ec3d.js" async=""></script><script src="/_next/static/chunks/three-225bce3f91dccb45.js" async=""></script><script src="/_next/static/chunks/lodash-8c672122322a4349.js" async=""></script><script src="/_next/static/chunks/3c5aa50f-9c6dbfd7ea18acc0.js" async=""></script><script src="/_next/static/chunks/11507-e9f3602102f0e636.js" async=""></script><script src="/_next/static/chunks/37626-1aea6712a1050def.js" async=""></script><script src="/_next/static/chunks/39464-ea97d8204a46fbef.js" async=""></script><script src="/_next/static/chunks/23741-ac3532181542629f.js" async=""></script><script src="/_next/static/chunks/app/tour/%5B...slug%5D/loading-b31af2b4d2e146c8.js" async=""></script><link rel="preload" href="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.js" as="script"/><link rel="preload" href="/images/logo.png" as="image"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/><style>
+            #initial-loader {
+              position: fixed;
+              top: 0;
+              left: 0;
+              width: 100vw;
+              height: 100vh;
+              background: #333;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              justify-content: center;
+              gap: 32px;
+              z-index: 99999;
+            }
+            #initial-loader.hidden { display: none; }
+            #initial-loader .logo { width: 180px; height: auto; display: none; }
+            #initial-loader .spinner { width: 80px; height: 80px; position: relative; }
+            #initial-loader .spinner div {
+              animation: spinner-rotate 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+              transform-origin: 40px 40px;
+            }
+            #initial-loader .spinner div:after {
+              content: " ";
+              display: block;
+              position: absolute;
+              width: 7px;
+              height: 7px;
+              border-radius: 50%;
+              background: #2055FF;
+              margin: -4px 0 0 -4px;
+            }
+            #initial-loader .spinner div:nth-child(1) { animation-delay: -0.036s; }
+            #initial-loader .spinner div:nth-child(1):after { top: 63px; left: 63px; }
+            #initial-loader .spinner div:nth-child(2) { animation-delay: -0.072s; }
+            #initial-loader .spinner div:nth-child(2):after { top: 68px; left: 56px; }
+            #initial-loader .spinner div:nth-child(3) { animation-delay: -0.108s; 

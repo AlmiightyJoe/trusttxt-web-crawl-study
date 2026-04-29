@@ -1,0 +1,21 @@
+# Detroit Metro Times trust.txt file
+# For more information visit JournalList.net
+
+
+# memberships
+belongto=https://aan.org/
+
+
+# social channels
+social=https://www.facebook.com/metrotimes
+social=https://twitter.com/metrotimes
+social=https://www.instagram.com/metrotimes/
+
+
+# vendors
+vendor=https://publishwithfoundation.com/
+vendor=https://newspack.com
+
+
+# contact
+contact=https://www.metrotimes.com/detroit-AboutMetroTimes-Page

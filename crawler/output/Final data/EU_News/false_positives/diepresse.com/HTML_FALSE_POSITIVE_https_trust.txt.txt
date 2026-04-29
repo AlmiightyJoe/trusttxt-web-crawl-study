@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de" class="">
+<!--
+-------------------------------------------------------------------------------------
+POWERED BY --------------------------------------------------------------------------
+    _    _______ _     _ ______  _____              __  ___  _   ___ ___ _ 
+   | |  (_______) |   | (_____ \(_____)  /\     |   ) )  )  / _   )   ) /_) ) 
+    \ \  _      | |___| |_____) )  _    /  \    |  /_/ _(_ (__/ _(_  ( / / (__
+     \ \| |      \_____/(_____ (  | |  / /\ \   |   __  ___ __       ___  _  ___  __
+ _____) ) |_____   ___        | |_| |_| |__| |  |  (_ ` )_  )_) \  /  )  / ` )_  (_ ` 
+(______/ \______) (___)       |_(_____)______|  |  .__) (__ / \  \/ _(_ (_. (__ .__) 
+                                              
+------------------------------------------------------------- STYRIA DIGITAL SERVICES
+-------------------------------------------------------------------------------------
+-->
+<head>
+    <meta charset="utf-8" />
+    <title>Seite nicht gefunden – DiePresse.com</title>
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="color-scheme" content="light dark" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="title" content="Seite nicht gefunden" />
+<meta property="og:title" content="Seite nicht gefunden" />
+
+<meta name="description" content="Die Online-Ausgabe der österreichischen Tageszeitung Die Presse." />
+<meta property="og:description" content="Die Online-Ausgabe der österreichischen Tageszeitung Die Presse." />
+
+<meta name="site_name" content="Die Presse" />
+<meta property="og:site_name" content="Die Presse" />
+
+<meta name="type" content="website" />
+<meta property="og:type" content="website" />
+
+<meta name="url" content="https://www.diepresse.com/trust.txt" />
+<meta property="og:url" content="https://www.diepresse.com/trust.txt" />
+
+
+<meta name="tdm-reservation" content="1" />
+
+
+<meta name="tdm-policy" content="https://assets.diepresse.com/layout/diepresse/files/policies/policy.json" />
+
+
+<meta name="dcterms:rights" content="Legal Notice: All rights are reserved. The usage of contents of this website and/or of website data for the purpose of text and data mining in the meaning of &sect; 42h (6) of the Austrian Copyright Act is not permitted for the training of AI (artificial intelligence) models and/or AI based technologies. &quot;Die Presse&quot; Verlags-Gesellschaft m.b.H. &amp; Co KG may change this Legal Notice at any time at its sole discretion." />
+
+
+<meta property="og:image" content="https://www.diepresse.com/assets_v2/images/diepresse_nachrichten.png" /> 
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="https://www.diepresse.com/assets_v2/images/diepresse_nachrichten.png" /> 
+
+<meta name="fb:pages" content="28216342363,390975957096,42978254463" />
+
+<link rel="canonical" href="https://www.diepresse.com/trust.txt">
+<meta name="google-site-verification" content="AwdF8QoEBW7DYBRFU4-ZUx230322Q0CRp08JCkK1nRM" />
+
+
+
+
+
+
+<meta name="kt:page-type" content="page" />
+
+
+
+
+<meta name="kt:section-path" content="/trust.txt" />
+
+
+
+    <meta name="apple-mobile-web-app-title" content="Die Presse">
+
+
+<link rel="manifest" href="/assets_v2/images/icon/manifest.json">
+
+<link rel="apple-touch-icon" sizes="57x57" href="/assets_v2/images/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets_v2/images/icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets_v2/images/icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets_v2/images/icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets_v2/images/icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets_v2/images/icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets_v2/images/icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets_v2/images/icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets_v2/images/icon/apple-icon-180x180.png">
+<

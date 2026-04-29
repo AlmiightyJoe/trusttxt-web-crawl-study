@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<link rel="shortlink" href="https://news.uoregon.edu/" />
+<link rel="canonical" href="https://news.uoregon.edu/" />
+<meta property="og:site_name" content="OregonNews" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://news.uoregon.edu/homepage-2024-top-stories" />
+<meta property="og:title" content="Homepage (2024) - Top Stories" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@uoregon" />
+<meta name="twitter:title" content="Homepage (2024) - Top Stories" />
+<meta name="msvalidate.01" content="500853AC66D3E461FB9AE4D2BDAECB63" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="msapplication-config" content="/modules/contrib/uo_core/browserconfig.xml" />
+<link rel="icon" href="/themes/contrib/uo_cosmic_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-32x32.png" />
+<link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-16x16.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/apple-touch-icon.png" />
+<link rel="manifest" href="/modules/contrib/uo_core/manifest.json" />
+
+    <title>OregonNews | University of Oregon</title>
+        <meta name="theme-color" content="#154733">
+    <meta name="msapplication-navbutton-color" content="#154733">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#154733">
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_hywXe1F9QqVBpTuR87uhmT8xGW9EnbH-Ho-A084RInU.css?delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJxNjt0OgyAMhV9IxsUeyFQ4GiZQ04K4Pf2cxm03zfn52tTN8KGw9CF75DJEdrP9053jyDLwZrFRWiLueyKwXupC8UYP2s4gsySK4YXdagrODqRfnaBKE_TymT06fWpBOrnK_XHl7HteIRL8vnAVI-diqEE5_ejKpmEwOxembEahhMYyG8efTwu6NaCpPeYtsa8Rb9ryXQ4" />
+<link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/25.11/v1/css/styles-drupal8.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_gZIGuSZY9QQQqwVc2Lya_aTDhCNeUulqXR7lOkwsswM.css?delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJxNjt0OgyAMhV9IxsUeyFQ4GiZQ04K4Pf2cxm03zfn52tTN8KGw9CF75DJEdrP9053jyDLwZrFRWiLueyKwXupC8UYP2s4gsySK4YXdagrODqRfnaBKE_TymT06fWpBOrnK_XHl7HteIRL8vnAVI-diqEE5_ejKpmEwOxembEahhMYyG8efTwu6NaCpPeYtsa8Rb9ryXQ4" />
+<link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Universal/stable-assets/fontawesome-free-6.5.1-web/css/all.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_TPuE8rT9Qls3PmgnTCHwejtR-y4dYbljLF99v4MjKpY.css?delta=4&amp;language=en&amp;theme=cosmic&amp;include=eJxNjt0OgyAMhV9IxsUeyFQ4GiZQ04K4Pf2cxm03zfn52tTN8KGw9CF75DJEdrP9053jyDLwZrFRWiLueyKwXupC8UYP2s4gsySK4YXdagrODqRfnaBKE_TymT06fWpBOrnK_XHl7HteIRL8vnAVI-diqEE5_ejKpmEwOxembEahhMYyG8efTwu6NaCpPeYtsa8Rb9ryXQ4" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/12602","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJyFkEtywzAMQy9kRYseyENLsMJaEj2U_MvpqybjOu2mGw7wgAWGboLnKtpz9sh1iOIm-6Y7J1F

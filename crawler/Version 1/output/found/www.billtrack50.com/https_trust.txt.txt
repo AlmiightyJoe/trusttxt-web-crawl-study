@@ -1,0 +1,9 @@
+#BillTrack50 trust.txt file
+#From LegiNation 
+belongto=https://coloradofoic.org/
+belongto=https://journallist.net/
+social=https://www.facebook.com/LegiNation
+social=https://twitter.com/billtrack50
+social=https://www.linkedin.com/company/legination-inc-/
+social=https://www.youtube.com/user/BillTrack50
+contact=https://www.billtrack50.com/contact

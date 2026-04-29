@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta charset="UTF-8">
+
+<link href="/assets/css/common.min.css?17-dec-2025" rel="stylesheet">
+
+<meta name="Author" content="1news.az">
+<meta name="Developer" content="WEBB">
+<meta name="format-detection" content="telephone=no">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TB0Q4JN0PX"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-TB0Q4JN0PX');
+</script>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/i/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/i/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/i/favicons/favicon-16x16.png">
+<link rel="manifest" href="/assets/i/favicons/site.webmanifest">
+<link rel="mask-icon" href="/assets/i/favicons/safari-pinned-tab.svg" color="#e31f26">
+<link rel="shortcut icon" href="/assets/i/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#e31f26">
+<meta name="msapplication-config" content="/assets/i/favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+<!-- Facebook Pixel Code --><script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '526040712135749'); fbq('track', 'PageView');</script><noscript> <img height="1" width="1" src="https://www.facebook.com/tr?id=526040712135749&ev=PageView&noscript=1"/></noscript><!-- End Facebook Pixel Code -->
+
+<!-- metrix //-->
+<script src="https://cdn.gravitec.net/storage/97bcb0c7177f01ebb65ab695c78a475f/client.js" async></script>
+<script>
+    window.digitalks=window.digitalks||new function(){var t=this;t._e=[],t._c={},t.config=function(c){var i;t._c=c,t._c.script_id?((i=document.createElement("script")).src="//data.digitalks.az/v1/scripts/"+t._c.script_id+"/track.js?&cb="+Math.random(),i.async=!0,document.head.appendChild(i)):console.error("digitalks: script_id cannot be empty!")};["track","identify"].forEach(function(c){t[c]=function(){t._e.push([c].concat(Array.prototype.slice.call(arguments,0)))}})};
+
+    digitalks.config({
+        script_id: "73d0b6e3-59b4-49de-ab3e-a1040c042b44",
+        page_url: location.href,
+        referrer: document.referrer
+    })
+</script>
+<!-- end of metrix //-->
+    <link href="/assets/css/homepage.min.css?17-dec-2024v2" rel="stylesheet">
+
+    <title>1News.az – Новости Азербайджана сегодня | Последние новости мира</title>
+    <meta name="description" content="Самые свежие новости Азербайджана и Баку на сегодня. Последние новости мира, политики, экономики и спорта на 1News.az. Будьте в курсе событий в Азербайджане.">
+
+    <meta property="og:title" content="1News.az – Новости Азербайджана сегодня | Последние новости мира">
+    <meta property="og:site_name" content="1news.az - Последние новости Азербайджана">
+    <meta property="og:description" content="Самые свежие новости Азербайджана и Баку на сегодня. Последние новости мира, политики, экономики и спорта на 1News.az. Будьте в курсе событий в Азербайджане.">
+    <meta property="og:image" content="https://www.1news.az/images/fb_share_image.jpg">
+    <meta property="og:type" content="website">
+    <meta property="og:url" co

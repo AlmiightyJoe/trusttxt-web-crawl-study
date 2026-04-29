@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- normalize and html5 boilerplate resets -->
+        <link rel="stylesheet" href="templates/SuperFlat_v2/resources/css/reset.css">
+        <link rel="stylesheet" href="templates/SuperFlat_v2/resources/css/less.build.css">
+
+        <!--[if lte IE 9]>
+        <script src="templates/SuperFlat_v2/resources/js/html5shiv.js"></script>
+        <script src="templates/SuperFlat_v2/resources/js/html5shiv-printshiv.js"></script>
+        <![endif]-->
+
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+
+<title>South Florida Magazine | A Monthly Lifestyle Publication in South Fla</title>
+
+
+
+<meta name="description" content="South Florida is the only regional lifestyle magazine serving all five counties of greater South Florida, local news, society page, fashion and entertainment. In this issue: &quot;My Buddy from Brooklyn&quot;  5 Billion Dollar Blockbuster Mafia Movie" />
+<meta name="keywords" content="south florida, magazine" />
+
+  <link href="resources/sun.png" rel="shortcut icon" type="image/x-icon" />
+  <link href="resources/sun.png" rel="icon" type="image/x-icon" />
+
+  
+  <!-- Start of user defined header tracking codes -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-36022093-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-36022093-5');
+</script>
+<meta name=”viewport” content=”width=device-width, initial-scale=1.0″>
+
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=624dfdeb39862100197fc7b3&product=inline-share-buttons' async='async'></script>
+  <!-- End of user defined header tracking codes -->
+
+
+  <style type="text/css" id="styleCSS">
+    /*
+    Some Style Themes enhanced with background textures provided by http://subtlepatterns.com/
+*/
+
+body {
+    	background-color: #ffffff;
+
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+/* IOS devices 'bgd-att: fixed' solution */
+@media only screen and (max-device-width: 1366px) {
+    .bgd-attachment-fixed {
+        background-image: none;
+    }
+    .bgd-attachment-fixed:after {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        z-index: -2;
+    }
+}
+
+.Text_2_Default,
+.yola_inner_heading_wrap {
+  word-wrap: break-word;
+}
+
+.yola_bg_overlay{
+    display:table;
+    table-layout: fixed;
+    min-height: 100vh;
+    min-width: 100%;
+    width:100%;
+    height:100%;
+}
+.yola_outer_content_wrapper {
+    padding-top: 0rem;
+    padding-right: 0rem;
+    padding-bottom: 50px;
+    padding-left: 0px;
+}
+.yola_inner_bg_overlay {
+    display: table-cell;
+    width:100%;
+    min-height: 100vh;
+    	background-color: #ffffff;
+
+    vertical-align: top;
+}
+
+.yola_banner_wrap {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.yola_outer_heading_wrap {
+    text-align: center;
+    margin: 0 auto;
+    display: table;
+    width:100%;
+    text-align: center;
+    background-attachment: scroll;
+    
+    
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.yola_inner_heading_wrap {
+    display: table-cell;
+    vertical-align: middle;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.yola_innermost_heading_wrap {
+    margin: 0 auto;
+    
+    padding-top:0rem;
+    padding-right:0rem;
+    padding-botto

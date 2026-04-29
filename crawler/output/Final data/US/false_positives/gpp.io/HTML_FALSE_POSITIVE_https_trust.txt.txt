@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Glide - CMS and audience engagement platform for media and entertainment</title>
+  <meta name="description" content="Glide CMS is an AI-powered SaaS CMS for publishers, sports, media and entertainment.
+Glide Nexa is a first party data, entitlements, and engagement platform.">
+  <meta http-equiv="keywords" content="publishing technology,headless cms,cloud cms,saas cms,publishing cms,news cms,hybrid cms,content management,media cms,AI-assisted,AI-enhanced">
+  
+  <link href="https://www.gpp.io/" rel="canonical">
+
+
+  <!-- meta tags -->
+  <meta  property="og:locale" content="en" />
+  <meta  property="og:type" content="website" />
+  <meta  property="og:url" content="https://www.gpp.io/" />
+  <meta  property="og:description" content="Glide CMS is an AI-powered SaaS CMS for publishers, sports, media and entertainment.
+Glide Nexa is a first party data, entitlements, and engagement platform." />
+  <meta  property="og:title" content="Glide - CMS and audience engagement platform for media and entertainment" />
+  <meta  property="og:image" content="https://media.gpp.io/prod/images/og_image/d1c1cbc0eb41-image.webp" />
+  <meta  property="og:image:width" content="1200" />
+  <meta  property="og:image:height" content="630" />
+  <meta  name="twitter:site"  content="@GlidePlatform" />
+  <meta  name="twitter:creator"  content="@GlidePlatform" />
+  <meta  name="twitter:description"  content="Glide CMS is an AI-powered SaaS CMS for publishers, sports, media and entertainment.
+Glide Nexa is a first party data, entitlements, and engagement platform." />
+  <meta  name="twitter:url"  content="https://www.gpp.io/" />
+  <meta  name="twitter:title"  content="Glide - CMS and audience engagement platform for media and entertainment" />
+  <meta  name="twitter:image"  content="https://media.gpp.io/prod/images/og_image/d1c1cbc0eb41-image.webp" />
+  <meta  property="twitter:card" content="summary_large_image" />
+
+  <!-- preload fonts -->
+  <link rel="preload" href="https://assets.gpp.io/prod/assets/AzoSans-Thin.d8372f334a280de30e40bd1a7d468e2f.woff" rel="noopener noreferrer" as="font" type="font/woff" crossorigin="anonymous">
+  <link rel="preload" href="https://assets.gpp.io/prod/assets/AzoSans-Light.24a92abafad6e3b6c4019569c9e6cc80.woff" rel="noopener noreferrer" as="font" type="font/woff" crossorigin="anonymous">
+  <link rel="preload" href="https://assets.gpp.io/prod/assets/AzoSans-Regular.c4f772303737bb669e42e194cee7fd45.woff" rel="noopener noreferrer" as="font" type="font/woff" crossorigin="anonymous">
+  <link rel="preload" href="https://assets.gpp.io/prod/assets/AzoSans-Medium.0ea6f6946958683f47a5a676bd5a884b.woff" rel="noopener noreferrer" as="font" type="font/woff" crossorigin="anonymous">
+  <link rel="preload" href="https://assets.gpp.io/prod/assets/AzoSans-Bold.0c7c7101a9265105815a57622f664fca.woff" rel="noopener noreferrer" as="font" type="font/woff" crossorigin="anonymous">
+  <link rel="preload" href="https://assets.gpp.io/prod/assets/AzoSans-Black.56a2637aac06b3f343635ad9f442ac4f.woff" rel="noopener noreferrer" as="font" type="font/woff" crossorigin="anonymous">
+
+  <!-- hreflang -->
+
+  <link rel="alternate" hreflang="en" href="https://www.gpp.io/" />
+  <link rel="alternate" hreflang="x-default" href="https://www.gpp.io/" />
+
+  
+  <link rel="icon" sizes="512x512"  href="https://assets.gpp.io/prod/assets/android-chrome-512x512.bc1f3513e4327cf4ddfbf9b61d4972a2.png">
+  <link rel="icon" sizes="192x192"  href="https://assets.gpp.io/prod/assets/android-chrome-192x192.b54ac82c0146141a2f01a6b11852835a.png">
+  <link rel="icon" sizes="180x180"  href="https://assets.gpp.io/prod/assets/apple-touch-icon.8933a5bb40f90c6affc02a4b7bf3468a.png">
+  <link rel="icon" sizes="144x144"  href="https://assets.gpp.io/prod/assets/favicon16.a4343a2571737ac0affb6dae1e237657.png">
+  <link rel="icon" sizes="32x32"  href="https://assets.gpp.io/prod/assets/favicon32.ff4c0f886d7

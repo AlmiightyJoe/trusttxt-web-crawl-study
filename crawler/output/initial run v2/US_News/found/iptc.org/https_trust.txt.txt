@@ -1,0 +1,107 @@
+# iptc.org trust.txt file
+#
+# For more information, see 
+# https://journallist.net/reference-document-for-trust-txt-specifications
+
+# IPTC domains
+control=embeddedmetadata.org
+# control=eventsml.org
+control=eventsml.com
+control=iptc.com
+control=newscode.com
+control=newscode.org
+control=newscodes.com
+control=newscodes.org
+#control=newsentiti.es
+#control=newsentities.com
+#control=newsentities.org
+control=newsinjson.org
+control=newsml-g2.org
+control=newsml.com
+control=newsml.org
+control=newsml1.org
+control=newsmlg2.org
+control=nitf.org
+control=phmdc.org
+control=qcodes.org
+control=rightsml.com
+control=rightsml.org
+control=rnews.org
+control=semanticexchange.org
+control=sportsml.com
+control=sportsml.org
+control=sportschema.org
+control=sportsschema.org
+control=the-acap.org
+control=vmhub.org
+# Voting Members
+member=https://www.accessintel.com
+member=https://www.adobe.com
+member=https://www.afp.com
+member=https://www.ansa.it
+member=https://www.ap.org
+member=https://www.apa.at
+member=https://www.bbc.co.uk/news
+member=https://www.bloomberg.com
+member=https://www.businesswire.com
+member=https://www.datagroup.de
+member=https://www.dpa.de
+member=https://www.gettyimages.com
+member=https://gpp.io
+member=https://www.google.com/
+member=https://www.keystone-sda.ch
+member=https://www.kuna.net.kw
+member=https://www.nytimes.com
+member=https://pa.media
+member=https://www.useplus.org
+# member=https://www.qna.org.qa
+member=https://www.reuters.com
+member=https://www.shutterstock.com
+member=https://www.refinitiv.com
+member=https://www.thomsonreuters.com
+member=https://www.tt.se
+member=https://www.vcg.com
+member=https://www.xinhua.org
+# Associate Members
+member=https://www.abc.net.au
+member=https://www.activo-consulting.com
+member=https://www.atc.gr
+member=https://www.bvpa.org
+member=https://www.cbc.ca
+member=https://www.cepic.org
+member=https://www.defodi.de
+member=https://www.thedpp.com
+member=https://www.ebu.ch
+member=https://www.efe.es
+member=https://www.epa.eu
+member=https://etxstudio.com
+member=https://www.fotoware.com
+member=https://www.fingerpost.co.uk
+member=https://imatrics.com
+member=https://tass.com
+member=https://www.ijs.si
+member=https://www.kna.de
+member=https://www.lusa.pt
+member=https://www.mena.org.eg
+member=https://www.mainstreamdata.com
+member=https://www.microstocksolutions.com
+member=https://navigaglobal.com
+member=https://www.ntb.no
+member=https://www.profium.com
+member=https://www.prnewswire.co.uk
+member=https://publishprotocol.io
+member=https://www.sourcefabric.org
+member=https://www.spotlightsportsgroup.com/
+member=https://www.sta.si
+member=https://www.xmlteam.com
+member=https://www.yuanben.io
+# Startup Members
+member=https://frameright.io/
+member=https://www.imatag.com
+member=https://imagesnippets.com
+member=https://journallist.net/
+# Social media accounts
+social=https://twitter.com/iptc
+social=https://twitter.com/iptcupdates
+social=https://www.linkedin.com/company/iptc/
+social=https://www.youtube.com/channel/UCrBhZJnRztL4hOnBUo3B18Q

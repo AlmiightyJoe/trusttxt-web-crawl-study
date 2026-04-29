@@ -1,0 +1,34 @@
+# Classic Cars and Parts for Sale | Hemmings trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# Classic Cars and Parts for Sale | Hemmings is controlled by the following organization
+#
+controlledby=https://acbj.com/
+#
+# Classic Cars and Parts for Sale | Hemmings belongs to the following organizations
+#
+belongto=https://journallist.net/
+#
+# Classic Cars and Parts for Sale | Hemmings social networks
+#
+social=https://www.facebook.com/HemmingsNews
+social=https://instagram.com/hemmings
+social=https://hemmingsmotornews.tumblr.com/
+social=https://www.pinterest.com/hemmingsnews
+social=https://twitter.com/HemmingsNews
+social=https://www.youtube.com/channel/UC1R1BcMAdWUtaqIXYymFVVA
+#
+# Classic Cars and Parts for Sale | Hemmings vendors
+#
+# vendor=
+#
+# Classic Cars and Parts for Sale | Hemmings contact info
+#
+contact=https://www.hemmings.com/help
+#
+# © 2022 American City Business Journals. All Rights Reserved
+

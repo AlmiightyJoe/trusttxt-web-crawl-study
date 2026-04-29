@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html class='no-js' lang='en'>
+<head>
+<meta charset='UTF-8'>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'>
+<meta content='width=device-width, initial-scale=1.0' name='viewport'>
+<title id='title'>
+Britské listy 11. 2. 2026
+</title>
+<meta property="og:title" content="Britské listy 11. 2. 2026">
+<meta property="og:url" content="https://blisty.cz">
+<meta property="og:site_name" content="Britské listy">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Internetový deník Britské listy">
+<meta property="og:image" content="https://blisty.cz/assets/blisty/design/img/bl-fb-200x200-665b3bf89cf8833cebf8b51e246f94bdc3fe0526671d826b0b9caa67ab1e8c57.png">
+<link rel="icon" type="image/png" href="https://blisty.cz/assets/blisty/design/img/favicon-9d1dae67e48549e00433db529e847f0c7c43d26efecc334bafef673a0d44fbd9.ico" />
+<link href='/rss2.rb?all=1' rel='alternate' title='blisty.cz RSS feed' type='application/rss+xml'>
+<link rel="stylesheet" media="screen" href="https://blisty.cz/assets/application-638e7a45fe4413e676374c9881cd4ac359bdf3bf4a6c9352d988ab33f1ad2521.css" />
+<script src="https://blisty.cz/assets/vendor/modernizr-e5e9742b5821ce505a850d937a95481d65f99c9f82713400335e024afcc4eaae.js"></script>
+<script src="https://blisty.cz/assets/application-ee09f6ba3c5e0e37e93d3f956c45c2c056ffd791d258f1a20ff082e73eedddb7.js"></script>
+<link rel="stylesheet" media="screen" href="https://blisty.cz/assets/blisty/bl-27296a513e61bed06e89259eb62d552446babb91c0510e9aa3c72d408779d175.css" />
+<link rel="stylesheet" media="print" href="https://blisty.cz/assets/blisty/bl-print-f4396a4fd30e045f76bf99a8a9e76f243f5686b75bd4f64131d78f6b3dd6f1ce.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="yOtfBWjw7zTv/g8/Ab6u0nc3p3cLGSLtOBcvZaFgiM1lnmEr4o5ibIy4aJ+Rnu/W2C8ZF/osyQPOTxHPm9pO/w==" />
+
+</head>
+<body>
+<header class='header'>
+<div class='banner hide-for-small'>
+<div class='row collapse'>
+<div class='large-12 hide-for-small columns'>
+<!-- Leaderboard -->
+<div class='large-12 columns banner'>
+</div>
+</div>
+</div>
+</div>
+<div class='top show-for-medium-up'>
+<div class='row top collapse'>
+<div class='large-12 columns main'>
+<h1>
+<a class='logo' href='/'>Britské listy</a>
+</h1>
+<ul class='social'>
+<li>
+<a class='rss' href='/rss2?all=1'>
+<i class='fa fa-rss'></i>
+</a>
+</li>
+<li>
+<a class='twitter' href='https://twitter.com/blisty'>
+<i class='fa fa-twitter'></i>
+</a>
+</li>
+<li>
+<a class='facebook' href='https://www.facebook.com/britskelisty'>
+<i class='fa fa-facebook-square'></i>
+</a>
+</li>
+<li>
+<a class="user-nav" href="/users/sign_in"><i style="margin-right: 10px" class="fa fa-sign-in"></i>
+Přihlásit
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Mobile menu -->
+<div class='mobile-menu'>
+<div class='row collapse hide-for-medium-up'>
+<div class='large-12 columns main'>
+<nav class='top-bar' data-options='is_hover: false' data-topbar='1' role='navigation'>
+<ul class='title-area'>
+<li class='name'>
+<h1>
+<a class='logo' href='/'>Britské listy</a>
+</h1>
+</li>
+<li class='toggle-topbar menu-icon'>
+<a href='#'>
+<span class='menu_icon'></span>
+</a>
+</li>
+</ul>
+<section class='top-bar-section'>
+<ul>
+<!-- User nav -->
+<li class=''>
+<a class="user-nav" href="/users/sign_in"><i style="margin-right: 10px" class="fa fa-sign-in"></i>
+Přihlásit
+</a><ul class='dropdown user-nav mobile'>
+<li>
+</li>
+</ul>
+
+</li>
+<!-- Actual issue -->
+<li class='has-dropdown'>
+<a href='/'>Aktuální vydání</a>
+<ul class='dropdown' id='aktualni_mobile'>
+<li class='border-bot'>
+<p class='date' id='datum'>středa 11. 2. 2026</p>
+<ul class='actual-issue'>
+<li>
+<span class='details'>
+12. 2. 2026
+/
+
+
+
+</span>
+<a href="/art/131645-vysetrovani-odhalilo-ze-izrael-v-gaze-pomoci-termalnich-zbrani-vyparil-temer-3-000-palestincu.html">Vyšetřování odhalilo, že Izrael v Gaze pomocí termálních zbraní „vypařil“ téměř 3 000 Palestinců </a>
+</li>
+<li>
+<span class='details'>
+11. 2. 2026
+/
+
+
+
+</span>
+<a href="/art/131646

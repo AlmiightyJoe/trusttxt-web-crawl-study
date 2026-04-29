@@ -1,0 +1,6 @@
+# trust.txt for capitalgazette.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-13 13:59:19 EDT
+
+contact=https://www.capitalgazette.com/contact-us/
+datatrainingallowed=no

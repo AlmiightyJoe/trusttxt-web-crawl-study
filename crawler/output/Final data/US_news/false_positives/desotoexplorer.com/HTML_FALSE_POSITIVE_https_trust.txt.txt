@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.desotoexplorer.com/xmlrpc.php">
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Desoto Explorer | Informasi Wisata Desoto, Kansas Amerika Serikat</title>
+	<meta name="description" content="Desoto Explorer merupakan Kumpulan Informasi Destinasi Wisata Desoto yang berada di Kansas Amerika Serikat" />
+	<link rel="canonical" href="http://www.desotoexplorer.com/" />
+	<link rel="next" href="http://www.desotoexplorer.com/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Desoto Explorer" />
+	<meta property="og:description" content="Desoto Explorer merupakan Kumpulan Informasi Destinasi Wisata Desoto yang berada di Kansas Amerika Serikat" />
+	<meta property="og:url" content="http://www.desotoexplorer.com/" />
+	<meta property="og:site_name" content="Desoto Explorer" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"http://www.desotoexplorer.com/","url":"http://www.desotoexplorer.com/","name":"Desoto Explorer | Informasi Wisata Desoto, Kansas Amerika Serikat","isPartOf":{"@id":"http://www.desotoexplorer.com/#website"},"about":{"@id":"http://www.desotoexplorer.com/#organization"},"description":"Desoto Explorer merupakan Kumpulan Informasi Destinasi Wisata Desoto yang berada di Kansas Amerika Serikat","breadcrumb":{"@id":"http://www.desotoexplorer.com/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"http://www.desotoexplorer.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"http://www.desotoexplorer.com/#website","url":"http://www.desotoexplorer.com/","name":"Desoto Explorer","description":"","publisher":{"@id":"http://www.desotoexplorer.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://www.desotoexplorer.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"http://www.desotoexplorer.com/#organization","name":"Desoto Explorer","url":"http://www.desotoexplorer.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"http://www.desotoexplorer.com/#/schema/logo/image/","url":"http://www.desotoexplorer.com/wp-content/uploads/2021/03/cropped-DESOTO_Logo_PAN.png","contentUrl":"http://www.desotoexplorer.com/wp-content/uploads/2021/03/cropped-DESOTO_Logo_PAN.png","width":300,"height":60,"caption":"Desoto Explorer"},"image":{"@id":"http://www.desotoexplorer.com/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Desoto Explorer &raquo; Feed" href="http://www.desotoexplorer.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Desoto Explorer &raquo; Comments Feed" href="http://www.desotoexplorer.com/comments/feed/" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-b

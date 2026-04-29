@@ -1,0 +1,29 @@
+<!DOCTYPE html><html lang="en"><head><script src="https://cmp.osano.com/16CHhhU88uP0f4JzV/b670dc3b-298f-4d71-b182-fdad588a0ec2/osano.js"></script><script id="codeSplitUtil" class="code-split-timer-log">
+            window.codeSplitLogTime = [window.performance.now() / 1000];
+            console.log('[CodeSplit] First timer log >> t0 =', window.codeSplitLogTime[0])</script><title>This website is unavailable in your location. – WSB-TV Channel 2 - Atlanta</title><meta property="og:url" content="https://www.wsbtv.com/unavailable-location/"/><meta property="og:title" content="This website is unavailable in your location. – WSB-TV Channel 2 - Atlanta"/><meta property="og:image" content="https://www.wsbtv.com/resizer/v2/7SEOW3XJ6RDGVANVJ7FIMEDID4.png?auth=e7b79f0764c980e7eaacbf5994a86b49945713e6f4e57081e5f65b8a6ac036d6"/><meta property="og:image:alt" content="WSB-TV Channel 2 - Atlanta"/><meta property="og:site_name" content="WSB-TV Channel 2 - Atlanta"/><meta name="twitter:title" content="This website is unavailable in your location. – WSB-TV Channel 2 - Atlanta"/><meta name="twitter:url" content="https://www.wsbtv.com/unavailable-location/"/><meta name="twitter:image" content="https://www.wsbtv.com/resizer/v2/7SEOW3XJ6RDGVANVJ7FIMEDID4.png?auth=e7b79f0764c980e7eaacbf5994a86b49945713e6f4e57081e5f65b8a6ac036d6"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:site" content="@wsbtv"/><meta property="fb:app_id" content="473095803035383"/><link id="canonical" rel="canonical" href="https://www.wsbtv.com/unavailable-location/" data-replace="true"/><link id="fusion-output-type-styles" rel="stylesheet" type="text/css" href="/pf/dist/components/output-types/default.css?d=1203&amp;mxId=00000000"/><link id="fusion-template-styles" rel="stylesheet" type="text/css" href="/pf/dist/components/combinations/default.css?d=1203&amp;mxId=00000000"/><link id="fusion-siteStyles-styles" rel="stylesheet" type="text/css" href="/pf/dist/css/cmg-tv-10010.css?d=1203&amp;mxId=00000000"/><style data-styled="" data-styled-version="5.3.11">.gPMSVz{height:calc(100vh - 100px - 13px);}/*!sc*/
+data-styled.g33[id="section-nav__StyledSectionMenuVariableHeight-sc-xkxw6l-0"]{content:"gPMSVz,"}/*!sc*/
+.cYGxDn{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;width:100%;position:-webkit-sticky;position:sticky;top:0;margin-bottom:0;z-index:1;}/*!sc*/
+.cYGxDn .news-theme-navigation-bar{background-color:#11173E;-webkit-transition:0.5s;transition:0.5s;z-index:9;}/*!sc*/
+@media screen and (max-width:768px){.cYGxDn .news-theme-navigation-bar{height:56px;}}/*!sc*/
+@media screen and (min-width:768px){.cYGxDn .news-theme-navigation-bar{height:100px;}}/*!sc*/
+.cYGxDn .nav-logo img{height:auto;max-width:240px;width:auto;-webkit-transition:0.5s;transition:0.5s;}/*!sc*/
+@media screen and (max-width:768px){.cYGxDn .nav-logo img{max-height:40px;max-width:100%;}}/*!sc*/
+@media screen and (min-width:768px){.cYGxDn .nav-logo img{max-height:84px;}}/*!sc*/
+data-styled.g40[id="default__StyledNav-sc-1iqkv7i-0"]{content:"cYGxDn,"}/*!sc*/
+.fUmcNJ{z-index:8;}/*!sc*/
+@media screen and (max-width:768px){.fUmcNJ{margin-top:56px;}}/*!sc*/
+@media screen and (min-width:768px){.fUmcNJ{margin-top:100px;}}/*!sc*/
+data-styled.g41[id="default__StyledSectionDrawer-sc-1iqkv7i-1"]{content:"fUmcNJ,"}/*!sc*/
+body{font-family:'Source Sans Pro',sans-serif;}/*!sc*/
+.background_primary{background-color:#11173E;}/*!sc*/
+.background_primary.compliment_text_color{color:white;}/*!sc*/
+.background_primary_hover:hover{background-color:#161c43;}/*!sc*/
+.border_color_primary{border-color:#11173E;}/*!sc*/
+.color_primary{color:#11173E;}/*!sc*/
+.fill_primary path,.fill_primary_circle circle,.fill_primary{fill:#11173E;}/*!sc*/
+.fill_primary_hover:hover path{fill:#161c43;}/*!sc*/
+.font_primary{font-family:'Source Sans Pro',sans-serif;}/*!sc*/
+.font_secondary{font-family:'Source Sans Pro',sans-serif;}/*!sc*/
+.stroke_primary circle{stroke:#11173E;}/*!sc*/
+.newsletter-input:focus{border-color:#11173E;}/*!sc*/
+.read-next-swiper.radio .read-next-content

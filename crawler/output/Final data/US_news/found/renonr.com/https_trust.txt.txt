@@ -1,0 +1,12 @@
+# JournalList trust.txt file
+# For more information visit journallist.net
+# memberships
+belongto=https://aan.org/
+belongto=https://nevadapress.com/
+belongto=https://www.lionpublishers.com/
+# social channels here:
+social=https://www.facebook.com/RenoNewsReview
+social=https://twitter.com/Rnrtwits
+social=https://Instagram.com/RenoNewsReview
+# contact information here:
+contact=https://renonr.com/contact-us/ Inc.

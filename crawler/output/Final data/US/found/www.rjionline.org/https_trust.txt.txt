@@ -1,0 +1,22 @@
+﻿# Reynolds Journalism Institute trust.txt file
+# For more information visit journallist.net
+
+
+# memberships
+belongto=https://www.newsleaders.org/
+belongto=https://journallist.net/
+
+
+# control
+control=www.poy.org
+
+
+# social channels:
+social=https://www.facebook.com/reynoldsjournalisminstitute/
+social=        https://www.youtube.com/user/reynoldsjournalism
+social=https://twitter.com/RJI
+social=https://www.instagram.com/reynoldsjournalisminstitute
+
+
+# contact information here:
+contact=https://rjionline.org/about-rji/

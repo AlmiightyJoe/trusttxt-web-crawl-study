@@ -1,0 +1,21 @@
+# Creative Loafing Tampa Bay trust.txt file
+# For more information visit JournalList.net
+
+
+# memberships
+belongto=https://aan.org/
+
+
+# social channels
+social=https://www.facebook.com/cltampabay/
+social=https://twitter.com/cl_tampabay
+social=https://www.instagram.com/cltampabay/
+
+
+# vendors
+vendor=https://publishwithfoundation.com/
+vendor=https://newspack.com
+
+
+# contact
+contact=https://www.cltampa.com/tampa-contactus-page/

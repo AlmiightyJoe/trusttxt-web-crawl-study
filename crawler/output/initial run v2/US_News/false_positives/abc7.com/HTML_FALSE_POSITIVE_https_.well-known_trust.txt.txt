@@ -1,0 +1,28 @@
+
+        <!DOCTYPE html>
+        <html lang="en" lang="en">
+            <head>
+                <!-- ABCOTV | 96937a6c9abc | 6477 | 93c2bc9a41761443da5cba3fe3691254e748905d | abc7.com | Thu, 12 Feb 2026 01:07:26 GMT -->
+                <meta charSet="utf-8" />
+                <meta name="viewport" content="initial-scale=1.0, maximum-scale=3.0, user-scalable=yes" />
+                <meta http-equiv="x-ua-compatible" content="IE=edge,chrome=1" />
+                <meta property="og:locale" content="en_US" />
+                <link href="https://cdn.abcotvs.net/abcotv" rel="preconnect" crossorigin />
+                
+                <link data-react-helmet="true" rel="manifest" href="/manifest.json"/><link data-react-helmet="true" rel="alternate" href="//abc7.com/feed/" title="ABC7 Los Angeles RSS" type="application/rss+xml"/><link data-react-helmet="true" rel="canonical" href/><link data-react-helmet="true" href="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/css/fusion-5bc59c0c.css" rel="stylesheet"/><link data-react-helmet="true" href="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/css/7987-3f6c1b98.css" rel="stylesheet"/><link data-react-helmet="true" href="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/css/abcotv-fecb128a.css" rel="stylesheet"/><link data-react-helmet="true" href="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/css/7283-b8e957cb.css" rel="stylesheet"/><link data-react-helmet="true" href="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/css/101-bfc7ae90.css" rel="stylesheet"/><link data-react-helmet="true" href="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/css/404-9a7d2810.css" rel="stylesheet"/>
+                <script>
+                    window.__dataLayer = {"helpersEnabled":true,"page":{},"pzn":{},"site":{"device":"desktop","portal":"news"},"visitor":{}},
+                        consentToken = window.localStorage.getItem('consentToken');
+
+                    if (consentToken) {
+                        console.log('consentToken', JSON.parse(consentToken))
+                        window.__dataLayer.visitor = { consent : JSON.parse(consentToken) }; 
+                    }
+                </script>
+                <script src="https://dcf.espn.com/TWDC-DTCI/prod/Bootstrap.js"></script>
+                <link rel="preload" as="font" href="https://s.abcnews.com/assets/dtci/fonts/post-grotesk/PostGrotesk-Book.woff2" crossorigin>
+<link rel="preload" as="font" href="https://s.abcnews.com/assets/dtci/fonts/post-grotesk/PostGrotesk-Bold.woff2" crossorigin>
+<link rel="preload" as="font" href="https://s.abcnews.com/assets/dtci/fonts/post-grotesk/PostGrotesk-Medium.woff2" crossorigin>
+                <script src="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/runtime-3c3e27f4.js" defer></script><script src="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/7987-bb722321.js" defer></script><script src="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/507-c7ed365d.js" defer></script><script src="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/502-82b80dde.js" defer></script><script src="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/3167-3b0ff1e4.js" defer></script><script src="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/7941-7990394c.js" defer></script><script src="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/7283-f183b0f8.js" defer></script>
+                <link rel="prefetch" href="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/_manifest.js" as="script" /><link rel="prefetch" href="//assets-cdn.abcotvs.net/abcotv/93c2bc9a4176-release-02-04-2026.8/client/abcotv/abcotv-ce2739af.js" as="script" />
+<link rel="prefetch" href="//assets-cdn.abcotvs.net/abcotv/93c2bc9a417

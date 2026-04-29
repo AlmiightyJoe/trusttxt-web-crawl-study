@@ -1,0 +1,48 @@
+<!doctype html><html lang=en><head><meta charset=utf-8><meta http-equiv=cleartype content="on"><meta http-equiv=x-ua-compatible content="ie=edge"><meta name=viewport content="width=device-width,initial-scale=1"><meta name=HandheldFriendly content="True"><meta name=MobileOptimized content="320"><meta content="#ffffff" name=theme-color><meta property="og:site_name" content="Daytona Beach News-Journal Online"><meta name=description content="Get the latest breaking news, sports, entertainment and obituaries in Daytona Beach, FL from Daytona Beach News-Journal."><meta name=og:description content="Get the latest breaking news, sports, entertainment and obituaries in Daytona Beach, FL from Daytona Beach News-Journal."><title>Daytona Beach News-Journal: Local News, Politics & Sports in Daytona Beach, FL</title><link rel=dns-prefetch href=//cdn.cookielaw.org><link rel=preconnect href=https://cdn.cookielaw.org><script type=text/javascript>
+                (function() {
+                    try {
+                        var cs = document.currentScript,
+                            p =  (document.cookie.split('gnt_i=')[1] || '') + ';',
+                            l = p.substring(p.indexOf('~') - 2, p.indexOf(';'));
+                        if (!l) {
+                            var n = window.performance && performance.getEntriesByType('navigation') || [],
+                                st = n[0].serverTiming || '';
+                            if (st.length) {
+                                for (const t of st) {
+                                    if (t.name === 'gnt_i') {
+                                        l = t.description.split('*')[2];
+                                        break;
+                                    }
+                                }
+                            }
+                        }
+                        if (l) {
+                            var g = decodeURIComponent(l).split('~');
+                            comply({
+                                country: g[0],
+                                city: g[2],
+                                zipcode: g[3],
+                                state: g[1]
+                            });
+                        } else {
+                            
+                                comply();
+                            
+                        }
+                    } catch(e) {
+                        comply();
+                    }
+
+                    function comply(loc) {
+                        if(window.ga_privacy) return;
+                        loc = loc || {};
+                        var host = window.location.hostname || '',
+                            eu = host.split('.')[0] === 'eu',
+                            cco = hp('gnt-t-gc'),
+                            sco = hp('gnt-t-gs'),
+                            cc = cco || loc.country || (eu ? 'ES' : 'US'),
+                            sc = sco || loc.state || (cc === 'US' ? 'CA' : ''),
+                            t = true,
+                            gdprLoc = {'AT': t, 'BE': t, 'BG': t, 'HR': t, 'CY': t, 'CZ': t, 'DK': t, 'EE': t, 'EL': t, 'EU': t, 'FI': t, 'FR': t, 'DE': t, 'GR': t, 'HU': t, 'IE': t, 'IT': t, 'LV': t, 'LT': t, 'LU': t, 'MT': t, 'NL': t, 'PL': t, 'PT': t, 'RO': t, 'SK': t, 'SI': t, 'ES': t, 'SE': t, 'NO': t, 'LI': t, 'IS': t, 'AD': t, 'AI': t, 'AQ': t, 'AW': t, 'AX': t, 'BL': t, 'BM': t, 'BQ': t, 'CH': t, 'CW': t, 'DG': t, 'EA': t, 'FK': t, 'GB': t, 'GF': t, 'GG': t, 'GI': t, 'GL': t, 'GP': t, 'GS': t, 'IC': t, 'IO': t, 'JE': t, 'KY': t, 'MC': t, 'ME': t, 'MS': t, 'MF': t, 'MQ': t, 'NC': t, 'PF': t, 'PM': t, 'PN': t, 'RE': t, 'SH': t, 'SM': t, 'SX': t, 'TC': t, 'TF': t, 'UK': t, 'VA': t, 'VG': t, 'WF': t, 'YT': t},
+                            gdpr =  !!(eu || gdprLoc[cc]),
+                            gppLoc = {'CA': 'usca', 'NV': 'usca', 'UT': 'usnat', 'CO': 'usco', 'CT': 'usct', 'VA': 'usva', 'FL': 'usnat', 'MD': 'usnat','MN': 'usnat', 'MT': 'usnat', 'OR': 'usnat', 'TN': 'usnat', 'TX': 'usnat', 'DE': 'usnat', 'IA': 'usnat', 'NE': 'usnat', 'NH': 'usnat', 'NJ': 'usnat', 'IN': 'usnat',

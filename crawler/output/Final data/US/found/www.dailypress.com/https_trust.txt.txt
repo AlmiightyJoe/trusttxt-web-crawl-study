@@ -1,0 +1,6 @@
+# trust.txt for dailypress.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-13 18:22:03 EDT
+
+contact=https://www.dailypress.com/contact-us/
+datatrainingallowed=no

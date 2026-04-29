@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="hr" />
+<HEAD>
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="HR-hr" />
+<META NAME="Description" CONTENT="Požega - portal Požeško-slavonske županije" />
+<link rel="canonical" href="https://www.034portal.hr" />
+<META NAME="Keywords"
+CONTENT="034 portal, požega, pozega, Požega, Pozega,  034portal, 034,  požeško-slavonska županija, pleternica, pakrac, lipik, kutjevo, hrvatska, , , " />
+
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="034 portal - Požega - portal Požeško-slavonske županije" />
+<meta property="og:site_name" content="034 portal" />
+<meta property="og:locale" content="hr_HR" />
+<meta property="og:description" content="Požega - portal Požeško-slavonske županije" />
+<meta property="og:url" content="https://www.034portal.hr" />
+<meta property="og:image" content="https://www.034portal.hr/0.jpg" />
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:alt" content="034 portal" />
+<meta property="og:image:width" content="660">
+<meta property="og:image:height" content="496">
+<meta property="fb:pages" content="187512074622438" />
+<meta property="fb:app_id" content="275922802420520" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="034 portal" />
+<meta name="twitter:description" content="Požega - portal Požeško-slavonske županije" />
+<meta property="twitter:image" content="https://www.034portal.hr/0.jpg" />
+
+
+
+<title>034 portal - Požega - portal Požeško-slavonske županije</title>
+
+<link rel="image_src" href="https://www.034portal.hr/0.jpg" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1" />
+
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://npmcdn.com/flickity@1.2/dist/flickity.pkgd.js"></script>
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"
+/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.js"></script>
+
+
+<link rel="preload" href="https://www.034portal.hr/static/logo11.webp" as="image" type="image/webp" crossorigin>
+
+<link rel="preload" href="https://www.034portal.hr/fonts/Cabin-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://www.034portal.hr/fonts/Cabin-Italic.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://www.034portal.hr/fonts/Cabin-Bold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://www.034portal.hr/fonts/Cabin-BoldItalic.woff2" as="font" type="font/woff2" crossorigin>
+
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+<style type="text/css">
+
+@font-face {
+  font-family: 'Cabin';
+  font-style: normal;
+  

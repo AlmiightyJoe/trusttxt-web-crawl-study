@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Reportero SF · Periódico San Francisco (Mantenimiento)</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        /* === RESET Y TIPOGRAFÍA DE PERIÓDICO === */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: #1a1a1a;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px 12px;
+            font-family: 'Times New Roman', Georgia, 'Palatino', 'Cochin', serif;
+            background-image: radial-gradient(circle at 30% 40%, #333 1px, transparent 1px),
+                              radial-gradient(circle at 70% 80%, #3a3a3a 1px, transparent 1px);
+            background-size: 50px 50px;
+        }
+
+        /* === EL PERIÓDICO (TABLOIDE) === */
+        .newspaper {
+            max-width: 1200px;
+            width: 100%;
+            background: #fefef7;
+            color: #1e1e1e;
+            box-shadow: 0 30px 50px rgba(0,0,0,0.7), 0 0 0 1px #aaa, 0 0 0 3px #3a3a3a inset;
+            padding: 2.8rem 2.5rem;
+            position: relative;
+            border: 1px solid #444;
+        }
+
+        .newspaper::before {
+            content: "";
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200"><filter id="noise"><feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="1" stitchTiles="stitch"/><feColorMatrix type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.08 0"/></filter><rect width="200" height="200" filter="url(%23noise)" opacity="0.15"/></svg>');
+            opacity: 0.15;
+            pointer-events: none;
+            mix-blend-mode: multiply;
+        }
+
+        /* === CABECERA DEL PERIÓDICO === */
+        .header-paper {
+            text-align: center;
+            border-bottom: 3px double #222;
+            margin-bottom: 1.8rem;
+            padding-bottom: 0.75rem;
+        }
+
+        .header-paper h1 {
+            font-size: clamp(2.2rem, 8vw, 5rem);
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: 0.02em;
+            font-family: 'Times New Roman', Times, serif;
+            color: #000;
+            text-shadow: 2px 2px 0 #ccc, 4px 4px 0 #888;
+            line-height: 1.1;
+            margin-bottom: 0.2rem;
+            word-break: break-word;
+        }
+
+        .header-paper .subhead {
+            font-size: clamp(0.9rem, 3vw, 1.7rem);
+            text-transform: uppercase;
+            letter-spacing: 4px;
+            color: #2b2b2b;
+            font-weight: 400;
+            border-top: 1px solid #333;
+            border-bottom: 1px solid #333;
+            display: inline-block;
+            padding: 0.3rem 2rem;
+            margin: 0.4rem 0 0.6rem;
+            font-style: italic;
+            background: #ece6d8;
+        }
+
+        .header-paper .domain-line {
+            font-size: clamp(0.8rem, 2.5vw, 1.3rem);
+            font-family: 'Courier New', monospace;
+            background: #222;
+            color: #e6e6e6;
+            display: inline-block;
+            padding: 0.2rem 1.8rem;
+            letter-spacing: 1px;
+            border-radius: 2px;
+            margin-top: 0.4rem;
+            border: 1px solid #777;
+        }
+
+        .header-paper .domain-line i {
+            margin-right: 10px;
+            color: #b0b0b0;
+        }
+
+        /* dirección estilo clasificado */
+        .address-bar {
+            display: flex;
+            justify-content: space-between;
+            font-size: clamp(0.65rem, 2vw, 1rem);
+            text-transform: uppercase;
+            border-top: 1px dashed #444;
+            border-bottom: 1px dashed #444;

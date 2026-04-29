@@ -1,0 +1,119 @@
+<!-- 404.tpl v20200205_1508 -->
+<!-- request UNKNOWN -->
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+		<script>var cGdwd2Rza2lwcGVy = 'cG9zdC1nYXpldHRlIHBheXdhbGw=';</script>
+	
+	<!-- pgevoke.components.head v20240612_2300 -->
+
+	<!-- Build time: 3/15/2026 7:53 PM -->
+
+	<!-- Commit test 20250523_1731 -->
+	
+	<!-- pg.includes.pgvars / v20251107_1648 -->
+<script>
+var PGVARS = PGVARS || {};
+PGVARS.site = "blade";
+PGVARS.requesttype = "UNKNOWN";
+PGVARS.sectionid = "trust";
+PGVARS.param1 = "trust.txt";
+PGVARS.param2 = "";
+PGVARS.sectionseolabel = "trust";
+PGVARS.sectionpath = PGVARS.sectionseolabel;
+PGVARS.pgurl = "https://www.toledoblade.com";
+PGVARS.siteurl = "https://www.toledoblade.com";
+PGVARS.sitecode = "LIVE";
+PGVARS.sitetype = "DESKTOP";
+// PGVARS.isnativostory = false;
+PGVARS.iscustomsection = false;
+// PGVARS.pgurl = "http://www.toledoblade.com";
+// PGVARS.portraitmode = "";
+// PGVARS.forcedlayout = "";
+PGVARS.twitterid = "toledonews";
+PGVARS.sectionname = "";
+PGVARS.disastermode = false;
+PGVARS.disastermodefp = false;
+PGVARS.disastermodetest = "";
+PGVARS.piano = true;
+PGVARS.pianosandbox = false;
+PGVARS.scoreboardoverride = true;
+PGVARS.scoreboardvisiblefp = false;
+PGVARS.scoreboardvisiblesports = false;
+PGVARS.usegns = false;
+// PGVARS.disableviafoura = false;
+
+// Deployment test live 1
+</script>
+	
+	
+
+	<script>
+		PGPageVersion = (PGVARS.site === "pg") ? "pgevoke" : "evoke";
+		PGRequestType = "UNKNOWN";
+		PGRequestType = PGRequestType.toUpperCase();
+	</script>
+
+	<!-- UNKNOWN -->
+
+	
+
+	<!-- *****************************
+		     		META
+	     ***************************** -->
+	<!-- pgevoke.components.head_meta v20230103_1656 -->
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
+	<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+	<!-- <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> replaced with HTML5 charset above -->
+
+	
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=lk2d0BAGPx">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=lk2d0BAGPx">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=lk2d0BAGPx">
+	<link rel="manifest" href="/site.webmanifest?v=lk2d0BAGPx">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg?v=lk2d0BAGPx" color="#327eca">
+	<link rel="shortcut icon" href="/favicon.ico?v=lk2d0BAGPx">
+	<meta name="apple-mobile-web-app-title" content="The Blade">
+	<meta name="application-name" content="The Blade">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+	
+
+
+
+
+<script>
+    var isiOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+    var isiPhone = /iPhone;|iPod;/.test(navigator.userAgent) && !window.MSStream;
+    var isiPad = /iPad;/.test(navigator.userAgent) && !window.MSStream;
+    var nsmeta = document.createElement('meta');
+    nsmeta.name="apple-itunes-app";
+    if(isiOS){
+        if(isiPhone){
+            var nsappid = '1290364358';
+        }else if(isiPad){
+            var nsappid = '1290364340';
+        }
+        nsmeta.content = 'app-id='+nsappid;
+        document.getElementsByTagName('head')[0].appendChild(nsmeta);
+    }else{
+        nsmeta.content = 'app-id=1290364358';
+        document.getElementsByTagName('head')[0].appendChild(nsmeta);
+    }
+</script>
+
+<!-- pgevoke.components.head_meta END -->
+
+	<!-- *****************************
+		        EXTERNAL CSS
+	     ***************************** -->
+
+	<link rel="stylesheet" href="https://814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com/plugins/swiper/3.3.1/css/swiper.min.css">
+	
+	  <link rel="stylesheet" href="https://814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com/css/blade/pgevoke-blade-v0006.css">
+	
+	<link rel="stylesheet" href="https://814824ac51e64b4abcaa-cffb1f8b6941251295ee20eefbd7d321.ssl.cf2.rackcdn.com/css/font-awesome/v4.5.0/css/font-awesome.min.css">
+	<!-- <link rel="stylesheet" href="https://17d6e16423fe4184bd12-27077f269a6e794fab

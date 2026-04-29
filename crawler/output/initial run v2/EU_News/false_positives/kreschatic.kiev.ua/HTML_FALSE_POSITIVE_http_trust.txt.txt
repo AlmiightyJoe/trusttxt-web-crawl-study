@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="profile" href="https://gmpg.org/xfn/11" />
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<title>Kreschatic.kiev.ua | Хрещатик</title>
+	<meta name="description" content="Новини Києва, України та світу: спорт, технології та актуальні події. Аналітика, репортажі та свіжі новини без цензури — усе, що важливо знати сьогодні." />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" id="rb-preload-gfonts" href="https://fonts.googleapis.com/css?family=Roboto%3A200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CInter%3A900%2C700%2C600%2C400%2C500&amp;display=swap" crossorigin><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto%3A200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic%7CInter%3A900%2C700%2C600%2C400%2C500&amp;display=swap"></noscript><link rel="canonical" href="https://kreschatic.kiev.ua/" />
+	<meta property="og:locale" content="uk_UA" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Kreschatic.kiev.ua | Хрещатик" />
+	<meta property="og:description" content="Новини Києва, України та світу: спорт, технології та актуальні події. Аналітика, репортажі та свіжі новини без цензури — усе, що важливо знати сьогодні." />
+	<meta property="og:url" content="https://kreschatic.kiev.ua/" />
+	<meta property="og:site_name" content="Хрещатик" />
+	<meta property="article:modified_time" content="2026-01-08T09:28:43+00:00" />
+	<meta property="og:image" content="https://kreschatic.kiev.ua/wp-content/uploads/2025/10/kreschatic.kiev_.ua_.jpg" />
+	<meta property="og:image:width" content="1024" />
+	<meta property="og:image:height" content="1024" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+
+
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "legalName": "\u0425\u0440\u0435\u0449\u0430\u0442\u0438\u043a",
+    "url": "https://kreschatic.kiev.ua/",
+    "logo": "https://kreschatic.kiev.ua/wp-content/uploads/2023/03/logo-1-1.webp"
+}</script>
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='foxiz-elements-css' href='https://kreschatic.kiev.ua/wp-content/plugins/foxiz-core/lib/foxiz-elements/public/style.css' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ff

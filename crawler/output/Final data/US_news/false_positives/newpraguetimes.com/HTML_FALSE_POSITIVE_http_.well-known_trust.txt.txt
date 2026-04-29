@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head> 
+    <meta charset="utf-8" />
+<link rel="canonical" href="http://newpraguetimes.com/index.php/" />
+<link rel="shortlink" href="http://newpraguetimes.com/index.php/" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org); Commerce 2" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    
+    <title>Home | MN South News</title>
+    <link rel="stylesheet" media="all" href="/libraries/drupal-superfish/css/superfish.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/modules/SimpleAds-8.x-1.11/js/slick/slick.min.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/modules/SimpleAds-8.x-1.11/js/modal/jquery.modal.min.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/modules/SimpleAds-8.x-1.11/css/simpleads.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/modules/better_social_sharing_buttons/css/better_social_sharing_buttons.css?tbahzm" />
+<link rel="stylesheet" media="all" href="/libraries/drupal-superfish/style/black/black.css?tbahzm" />
+<link rel="style

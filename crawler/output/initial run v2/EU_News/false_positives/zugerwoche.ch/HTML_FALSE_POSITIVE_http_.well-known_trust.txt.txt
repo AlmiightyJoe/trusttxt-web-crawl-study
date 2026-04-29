@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="de-de">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<link rel="icon" href="/fileadmin/templates/images/zug/favicon.ico" type="image/vnd.microsoft.icon">
+<title>Zuger Woche: Zuger Woche</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta property="og:image" content="/uploads/_processed_/4/f/csm_67901779_ac88d855be.jpeg" />
+<meta name="twitter:card" content="summary" />
+
+
+<link rel="stylesheet" href="/typo3conf/ext/news/Resources/Public/Css/news-basic.css?1681813189" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/css/df8e36f48ad5c22eefe5986d0ab6fe8f.css?1758024537" media="all">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/css/lightgallery.css" media="all">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/css/lightgallery-bundle.css" media="all">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.0/css/lg-thumbnail.css" media="all">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.7.1/css/lg-share.min.css" media="all">
+<link rel="stylesheet" href="/fileadmin/templates/css/style.css?1721656207" media="all">
+<link rel="stylesheet" href="/fileadmin/templates/css/lightgallery.css?1681813012" media="all">
+<link rel="stylesheet" href="/fileadmin/templates/lib/fancybox/jquery.fancybox.css?1681813032" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/ke_search/Resources/Public/Css/ke_search_pi1.css?1681813265" media="all">
+
+
+
+
+<script src="/typo3conf/ext/pingag_standard_helper/Resources/Public/JavaScripts/jquery-3.1.1.min.js?1681813193"></script>
+
+
+
+	<meta name="author" content="Zuger Woche"/>
+	<meta name="publisher" content="Zuger Woche AG"/>
+	<meta name="copyright" content="&copy; Copyright (c) Zuger Woche"/>
+	<meta name="location" content="Zug"/>
+	<meta name="page-topic" content="Nachrichten, News" />
+	<meta name="distribution" content="Global" />
+
+	<meta property="fb:admins" content="1266838129" />
+	
+	<!-- For iPhone 4 with high-resolution Retina display: -->
+	<link rel="apple-touch-icon" sizes="114x114" href="/fileadmin/templates/images/zug/apple-touch-icon_h.png" />
+	<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+	<link rel="apple-touch-icon" href="/fileadmin/templates/images/zug/apple-touch-icon_l.png" />
+	<!-- For first-generation iPad: -->
+	<link rel="apple-touch-icon" sizes="72x72" href="/fileadmin/templates/images/zug/apple-touch-icon_m.png" />
+
+	<script src="https://cdn.jsdelivr.net/npm/exif-js"></script>
+	<link rel="stylesheet" href="/fileadmin/templates/stylesheets/zug.css" type="text/css">
+    <link rel="stylesheet" href="/fileadmin/templates/css/rotationImage.css" type="text/css">	<meta http-equiv="Language" content="de">
+	<meta http-equiv="content-language" content="de">		 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">		<link rel="stylesheet" href="/fileadmin/templates/stylesheets/responsive.css" type="text/css">		<link rel="stylesheet" type="text/css" href="/fileadmin/templates/lib/fancybox/jquery.fancybox.css">
+		
+
+</head>
+<body class="ArtikelZW">
+
+
+
+<div id="outer_wrapper">
+
+    <div class="skyscraper skyscraper_links">
+        <div class="normal"></div>
+        <div class="lower"></div>
+    </div>
+
+    <div id="wrapper">
+        <div id="header">
+            <div class="leaderboard">
+                <div class="leaderboard_inner"></div>
+            </div>
+
+            <div class="inner">
+                
+<div class="datum">
+    <p>
+        Donnerstag, 12. Februar 2026
+    </p>
+</div>
+<div class="mobnavbutton"></div>
+
+<ul class="servicenav">
+    
+    <li><a href="http://inserieren.z

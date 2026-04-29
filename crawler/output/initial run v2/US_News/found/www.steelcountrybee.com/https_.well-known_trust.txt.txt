@@ -1,0 +1,18 @@
+﻿# Steel Country Bee trust.txt file
+# For more information visit journallist.net
+
+# memberships:
+belongto=https://www.texaspress.com/
+
+# controlled by:
+controlledby=https://www.tribnow.com
+
+# vendors:
+vendor=https://www.etypeservices.net/
+vendor=https://www.etypeservices.com/
+
+# social channels:
+social=https://www.facebook.com/steelcountrybee
+
+# contact information here:
+contact=https://www.steelcountrybee.com/contact

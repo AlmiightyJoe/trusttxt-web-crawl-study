@@ -1,0 +1,47 @@
+
+<!doctype html>
+
+  <head>
+    <meta charset="utf-8">
+
+    
+
+        <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+	    	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+		<!-- All in One SEO 4.7.9 - aioseo.com -->
+		<title>The Jewish Advocate | Boston, Massachusetts News</title>
+	<meta name="robots" content="max-image-preview:large" />
+	<link rel="canonical" href="https://www.thejewishadvocate.com/" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.7.9" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="The Jewish Advocate -" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="The Jewish Advocate | Boston, Massachusetts News" />
+		<meta property="og:url" content="https://www.thejewishadvocate.com/" />
+		<meta property="og:image" content="https://d2y8psjfi06mva.cloudfront.net/all-in-one-seo-pack/images/default-user-image.png" />
+		<meta property="og:image:secure_url" content="https://d2y8psjfi06mva.cloudfront.net/all-in-one-seo-pack/images/default-user-image.png" />
+		<meta property="article:published_time" content="2017-02-15T18:05:12+00:00" />
+		<meta property="article:modified_time" content="2020-09-23T15:34:27+00:00" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="The Jewish Advocate | Boston, Massachusetts News" />
+		<meta name="twitter:image" content="https://d2y8psjfi06mva.cloudfront.net/all-in-one-seo-pack/images/default-user-image.png" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.thejewishadvocate.com\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.thejewishadvocate.com\/#listItem","position":1,"name":"Home"}]},{"@type":"Organization","@id":"https:\/\/www.thejewishadvocate.com\/#organization","name":"The Jewish Advocate","url":"https:\/\/www.thejewishadvocate.com\/"},{"@type":"WebPage","@id":"https:\/\/www.thejewishadvocate.com\/#webpage","url":"https:\/\/www.thejewishadvocate.com\/","name":"The Jewish Advocate | Boston, Massachusetts News","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.thejewishadvocate.com\/#website"},"breadcrumb":{"@id":"https:\/\/www.thejewishadvocate.com\/#breadcrumblist"},"datePublished":"2017-02-15T18:05:12-05:00","dateModified":"2020-09-23T11:34:27-04:00"},{"@type":"WebSite","@id":"https:\/\/www.thejewishadvocate.com\/#website","url":"https:\/\/www.thejewishadvocate.com\/","name":"The Jewish Advocate","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.thejewishadvocate.com\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.thejewishadvocate.com\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//dutks0b58iw6s.cloudfront.net' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="The Jewish Advocate &raquo; The Jewish Advocate Comments Feed" href="https://www.thejewishadvocate.com/the-jewish-advocate/feed/" />
+<link rel='stylesheet' id='mp-theme-css' href='https://dutks0b58iw6s.cloudfront.net/memberpress/css/ui/theme.css?ver=1.11.37' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.thejewishadvocate.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:non

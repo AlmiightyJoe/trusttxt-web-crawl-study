@@ -1,0 +1,6 @@
+# trust.txt for broomfieldenterprise.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-13 02:51:04 MDT
+
+contact=https://www.broomfieldenterprise.com/contact-us/
+datatrainingallowed=no

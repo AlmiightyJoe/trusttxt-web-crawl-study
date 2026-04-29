@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3893283730791877"
+     crossorigin="anonymous"></script>
+	
+<meta name="google-adsense-account" content="ca-pub-3893283730791877">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+<title>Black Star News - Breaking News and Latest Updates Today</title>
+<meta name="description" content="Founded in 1997, Black Star News is an independent investigative news publication covering politics, global affairs, social justice, and issues affecting the African diaspora."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://blackstarnews.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Black Star News - Breaking News and Latest Updates Today" />
+<meta property="og:description" content="Founded in 1997, Black Star News is an independent investigative news publication covering politics, global affairs, social justice, and issues affecting the African diaspora." />
+<meta property="og:url" content="https://blackstarnews.com/" />
+<meta property="og:site_name" content="Black Star News" />
+<meta property="og:updated_time" content="2026-02-14T03:21:14+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Black Star News - Breaking News and Latest Updates Today" />
+<meta name="twitter:description" content="Founded in 1997, Black Star News is an independent investigative news publication covering politics, global affairs, social justice, and issues affecting the African diaspora." />
+<meta name="twitter:site" content="@nyblackstarnews" />
+<meta name="twitter:creator" content="@nyblackstarnews" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Black Star" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="Less than a minute" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://blackstarnews.com/#person","name":"Black Star News","sameAs":["https://www.facebook.com/officialblackstarnews","https://twitter.com/nyblackstarnews","https://www.instagram.com/officialblackstarnews/"],"logo":{"@type":"ImageObject","@id":"https://blackstarnews.com/#logo","url":"https://blackstarnews.com/wp-content/uploads/2024/11/black-star-news-logo.svg","contentUrl":"https://blackstarnews.com/wp-content/uploads/2024/11/black-star-news-logo.svg","caption":"Black Star News","inLanguage":"en-US","width":"","height":""},"image":{"@type":"ImageObject","@id":"https://blackstarnews.com/#logo","url":"https://blackstarnews.com/wp-content/uploads/2024/11/black-star-news-logo.svg","contentUrl":"https://blackstarnews.com/wp-content/uploads/2024/11/black-star-news-logo.svg","caption":"Black Star News","inLanguage":"en-US","width":"","height":""}},{"@type":"WebSite","@id":"https://blackstarnews.com/#website","url":"https://blackstarnews.com","name":"Black Star News","publisher":{"@id":"https://blackstarnews.com/#person"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://blackstarnews.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://mblink.it/1P4Xl276N.png","url":"https://mblink.it/1P4Xl276N.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://blackstarnews.com/#webpage","url":"https://blackstarnews.com/","name":"Black Star News - Breaking News and Latest Updates Today","datePublished":"2023-12-18T05:23:16+00:00","dateModified":"2026-02-14T03:21:14+00:00","about":{"@id":"https://blackstarnews.com/#person"},"isPartOf":{"@id":"https://blackstarnews.com/

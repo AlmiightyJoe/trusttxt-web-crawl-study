@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us" >
+<head>
+<link rel="stylesheet" href="https://cdn.icomoon.io/2584/MCFrontEnd/style-cf.css?p279bq">
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="title" content="Home" />
+  <meta name="author" content="" />
+  <meta name="description" content="" />
+  <meta name="generator" content="MemberClicks Content Management System" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Home</title>
+  <link href="/templates/brookhaven-jt/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <style type="text/css">
+    ::-webkit-input-placeholder {color:inherit; opacity: 0.6}
+    :-moz-placeholder {color:inherit;opacity:0.6}
+    ::-moz-placeholder {color:inherit;opacity:0.6}
+    :-ms-input-placeholder {color:inherit; opacity: 0.6}
+  </style>
+  <script type="text/javascript" src="https://www.asme.media/includes/js/jquery.min.js"></script>
+  <script type="text/javascript" src="https://www.asme.media/includes/js/jquery-migrate.min.js"></script>
+  <script type="text/javascript">
+    (function($){
+      jQuery.fn.extend({
+        live: function (event, callback) {
+          if (this.selector) {
+            jQuery(document).on(event, this.selector, callback);
+          }
+        },
+        curCSS : function (element, attrib, val){
+          $(element).css(attrib, val);
+        }
+      })
+    })(jQuery);
+  </script>
+  <script type="text/javascript">jQuery.noConflict();</script>
+  <script type="text/javascript" src="https://www.asme.media/includes/js/jquery-ui-custom-elvn-fr.min.js"></script>
+  <script type="text/javascript" src="https://www.asme.media/includes/js/jQueryUIDialogInclude.js"></script>
+  <script type="text/javascript" src="https://www.asme.media/includes/js/jquery.dataTables.js"></script>
+  <script type="text/javascript" src="https://www.asme.media/includes/js/jquery.tablednd-0.5.js"></script>
+  <script type="text/javascript" src="https://www.asme.media/includes/js/json2.js"></script>
+  <script type="text/javascript" src="/ui-v2/js/libs/underscore/underscore.js"></script>
+  <link rel="stylesheet" href="https://www.asme.media/includes/css/themes/base/ui.all.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.asme.media/includes/css/jqueryui.css" type="text/css" />
+  <link rel="stylesheet" href="https://www.asme.media/includes/css/system-messages.css" type="text/css" />
+  <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/includes/js/joomla.javascript.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type='text/javascript'>
+/*<![CDATA[*/
+	var jax_live_site = 'https://www.asme.media/index.php';
+	var jax_site_type = '1.5';
+	var jax_token_var = '161fc4f0f679b19a96e689d53bbae5cb';
+/*]]>*/
+</script><script type="text/javascript" src="https://www.asme.media/plugins/system/pc_includes/ajax_1.3.js"></script>
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript">
+      window.addEvent("domready", function() {
+          SqueezeBox.initialize({});
+          $$("a.modal").each(function(el) {
+              el.addEvent("click", function(e) {
+                  new Event(e).stop();
+                  SqueezeBox.fromElement(el);
+              });
+          });
+      });
+  </script>
+  <script type="text/javascript">
+    jQuery(document).ready(function() {
+      var mcios = navigator.userAgent.toLowerCase().match(/(iphone|ipod|ipad)/);
+      var supportsTouch = 'ontouchstart' in window || window.navigator.msMaxTouchPoints ||

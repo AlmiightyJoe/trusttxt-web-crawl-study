@@ -1,0 +1,26 @@
+# Beaumont Examiner trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# Beaumont Examiner belongs to the following organizations
+#
+belongto=https://www.texaspress.com/
+#
+# Beaumont Examiner social networks
+#
+social=https://www.facebook.com/theexaminercorp/
+social=https://twitter.com/yourexaminer/
+#
+# Beaumont Examiner vendors
+#
+vendor=https://www.etypeservices.com/
+#
+# Beaumont Examiner contact info
+#
+contact=https://www.theexaminer.com/contact
+contact=tel:409-833-3381
+#
+# © 2022 Beaumont Examiner

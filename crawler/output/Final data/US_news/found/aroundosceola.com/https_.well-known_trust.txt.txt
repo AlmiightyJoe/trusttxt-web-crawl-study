@@ -1,0 +1,25 @@
+# Osceola News Gazette trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# Osceola News Gazette belongs to the following organizations
+#
+belongto=https://www.flpress.com/
+#
+# Osceola News Gazette social networks
+#
+social=https://www.facebook.com/osceolanewsgazette/
+social=https://twitter.com/AroundOsceola
+#
+# Osceola News Gazette vendors
+#
+# vendor=https://www.etypeservices.com
+#
+# Osceola News Gazette contact info
+#
+contact=https://www.aroundosceola.com/contact
+#
+# © 2022 Osceola News Gazette

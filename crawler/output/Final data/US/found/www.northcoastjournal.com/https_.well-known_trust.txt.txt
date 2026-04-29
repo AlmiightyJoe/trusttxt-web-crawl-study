@@ -1,0 +1,23 @@
+# North Coast Journal trust.txt file
+# For more information visit JournalList.net
+
+
+# memberships
+belongto=https://aan.org/
+belongto=https://www.cnpa.org/
+
+
+# social channels
+social=https://www.facebook.com/northcoastjournal
+social=https://twitter.com/ncj_of_humboldt
+social=https://www.instagram.com/northcoastjournal/
+
+
+# vendors
+vendor=https://publishwithfoundation.com/
+vendor=https://newspack.com/
+
+
+# contact
+contact=support@northcoastjournal.com
+contact=https://www.northcoastjournal.com/humboldt/ContactUs/Page

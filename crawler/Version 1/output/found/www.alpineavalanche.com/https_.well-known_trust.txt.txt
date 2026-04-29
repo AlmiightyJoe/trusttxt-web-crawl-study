@@ -1,0 +1,25 @@
+# Alpine Avalanche | trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# Alpine Avalanche | belongs to the following organizations
+#
+belongto=https://www.texaspress.com/
+belongto=https://www.journallist.net/
+#
+# Alpine Avalanche | social networks
+#
+social=https://www.facebook.com/TheAlpineAvalanche/
+#
+# Alpine Avalanche | vendors
+#
+vendor=https://www.etypeservices.com
+#
+# Alpine Avalanche | contact info
+#
+contact=https://www.alpineavalanche.com/index.php/contact
+#
+# Copyright ©2022 Alpine Avalanche. All rights reserved.

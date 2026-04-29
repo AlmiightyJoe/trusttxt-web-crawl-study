@@ -1,0 +1,26 @@
+# trust.txt for Gazette Communications, Inc.
+member=https://localmedia.org
+member=https://www.localmediaconsortium.com
+member=https://inanews.com
+member=https://iapublicnotices.newzgroup.com/
+member=http://www.ifoic.org/
+member=https://auditedmedia.com/
+member=https://ap.org
+control=https://www.thegazette.com
+control=https://www.southeastiowaunion.com
+control=https://www.hooplanow.com
+control=https://iowaideas.com
+control=https://her.today
+control=https://classifieds.thegazette.com
+control=https://garagesales.thegazette.com
+control=https://www.corridorcareers.com
+control=https://www.iowacoviddata.com/
+vendor=https://subscribe.thegazette.com
+vendor=https://store.thegazette.com
+customer=https://www.tecnavia.com
+customer=https://local.thegazette.com/
+social=https://www.facebook.com/GazetteOnline
+social=https://twitter.com/gazettedotcom
+social=https://www.linkedin.com/company/gazette-communications_2/
+social=https://www.youtube.com/user/gazetteonline
+social=https://www.instagram.com/crgazette/?hl=en

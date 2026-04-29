@@ -1,0 +1,25 @@
+# Courier-Record trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA&#039;s list of registered Well-Known URIs
+#
+# Courier-Record belongs to the following organizations
+#
+belongto=https://www.vpa.net/
+belongto=https://journallist.net
+#
+# Courier-Record social networks
+#
+social=https://www.facebook.com/courierrecord.newspaper/
+social=https://www.instagram.com/courierrecord/
+social=https://twitter.com/CourierRecord
+#
+# Courier-Record vendors
+#
+vendor=http://our-hometown.com/
+#
+# Courier-Record contact info
+#
+contact=https://www.courier-record.com/contact-us/

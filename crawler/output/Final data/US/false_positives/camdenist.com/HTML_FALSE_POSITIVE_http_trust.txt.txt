@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<script id="cookie-law-info-gcm-var-js">
+var _ckyGcm = {"status":true,"default_settings":[{"analytics":"denied","advertisement":"denied","functional":"denied","necessary":"granted","ad_user_data":"denied","ad_personalization":"denied","regions":"All"}],"wait_for_update":2000,"url_passthrough":false,"ads_data_redaction":false}</script>
+<script id="cookie-law-info-gcm-js" type="text/javascript" src="https://camdenist.com/wp-content/plugins/cookie-law-info/lite/frontend/js/gcm.min.js"></script> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/7b22a5f2e6dd00cdd19190c3/script.js"></script><!-- Google tag (gtag.js) consent mode dataLayer added by Site Kit -->
+<script id="google_gtagjs-js-consent-mode-data-layer">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","functionality_storage":"denied","security_storage":"denied","personalization_storage":"denied","region":["AT","BE","BG","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500});
+window._googlesitekitConsentCategoryMap = {"statistics":["analytics_storage"],"marketing":["ad_storage","ad_user_data","ad_personalization"],"functional":["functionality_storage","security_storage"],"preferences":["personalization_storage"]};
+window._googlesitekitConsents = {"ad_personalization":"denied","ad_storage":"denied","ad_user_data":"denied","analytics_storage":"denied","functionality_storage":"denied","security_storage":"denied","personalization_storage":"denied","region":["AT","BE","BG","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IS","IT","LI","LT","LU","LV","MT","NL","NO","PL","PT","RO","SE","SI","SK"],"wait_for_update":500};
+</script>
+<!-- End Google tag (gtag.js) consent mode dataLayer added by Site Kit -->
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Camdenist</title>
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="Camdenist" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@camdenist" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://camdenist.com/#website","url":"https://camdenist.com/","name":"Camdenist","description":"Collaborative media platform celebrating all things Camden, London","publisher":{"@id":"https://camdenist.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://camdenist.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-GB"},{"@type":"Organization","@id":"https://camdenist.com/#organization","name":"Camdenist","url":"https://camdenist.com/","logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://camdenist.com/#/schema/logo/image/","url":"https://camdenist.com/wp-content/uploads/2020/12/C-Azure-box-550x550-1.png","contentUrl":"https://camdenist.com/wp-content/uploads/2020/12/C-Azure-box-550x550-1.png","width":550,"height":550,"caption":"Camdenist"},"image":{"@id":"https://camdenist.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/camdenist","https://x.com/camdenist","https://www.instagram.com/camdenist"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<script type='application/javascript'  id='pys-versi

@@ -1,0 +1,14 @@
+# trust.txt for the Excelsior Springs Standard
+# for more about trust.txt, see https://journallist.net/
+# Excelsior Springs Standard belongs to the following organizations
+belongto=https://mopress.com/
+belongto=https://nna.org/
+# these are the social channels controlled by the Excelsior Springs Standard
+social=https://www.facebook.com/ExcelsiorSpringsStandard
+social=https://twitter.com/ExSpgsStandard
+social=https://www.instagram.com/exspgsstandard
+# Excelsior Springs Standard contact information
+contact=https://www.excelsiorspringsstandard.com/contact
+# Excelsior Springs Standard uses these sites as a vendor
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net

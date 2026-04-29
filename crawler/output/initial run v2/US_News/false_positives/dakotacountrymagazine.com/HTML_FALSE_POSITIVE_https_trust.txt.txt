@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Dakota Country Magazine</title>
+	<meta charset='utf-8'>
+	<meta name="viewport" content="width=device-width">
+	<meta http-equiv="description" content="Dakota Country Magazine - The Fishing and Hunting Magazine of the Dakotas">
+	<meta http-equiv="keywords" content="Camping hunting fishing summer fishing ice fishing Lake Sakakawea Missouri River Devils Lake Lake Oahe upland birds waterfowl Dakota Country Magazine North Dakota South Dakota
+walleye perch northern pike white bass largemouth bass smallmouth bass Lake Audubon fiberglass fishing boats docks cabin lodge bait tackle canoe worms nightcrawlers crawlers vexilar humminbird warrior boats yarcraft boats lund mercury honda suzuki yamaha minn kota Roy Lake Sweetbriar Dam Long Lake Drayton Dam Lake Darling">
+
+	<meta property="og:title" content="Dakota Country Magazine" />
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="http://dakotacountrymagazine.com/data/upfiles/media/og_.jpg" />
+	<meta property="og:url" content="{OG_URL}" />
+	<meta property="og:description" content="The Hunting & Fishing Magazine of the Dakotas!" />
+	<meta property="og:site_name" content="{OG_SITE_NAME}" />
+
+	<meta name="google-site-verification" content="iatl5yPvVK4U7qepnv8-N3SD_HV5QpJdT_BVbpOKwJY" />
+
+	<!-- Google Tag Manager -->
+	<script>(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+					new Date().getTime(), event: 'gtm.js'
+			}); var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+					'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-NC6GQBH');</script>
+	<!-- End Google Tag Manager -->
+
+	<link href="/_elements/css/reset.css" media="all" rel="stylesheet">
+	<link href="/_elements/css/screen.css" media="all" rel="stylesheet">
+	<link href="/_elements/css/responsive.css" media="all" rel="stylesheet">
+
+	<link rel="stylesheet" href="/_elements/flexslider/flexslider.css" type="text/css">
+
+	<link rel="apple-touch-icon" href="/_elements/img/apple-touch-icon.png">
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+	<link rel='stylesheet' type='text/css' href='/_elements/js/jquery-ui/css/mark-custom/jquery-ui-1.10.3.custom.css'>
+
+	<script type="text/javascript" src="/_elements/js/functions.js"></script>
+
+	<script>
+		$(document).ready(function (e) {
+			if ($(window).width() <= 320) {
+				$('.desc p').each(function (i, obj) {
+					long = $(this).text().replace(/ /g, '').length;
+					console.log(long);
+					if (long > 100) {
+						$(this).text($(this).text().substring(0, 100));
+					}
+				});
+			}
+
+
+			if ($(window).width() <= 569) {
+
+				$('.desc p:nth-child(2)').each(function (i, obj) {
+
+					long = $(this).text().replace(/ /g, '').length;
+
+					console.log(long);
+
+					if (long > 0) {
+
+						$(this).text($(this).text().substring(0, 0));
+
+					}
+
+				});
+
+
+			}
+
+
+			if ($(window).width() <= 648) {
+
+				$('.desc p:last-child').each(function (i, obj) {
+
+					long = $(this).text().replace(/ /g, '').length;
+
+					console.log(long);
+
+					if (long > 0) {
+
+						$(this).text($(this).text().substring(0, 0));
+
+					}
+
+				});
+
+
+			}
+
+
+
+			if ($(window).width() <= 934) {
+
+				$('#bot_log').hide();
+
+
+				$('#top_log').click(function () {
+
+					$('#bot_log').slideToggle(500);
+
+
+				});
+
+
+			} else {
+
+
+				$('#open').show();
+				$('#bot_log').hide();
+
+				$('#open').click(function () {
+
+					$('#bot_log').slideToggle(500);
+					$('#open').hide();
+
+				});
+
+				$('#close').click(function () {
+
+					$('#bot_log').slideToggle(500);
+					$('#open').show();
+
+				});
+
+			}
+
+			$('.flexslider').flexslider({
+				after: function (slider) {
+					if (!slider.playing) {
+						slider.play();
+					}
+				}
+			});
+
+		});
+
+
+
+	</script>
+
+
+	<script src="/_elements/flex

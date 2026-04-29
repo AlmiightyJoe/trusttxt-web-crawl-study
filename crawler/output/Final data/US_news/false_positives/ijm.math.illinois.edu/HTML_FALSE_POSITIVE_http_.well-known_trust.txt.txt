@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	
+	<!-- OneTrust Cookies Consent Notice start for illinois.edu -->
+	<script>
+	function OptanonWrapper() { }
+	</script>
+	<!-- OneTrust Cookies Consent Notice end for illinois.edu -->
+
+	<title>Illinois Journal of Mathematics | Illinois</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//cdn.toolkit.illinois.edu' />
+<link rel='dns-prefetch' href='//publish.illinois.edu' />
+<link rel='dns-prefetch' href='//cdn.disability.illinois.edu' />
+<link rel='dns-prefetch' href='//onetrust.techservices.illinois.edu' />
+<link rel="alternate" type="application/rss+xml" title="Illinois Journal of Mathematics &raquo; Feed" href="https://ijm.math.illinois.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Illinois Journal of Mathematics &raquo; Comments Feed" href="https://ijm.math.illinois.edu/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://ijm.math.illinois.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fijm.math.illinois.edu%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://ijm.math.illinois.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fijm.math.illinois.edu%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://ijm.math.illinois.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.9' media='all' />
+<style id='wp-block-paragraph-inline-css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://ijm.math.illinois.edu/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFFFFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--il-cloud: #F8FAFC;--wp--preset--color--il-storm-95: #F4F4F4;--wp--preset--color--il-cloud-1: #E8E9EB;--wp--preset--color--il-cloud-2: #DDDEDE;--wp--preset--color--il-cloud-3: #D2D2D2;--wp--preset--color--il-orange: #FF5F05;--wp--preset--color--il-altgeld

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html lang="el" >
+<head >
+<meta charset="UTF-8">
+<meta name="author" content="Laos News">
+<!-- Mobile Metas -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!-- Site Title  -->
+<title> - Εφημερίδα ΛΑΟΣ Βέροια Ημαθίας</title>
+<!-- Web Fonts  -->
+<!-- <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;subset=greek" rel="stylesheet"> -->
+
+<link rel="stylesheet" href="/uploads/media/frontend/css/style.min.css?t=5555" >
+<link rel="stylesheet" href="/uploads/media/frontend/css/cookielaw.css?t=5555" >
+
+<link rel="apple-touch-icon" sizes="57x57" href="/uploads/media/frontend/favico/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/uploads/media/frontend/favico/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/uploads/media/frontend/favico/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/uploads/media/frontend/favico/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/uploads/media/frontend/favico/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/uploads/media/frontend/favico/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/uploads/media/frontend/favico/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/uploads/media/frontend/favico/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/uploads/media/frontend/favico/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/uploads/media/frontend/favico/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/uploads/media/frontend/favico/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/uploads/media/frontend/favico/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/uploads/media/frontend/favico/favicon-16x16.png">
+<link rel="manifest" href="/uploads/media/frontend/favico/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/uploads/media/frontend/favico/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="dns-prefetch" href="//www.laosnews.gr">
+<link rel="alternate" type="application/rss+xml" title="laosnews.gr" href="https://www.laosnews.gr/feed/rss2">
+<meta name="p:domain_verify" content="8cac2144ce773b02ff244e922d1e2590"/>
+
+
+<script>
+  var config = {};
+  config.gdprdomainname = 'laosnews.gr';
+  config.privacysettingslink = '/';
+  config.language = 'el';
+
+  // Cookies Complians
+  var gdprCookieNoticeLocales={};
+
+  // Greek
+  gdprCookieNoticeLocales.el = {
+    description: 'Η ιστοσελίδα μας χρησιμοποιεί cookies για να βελτιώσει την εμπειρία περιήγησής σας.',
+    settings: 'Ρυθμίσεις Cookies',
+    accept: 'Αποδοχή cookies',
+    decline: 'Απόρριψη',
+    statement: 'Όροι &amp; Προϋποθέσεις',
+    save: 'Αποθήκευση Ρυθμίσεων',
+    always_on: 'Πάντα ενεργά',
+    cookie_essential_title: 'Cookies Λειτουργιάς',
+    cookie_essential_desc: 'Απαραίτητα cookies για τις βασικές λειτουργίες του ηλεκτρονικού μας καταστήματος, όπως σελιδοποίηση και πρόσβαση σε ευαίσθητες σελίδες. Το κατάστημα δεν μπορεί να λειτουργήσει χωρίς αυτά τα Cookies.',
+    cookie_performance_title: 'Cookies Απόδοσης',
+    cookie_performance_desc: 'Αυτά τα Cookies είναι χρήσιμα για την καλύτερη λειτουργία και απόδοση του καταστήματος μας προς εσάς. Παράδειγμα αποθηκεύουν προτιμήσεις όπως η Γλώσσα, το νόμισμα που επιλέξατε κτλ.',
+    coo

@@ -1,0 +1,31 @@
+#Editor&Publisher trust.txt file
+# For more information visit journallist.net
+
+# memberships
+belongto=https://nna.org/
+belongto=https://newspapers.org/
+belongto=https://www.localmediaconsortium.com/
+belongto=https://www.newsmediaalliance.org/
+belongto=https://aan.org/
+belongto=https://flpress.com/
+belongto=https://www.texaspress.com/
+belongto=http://gapress.org/
+belongto=https://mna.org/
+belongto=https://www.nenpa.com/
+belongto=https://nynpa.com/
+belongto=https://journallist.net/
+
+# social channels:
+social=https://www.facebook.com/EditorAndPublisher
+social=	https://www.youtube.com/channel/UCO9LohYgI48cM1_WbD8cUCw
+social=https://twitter.com/editorpublisher
+social=https://www.linkedin.com/company/editor-&-publisher
+
+# control
+control=http://www.EppyAwards.com
+
+# vendors:
+vendor=https://creativecirclemedia.com/
+
+# contact information:
+contact=https://www.editorandpublisher.com/contact-us/

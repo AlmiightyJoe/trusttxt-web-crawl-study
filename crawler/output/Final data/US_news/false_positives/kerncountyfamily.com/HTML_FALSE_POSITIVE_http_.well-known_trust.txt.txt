@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Error Page</title>
+
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+   
+    <!-- Bootstrap 3.3.7 -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <link href="/Content/BaseBootstrap.css" rel="stylesheet" />
+</head>
+
+<body id="meshsitebody">
+
+    
+
+
+
+
+<div style="padding: 100px; font-size: 24px;">
+    <img src="https://meshsystems.blob.core.windows.net/meshuicommon/supportwrench.png" style="float: left;height: 100px; margin-right: 15px;" />
+
+    The requested information does not exist.
+
+</div>
+
+   
+
+</body>
+</html>

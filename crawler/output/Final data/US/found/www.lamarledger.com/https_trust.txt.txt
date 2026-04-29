@@ -1,0 +1,6 @@
+# trust.txt for lamarledger.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-12 21:40:04 MDT
+
+contact=https://www.lamarledger.com/contact-us/
+datatrainingallowed=no

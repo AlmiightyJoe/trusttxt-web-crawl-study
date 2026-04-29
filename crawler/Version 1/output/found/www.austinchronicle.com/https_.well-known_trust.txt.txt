@@ -1,0 +1,27 @@
+# The Austin Chronicle
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA&#039;s list of registered Well-Known URIs
+# The Austin Chronicle belongs to the following organizations
+belongto=https://www.aan.org/
+belongto=https://www.journallist.net/
+# Social Networks
+social=https://www.facebook.com/AustinChronicle/
+social=https://x.com/AustinChronicle
+social=https://www.instagram.com/austinchronicle/
+social=https://www.youtube.com/user/theaustinchronicle
+social=https://www.whatsapp.com/channel/0029VacabxHGE56k1X99Aw3H
+social=https://bsky.app/profile/austinchronicle.bsky.social
+social=https://www.linkedin.com/company/the-austin-chronicle
+social=https://nextdoor.com/page/The-Austin-Chronicle/
+# Contact Info
+contact=support@austinchronicle.com
+contact=https://www.austinchronicle.com/contact/
+contact=https://www.austinchronicle.com/mediakit/
+# Vendors
+vendor=https://publishwithfoundation.com/
+vendor=https://newspack.com
+# AI disclosure
+datatrainingallowed=no

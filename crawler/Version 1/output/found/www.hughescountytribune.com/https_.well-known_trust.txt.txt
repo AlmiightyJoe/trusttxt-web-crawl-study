@@ -1,0 +1,23 @@
+# Hughes County Tribune | trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# Hughes County Tribune | belongs to the following organizations
+#
+belongto=https://www.okpress.com/
+#
+# Hughes County Tribune | social networks
+#
+#
+# Hughes County Tribune | vendors
+#
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net
+#
+# Hughes County Tribune | contact info
+#
+#
+# Hughes County Tribune Copyright © 2022

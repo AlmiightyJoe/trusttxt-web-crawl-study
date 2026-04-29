@@ -1,0 +1,24 @@
+# Allen Advocate | trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# Allen Advocate | belongs to the following organizations
+#
+belongto=https://www.okpress.com/
+#
+# Allen Advocate | social networks
+#
+social=https://www.facebook.com/pages/Allen-Advocate-newspaper/156417701097734
+#
+# Allen Advocate | vendors
+#
+vendor=https://www.etypeservices.com
+#
+# Allen Advocate | contact info
+#
+contact=https://www.allennewspaper.com/contact-us
+#
+# Allen Advocate Copyright © 2022

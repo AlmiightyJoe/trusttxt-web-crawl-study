@@ -1,0 +1,24 @@
+# New Times San Luis Obispo trust.txt file
+# For more information visit JournalList.net
+
+
+# memberships
+belongto=https://aan.org/
+belongto=https://journallist.net/
+belongto=https://www.cnpa.org/
+
+
+# social channels
+social=https://www.facebook.com/SLONewTimes/
+social=https://twitter.com/newtimesslo
+social=https://www.instagram.com/newtimesslo/
+
+
+# vendors
+vendor=https://publishwithfoundation.com/
+vendor=https://newspack.com/
+
+
+# contact
+contact=azuniga@newtimesslo.com
+contact=https://www.newtimesslo.com/sanluisobispo-contacts-page/

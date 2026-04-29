@@ -1,0 +1,6 @@
+# trust.txt for marinij.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-13 14:57:04 PDT
+
+contact=https://www.marinij.com/contact-us/
+datatrainingallowed=no

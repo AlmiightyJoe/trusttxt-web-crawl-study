@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" 
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Front page feed" href="https://sjrnews.com/rss.xml" />
+<link rel="shortcut icon" href="https://sjrnews.com/sites/default/files/favicon.jpg" type="image/jpeg" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://sjrnews.com/" />
+<link rel="shortlink" href="https://sjrnews.com/" />
+<meta property="og:site_name" content="San Juan Record" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://sjrnews.com/" />
+<meta property="og:title" content="San Juan Record" />
+  <title>San Juan Record |</title>  
+  <link type="text/css" rel="stylesheet" href="https://sjrnews.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sjrnews.com/sites/default/files/css/css_fe_HT_Cvz7WYG_Z5cMXd2AA3g1ry4Kh8xbT2-l345d0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sjrnews.com/sites/default/files/css/css_Nv4QjgsnASH4bUsB9cSHXvV3GcyvdGXVQqxSzURJtSk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sjrnews.com/sites/default/files/css/css_1uoZzsMJ4UbHZUZ2-rDF5_5Qk8gfzLCwiWBHPZ2GFFw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sjrnews.com/sites/default/files/css/css_a1uyQjQlE1P80oKOcu_20atHqB0yXTpvHIrS62QLxTM.css" media="all" />
+  <script type="text/javascript" src="https://sjrnews.com/sites/default/files/js/js_0RyHJ63yYLuaWsodCPCgSD8dcTIA0dqcDf8-7c2XdBw.js"></script>
+<script type="text/javascript" src="https://sjrnews.com/sites/all/libraries/juicebox/juicebox.js?t3exwd"></script>
+<script type="text/javascript" src="https://sjrnews.com/sites/default/files/js/js_Xdp_56Kwrjh9XNxqhxmaYOwIKVvPB-7wqAz_R60LA6w.js"></script>
+<script type="text/javascript" src="https://sjrnews.com/sites/default/files/js/js_gta5UI7NYkhJqOBNSzLw-mCbLS0m4deKMo2mz2z-ZxY.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-163338536-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://sjrnews.com/sites/default/files/js/js_BY28bglYtobMzN4OZlOfqs626ALK7gLha7Y5ScgnHHw.js"></script>
+<script type="text/javascript" src="https://sjrnews.com/sites/default/files/js/js_djtSsjKVtOhkF78hVWeVM4S2UkcuodkI6oaUalL8vGA.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"masthead","theme_token":"aLVx_LtNWM35fYIUJc8MfyukPFtpsc13kquPbJJTE8Q","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/juicebox\/juicebox.js":1,"sites\/all\/modules\/simpleads\/simpleads.js":1,"sites\/all\/modules\/external\/external.js":1,"sites\/all\/modules\/juicebox\/js\/juicebox_load.js":1,"sites\/all\/modul

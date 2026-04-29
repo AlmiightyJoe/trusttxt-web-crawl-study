@@ -1,0 +1,11 @@
+# trust.txt for Olney Enterprise
+# for more about trust.txt, see https://journallist.net/
+# Olney Enterprise belongs to the following organizations
+belongto=https://texaspress.com/
+belongto=https://nna.org/
+belongto=https://journallist.net/
+# Olney Enterprise contact information
+contact=https://www.olneyenterprise.com/contact-us
+# Olney Enterprise uses these sites as a vendor
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net

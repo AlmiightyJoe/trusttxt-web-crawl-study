@@ -1,0 +1,28 @@
+# Progress Times trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# Progress Times controls the following organization
+#
+control=https://www.cantonguide.com/
+#
+# Progress Times belongs to the following organizations
+#
+belongto=https://www.texaspress.com/
+belongto=https://www.journallist.net/
+#
+# Progress Times social networks
+#
+social=https://www.facebook.com/ProgressTimes
+social=https://www.instagram.com/progresstimes/
+#
+# Progress Times vendors
+#
+vendor=https://www.websitesfornewspapers.com/
+#
+# Progress Times contact info
+#
+contact=https://www.progresstimes.net/contact-us/

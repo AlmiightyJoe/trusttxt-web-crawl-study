@@ -1,0 +1,36 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, user-scalable=no"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/_next/static/css/d724e81896e0a7d8.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/8b78b45a0e8bffd9.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/10fd4086fbefcf19.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/75300d95c2633f5f.css" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/d3e7b966a2976437.css" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-f444f0f4d66aabc7.js"/><script src="/_next/static/chunks/b9fd3d75-389696df8545fe8e.js" async=""></script><script src="/_next/static/chunks/55879-f367ee4a5494a989.js" async=""></script><script src="/_next/static/chunks/main-app-45d5f0bc7a035880.js" async=""></script><script src="/_next/static/chunks/mui-bccd6175c89d7b60.js" async=""></script><script src="/_next/static/chunks/62583-f88997a90932fe71.js" async=""></script><script src="/_next/static/chunks/69071-fdb241fa949c5757.js" async=""></script><script src="/_next/static/chunks/72641-a5ac952971866f40.js" async=""></script><script src="/_next/static/chunks/66864-8dccb3fc4d9db0d7.js" async=""></script><script src="/_next/static/chunks/6046-c2dbae7e38f1e3e3.js" async=""></script><script src="/_next/static/chunks/77989-4403435594e8393d.js" async=""></script><script src="/_next/static/chunks/app/layout-39fc0110f126c692.js" async=""></script><script src="/_next/static/chunks/app/error-4cf472fc7b3956c6.js" async=""></script><script src="/_next/static/chunks/three-4e6f93021036155c.js" async=""></script><script src="/_next/static/chunks/lodash-647a3c006996518f.js" async=""></script><script src="/_next/static/chunks/3c5aa50f-c2d560ad349ae0b8.js" async=""></script><script src="/_next/static/chunks/56923-52385cbb09684ff1.js" async=""></script><script src="/_next/static/chunks/26712-ec6301c786254879.js" async=""></script><script src="/_next/static/chunks/27271-81ae81c20241aadb.js" async=""></script><script src="/_next/static/chunks/14173-021dcd7dabf29232.js" async=""></script><script src="/_next/static/chunks/app/tour/%5B...slug%5D/loading-86cd68c05702fd40.js" async=""></script><link rel="preload" href="https://cdn.jsdelivr.net/npm/pannellum@2.5.6/build/pannellum.js" as="script"/><link rel="preload" href="/images/logo.png" as="image"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/><style>
+            #initial-loader {
+              position: fixed;
+              top: 0;
+              left: 0;
+              width: 100vw;
+              height: 100vh;
+              background: #333;
+              display: flex;
+              flex-direction: column;
+              align-items: center;
+              justify-content: center;
+              gap: 32px;
+              z-index: 99999;
+            }
+            #initial-loader.hidden { display: none; }
+            #initial-loader .logo { width: 180px; height: auto; display: none; }
+            #initial-loader .spinner { width: 80px; height: 80px; position: relative; }
+            #initial-loader .spinner div {
+              animation: spinner-rotate 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+              transform-origin: 40px 40px;
+            }
+            #initial-loader .spinner div:after {
+              content: " ";
+              display: block;
+              position: absolute;
+              width: 7px;
+              height: 7px;
+              border-radius: 50%;
+              background: #2055FF;
+              margin: -4px 0 0 -4px;
+            }
+            #initial-loader .spinner div:nth-child(1) { animation-delay: -0.036s; }
+            #initial-loader .spinner div:nth-child(1):after { top: 63px; left: 63px; }
+            #initial-loader .spinner div:nth-child(2) { animation-delay: -0.072s; }
+            

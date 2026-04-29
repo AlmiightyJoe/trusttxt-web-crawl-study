@@ -1,0 +1,20 @@
+# Brown Wolf Consulting trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA&#039;s list of registered Well-Known URIs
+#
+belongto=https://journallist.net/
+belongto=https://www.ieee.org/
+belongto=https://www.scte.org/
+#
+social=https://www.linkedin.com/in/ralphwbrown/
+social=https://x.com/RalphWBrown/
+social=https://www.facebook.com/ralph.brown.5220/
+social=https://federated.press/@brownwolf
+#
+contact=mailto:ralph@brownwolfconsulting.com
+contact=tel:+1-303-517-6711
+#
+# © 2024 by Brown Wolf Consulting

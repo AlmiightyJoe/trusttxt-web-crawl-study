@@ -1,0 +1,14 @@
+# trust.txt for the Hamilton Herald-News
+# for more about trust.txt, see https://journallist.net/
+# Hamilton Herald-News belongs to the following organizations
+belongto=https://texaspress.com/
+belongto=https://nna.org/
+belongto=https://journallist.net/
+# these are the social channels controlled by the Hamilton Herald-News
+social=https://www.facebook.com/hhnpaper
+social=https://twitter.com/hhnpaper
+# Hamilton Herald-News contact information
+contact=https://www.thehamiltonherald-news.com/contact
+# Hamilton Herald-News uses these sites as a vendor
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net

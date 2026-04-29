@@ -1,0 +1,78 @@
+
+
+<!DOCTYPE html>
+
+<html lang="fr-FR" prefix="og: https//ogp.me/ns#">
+
+<head>
+    <script>
+        //Continuité de la visite entre les sous-domaines
+        window._pac = window._pac || {};
+        _pac.cookieDomain = '.lequotidien.lu';
+        _pac.cookieSecure = true;
+    </script>
+
+    <script>
+        //instanciation du consentement, essential par défaut = prérequis RGPD
+        window.pdl = window.pdl || {};
+        window.pdl.requireConsent = true;
+        window.pdl.consent = {
+            defaultPreset: {
+                PA: 'essential'
+            }
+        };
+    </script>
+    <script type="text/javascript" src="https://tag.aticdn.net/piano-analytics.js"></script>
+
+<script type="text/javascript">window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)}
+else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return}
+var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}}
+if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){
+  var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("dfb12830-7bc9-4546-b943-faf2418726cd")})();</script>
+<script>
+    window.didomiOnReady = window.didomiOnReady || [];
+    window.didomiOnReady.push(function (Didomi) {
+    // Check the consent status for the Piano Analytics vendor
+    var defaultstatus = Didomi.getUserStatus().vendors.consent.enabled.includes("c:pianohybr-R3VKC2r4");
+    if (defaultstatus === true) {
+    // If the consent status is true, activate the opt-in visitor mode
+    pa.consent.setMode("opt-in");
+    } else {
+    // Else, if the visitor mode is not "opt-out", then activate the essential mode
+    if (pa.consent.getMode() == null || pa.consent.getMode() !== "opt-out") {
+    pa.consent.setMode("essential");
+    }
+    }
+
+    });
+</script>
+<script async data-vendor="doubleclic-W2MgeD2B" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+
+<meta http-equiv="cache-control" content="max-age=0" />
+<meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+    <meta http-equiv="refresh" content="480">
+<meta name="facebook-domain-verification" content="yhvgfnd41na65sgkapg7331e6tggl0" />
+	<!-- Googel analytics  -->
+    <script>
+
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push(
+      {"ipaddress":"external","userSubscriberType":"anonymus","contenttype":"Home page","ip_lycee":"null"}  );
+
+
+</script>
+    
+
+    <!-- Google Tag Manager -->
+   <!-- <script type="didomi/javascript" data-vendor="c:googleana-4TXnJigR" >(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MT5KSR3');</script>-->
+    <!-- End Google Tag Manager -->
+
+
+    <!-- Google Ta

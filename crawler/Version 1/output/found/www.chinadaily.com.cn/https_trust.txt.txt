@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>China Daily Website - Connecting China Connecting the World</title>
+	<meta content="China News Business Information Weather Entertainment Beijing Shanghai Life Sports Photo" name="keywords"></meta>
+	<meta content="Chinadaily.com.cn is the largest English portal in China, providing news, business information, BBS, learning materials. The Website has channels as China, BizChina, World, Opinion, Sports/Olympics, Entertainment, Lifestyle, Culture, Citylife, Photo, Forum and Weather." name="description"></meta>
+	<link href="https://www.chinadaily.com.cn/css/2016/layout.css"  rel="stylesheet" type="text/css" />
+	<link href="https://www.chinadaily.com.cn/css/2016/layout2.css"  rel="stylesheet" type="text/css" />
+</head>
+	
+<body>
+	<div class="topBar">
+		<div class="logo"><a href="https://www.chinadaily.com.cn"   target="_top"><img src="https://www.chinadaily.com.cn/image_e/2016/logo.jpg" /></a></div>
+		<div class="search">
+			<form name="searchform" method="get" action="//searchen.chinadaily.com.cn/search" onsubmit="return do_search(this)" target="_blank" >
+				<input type="text" name="query" id="searchText" onfocus="cleanword(this)"  />
+				<span><img src="https://www.chinadaily.com.cn/image_e/2016/fdj.gif"   border="0" onclick="javascript:searchform.submit()" /></span>
+			</form>
+		</div>
+		<div class="channel">
+			<span><a href="http://www.chinadailyglobal.com" target="_blank">Global Edition</a><a href="http://www.chinadailyasia.com/" target="_blank">ASIA</a></span>
+			<span><a href="//cn.chinadaily.com.cn" target="_blank">中文</a><a href="https://bbs.chinadaily.com.cn" target="_blank" shape="rect">Sign in</a></span>
+			<span><a href="https://www.chinadaily.com.cn/e/subscribe" target="_blank">Subscribe</a></span>
+		  </div>
+		<div class="topInfo"><a href="//bbs.chinadaily.com.cn/member.php?mod=register.php" target="_blank"><img src="//www.chinadaily.com.cn/image_e/2016/sign_ico.gif" /></a><a href="//subscription.chinadaily.com.cn/" target="_blank"><img src="//www.chinadaily.com.cn/image_e/2016/sub_ico.gif"/></a></div>
+	</div>
+	<div class="topNav">
+		<ul class="dropdown">
+			<li><a href="//www.chinadaily.com.cn" target="_blank"  >HOME</a></li>
+			<li><a href="//www.chinadaily.com.cn/china/index.html" target="_blank"  >CHINA</a> </li>
+			<li><a href="//www.chinadaily.com.cn/world/" target="_blank" >WORLD</a> </li>
+			<li><a href="//www.chinadaily.com.cn/business/"  target="_blank"  >BUSINESS</a> </li>
+			<li><a href="//www.chinadaily.com.cn/life/" target="_blank"  >LIFESTYLE</a> </li>
+			<li><a href="//www.chinadaily.com.cn/culture/" target="_blank" >CULTURE</a> </li>
+			<li><a href="//www.chinadaily.com.cn/travel/" target="_blank" >TRAVEL</a> </li>
+			<li><a href="//watchthis.chinadaily.com.cn" target="_blank" >WATCHTHIS</a> </li>
+			<li><a href="//www.chinadaily.com.cn/sports/" target="_blank" >SPORTS</a> </li>
+			<li><a href="//www.chinadaily.com.cn/opinion/" target="_blank"  >OPINION</a></li>
+			<li><a href="//www.chinadaily.com.cn/regional/" target="_blank"  >REGIONAL</a></li>
+			<li><a href="//bbs.chinadaily.com.cn/" target="_blank"  >FORUM</a></li>
+			<li class="newspaper"><a href="javascript:void(0)">NEWSPAPER</a>
+				<ul class="sub_menu">
+					<li><a href="//newspress.chinadaily.net.cn" target="_blank" style="width:110px;">China Daily PDF</a></li>
+					<li><a href="//epaper.chinadaily.com.cn/china/" target="_blank" style="width:120px;">China Daily E-paper</a></li>
+				</ul>
+			</li>
+			<li><a href="//www.chinadaily.com.cn/newmedia.html" target="_blank"  >MOBILE</a></li>
+		</ul>
+	</div>
+	<!--回顶部-->
+	<!--底部-->
+	<div class="tMain">
+		<h3>Sorry, the page you requested was not found.</h3>
+		<h3>Please check the URL for proper spelling and capitalization. If you're having trouble locating a destination on Chinadaily.com.cn, try visiting the <a href="//www.chinadaily.com.cn" style="color:#0261A7; ">Chinadaily home page</a> </h3>
+	</div>
+
+	<!--底部和统计代码-->
+	<!--回顶部-->
+	<html>
+	<head>
+		<title></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	</head>
+	<body>
+		<div class="hui-dingbu">
+			<div class="ding-nei"><a href="">BACK TO THE TOP</a></div>
+		</div>
+		
+		<!--底部3-->
+		<div class="dibu-three">
+			<div class="dibu-three-nei">
+				<div class="three-left">
+					<div class="lo-g"><a href="//www.chinadaily.com.cn" target="_top"  ><img src="//www.chinadaily.com.cn/image_e/2016/a-1.jpg"  /></a></div>
+					<div class="lo-a">Copyright 1995 - 
+						<script type="text/javascript">
+						<!--
+						var oTime = new Date();
+						document.write(oTime.getFullYear());
+						-->
+						</script>
+						 . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form. Note: Browsers with 1024*768 or higher resolution are suggested for this site.
+					</div>
+					<div class="lo-c"><span>License for publishing multimedia online <b><a href="//www.chinadaily.com.cn/2009image_e/permit2010.jpg" target="_blank"  >0108263</a></b></span><br/>
+					<br/>
+					 Registration Number: 130349 <img src="//www.chinadaily.com.cn/image_e/2016/a-2.jpg"  />
+					</div>
+				</div>
+			
+				<div class="three-midd">
+					<div class="midd-a"><a href="//www.chinadaily.com.cn/static_e/aboutus.html" target="_blank"  >About China Daily</a></div>
+					<div class="midd-a"><a href="//www.chinadaily.com.cn/static_e/advertiseonsite.html" target="_blank"  >Advertise on Site</a></div>
+					<div class="midd-a"><a href="//www.chinadaily.com.cn/static_e/contactus.html" target="_blank"  >Contact Us</a></div>
+					<div class="midd-a"><a href="//chinadaily.zhiye.com/" target="_blank">Job Offer</a></div>
+					<div class="midd-a"><a href="//www.chinadaily.com.cn/static_e/Expat_Employment.html" target="_blank"  >Expat Employment</a></div>
+				</div>
+			
+				<div class="three-right">
+					<div class="right-a">FOLLOW US</div>
+					<div class="right-b"><span><a href="//www.facebook.com/chinadaily" target="_blank"><img src="//www.chinadaily.com.cn/image_e/2016/a-3.jpg"   border="0"/></a></span> 
+					<span><a href="https://twitter.com/ChinaDailyUSA" target="_blank"><img src="//www.chinadaily.com.cn/image_e/2016/a-4.jpg"   border="0"/></a></span></div>
+				</div>
+			</div>
+		</div>
+	</body>
+
+	</html>
+</body>
+</html>

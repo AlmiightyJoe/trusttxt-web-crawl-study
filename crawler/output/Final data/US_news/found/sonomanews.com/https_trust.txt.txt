@@ -1,0 +1,6 @@
+# trust.txt for sonomanews.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2026-03-15 16:03:12 PDT
+
+contact=https://www.sonomanews.com/contact-us/
+datatrainingallowed=no

@@ -1,0 +1,69 @@
+<!doctype html>
+<html data-beasties-container>
+
+<head>
+    <meta property="og:image" content>
+    <meta property="og:image:secure_url" content>
+    <meta property="og:url" content>
+    <meta property="og:type" content>
+    <meta property="og:description" content>
+    <script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/8926041.js"></script>
+<script async src="https://cdn.onthe.io/io.js/joPs3ZthNXV4"></script>
+<script>(function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:6372189,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');</script>
+    <base href="/">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1, minimum-scale=1, user-scalable=yes">
+
+    <link rel="manifest" id="manifest-link">
+    <meta content="yes" name="mobile-web-app-capable">
+    <meta content="yes" name="apple-mobile-web-app-capable">
+
+    <meta name="color-scheme" content="light dark">
+    <meta name="theme-color" content="#FFFFFF">
+
+    <!-- Sitemap -->
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="assets/icons/favicons/favicon.ico">
+    <link rel="shortcut icon" sizes="16x16" type="image/png" href="assets/icons/favicons/favicon-16x16.png">
+    <link rel="shortcut icon" sizes="32x32" type="image/png" href="assets/icons/favicons/favicon-32x32.png">
+    <link rel="shortcut icon" sizes="48x48" type="image/png" href="assets/icons/favicons/favicon-48x48.png">
+
+    <!-- Microsoft -->
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="assets/icons/pwa/mstile-144x144.png">
+    <meta name="msapplication-config" content="assets/icons/browserconfig.xml">
+
+    <!-- Apple Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/favicons/apple-touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="128x128" href="assets/icons/favicons/apple-touch-icon-precomposed.png">
+    <!-- replace icon -->
+    <link rel="mask-icon" href="/assets/icons/safari-pinned-tab.svg" color="#e3000b">
+
+    <script>
+        const manifestElement = document.getElementById('manifest-link')
+
+        // ios
+        if (navigator.platform &&
+            (
+                //traditional tracking, works for iPhone, iPod and iPad before ipadOS was a thing
+                /iPad|iPhone|iPod/.test(navigator.platform)
+                ||
+                // detecting ipad normally is not possible: https://stackoverflow.com/questions/57776001/how-to-detect-ipad-pro-as-ipad-using-javascript
+                // Adapted workaround from https://stackoverflow.com/questions/56578799/tell-ipados-from-macos-on-the-web (Also linked in the above link)
+                (navigator.userAgent.match(/Mac/) && navigator.maxTouchPoints && navigator.maxTouchPoints > 2)
+            )
+
+        ) {
+            manifestElement.setAttribute('href', '/manifest-ios.webmanifest?v=1')
+        } else {
+            manifestElement.setAttribute('href', '/manifest.webmanifest')
+        }
+    </script>
+
+    <script>
+        window.mobileCheck = function () {
+            let check = false;
+            (function (a) { if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte

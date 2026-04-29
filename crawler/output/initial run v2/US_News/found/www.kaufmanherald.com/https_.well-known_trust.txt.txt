@@ -1,0 +1,10 @@
+# trust.txt for the Terrell Tribune
+# The Terrell Tribune belongs to the following organizations
+belongto=https://www.texaspress.com/
+# these are the social channels controlled by Terrell Tribune
+social=https://www.facebook.com/theterrelltribune/
+# The Terrell Tribune contact information
+contact=https://www.terrelltribune.com/contact
+# The Terrell Tribune uses these sites as a vendor
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net

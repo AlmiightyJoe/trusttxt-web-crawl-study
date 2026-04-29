@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+  
+  
+  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/ca2faea15ded0fde1044e11e7/82e5b4513028ce970c5a513b7.js");</script>
+  
+  
+  
+  
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	
+	<meta name="generator" content="Mura CMS 7.0">
+
+	<title>Home - Durango Telegraph</title>
+  <meta name="google-site-verification" content="VFANV0hq0Ie9dNjM9N49b8RnYj68KsIcBodtt-uRXo8" />
+	
+	<link rel="stylesheet" href="/tele/css/mura.7.0.min.css">
+	
+	<link rel="stylesheet" href="/tele/includes/themes/telegraph/css/mura.7.0.skin.css">
+
+	
+	<link rel="stylesheet" href="/tele/includes/themes/telegraph/assets/bootstrap/css/bootstrap.min.css">
+
+	
+	<link rel="stylesheet" href="/tele/includes/themes/telegraph/assets/font-awesome/css/font-awesome.min.css">
+
+	
+    <link href='https://fonts.googleapis.com/css?family=Lustria' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="/tele/includes/themes/telegraph/css/theme/theme.css">
+
+	<!--[if IE]>
+	<link rel="stylesheet" href="/tele/includes/themes/telegraph/css/ie/ie.min.css">
+	<![endif]-->
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="/tele/includes/themes/telegraph/js/html5shiv/html5shiv.js"></script>
+	<script src="/tele/includes/themes/telegraph/js/respond/respond.min.js"></script>
+	<![endif]-->
+
+	
+	<script src="/tele/js/external/jquery.min.js"></script>
+
+	
+	<link rel="shortcut icon" href="/tele/includes/themes/telegraph/images/favicon.ico">
+	
+
+	
+	
+
+  
+
+
+  
+
+  
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PFQ6GCD');</script>
+<!-- End Google Tag Manager -->
+  
+  
+
+  
+<!--THIS IS YOUR GOOGLE ANALYTICS TRACKING CODE-->
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-54628727-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl': 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+var a = document.getElementsByTagName('a');
+for(i = 0; i < a.length; i++){
+if (a[i].href.indexOf(location.host) == -1 && a[i].href.match('/^http:///i')){
+a[i].onclick = function(){
+_gaq.push(['_trackEvent', 'outgoing_links', this.href.replace('/^http:///i', '')]);
+}
+}
+}
+</script>
+
+<!--END RECORD OUTBOUND LINKS CODE-->
+
+  
+  
+  
+  
+  <script src="https://js.stripe.com/v3/"></script>
+  
+  
+
+
+<script type="text/javascript" src="/tele/js/dist/mura.min.js?v=6927"></script>
+<script>
+Mura.init({
+	loginURL:"?display=login",
+	siteid:"tele",
+	contentid:"00000000000000000000000000000000001",
+	contenthistid:"0B789C90-B7CC-C8EB-E45ED73AA33768E4",
+	parentid:"00000000000000000000000000000000END",
+	context:"",
+	nocache:0,
+	assetpath:"/tele",
+	requirementspath:"/requirements",
+	themepath:"/tele/includes/themes/telegraph",
+	rb:"en",
+	reCAPTCHALanguage:"en",
+	preloaderMarkup: "\x3Ci\x20class\x3D\x22mura\x2Dpreloader\x20fa\x20fa\x2Drefresh\x20fa\x2Dspin\x22\x3E\x3C\x2Fi\x3E",
+	mobileformat: false,
+	windowdocumentdomain: "",
+	layoutmanager:true,
+	type:"Page",
+	subtype:"home",
+	queueObjects: true,
+	dtExample:"11/314/2018",
+	dtCh:"/",
+	dtFormat:[0,1,2],
+	dtLocale:"en-US"
+});
+</script>
+
+
+<script>
+if(typeof $ != 'undefined'){
+	$(function(){
+		Mura.loader()
+		.loadcss("/requirements/prettify/themes/tomorrow-night.min.css")
+		.loadjs("/requirements/prettify/prettify.min.js",
+		function(){
+			!function($){$(function(){window.prettyPrint && prettyPrint()});}(window.jQuery)
+		});
+	});
+}
+</script></head>
+
+  <body id="homepage" class="depth-0 home">
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1763660257169878",
+    enable_page_level_ads: true
+  });
+</script>
+    <div class="container wrapper">
+    
+		<div id="teleBanner">
+			<div class="row">
+				<div class="col-md-12 col-sm-12 col-xs-12" id="logo">
+					<div id="ctaBtns">
+						<a href="/contact/advertise-with-us/" class="btn"><i class="fa fa-bullhorn fa-lg" aria-hidden="true"></i>
+ Advertise with Us</a>
+						<a href="/contact/" class="btn"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i> Contact</a> 
+					</div>
+					<a href="/"><img src="/tele/includes/themes/telegraph/images/telegraph_masthead1.png" alt="the durango telegraph: The Independent Weekly Line on Durango and Beyond"></a>
+                     <p id="tagline">The Independent Weekly Line on Durango and Beyond</p>
+				</div>			
+			</div>
+			<div class="row">
+				<div class="col-md-12 col-sm-12 hidden-xs"  id="teleBannerCenter">
+					<span id="currentIssueDate">Jan. 22, 2026</span> -
+                    <span id="volumeInfo">Volume XXV, No. 3</span>
+				</div>
+				
+			</div>
+		</div>
+	
+<header class="navbar-wrapper">
+	<nav class="navbar navbar-inverse navbar-static-top teleNavbar" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<div class="collapse navbar-collapse navbar-ex1-collapse">
+				<div class="row" style="width:100%">
+					<div class="col-md-10 col-xs-12">
+						
+				<ul id="navPrimary" class="nav navbar-nav">
+				<li class="first" id="navHome"><a href="/">Home</a></li>
+			
+			<li class="dropdown" id="navNews"><a href="/news/" class="dropdown-toggle" >News</a>
+				<ul class="dropdown-menu">
+			
+			<li class="first" id="navTheGreenScene"><a href="/news/the-green-scene/">The Green Scene</a></li>
+			
+			<li id="navWritersOnTheRange"><a href="/news/writers-on-the-range/">Writers on the Range</a></li>
+			
+			<li id="navThePole"><a href="/news/the-pole/">The Pole</a></li>
+			
+			<li class="last" id="navTopStories"><a href="/news/top-stories/" >Top Stories</a></li>
+			</ul> </li>
+			
+			<li id="navWhereToFindAPaper"><a href="/where-to-find-a-paper/">Where to find a paper</a></li>
+			
+			<li class="dropdown" id="navSecondSection"><a href="/second-section/" class="dropdown-toggle">Second Section</a>
+				<ul class="dropdown-menu">
+			
+			<li class="first" id="navPageTurners"><a href="/second-section/page-turners/">Page Turners</a></li>
+			
+			<li id="navSnowdown2024PeaceAndLove"><a href="/second-section/snowdown-2024-peace-and-love/">Snowdown 2024 - Peace and Love</a></li>
+			
+			<li id="navInMemory"><a href="/second-section/in-memory1/">In Memory</a></li>
+			
+			<li id="navWesternWaterGirl"><a href="/second-section/western-water-girl/">Western Water Girl</a></li>
+			
+			<li id="navKillYrIdols"><a href="/second-section/kill-yr-idols/">Kill Yr Idols</a></li>
+			
+			<li id="navGossipOfTheCyclers"><a href="/second-section/gossip-of-the-cyclers/">Gossip of the Cyclers</a></li>
+			
+			<li id="navThePlugin"><a href="/second-section/the-plug-in/">The Plug-iN</a></li>
+			
+			<li id="navRocknrollSweetheart"><a href="/second-section/rocknroll-sweetheart/">RockNRoll Sweetheart</a></li>
+			
+			<li id="navBetweenTheBeats"><a href="/second-section/between-the-beats1/">Between the Beats</a></li>
+			
+			<li id="navLetsDigIn"><a href="/second-section/lets-dig-in1/">Let's Dig In</a></li>
+			
+			<li id="navFreeWillAstrology"><a href="/second-section/free-will-astrology/">Free Will Astrology</a></li>
+			
+			<li id="navDayInTheLife"><a href="/second-section/day-in-the-life/">Day in the Life</a></li>
+			
+			<li id="navFeatures"><a href="/second-section/features/">Features</a></li>
+			
+			<li id="navAskRachel"><a href="/second-section/ask-rachel/">Ask Rachel</a></li>
+			
+			<li id="navChechItOut"><a href="/second-section/chech-it-out/">Chech it Out</a></li>
+			
+			<li id="navFlashInThePan"><a href="/second-section/flash-in-the-pan/">Flash in the Pan</a></li>
+			
+			<li class="last" id="navMurderInk"><a href="/second-section/murder-ink/">Murder Ink</a></li>
+			</ul> </li>
+			
+			<li id="navClassifieds"><a href="/classifieds/">Classifieds</a></li>
+			
+			<li class="dropdown" id="navOpinion"><a href="/opinion/" class="dropdown-toggle">Opinion</a>
+				<ul class="dropdown-menu">
+			
+			<li class="first" id="navSoapBox"><a href="/opinion/soap-box/">Soap Box</a></li>
+			
+			<li id="navEndOfTheLine"><a href="/opinion/end-of-the-line/">End of the Line</a></li>
+			
+			<li id="navLaVidaLocal"><a href="/opinion/la-vida-local/">La Vida Local</a></li>
+			
+			<li id="navThisWeeksSignOfTheDownfall"><a href="/opinion/this-weeks-sign-of-the-downfall/">This Week's Sign of the Downfall</a></li>
+			
+			<li id="navDtooned"><a href="/opinion/d-tooned/">D-Tooned</a></li>
+			
+			<li class="last" id="navThumbinIt"><a href="/opinion/thumbin-it/">Thumbin' It</a></li>
+			</ul> </li>
+			
+			<li id="navArchives"><a href="/archives/" target="_blank">Archives</a></li>
+			
+			<li class="last dropdown" id="navEedition"><a href="/eedition/" class="dropdown-toggle">eEdition</a>
+				<ul class="dropdown-menu">
+			
+			<li class="last first" id="navSignUpForOurNewsletters"><a href="/eedition/sign-up-for-our-newsletters/">Sign up for our Newsletters</a></li>
+			</ul> </li>
+			</ul> 
+						<script>
+							$(function(){
+								$(["/"]).each(
+									function(index, value){
+										$("#navPrimary [href='" + value + "']").closest("li").addClass("active");
+									}
+								);
+							})
+						</script>
+					</div>
+					
+					<div class="col-md-2 pull-right hidden-xs">
+						<ul class="nav  navbar-nav social">
+							<li>
+								<a href="https://www.facebook.com/Durango-Telegraph-429307033779054/" target="_blank"><i class="fa fa-facebook-f img-circle fa-lg" aria-hidden="true"></i></a>
+							</li>
+							<li>
+								<a href="https://twitter.com/DgoTelegraph" target="_blank"><i class="fa fa-twitter img-circle fa-lg" aria-hidden="true"></i></a>
+							</li>
+							<li>
+								<a href="https://www.instagram.com/durango_telegraph/" target="_blank"><i class="fa fa-instagram img-circle fa-lg" aria-hidden="true"></i></a>
+							</li>
+							<li>
+								<a href="https://www.youtube.com/channel/UCj8zCoGwTpeNgyzLw07Bw7A" target="_blank"><i class="fa fa-youtube img-circle fa-lg" aria-hidden="true"></i></a>
+							</li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+</header>
+
+       <section>
+      <div id="content">
+        
+                <div class="row">
+                    <section class="col-lg-12 col-md-12 col-sm-8 col-xs-12 content">
+                       <div class="adregion"><div class="mura-region"><div class="mura-region-local"></div></div></div>
+                    </section>
+                  </div>
+                
+<div class="row">
+	<div class="container">
+		<section class="col-md-12 content homeContent">
+			
+			
+				<div id="myCarousel" class="carousel slide" data-interval="6000">
+
+					
+					
+
+					
+					<div class="row carousel-inner">
+						
+						
+							<div class="row item active">
+								<img src="/tele/cache/file/DF266D2A-DBC3-5AA1-AD85B284C7A31031.jpg" alt="Home Page Photo">
+							    <div class="container">
+									<div class="carousel-caption">
+										<h3>Durango Telegraph</h3>
+
+<div>A doodle lets the breeze blow through its hot-pink mohawk during a recent ride in downtown Durango. We have no doubt it was on its way to a Snowdown event./ Photo by Missy Votel</div>			   
+									</div>
+								</div>
+							</div>
+						
+								<div class="row item">
+									<img src="/tele/cache/file/DEDEBC97-94BE-1078-D5A8D61AA2BCCF6F.jpg" alt="A pause on paws">
+									
+										<div class="container">
+											<div class="carousel-caption">
+											  
+													<h3><a href="/news/top-stories/a-pause-on-paws/">A pause on paws</a></h3>
+													<p>Colorado won&rsquo;t release wolves this winter after failing to find new source population<br />
+	&nbsp;</p>
+													<div><a class="btn btn-large btn-primary" href="/news/top-stories/a-pause-on-paws/">Read More</a></div>
+											   
+											</div>
+										</div>
+									
+								</div>
+								
+								<div class="row item">
+									<img src="/tele/cache/file/0B506C71-EE15-B851-7E4BFA6E651478FC.jpg" alt="Open concept">
+									
+										<div class="container">
+											<div class="carousel-caption">
+											  
+													<h3><a href="/news/top-stories/open-concept/">Open concept</a></h3>
+													<p>Local works with restaurants to bring European communal tables to Durango<br />
+	&nbsp;</p>
+													<div><a class="btn btn-large btn-primary" href="/news/top-stories/open-concept/">Read More</a></div>
+											   
+											</div>
+										</div>
+									
+								</div>
+								
+								<div class="row item">
+									<img src="/tele/cache/file/77C0DB2D-D051-EE1C-816B0664F41AACE5.jpg" alt="A hiccup for coal">
+									
+										<div class="container">
+											<div class="carousel-caption">
+											  
+													<h3><a href="/news/top-stories/a-hiccup-for-coal/">A hiccup for coal</a></h3>
+													<p>Trump&rsquo;s latest effort to keep coal alive clumsy at best<br />
+	&nbsp;</p>
+													<div><a class="btn btn-large btn-primary" href="/news/top-stories/a-hiccup-for-coal/">Read More</a></div>
+											   
+											</div>
+										</div>
+									
+								</div>
+								
+								<div class="row item">
+									<img src="/tele/cache/file/A472C61F-BD79-7EC3-9A9DC9D654DDD800.jpg" alt="Layers of history">
+									
+										<div class="container">
+											<div class="carousel-caption">
+											  
+													<h3><a href="/news/top-stories/layers-of-history/">Layers of history</a></h3>
+													<p>&lsquo;Constellations of Place&rsquo; honors 150 years of statehood, as well as peoples who came long before&nbsp;</p>
+													<div><a class="btn btn-large btn-primary" href="/news/top-stories/layers-of-history/">Read More</a></div>
+											   
+											</div>
+										</div>
+									
+								</div>
+								
+								<div class="row item">
+									<img src="/tele/cache/file/097C896D-BCC0-80D8-A9CB7CD9B6093903.jpg" alt="Cracking down">
+									
+										<div class="container">
+											<div class="carousel-caption">
+											  
+													<h3><a href="/news/top-stories/cracking-down/">Cracking down</a></h3>
+													<p>City steps up leash enforcement amid takeover of animal control duties</p>
+													<div><a class="btn btn-large btn-primary" href="/news/top-stories/cracking-down/">Read More</a></div>
+											   
+											</div>
+										</div>
+									
+								</div>
+								
+					</div>
+
+					
+							<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+							<a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+							
+							
+								<script>jQuery(document).ready(function($){$('#myCarousel').carousel({interval:6000});});</script>
+							
+				</div>
+			
+		</section>
+	</div>
+</div>
+<div class="row">
+	<div class="container">
+		<section class="col-lg-9 col-md-9 col-sm-8 col-xs-12 content homeContent">
+			
+			<div class="mura-region">
+					<div class="mura-region-local"><div data-object="collection" data-objectname="Collection" data-objecticonclass="mi-th-list" data-async="true" class="mura-async-object mura-object" data-objectid="D4D929B8-0A5D-4464-B4630A332C3F4055" style="height: auto !important;" data-inited="true" data-sourcetype="localindex" data-label="" data-css="" data-="" data-source="AA465EA3-DED6-A999-C171AE858BA05411" data-layout="default" data-imagesize="medium" data-imageheight="AUTO" data-imagewidth="AUTO" data-displaylist="Image,Date,Title,Summary,Credits,Tags" data-modalimages="False" data-viewalllink="" data-viewalllabel="" data-maxitems="2" data-nextn="2"></div><div data-object="collection" data-objectname="Collection" data-objecticonclass="mi-th-list" data-async="true" class="mura-async-object mura-object" data-objectid="DA63AA09-4061-450E-BFF5E8D40C30FB90" style="height: auto !important;" data-inited="true" data-sourcetype="localindex" data-label="" data-css="" data-="" data-source="40320260-9076-78D4-56209961298A72FD" data-layout="default" data-imagesize="medium" data-imageheight="AUTO" data-imagewidth="AUTO" data-displaylist="Image,Date,Title,Summary,Credits,Tags" data-modalimages="False" data-viewalllink="" data-viewalllabel="" data-maxitems="1" data-nextn="20"></div><div class="mura-async-object mura-object" data-async="false" data-inited="true" data-object="text" data-objecticonclass="mi-font" data-objectid="1FF67353-4057-4981-8072FBD9B29923C8" data-objectname="Text" data-render="client" data-source="&lt;h2&gt;La Vida Local&lt;/h2&gt;
+" data-sourcetype="custom" style=""></div><div class="mura-object mura-async-object" data-async="false" data-css="" data-disablelinks="NO" data-displaylist="Image,Title,Summary,Credits,ts_publicationDate" data-gridstyle="mura-grid-two" data-imageheight="AUTO" data-imagesize="medium" data-imagewidth="AUTO" data-inited="true" data-isconfigurator="true" data-items="" data-label="" data-layout="list" data-maxitems="1" data-modalimages="False" data-nextn="1" data-object="collection" data-objecticonclass="mi-th-list" data-objectid="3D849CED-749F-4312-9CF16A9C56951A63" data-objectname="" data-render="server" data-source="606C8E1F-503D-4270-BF0F14DA32BC9CBA" data-sourceid="606C8E1F-503D-4270-BF0F14DA32BC9CBA" data-sourcetype="localindex" data-viewalllabel="" data-viewalllink="https://www.durangotelegraph.com/opinion/la-vida-local/" style="" data-=""></div><div class="mura-async-object mura-object" data-async="false" data-inited="true" data-object="text" data-objecticonclass="mi-font" data-objectid="CE3DEE2B-8DCB-49DF-BDEEDC1F6DDC7217" data-objectname="Text" data-render="client" data-source="&lt;h2&gt;&lt;span&gt;&lt;a  data-cke-saved-href=&quot;https://www.durangotelegraph.com/second-section/between-the-beats/&quot; href=&quot;https://www.durangotelegraph.com/second-section/between-the-beats/&quot;&gt;Between the Beats&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+" data-sourcetype="custom" style=""></div><div class="mura-async-object mura-object" data-="" data-async="true" data-css="" data-displaylist="Image,Date,Title,Summary,Credits,Tags" data-imageheight="AUTO" data-imagesize="medium" data-imagewidth="AUTO" data-inited="true" data-label="" data-layout="list" data-maxitems="1" data-modalimages="False" data-nextn="20" data-object="collection" data-objecticonclass="mi-th-list" data-objectid="2D923154-0AA9-4474-AFC75E751E7521CA" data-objectname="Collection" data-source="0C1B980E-F7EF-96DC-6417938D72E4D3E6" data-sourcetype="localindex" data-viewalllabel="" data-viewalllink="" style=""></div><div class="mura-async-object mura-object" data-="" data-async="true" data-css="" data-displaylist="Image,Date,Title,Summary,Credits,Tags" data-imageheight="AUTO" data-imagesize="medium" data-imagewidth="AUTO" data-inited="true" data-label="" data-layout="default" data-maxitems="1" data-modalimages="False" data-nextn="1" data-object="collection" data-objecticonclass="mi-th-list" data-objectid="CC30C1B3-8929-4F5F-BB6881C4D1FC75AF" data-objectname="Collection" data-source="25DB16C6-E564-536B-42BEB5B181B2C84C" data-sourcetype="localindex" data-viewalllabel="" data-viewalllink="" style=""></div><div data-object="text" data-objectname="Text" data-objecticonclass="mi-font" data-async="false" class="mura-async-object mura-object" data-objectid="95D6DFE9-3AF5-4486-AC1EA8E7BDA82AF6" style="" data-inited="true" data-source="&lt;h2&gt;Land Desk&lt;/h2&gt;
+" data-render="client" data-sourcetype="custom"></div><div data-object="collection" data-objectname="Collection" data-objecticonclass="mi-th-list" data-async="true" class="mura-async-object mura-object" data-objectid="00EB1730-C372-49C1-82110DEEFC207FDB" style="" data-inited="true" data-sourcetype="localindex" data-label="" data-css="" data-="" data-source="03E21E24-CA8C-CC40-174AED6A7D74F892" data-layout="default" data-imagesize="medium" data-imageheight="AUTO" data-imagewidth="AUTO" data-displaylist="Image,Date,Title,Summary,Credits,Tags" data-modalimages="False" data-viewalllink="" data-viewalllabel="" data-maxitems="1" data-nextn="1"></div><div class="mura-object mura-async-object" data-async="false" data-inited="true" data-isconfigurator="true" data-object="text" data-objecticonclass="mi-font" data-objectid="888B0CA6-A818-424B-975E7CADE777CA58" data-objectname="" data-render="client" data-source="&lt;h2&gt;Ask Rachel&lt;/h2&gt;
+" data-sourcetype="custom" style=""></div><div class="mura-object mura-async-object" data-async="false" data-css="" data-disablelinks="NO" data-displaylist="Image,Title,Summary,ts_publicationDate" data-imageheight="AUTO" data-imagesize="medium" data-imagewidth="AUTO" data-inited="true" data-isconfigurator="true" data-items="" data-label="" data-layout="default" data-maxitems="1" data-modalimages="NO" data-nextn="20" data-object="collection" data-objecticonclass="mi-th-list" data-objectid="F0F32A97-84F6-45E5-AC3DDE7FB3ABF4FC" data-objectname="" data-render="server" data-source="0C4C69FF-BA98-E38B-70AE80987E458668" data-sourcetype="localindex" data-viewalllabel="" data-viewalllink="https://www.durangotelegraph.com/second-section/ask-rachel/" style=""></div><div class="mura-object mura-async-object" data-async="false" data-css="" data-inited="true" data-isconfigurator="true" data-label="" data-object="text" data-objecticonclass="mi-font" data-objectid="A27FB194-6395-406B-89E69F418D8467D9" data-objectname="" data-render="client" data-source="&lt;h2&gt;&lt;span&gt;&lt;a  data-cke-saved-href=&quot;https://www.durangotelegraph.com/second-section/murder-ink/&quot; href=&quot;https://www.durangotelegraph.com/second-section/murder-ink/&quot;&gt;Murder Ink&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+" data-sourcetype="custom" style=""></div><div data-object="collection" data-objectname="Collection" data-objecticonclass="mi-th-list" data-async="true" class="mura-async-object mura-object" data-objectid="F7232B39-BA8F-4263-827138160D624D49" style="" data-inited="true" data-sourcetype="localindex" data-label="" data-css="" data-="" data-source="2700A1ED-5056-A858-004C125E692A5EE3" data-layout="default" data-imagesize="medium" data-imageheight="AUTO" data-imagewidth="AUTO" data-displaylist="Image,Date,Title,Summary,Credits,Tags" data-modalimages="False" data-viewalllink="" data-viewalllabel="" data-maxitems="1" data-nextn="20"></div><div data-object="collection" data-objectname="Collection" data-objecticonclass="mi-th-list" data-async="true" class="mura-async-object mura-object" data-objectid="9E7E2480-BC69-407D-92C6512C646318FB" style="" data-inited="true" data-sourcetype="localindex" data-label="" data-css="" data-="" data-source="FE02BD0D-BBC1-6CF8-A25E0CE97CBEBD63" data-layout="default" data-imagesize="medium" data-imageheight="AUTO" data-imagewidth="AUTO" data-displaylist="Image,Date,Title,Summary,Credits,Tags" data-modalimages="False" data-viewalllink="" data-viewalllabel="" data-maxitems="1" data-nextn="1"></div><div class="mura-async-object mura-object" data-async="false" data-inited="true" data-object="text" data-objecticonclass="mi-font" data-objectid="3E498761-3BCD-434C-9DDED463AE38BFF9" data-objectname="Text" data-render="client" data-source="&lt;h2&gt;&lt;span&gt;&lt;a  data-cke-saved-href=&quot;https://www.durangotelegraph.com/second-section/flash-in-the-pan/&quot; href=&quot;https://www.durangotelegraph.com/second-section/flash-in-the-pan/&quot;&gt;Flash in the Pan&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+" data-sourcetype="custom" style=""></div><div class="mura-async-object mura-object" data-="" data-async="true" data-css="" data-displaylist="Image,Date,Title,Summary,Credits,Tags" data-imageheight="AUTO" data-imagesize="medium" data-imagewidth="AUTO" data-inited="true" data-label="" data-layout="default" data-maxitems="1" data-modalimages="False" data-nextn="1" data-object="collection" data-objecticonclass="mi-th-list" data-objectid="EC5CBBF2-EA2E-4BA2-B94C3307F2D37B32" data-objectname="Collection" data-source="C6A93043-FB0A-F630-F4D32F38E3255D58" data-sourcetype="localindex" data-viewalllabel="" data-viewalllink="" style=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p draggable="true">&nbsp;</p><div data-object="text" data-objectname="Text" data-objecticonclass="mi-font" data-async="false" class="mura-async-object mura-object" data-objectid="9813BD8A-06A6-4A12-BB9BB16EEAF94FDE" style="" data-inited="true" data-source="&lt;h2&gt;&lt;span&gt;&lt;a href=&quot;https://www.durangotelegraph.com/opinion/soapbox/&quot;&gt;Soap Box&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;
+" data-render="client" data-sourcetype="custom"></div>
+<div class="mura-async-object mura-object hidden" data-="" data-async="true" data-class="hidden" data-css="" data-cssclass="hidden" data-displaylist="ts_publicationDate,Image,Title,ReadMore,Tags" data-imageheight="AUTO" data-imagesize="medium" data-imagewidth="AUTO" data-inited="true" data-label="The Latest" data-layout="default" data-maxitems="2" data-modalimages="False" data-nextn="20" data-object="collection" data-objecticonclass="mi-th-list" data-objectid="76468017-F690-4F41-AAA5CC48333D4C59" data-objectname="Collection" data-source="7346A941-D3C1-2177-6F717FC94567A0D8" data-sourcetype="localindex" data-viewalllabel="" data-viewalllink="" style=""></div></div>
+					</div> <div class="mura-region"><div class="mura-region-local"><div class="mura-object hide sponsored" data-object="text" data-objectid="393B9137-8C7D-4A38-942D979413EC469C" data-instanceid="D9B0C3DC-CEA5-1827-48980AE5BF06DFD2" data-objecticonclass="mi-font" data-objectname="" data-async="false" data-render="client" data-class="hide&#x20;sponsored" data-sourcetype="custom" data-object="text" data-inited="YES" data-objectid="393B9137-8C7D-4A38-942D979413EC469C" data-source="&lt;p&gt;&lt;strong&gt;Sponsored&#x20;Content&lt;&#x2f;strong&gt;&lt;&#x2f;p&gt;&#xa;&#xa;&lt;p&gt;&lt;a&#x20;href&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;second-section&#x2f;yocal&#x2f;southwest-wedding-bazaar&#x2f;&quot;&#x20;target&#x3d;&quot;_blank&quot;&gt;&lt;img&#x20;alt&#x3d;&quot;&quot;&#x20;src&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;tele&#x2f;assets&#x2f;Image&#x2f;Screen&#x20;Shot&#x20;2019-04-25&#x20;at&#x20;9_01_17&#x20;AM.png&quot;&#x20;style&#x3d;&quot;width&#x3a;&#x20;250px&#x3b;&#x20;height&#x3a;&#x20;140px&#x3b;&#x20;float&#x3a;&#x20;left&#x3b;&quot;&#x20;&#x2f;&gt;&lt;&#x2f;a&gt;&lt;&#x2f;p&gt;&#xa;&#xa;&lt;h4&gt;Southwest&#x20;Wedding&#x20;Bazaar&nbsp;&nbsp;&lt;&#x2f;h4&gt;&#xa;&#xa;&lt;h5&gt;New&#x20;wedding&#x20;event&#x20;showcases&#x20;local&#x20;wedding&#x20;vendors&lt;&#x2f;h5&gt;&#xa;&#xa;&lt;p&gt;Roberts&#x20;is&#x20;a&#x20;local&#x20;wedding&#x20;planner&#x20;and&#x20;current&#x20;curator&#x20;of&#x20;the&#x20;first&#x20;annual&#x20;Southwest&#x20;Wedding&#x20;Bazaar,&#x20;an&#x20;event&#x20;that&#x20;is&#x20;sure&#x20;to&#x20;showcase&#x20;any&#x20;wedding&#x20;trend&#x20;from&#x20;the&#x20;last&#x20;couple&#x20;of&#x20;years&#x20;and&#x20;maybe&#x20;even&#x20;a&#x20;few&#x20;to&#x20;come.&#x20;.&nbsp;&lt;u&gt;&lt;a&#x20;href&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;second-section&#x2f;yocal&#x2f;southwest-wedding-bazaar&#x2f;&quot;&gt;READ&#x20;MORE&lt;&#x2f;a&gt;&#x20;&lt;&#x2f;u&gt;&lt;&#x2f;p&gt;&#xa;" data-label="" data-cssclass="hide&#x20;sponsored" data-instanceid="D9B0C3DC-CEA5-1827-48980AE5BF06DFD2"></div><div class="mura-object hide sponsored" data-object="text" data-objectid="DC93E9BC-F413-44C6-9C0EDEF9C6F49C05" data-instanceid="D9B0C421-AA78-23D3-6055EA2A272566DF" data-objecticonclass="mi-font" data-objectname="" data-async="false" data-render="client" data-class="hide&#x20;sponsored" data-sourcetype="custom" data-object="text" data-inited="YES" data-objectid="DC93E9BC-F413-44C6-9C0EDEF9C6F49C05" data-source="&lt;p&gt;&lt;strong&gt;Sponsored&#x20;Content&lt;&#x2f;strong&gt;&lt;&#x2f;p&gt;&#xa;&#xa;&lt;p&gt;&lt;a&#x20;href&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;second-section&#x2f;yocal&#x2f;rivergate-pharmacy&#x2f;&quot;&#x20;target&#x3d;&quot;_blank&quot;&gt;&lt;img&#x20;alt&#x3d;&quot;&quot;&#x20;src&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;tele&#x2f;cache&#x2f;file&#x2f;20C88788-5056-A858-00E13C674686F1D9.png&quot;&#x20;style&#x3d;&quot;width&#x3a;&#x20;250px&#x3b;&#x20;height&#x3a;&#x20;140px&#x3b;&#x20;float&#x3a;&#x20;left&#x3b;&quot;&#x20;&#x2f;&gt;&lt;&#x2f;a&gt;&lt;&#x2f;p&gt;&#xa;&#xa;&lt;h4&gt;Rivergate&#x20;Pharmacy&nbsp;&nbsp;&lt;&#x2f;h4&gt;&#xa;&#xa;&lt;h5&gt;Owner,&#x20;Lori&#x20;Kearney&#x20;tells&#x20;us&#x20;what&#x20;sets&#x20;her&#x20;apart&#x20;from&#x20;the&#x20;crowd&lt;&#x2f;h5&gt;&#xa;&#xa;&lt;p&gt;Our&#x20;philosophy&#x20;is&#x20;really&#x20;our&#x20;mission&#x20;statement,&#x20;which&#x20;is&#x20;to&#x20;enhance&#x20;the&#x20;health&#x20;and&#x20;well-being&#x20;of&#x20;our&#x20;customers&#x20;and&#x20;community.&#x20;We&#x20;do&#x20;this&#x20;by&#x20;providing&#x20;compassionate,&#x20;attentive&#x20;service&#x20;that&#x20;exceeds&#x20;expectations&#x20;and&#x20;that&#x20;demonstrates&#x20;our&#x20;responsiveness,&#x20;professionalism,&#x20;integrity,&#x20;and&#x20;respect&#x20;for&#x20;all&#x20;who&#x20;walk&#x20;through&#x20;our&#x20;doors.&#x20;We&#x20;value&#x20;personal&#x20;relationships&#x20;and&#x20;want&#x20;our&#x20;customers&#x20;and&#x20;patients&#x20;to&#x20;feel&#x20;like&#x20;we&#x20;know&#x20;them&#x20;by&#x20;name.&nbsp;&lt;u&gt;&lt;a&#x20;href&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;second-section&#x2f;yocal&#x2f;rivergate-pharmacy&#x2f;&quot;&gt;READ&#x20;MORE&lt;&#x2f;a&gt;&#x20;&lt;&#x2f;u&gt;&lt;&#x2f;p&gt;&#xa;" data-label="" data-cssclass="hide&#x20;sponsored" data-instanceid="D9B0C421-AA78-23D3-6055EA2A272566DF"></div><div class="mura-object hide" data-object="text" data-objectid="588DE885-D290-4D82-A51B38472358AC7A" data-instanceid="D9B0C451-D535-FEA6-15E79B5739D20C27" data-objecticonclass="mi-font" data-objectname="" data-async="false" data-render="client" data-class="hide" data-sourcetype="custom" data-object="text" data-inited="YES" data-objectid="588DE885-D290-4D82-A51B38472358AC7A" data-source="&lt;h2&gt;&lt;span&gt;&lt;a&#x20;href&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;second-section&#x2f;cinemascope&#x2f;&quot;&gt;Cinemascope&lt;&#x2f;a&gt;&lt;&#x2f;span&gt;&lt;&#x2f;h2&gt;&#xa;" data-label="" data-cssclass="hide" data-instanceid="D9B0C451-D535-FEA6-15E79B5739D20C27"></div><div class="mura-object hide" data-object="collection" data-objectid="1BF89AA2-3375-471D-B7840A3640B5EB5F" data-instanceid="D9B0C481-9EA1-E7FC-DBAF1C8F02E63B0A" data-viewalllink="https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;second-section&#x2f;cinemascope&#x2f;" data-objectname="" data-layout="grid" data-render="server" data-sourceid="742136C0-0E1D-7FF0-77D0D94C8CCCB224" data-items="" data-class="hide" data-displaylist="Image,Title,ts_publicationDate" data-gridstyle="mura-grid-two" data-inited="YES" data-nextn="20" data-objectid="1BF89AA2-3375-471D-B7840A3640B5EB5F" data-modalimages="NO" data-label="" data-imageheight="AUTO" data-maxitems="2" data-disablelinks="NO" data-cssclass="hide" data-instanceid="D9B0C481-9EA1-E7FC-DBAF1C8F02E63B0A" data-css="" data-objecticonclass="mi-th-list" data-async="false" data-object="collection" data-sourcetype="localindex" data-viewalllabel="" data-imagesize="carouselimage" data-imagewidth="AUTO" data-source="742136C0-0E1D-7FF0-77D0D94C8CCCB224"><div class="mura-object-content"><p class="mura-no-content-notice">No matching content found.</p></div></div><div class="mura-object" data-object="collection" data-objectid="0CC57D32-D2A6-485C-A332D6DB166D0872" data-instanceid="D9B0CA35-0250-2855-4AA56C138EBB76DC" data-viewalllink="&#x2f;opinion&#x2f;soap-box&#x2f;" data-objectname="" data-layout="grid" data-render="server" data-items="" data-displaylist="ts_publicationDate,Title" data-gridstyle="mura-grid-two" data-nextn="8" data-inited="YES" data-object data-modalimages="NO" data-maxitems="8" data-imageheight="AUTO" data-label="" data-disablelinks="NO" data-instanceid="D9B0CA35-0250-2855-4AA56C138EBB76DC" data-css="" data-objecticonclass="mi-th-list" data-async="false" data-object="" data-sourcetype="localindex" data-viewalllabel="" data-imagesize="small" data-imagewidth="AUTO" data-source="3295FD54-550A-4348-877A5F4151ACC1CA"><div class="mura-object-content"><div class="mura-collection mura-grid-two">
+	
+	<div class="mura-collection-item">
+
+		<div class="mura-collection-item__holder">
+			<div class="mura-item-meta">
+		
+						
+					 	<div class="mura-item-meta__ts_publicationdate">
+					 	
+					 			 	<small>January 22, 2026</small>
+					 			 
+					 	</div>	 	
+					
+					<div class="mura-item-meta__title">
+					<a href="/opinion/soap-box/flocking-to-authoritarianism/">Flocking to authoritarianism </a> 
+					</div>
+				
+	</div>
+		</div>
+	</div>
+	
+	<div class="mura-collection-item">
+
+		<div class="mura-collection-item__holder">
+			<div class="mura-item-meta">
+		
+						
+					 	<div class="mura-item-meta__ts_publicationdate">
+					 	
+					 			 	<small>January 22, 2026</small>
+					 			 
+					 	</div>	 	
+					
+					<div class="mura-item-meta__title">
+					<a href="/opinion/soap-box/hurd-needs-to-show-some-spine/">Hurd needs to show some spine</a> 
+					</div>
+				
+	</div>
+		</div>
+	</div>
+	
+	<div class="mura-collection-item">
+
+		<div class="mura-collection-item__holder">
+			<div class="mura-item-meta">
+		
+						
+					 	<div class="mura-item-meta__ts_publicationdate">
+					 	
+					 			 	<small>January 15, 2026</small>
+					 			 
+					 	</div>	 	
+					
+					<div class="mura-item-meta__title">
+					<a href="/opinion/soap-box/who-you-calling-a-dog/">Who you calling a dog?</a> 
+					</div>
+				
+	</div>
+		</div>
+	</div>
+	
+	<div class="mura-collection-item">
+
+		<div class="mura-collection-item__holder">
+			<div class="mura-item-meta">
+		
+						
+					 	<div class="mura-item-meta__ts_publicationdate">
+					 	
+					 			 	<small>January 15, 2026</small>
+					 			 
+					 	</div>	 	
+					
+					<div class="mura-item-meta__title">
+					<a href="/opinion/soap-box/on-drug-and-insurance-ads/">On drug and insurance ads</a> 
+					</div>
+				
+	</div>
+		</div>
+	</div>
+	
+	<div class="mura-collection-item">
+
+		<div class="mura-collection-item__holder">
+			<div class="mura-item-meta">
+		
+						
+					 	<div class="mura-item-meta__ts_publicationdate">
+					 	
+					 			 	<small>January 15, 2026</small>
+					 			 
+					 	</div>	 	
+					
+					<div class="mura-item-meta__title">
+					<a href="/opinion/soap-box/building-a-better-health-system/">Building a better health system</a> 
+					</div>
+				
+	</div>
+		</div>
+	</div>
+	
+	<div class="mura-collection-item">
+
+		<div class="mura-collection-item__holder">
+			<div class="mura-item-meta">
+		
+						
+					 	<div class="mura-item-meta__ts_publicationdate">
+					 	
+					 			 	<small>January 8, 2026</small>
+					 			 
+					 	</div>	 	
+					
+					<div class="mura-item-meta__title">
+					<a href="/opinion/soap-box/flock-sacrifices-liberty-in-name-of-safety/">Flock sacrifices liberty in name of safety</a> 
+					</div>
+				
+	</div>
+		</div>
+	</div>
+	
+	<div class="mura-collection-item">
+
+		<div class="mura-collection-item__holder">
+			<div class="mura-item-meta">
+		
+						
+					 	<div class="mura-item-meta__ts_publicationdate">
+					 	
+					 			 	<small>January 8, 2026</small>
+					 			 
+					 	</div>	 	
+					
+					<div class="mura-item-meta__title">
+					<a href="/opinion/soap-box/we-must-stand-up-now/">We must stand up now</a> 
+					</div>
+				
+	</div>
+		</div>
+	</div>
+	
+	<div class="mura-collection-item">
+
+		<div class="mura-collection-item__holder">
+			<div class="mura-item-meta">
+		
+						
+					 	<div class="mura-item-meta__ts_publicationdate">
+					 	
+					 			 	<small>January 8, 2026</small>
+					 			 
+					 	</div>	 	
+					
+					<div class="mura-item-meta__title">
+					<a href="/opinion/soap-box/the-future-of-politics/">The future of politics</a> 
+					</div>
+				
+	</div>
+		</div>
+	</div>
+	
+</div>
+
+
+	<a class="view-all" href="/opinion/soap-box/"></a></div></div><div class="mura-object" data-object="text" data-objectid="A753686B-52C9-4BAA-94359FA7C7A21F6E" data-instanceid="D9B0D3B0-D121-3949-E5D325A0D93ACBF0" data-inited="YES" data-objectid="A753686B-52C9-4BAA-94359FA7C7A21F6E" data-objecticonclass="mi-font" data-objectname="" data-async="false" data-source="&lt;h2&gt;&lt;span&gt;&lt;a&#x20;href&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;eedition&#x2f;&quot;&gt;Durango&#x20;Telegraph&#x20;eEdition&lt;&#x2f;a&gt;&lt;&#x2f;span&gt;&lt;&#x2f;h2&gt;&#xa;" data-render="client" data-object="text" data-sourcetype="custom" data-instanceid="D9B0D3B0-D121-3949-E5D325A0D93ACBF0"></div><div class="mura-object" data-object="text" data-objectid="3E13EC05-63A9-4F9E-BC9F36A323132853" data-instanceid="D9B0D3DF-9EC2-83AC-1F7CD32AB41CD5CF" data-css="" data-objecticonclass="mi-font" data-objectname="" data-async="false" data-render="client" data-object="text" data-sourcetype="custom" data-inited="YES" data-objectid="3E13EC05-63A9-4F9E-BC9F36A323132853" data-source="&lt;p&gt;&lt;a&#x20;href&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;eedition&#x2f;&quot;&gt;&lt;img&#x20;alt&#x3d;&quot;&quot;&#x20;src&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;tele&#x2f;assets&#x2f;Image&#x2f;eedition-cover&#x2f;CMDT20260122Z001.jpg&quot;&#x20;style&#x3d;&quot;width&#x3a;&#x20;300px&#x3b;&#x20;height&#x3a;&#x20;304px&#x3b;&quot;&#x20;&#x2f;&gt;&lt;&#x2f;a&gt;&lt;&#x2f;p&gt;&#xa;" data-label="" data-instanceid="D9B0D3DF-9EC2-83AC-1F7CD32AB41CD5CF"></div></div></div>
+		</section>
+
+		<aside class="col-lg-3 col-md-3 col-sm-4 col-xs-12 sidebar">
+			
+	<form id="searchForm" class="navbar-form" role="search" action="/search-results/">
+	    <div class="input-group">
+	        <input type="text" name="Keywords" id="navKeywords" class="form-control" value="" placeholder="Search">
+	        <span class="input-group-btn">
+	            <button type="submit" class="btn btn-default">
+	                <i class="fa fa-search"></i>
+	            </button>
+	        </span>
+	    </div>
+	    <input type="hidden" name="display" value="search">
+	    <input type="hidden" name="newSearch" value="true">
+	    <input type="hidden" name="noCache" value="1">
+	</form>
+  <p style="text-align:right;font-size:.9em"><a href="http://archives.durangotelegraph.com/archives/" target="_blank">Pre-July 2016 Archives</a></p>
+  <p style="text-align:right;font-size:.9em"><a href="https://www.durangotelegraph.com/eedition/">Durango Telegraph eEdition</a></p>
+
+			
+			<div class="sideBarFeeds row">
+			    <div class="mura-region"><div class="mura-region-local"><div class="mura-object waterData" data-object="component" data-objectid="3FC71CC2-94BF-49D9-B6AE6FFDBD1F10FC" data-instanceid="D9B0D48E-B973-7436-0D3E3F6ADF5BB5B8" data-css="" data-objecticonclass="mi-clone" data-objectname="" data-async="false" data-render="server" data-class="waterData" data-object="component" data-name="Animas&#x20;River&#x20;Flow" data-inited="YES" data-objectid="3FC71CC2-94BF-49D9-B6AE6FFDBD1F10FC" data-cssclass="waterData" data-instanceid="D9B0D48E-B973-7436-0D3E3F6ADF5BB5B8"><div class="mura-object-content"><div class="componentWrapper waterData">
+					<p><a href="https://waterdata.usgs.gov/nwisweb/graph?agency_cd=USGS&amp;site_no=09361500&amp;parm_cd=00060" rel="shadowbox"><img src="https://waterdata.usgs.gov/nwisweb/graph?agency_cd=USGS&amp;site_no=09361500&amp;parm_cd=00060" /></a></p>
+
+<h2><strong>Animas River at Durango,Co</strong><br />
+	<span class="small">Discharge, cubic feet per second</span></h2>
+
+<p><span class="small">More at: <a href="https://waterdata.usgs.gov/co/nwis/uv?site_no=09361500" rel="nofollow" target="_blank">waterdata.usgs.gov</a></span></p>
+				</div></div></div><div class="mura-object" data-object="component" data-objectid="024BDBD5-06EF-AB86-B8348331A4ED2196" data-instanceid="D9B0D513-D4EA-C11A-8D93383F7DA8D8C3" data-inited="YES" data-objectid="024BDBD5-06EF-AB86-B8348331A4ED2196" data-objecticonclass="mi-clone" data-objectname="" data-async="false" data-render="server" data-object="component" data-instanceid="D9B0D513-D4EA-C11A-8D93383F7DA8D8C3"><div class="mura-object-content"><div class="componentWrapper ">
+					<body><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1763660257169878"
+     crossorigin="anonymous"></script>
+<!-- sidebar Responsive ad -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1763660257169878"
+     data-ad-slot="3659632946"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+  </script></body>
+				</div></div></div><div class="mura-object hide" data-object="text" data-objectid="41D30131-DDED-4472-B5BCB69F2C114E58" data-instanceid="D9B0D585-CBA0-51C3-90E989F638B5B68D" data-css="" data-objecticonclass="mi-font" data-objectname="" data-async="false" data-render="client" data-class="hide" data-sourcetype="custom" data-object="text" data-inited="YES" data-objectid="41D30131-DDED-4472-B5BCB69F2C114E58" data-source="&lt;p&gt;&lt;img&#x20;src&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;tele&#x2f;cache&#x2f;file&#x2f;91AED6D5-5056-A858-00F0919222BDD605.jpg&quot;&#x20;&#x2f;&gt;&lt;&#x2f;p&gt;&#xa;" data-label="" data-cssclass="hide" data-instanceid="D9B0D585-CBA0-51C3-90E989F638B5B68D"></div></div></div> <div class="mura-object" data-object="component" data-objectid="010B7065-5056-A858-006C60C08E7DD79F" data-instanceid="D9B0D5B4-9D7C-2237-34C8936A1EEDBF68" data-objectid="010B7065-5056-A858-006C60C08E7DD79F" data-objecticonclass="mi-clone" data-objectname="" data-async="false" data-render="server" data-object="component" data-instanceid="D9B0D5B4-9D7C-2237-34C8936A1EEDBF68"></div>
+				<div class="well">
+					<h4>The Pole</h4>
+						<h5>Ear to the Ground</h5>
+						<p>&quot;You mean all these years of agitating, and I could've been getting paid for it?&quot;<br>
+					        <span class="small" style="font-style:italic;color:#999">--If anyone knows how we can apply for this job, too, please let us know.</span></p>
+					     <div class="mura-region"><div class="mura-region-local"><div class="mura-object" data-object="collection" data-objectid="2BE52667-47AE-43CB-862D1EEC7493D80D" data-instanceid="D9B0D921-D945-EC00-C48DA1A355E5D827" data-viewalllink="" data-objectname="" data-layout="default" data-render="server" data-items="" data-displaylist="Title,Summary,ReadMore,Tags,Image" data-inited="YES" data-nextn="2" data-object data-modalimages="NO" data-label="" data-imageheight="AUTO" data-maxitems="1" data-disablelinks="NO" data-instanceid="D9B0D921-D945-EC00-C48DA1A355E5D827" data-css="" data-objecticonclass="mi-th-list" data-async="false" data-object="" data-sourcetype="localindex" data-viewalllabel="read&#x20;more" data-imagesize="small" data-imagewidth="AUTO" data-source="7F08009A-A100-421D-BFFA5273ECC0804E"><div class="mura-object-content"><div id="svIndex" class="mura-index ">
+<div >
+ 	
+		<dl  class="first last">
+			
+						<dt  class="title">
+						
+									<a href="/news/the-pole/eyes-on-the-snow/">Eyes on the snow</a>
+							
+						</dt>
+					
+						 	<dd  class="summary">
+						 	<p>This winter, we&rsquo;ve all had our eyes on the snow&ndash; or lack thereof &ndash; but the folks at the Colorado Avalanche Information Center are looking for a few more. The Friends of the Colorado Avalanche Information Center (FoCAIC) &ndash; the outreach, education, events and fundraising arm of the CAIC &ndash; recently launched its annual &ldquo;Observations Challenge&rdquo; for the 2025-26 season</p> 
+						 	</dd>
+						
+					 	<dd  class="readmore readMore">
+					 	<a href="/news/the-pole/eyes-on-the-snow/">Read More</a> 
+					 	</dd>
+					
+		</dl>
+		
+ 	</div>
+</div>
+
+
+<div style="clear:both"></div></div></div></div></div>
+			    </div>
+			</div>
+			 <div class="row adregion">
+					<div class="mura-object" data-object="component" data-objectid="8E82129B-5CDB-468B-A2480D8A8D3A0FAE" data-instanceid="D9B0DAC4-FF6A-EC3D-95371619759DD79B" data-objectid="8E82129B-5CDB-468B-A2480D8A8D3A0FAE" data-objecticonclass="mi-clone" data-objectname="" data-async="false" data-render="server" data-object="component" data-instanceid="D9B0DAC4-FF6A-EC3D-95371619759DD79B"></div>
+			  </div>
+	          <div class="row">
+				
+				<div class="well clearfix">
+				 <h5>Thumbin' It</h5>
+				 <p class="thumbsUp"><i class="fa fa-thumbs-o-up fa-lg" aria-hidden="true"></i>
+				 Good news! An actual snowstorm seems likely Friday - Saturday. According to the weather gurus at Open Snow, many mountains could see 5 or more inches, with a few areas even edging into the double-digits. We hope we remember how to ski.</p>
+				 <p class="thumbsDown"><i class="fa fa-thumbs-o-down fa-lg" aria-hidden="true"></i>
+				 The big kitties are on the prowl in Durango. We know they were here first, but nothing terrifies us more than the idea of running into one of them. Except maybe another Trump term.</p>
+				 <a href="/opinion/thumbin-it/" class="readMore">Read More</a>
+				 </div>
+			
+	          </div>
+	          <div class="row">
+				
+				<div class="well clearfix">
+				 <h5>Haiku Movie Review</h5>
+				   <p><strong>Roofman</strong></p>
+
+				   <p>True story of the<br />
+	clever con who lived the &lsquo;Toys<br />
+	R Us&rsquo; theme song dream<br />
+	&nbsp;</p>
+				   <cite>~Lainie Maxson</cite>
+				 </div>
+			
+	           </div>
+			   
+                <div class="mura-object" data-object="component" data-objectid="011BE0BA-5056-A858-007D79CC5C0C0D82" data-instanceid="D9B0DB36-0F29-5EEE-80FBC970B9CE2EBE" data-objectid="011BE0BA-5056-A858-007D79CC5C0C0D82" data-objecticonclass="mi-clone" data-objectname="" data-async="false" data-render="server" data-object="component" data-instanceid="D9B0DB36-0F29-5EEE-80FBC970B9CE2EBE"></div>
+				<div class="row adregion">
+					<div class="mura-region"><div class="mura-region-local"></div></div>
+				</div>
+	            <div class="row">
+				     
+				<div class="well clearfix">
+				 <h5>This Week's Sign of the Downfall</h5>
+				   <h3>Astro Not</h3>
+
+<p>Last July, an 80-year-old woman in Japan met a man online and fell in love with him, because he said he was an astronaut. Everything was going well, until he claimed to be under attack, and that he&rsquo;d be stuck in space forever if he didn&rsquo;t get some money to buy extra oxygen. So, the lady wired him $7,000 and couldn&rsquo;t understand why her interstellar lover stopped texting, until the police explained it to her. And it&rsquo;s not the first time this ass-teroid has struck: a different old lady sent almost $30K to an astronaut claiming to need help with his rocket fees. But the good news here is that, on a personal note, after hearing about this, I finally understood why my 80-year-old aunt wears a red hat.&nbsp;<br />
+	&nbsp;</p> 
+				    	 <img src="/tele/cache/file/DF68848A-FBAE-C0EE-776A95EB96E48948_medium.jpg" >
+				    
+				 </div>
+			
+				</div>
+	            <div class="row adregion">
+					<div class="mura-region"><div class="mura-region-local"></div></div>
+				</div>
+				
+				
+				 <div class="row adregion">
+					<div class="mura-region"><div class="mura-region-local"><div class="mura-object sidebarpaddingtop" data-object="text" data-objectid="48E27C80-471F-4639-9F4AA9A17B904679" data-instanceid="D9B0DC37-CC0A-A011-4584602BE915160B" data-objecticonclass="mi-font" data-objectname="" data-async="false" data-render="client" data-class="sidebarpaddingtop" data-sourcetype="custom" data-object="text" data-inited="YES" data-objectid="48E27C80-471F-4639-9F4AA9A17B904679" data-source="&lt;h3&gt;&lt;a&#x20;href&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;opinion&#x2f;d-tooned&quot;&gt;D-tooned&lt;&#x2f;a&gt;&lt;&#x2f;h3&gt;&#xa;" data-label="" data-cssclass="sidebarpaddingtop" data-instanceid="D9B0DC37-CC0A-A011-4584602BE915160B"></div><div class="mura-object" data-object="collection" data-objectid="2F780FCC-31F2-4664-930877C40E16F230" data-instanceid="D9B0DE42-ECF6-6C63-CE0EABCC6D41D299" data-viewalllink="" data-objectname="" data-layout="grid" data-render="server" data-items="" data-displaylist="Image,ts_publicationDate" data-gridstyle="mura-grid-one" data-inited="YES" data-nextn="1" data-object data-modalimages="NO" data-label="" data-imageheight="AUTO" data-maxitems="1" data-disablelinks="NO" data-instanceid="D9B0DE42-ECF6-6C63-CE0EABCC6D41D299" data-css="" data-objecticonclass="mi-th-list" data-async="false" data-object="" data-sourcetype="localindex" data-viewalllabel="" data-imagesize="medium" data-imagewidth="AUTO" data-source="17E42ABE-5E16-4A62-AE08F78402AE8F9E"><div class="mura-object-content"><div class="mura-collection mura-grid-one">
+	
+	<div class="mura-collection-item">
+
+		<div class="mura-collection-item__holder">
+			
+			<div class="mura-item-content">
+				
+						<a href="/opinion/d-tooned/jan-22-2026/"><img src="/tele/cache/file/DF5FD06B-B9D2-F22E-A49440642EA28023_medium.jpg" alt="Jan.&#x20;22,&#x20;2026"></a>
+					
+			</div>
+			<div class="mura-item-meta">
+		
+						
+					 	<div class="mura-item-meta__ts_publicationdate">
+					 	
+					 			 	<small>January 22, 2026</small>
+					 			 
+					 	</div>	 	
+					
+	</div>
+		</div>
+	</div>
+	
+</div></div></div><div class="mura-object sidebarpaddingtop" data-object="text" data-objectid="880F4CF4-AF3D-45D7-BB063F51E8779938" data-instanceid="D9B0DF70-D2A5-A2E8-ECE26B24A698399F" data-objecticonclass="mi-font" data-objectname="" data-async="false" data-render="client" data-class="sidebarpaddingtop" data-sourcetype="custom" data-object="text" data-inited="YES" data-objectid="880F4CF4-AF3D-45D7-BB063F51E8779938" data-source="&lt;h3&gt;&lt;a&#x20;href&#x3d;&quot;https&#x3a;&#x2f;&#x2f;www.durangotelegraph.com&#x2f;second-section&#x2f;chech-it-out&#x2f;&quot;&gt;Chech&#x20;It&#x20;Out&#x21;&lt;&#x2f;a&gt;&lt;&#x2f;h3&gt;&#xa;" data-label="" data-cssclass="sidebarpaddingtop" data-instanceid="D9B0DF70-D2A5-A2E8-ECE26B24A698399F"></div><div class="mura-object" data-object="collection" data-objectid="DAA8C9F3-81C2-4DB5-ABF94C157217F77E" data-instanceid="D9B0E1B9-9B0D-51E7-1E29D1B1A1BB9F75" data-viewalllink="" data-objectname="" data-layout="grid" data-render="server" data-items="" data-displaylist="Image,Date,ts_publicationDate" data-gridstyle="mura-grid-one" data-inited="YES" data-nextn="1" data-object data-modalimages="YES" data-label="" data-imageheight="AUTO" data-maxitems="1" data-disablelinks="NO" data-instanceid="D9B0E1B9-9B0D-51E7-1E29D1B1A1BB9F75" data-css="" data-objecticonclass="mi-th-list" data-async="false" data-object="" data-sourcetype="localindex" data-viewalllabel="" data-imagesize="medium" data-imagewidth="AUTO" data-source="14B1090F-0584-4CD7-9BB67647F3CDF481"><div class="mura-object-content"><div class="mura-collection mura-grid-one">
+	
+	<div class="mura-collection-item">
+
+		<div class="mura-collection-item__holder">
+			
+			<div class="mura-item-content">
+				
+						<a href="/tele/cache/file/77E3B9D8-0AB4-DDAB-4123131E6ADDCC4E.jpg" title="Jan.&#x20;15,&#x20;2026" data-rel="shadowbox[gallery]" ><img src="/tele/cache/file/77E3B9D8-0AB4-DDAB-4123131E6ADDCC4E_medium.jpg" alt="Jan.&#x20;15,&#x20;2026"></a>
+					
+			</div>
+			<div class="mura-item-meta">
+		
+						
+					 	<div class="mura-item-meta__ts_publicationdate">
+					 	
+					 			 	<small>January 15, 2026</small>
+					 			 
+					 	</div>	 	
+					
+	</div>
+		</div>
+	</div>
+	
+</div></div></div></div></div>
+				</div>
+
+		</aside><!-- /.sidebar -->
+	</div>
+</div>
+
+            </div><!-- /content -->
+     </section>
+  
+	<footer class="footer-wrapper">
+		<div class="container">
+			<div class="row footer-top">
+				
+
+				
+            </div>
+			<div class="row footer-bottom">
+				<div class="col-md-6">
+					<div class="center-block footerBranding">
+					  <a href="/"><img src="/tele/includes/themes/telegraph/images/logo3.png" alt="the durango telegraph: The Independent Weekly Line on Durango and Beyond" class="img-responsive"></a>
+					   &copy; Durango Telegraph 2026
+					  All Rights Reserved<a name="coverphoto"></a>
+				   </div>
+				</div>
+				<div class="col-md-3">
+					
+				<ul id="navFooter" class="nav nav-stacked navFooter">
+				<li class="first" id="navHome"><a href="/">Home</a></li>
+			
+			<li id="navNews"><a href="/news/" >News</a></li>
+			
+			<li id="navWhereToFindAPaper"><a href="/where-to-find-a-paper/">Where to find a paper</a></li>
+			
+			<li id="navSecondSection"><a href="/second-section/">Second Section</a></li>
+			
+			<li id="navClassifieds"><a href="/classifieds/">Classifieds</a></li>
+			
+			<li id="navOpinion"><a href="/opinion/">Opinion</a></li>
+			
+			<li id="navArchives"><a href="/archives/" target="_blank">Archives</a></li>
+			
+			<li class="last dropdown" id="navEedition"><a href="/eedition/" class="dropdown-toggle">eEdition</a>
+				<ul class="dropdown-menu">
+			
+			<li class="last first" id="navSignUpForOurNewsletters"><a href="/eedition/sign-up-for-our-newsletters/">Sign up for our Newsletters</a></li>
+			</ul> </li>
+			</ul> 
+				</div>
+				<div class="col-md-3">
+					<div class="mura-object" data-object="component" data-objectid="4B1BBF12-EF73-4216-9A534879744D28F4" data-instanceid="D9B0E321-9BA6-C3D8-700EF2BE06C8AC2E" data-objectid="4B1BBF12-EF73-4216-9A534879744D28F4" data-objecticonclass="mi-clone" data-objectname="" data-async="false" data-render="server" data-object="component" data-instanceid="D9B0E321-9BA6-C3D8-700EF2BE06C8AC2E"></div>
+				</div>
+			</div>
+	</footer>
+	<span id="top-link-block" class="hidden">
+	    <a href="#top" class="btn back-to-top"  onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
+	        <i class="glyphicon glyphicon-chevron-up"></i> Back to Top
+	    </a>
+   </span><!-- /top-link-block -->
+   
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('.popup').click(function(event) {
+          event.preventDefault();
+          window.open($(this).attr("href"), "popupWindow", "width=600,height=600,scrollbars=yes");
+       });
+    });
+  </script>
+</div>
+  
+		
+		<script src="/tele/includes/themes/telegraph/assets/bootstrap/js/bootstrap.min.js"></script>
+    
+    <script src="/tele/includes/themes/telegraph/js/theme/theme.min.js"></script>
+
+    <script type="text/javascript">
+     // Only enable if the document has a long scroll bar
+	// Note the window height + offset
+	if ( ($(window).height() + 100) < $(document).height() ) {
+	    $('#top-link-block').removeClass('hidden').affix({
+	        // how far to scroll down before link "slides" into view
+	        offset: {top:100}
+	    });
+	}
+    </script>
+	</body>
+</html>

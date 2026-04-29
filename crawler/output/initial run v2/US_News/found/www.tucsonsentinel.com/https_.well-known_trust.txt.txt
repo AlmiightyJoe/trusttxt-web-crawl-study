@@ -1,0 +1,34 @@
+# Tucson Sentinel trust.txt file
+# For more information visit JournalList.net
+
+
+# memberships
+belongto=https://aan.org/
+belongto=https://lionpublishers.com/
+belongto=https://inn.org/
+belongto=https://azmedia.org/
+belongto=https://gijn.org/
+belongto=https://localfirstaz.com/
+belongto=https://ruralnewsnetwork.org/
+belongto=https://journallist.net/
+
+# social channels
+social=https://www.facebook.com/TucsonSentinel
+social=https://twitter.com/TucsonSentinel
+social=https://instagram.com/TucsonSentinel
+social=https://mastodon.tucsonsentinel.com/
+
+# vendors
+vendor=https://broadstreetads.com/
+
+
+# contact
+contact=editor@tucsonsentinel.com
+contact=https://www.tucsonsentinel.com/contact
+
+#disclosures
+
+disclosure=https://www.tucsonsentinel.com/about/ethics/
+disclosure=https://www.tucsonsentinel.com/termsofservice/
+disclosure=https://www.tucsonsentinel.com/opinion/report/what_we_stand_for/what-we-stand-tucsonsentinelcom/
+disclosure=https://www.tucsonsentinel.com/about/corrections/

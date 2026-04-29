@@ -1,0 +1,80 @@
+
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    
+    <title>Page Not Found</title>
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="author" href="Dave Campbell's Texas Football">
+<link rel="Stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Merriweather:400,700">
+<link rel="Stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/3.5.2/firebaseui.css" />
+<link rel="stylesheet" href="/node_modules/awesomplete/awesomplete.css" />
+
+<script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-analytics.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-firestore.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.8.2/firebase-auth.js"></script>
+<script src="https://cdn.firebase.com/libs/firebaseui/3.5.2/firebaseui.js"></script>
+
+
+
+
+<link rel="stylesheet" href="/css/styles.v-2.22.css">
+
+
+<div id="ucHead_pnlEmpowerLocalAd">
+	
+    <script type='text/javascript' src='https://adbundle.empowerlocal.co/bundle.js?publicationKey=texasfootball-com'></script>
+    <style>#placement_790783_0_i{width:100%;margin:0 auto;}</style><script type="text/javascript">var rnd = window.rnd || Math.floor(Math.random()*10e6);var pid790783 = window.pid790783 || rnd;var plc790783 = window.plc790783 || 0;var abkw = window.abkw || '';var absrc = 'https://ads.empowerlocal.co/adserve/;ID=181918;size=0x0;setID=790783;type=js;sw='+screen.width+';sh='+screen.height+';spr='+window.devicePixelRatio+';kw='+abkw+';pid='+pid790783+';place='+(plc790783++)+';rnd='+rnd+';click=CLICK_MACRO_PLACEHOLDER';var _absrc = absrc.split("type=js"); absrc = _absrc[0] + 'type=js;referrer=' + encodeURIComponent(document.location.href) + _absrc[1];document.write('<scr'+'ipt src="'+absrc+'" type="text/javascript"></'+'script>');</script>
+
+</div>
+
+<!-- Begin Constant Contact Inline Form Code -->
+<script>var _ctct_m = "54e61c45eda95d172e94920e4f016816";</script>
+<style>
+    html:has(#subnew-dialog) .IL_BASE { display: none !important; }
+    html:has(#subnew-dialog) .toast-container { z-index: 10000000 !important }
+    @media screen and (min-width:768px) {
+        .c-checkout-dialog-container {
+            max-height: calc(98vh - 200px);
+        }
+    }
+</style>
+    
+
+</head>
+<body id="body" class="static-hub-page">
+	
+
+<header id="hdr-main">
+    
+<div id="hdr-super">
+    <div class="l-hdr-super-col">
+        <div class="c-podcast-player">
+            
+            <div id="ucHeader_ucHdrSuper_pnlSuperHdrSubscribe">
+	<!-- 1 - Standalone Button -->
+<button class='btn-subscribe-now ctoa-button'>
+   <img src='/img/logos/insider-sm.png' class='ctoa-icon-sm'/> Subscribe Now
+</button>
+
+</div>
+        </div>
+    </div>
+    <div class="l-hdr-super-col">
+        <h1 id="masthead"><a href="/"><img srcset="/img/logos/dctf_rebrand.v1.png, /img/logos/dctf_rebrand@2.v1.png 2x" src="/img/logos/dctf_rebrand.v1.png" width="248" height="64" alt="Dave Campbell's Texas Football" /></a></h1>
+    </div>
+    <div class="l-hdr-super-col">
+        <nav id="hdr-super-nav">
+            <a href="https://instagram.com/davecampbells/" target="_blank" rel="noopener"><img src="/img/icons/instagram.v1.svg" width="18" height="18" alt="Follow us on Instagram" /></a>
+            <a href="https://twitter.com/dctf" target="_blank" rel="noopener"><img src="/img/icons/twitter.v1.svg" width="22" height="18" alt="Follow us on Twitter" /></a>
+            <a href="https://www.facebook.com/davecampbells" target="_blank" rel="noopener"><img src="/img/icons/facebook-f.v1.svg" width="9" height="18" alt="Like us on Facebook" /></a>
+            <div id="hdr-search-wrapper" class="c-input-wrapper">
+                <input type="text" id="tb-hdr-search" placeholder="Search" />
+                <span class="c-input-icon end">
+                    <i id="c-hdr-se

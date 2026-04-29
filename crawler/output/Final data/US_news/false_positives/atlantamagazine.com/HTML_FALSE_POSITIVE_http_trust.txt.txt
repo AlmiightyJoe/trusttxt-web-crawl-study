@@ -1,0 +1,34 @@
+<!doctype html >
+<!--[if IE 8]><html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]><html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html lang="en-US"> <!--<![endif]--><head><title>Atlanta Magazine</title><meta charset="UTF-8" /><meta http-equiv="x-dns-prefetch-control" content="on"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="pingback" href="https://www.atlantamagazine.com/xmlrpc.php" /> <script type="text/javascript">var heateorFfcpAjaxUrl = 'https://www.atlantamagazine.com/wp-admin/admin-ajax.php', heateorFfcpWebsiteUrl = 'https://www.atlantamagazine.com';</script> <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /><link rel="icon" type="image/png" href="//cdn2.atlantamagazine.com/wp-content/uploads/sites/4/2018/06/atl_favicon_16x16.jpg"><meta property="og:locale" content="en_US" /><meta property="og:type" content="website" /><meta property="og:site_name" content="Atlanta Magazine" /><meta name="twitter:card" content="summary_large_image" /> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.atlantamagazine.com/#website","url":"https://www.atlantamagazine.com/","name":"Atlanta Magazine","description":"Atlanta Magazine is the authority on Atlanta, providing a mix of long-form nonfiction, lively lifestyle coverage, in-depth service journalism, and literary essays, columns, and profiles.","potentialAction":[{"@type":"SearchAction","target":"https://www.atlantamagazine.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"#webpage","url":"","name":"","isPartOf":{"@id":"https://www.atlantamagazine.com/#website"},"breadcrumb":{"@id":"#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":[""]}]},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.atlantamagazine.com/","url":"https://www.atlantamagazine.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"","url":"","name":""}}]}]}</script> <link rel='dns-prefetch' href='//platform-api.sharethis.com' /><link rel='dns-prefetch' href='//cdn.broadstreetads.com' /><link rel='dns-prefetch' href='//www.google.com' /><link rel='dns-prefetch' href='//fonts.googleapis.com' /><link rel='dns-prefetch' href='//s.w.org' /><link rel="alternate" type="application/rss+xml" title="Atlanta Magazine &raquo; Feed" href="https://www.atlantamagazine.com/feed/" /><link rel="alternate" type="text/calendar" title="Atlanta Magazine &raquo; iCal Feed" href="https://www.atlantamagazine.com/events/?ical=1" /> <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/cdn2.atlantamagazine.com\/wp-includes\/js\/wp-emoji.js?ver=5.8.1","twemoji":"https:\/\/cdn2.atlantamagazine.com\/wp-includes\/js\/twemoji.js?ver=5.8.1"}};
+			/**
+ * @output wp-includes/js/wp-emoji-loader.js
+ */
+
+( function( window, document, settings ) {
+	var src, ready, ii, tests;
+
+	// Create a canvas element for testing native browser support of emoji.
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
+
+	/**
+	 * Checks if two sets of Emoji characters render the same visually.
+	 *
+	 * @since 4.9.0
+	 *
+	 * @private
+	 *
+	 * @param {number[]} set1 Set of Emoji character codes.
+	 * @param {number[]} set2 Set of Emoji character codes.
+	 *
+	 * @return {boolean} True if the two sets render the same.
+	 */
+	function emojiSetsRenderIdentically( set1, set2 ) {
+		var stringFromCharCode = String.fromCharCode;
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+		context.fillText( stringFromCharCode.apply( this, set1 ), 0, 0 );
+		var rend

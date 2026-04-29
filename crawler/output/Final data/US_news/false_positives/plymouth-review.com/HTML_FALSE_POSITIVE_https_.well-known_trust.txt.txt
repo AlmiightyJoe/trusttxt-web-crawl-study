@@ -1,0 +1,44 @@
+
+<!doctype html>
+
+  <head>
+    <meta charset="utf-8">
+
+    
+
+        <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+	    	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+		<!-- All in One SEO 4.7.9 - aioseo.com -->
+		<title>Plymouth Review</title>
+	<meta name="robots" content="max-image-preview:large" />
+	<link rel="canonical" href="https://www.plymouth-review.com/" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.7.9" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="Plymouth Review -" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Plymouth Review" />
+		<meta property="og:url" content="https://www.plymouth-review.com/" />
+		<meta property="og:image" content="https://www.plymouth-review.com/wp-content/uploads/2019/03/plymouth_default.png" />
+		<meta property="og:image:secure_url" content="https://www.plymouth-review.com/wp-content/uploads/2019/03/plymouth_default.png" />
+		<meta property="og:image:width" content="600" />
+		<meta property="og:image:height" content="400" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Plymouth Review" />
+		<meta name="twitter:image" content="https://www.plymouth-review.com/wp-content/uploads/2019/03/plymouth_default.png" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.plymouth-review.com\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.plymouth-review.com\/#listItem","position":1,"name":"Home"}]},{"@type":"Organization","@id":"https:\/\/www.plymouth-review.com\/#organization","name":"Plymouth Review","url":"https:\/\/www.plymouth-review.com\/"},{"@type":"WebPage","@id":"https:\/\/www.plymouth-review.com\/#webpage","url":"https:\/\/www.plymouth-review.com\/","name":"Plymouth Review","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.plymouth-review.com\/#website"},"breadcrumb":{"@id":"https:\/\/www.plymouth-review.com\/#breadcrumblist"},"datePublished":"2018-08-21T18:15:03-04:00","dateModified":"2018-08-21T18:15:03-04:00"},{"@type":"WebSite","@id":"https:\/\/www.plymouth-review.com\/#website","url":"https:\/\/www.plymouth-review.com\/","name":"Plymouth Review","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.plymouth-review.com\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.plymouth-review.com\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//dutks0b58iw6s.cloudfront.net' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='stylesheet' id='mp-theme-css' href='https://dutks0b58iw6s.cloudfront.net/memberpress/css/ui/theme.css?ver=1.11.37' type='text/css' media='all' />
+<link rel='stylesheet' id='ayecode-ui-css' href='https://www.plymouth-review.com/wp-content/plugins/geodirectory/vendor/ayecode/wp-ayecode-ui/assets/css/ayecode-ui.css?ver=0.2.32' type='text/css' media='all' />
+<style id='ayecode-ui-inline-css' type='text/css'>
+.btn-outline-primary,.btn-link.btn-primary,a,.btn-link,.page-link{color:#1862a3}.text-primary{color:#1862a3!important}.btn-primary,.btn-primary.disabled,.btn-primary:disabled,.btn-outline-primary:hover,.btn-outline-primary:not(:disabled):not(.disabled).active,.btn-outline-primary:not(:disabled):not(.disabled):active,.show>.btn-outline-primary.dropdown-toggle,.badge-primary,.alert-primary,.bg-primary,.dropdown-item.active,.custom-control-input:checked~.custom-control-label::before,.custom-checkbox .custom-control-input:indeterminate~.custom-control-label::before,.nav-pills .nav-link.active,.nav-pills .show>.nav-lin

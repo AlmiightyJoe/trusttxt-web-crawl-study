@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    
+<script type="text/javascript">
+window.__cmpConfig = {
+ customUI: {
+ language: 'ro',
+
+ // websiteName: '',
+ // stylesLocation: '',
+ // title: '',
+ // logoLocation: '',
+ // titleLink: '',
+ strings: {
+    "MAIN": {
+    "BUTTON_SETTINGS": "Afla mai multe detalii",
+    "BUTTON_OK": "OK",
+    "BUTTON_BACK": "Inapoi",
+ },
+ "WELCOME": {
+ "HEADER": "Draga utilizator",
+ "INTRODUCTION": "Website-ul nostru si partenerii nostri setam cookie-uri si colectam informatii din browser-ul tau pentru a-ti putea afisa continutul site-ului, pentru a putea livra reclame relevante si pentru a intelege audienta online",
+    "MAIN_PART":"Folosim cookie-uri pe site-ul nostru pentru a putea colecta si folosi date ce ne ajuta sa personalizam continutul si reclamele afisate, pentru a oferi utilizatorului functionalitati integrate cu platformele social media si pentru a analiza traficul pe site. Impartasim informatiile privind modul in care utilizatorii folosesc site-ul cu partenerii nostri care utilizeaza de asemenea tehnologii online, precum cookies, pentru a colecta si folosi date personale pentru a personaliza continutul si reclamele afisate, pentru a oferi utilizatorilor functionalitati integrate cu platformele social media si pentru a analiza traficul pe site si pe intreg internetul. Verifica aici informatii despre partenerii nostri si modul in care folosesc datele. Poti oricand sa te razgandesti si sa iti revizuiesti alegerea."
+},
+ "SETTINGS": {
+    "BUTTONS": {
+    "REJECT": "Respinge tot",
+    "ACCEPT": "Accepta tot"
+    },
+    "DESCRIPTION": "Verifica aici informatii despre partenerii nostri si modul in care folosesc datele. Poti oricand sa te razgandesti si sa iti revizuiesti alegerea.",
+    "TAB": {
+    "PURPOSES": "Ai autorizat",
+    "VENDORS": "Partenerii nostri"
+    },
+  "PURPOSE_NAMES": {
+    "1": "Informatii despre stocare si acces",
+    "2": "Personalizare",
+    "3": "Selectarea reclamelor, livrare, raportare",
+    "4": "Selectarea continutului, livrare, raportare",
+    "5": "Masurare"
+ },
+ }
+ } //Configuration example in section "Customization of displayed
+ },
+ logging: 'info',
+ gdprApplies: true, //true if appliesGlobbaly=false
+ appliesGlobally: true, //true if consent has to be collected from all users
+ allowedVendors: null,
+ allowedPurposes: null,
+ cookiePerSubDomain: true,
+ minRetryTime: (60 * 60 * 24 * 30),
+ forceUI: false,
+ use1stPartyCookieAsFallback: true,
+ useOnly1stPartyCookie: false
+};
+</script>
+<script defer  src="https://cmp.gemius.com/cmp/v2/stub.js"></script>
+<script defer  src="https://cmp.gemius.com/cmp/v2/cmp.js"></script>
+
+    <meta charset="utf-8">
+    <meta name="theme-color" content="blue">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="title" content="PRO TV Chisinau | Stiri din Moldova">
+    <meta name="description" content="Tot ce se intampla in Moldova – politic, eveniment, povesti de viata, live, vedete">
+    <title>PRO TV Chisinau | Stiri din Moldova </title>
+    <meta property="og:site_name" content="Pro TV" />
+    <meta property="fb:app_id" content="200684882149" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="" />
+    <meta property="og:title" content="PRO TV Chisinau | Stiri din Moldova" />
+    <meta property="og:description" content="PRO TV Chisinau | Stiri din Moldova" />
+    <meta property="og:image" content="undefined" />
+    <meta name="robots" content="all"/>    <meta property="article:section" content="undefined" />
+    <link rel="image_src" href="undefined" />
+    <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" href="/img/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <style data-styled="gLMDFx hZlych gTeIMR hwbHWp hYBUln eIsyVe" data-styled-version="4.4.1">
+/* sc-component-id: Sea

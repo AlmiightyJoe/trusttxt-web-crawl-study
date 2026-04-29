@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  
+  
+  
+  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/ca2faea15ded0fde1044e11e7/82e5b4513028ce970c5a513b7.js");</script>
+  
+  
+  
+  
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	
+	<meta name="generator" content="Mura CMS 7.0">
+
+	<title>Home - Durango Telegraph</title>
+  <meta name="google-site-verification" content="VFANV0hq0Ie9dNjM9N49b8RnYj68KsIcBodtt-uRXo8" />
+	
+	<link rel="stylesheet" href="/tele/css/mura.7.0.min.css">
+	
+	<link rel="stylesheet" href="/tele/includes/themes/telegraph/css/mura.7.0.skin.css">
+
+	
+	<link rel="stylesheet" href="/tele/includes/themes/telegraph/assets/bootstrap/css/bootstrap.min.css">
+
+	
+	<link rel="stylesheet" href="/tele/includes/themes/telegraph/assets/font-awesome/css/font-awesome.min.css">
+
+	
+    <link href='https://fonts.googleapis.com/css?family=Lustria' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="/tele/includes/themes/telegraph/css/theme/theme.css">
+
+	<!--[if IE]>
+	<link rel="stylesheet" href="/tele/includes/themes/telegraph/css/ie/ie.min.css">
+	<![endif]-->
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="/tele/includes/themes/telegraph/js/html5shiv/html5shiv.js"></script>
+	<script src="/tele/includes/themes/telegraph/js/respond/respond.min.js"></script>
+	<![endif]-->
+
+	
+	<script src="/tele/js/external/jquery.min.js"></script>
+
+	
+	<link rel="shortcut icon" href="/tele/includes/themes/telegraph/images/favicon.ico">
+	
+
+	
+	
+
+  
+
+
+  
+
+  
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PFQ6GCD');</script>
+<!-- End Google Tag Manager -->
+  
+  
+
+  
+<!--THIS IS YOUR GOOGLE ANALYTICS TRACKING CODE-->
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-54628727-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl': 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+var a = document.getElementsByTagName('a');
+for(i = 0; i < a.length; i++){
+if (a[i].href.indexOf(location.host) == -1 && a[i].href.match('/^http:///i')){
+a[i].onclick = function(){
+_gaq.push(['_trackEvent', 'outgoing_links', this.href.replace('/^http:///i', '')]);
+}
+}
+}
+</script>
+
+<!--END RECORD OUTBOUND LINKS CODE-->
+
+  
+  
+  
+  
+  <script src="https://js.stripe.com/v3/"></script>
+  
+  
+
+
+<script type="text/javascript" src="/tele/js/dist/mura.min.js?v=6927"></script>
+<script>
+Mura.init({
+	loginURL:"?display=login",
+	siteid:"tele",
+	contentid:"00000000000000000000000000000000001",
+	contenthistid:"DCF4DFD0-F203-2198-8E9DC77CF12BF04F",
+	parentid:"00000000000000000000000000000000END",
+	context:"",
+	nocache:0,
+	assetpath:"/tele",
+	requirementspath:"/requirements",
+	themepath:"/tele/includes/themes/telegraph",
+	rb:"en",
+	reCAPTCHALanguage:"en",
+	preloaderMarkup: "\x3Ci\x20class\x3D\x22mura\x2Dpreloader\x20fa\x20fa\x2Drefresh\x20fa\x2Dspin\x22\x3E\x3C\x2Fi\x3E",
+	mobileformat: false,
+	windowdocumentdomain: "",
+	layoutmanager:true,
+	type:"Page",
+	subtype:"home",
+	queueObjects: true,
+	dtExample:"11/314/2018",

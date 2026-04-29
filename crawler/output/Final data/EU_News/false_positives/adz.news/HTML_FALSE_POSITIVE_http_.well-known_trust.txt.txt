@@ -1,0 +1,76 @@
+<!doctype html>
+    <!--[if lt IE 7 ]> <html lang="en-us" class="no-js ie6"> <![endif]-->
+    <!--[if IE 7 ]>    <html lang="en-us" class="no-js ie7"> <![endif]-->
+    <!--[if IE 8 ]>    <html lang="en-us" class="no-js ie8"> <![endif]-->
+    <!--[if IE 9 ]>    <html lang="en-us" class="no-js ie9"> <![endif]-->
+    <!--[if (gt IE 9)|!(IE)]><!-->
+<html class="no-js" lang="de"> <!--<![endif]-->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<base href="https://adz.news/">
+
+
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="twitter:card" content="summary" />
+
+
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/news/Resources/Public/Css/news-basic.css?1583330601" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3temp/assets/css/12670f28bb.css?1631795470" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/powermail/Resources/Public/Css/Basic.css?1571669462" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/cookie_data_privacy/Resources/Public/css/cookieconsent.min.css?1544607900" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/cookie_data_privacy/Resources/Public/css/common.css?1544607900" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/ns_news_comments/Resources/Public/css/style.css?1564474345" media="all">
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/ns_news_comments/Resources/Public/css/font-awesome.min.css?1564474345" media="all">
+
+
+
+
+<script src="/typo3conf/ext/cookie_data_privacy/Resources/Public/js/cookieconsent.min.js?1544607900" type="text/javascript"></script>
+<script src="/typo3conf/ext/ns_news_comments/Resources/Public/js/jquery-2.2.4.min.js?1564474345" type="text/javascript"></script>
+
+
+
+<title>ADZ-Online - Startseite</title>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+	
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="google-site-verification" content="_8OakYiJmCVak8GqXLaUig9-8nG2BB8jg2IDhfJNdR0" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="shortcut icon" href="/favicon.ico">
+	<link rel="stylesheet" href="/fileadmin/templates/main/css/style.css?v=2">
+	<link rel="stylesheet" href="/fileadmin/templates/main/css/slightbox.css" type="text/css" media="screen,projection" />	
+	<link rel="stylesheet" media="handheld" href="/fileadmin/templates/main/css/handheld.css?v=2">
+  	<link rel="stylesheet" href="/fileadmin/templates/main/css/fontawesome.min.css" type="text/css">
+	<link rel="stylesheet" href="/fileadmin/templates/main/css/tablet.css" type="text/css">
+    <link rel="stylesheet" href="/fileadmin/templates/main/css/mobile.css" type="text/css">
+  	<link rel="stylesheet" href="/fileadmin/templates/main/css/google_search.css" type="text/css">
+	
+
+	<script src="/fileadmin/templates/main/js/libs/modernizr-1.7.min.js"></script>
+  	<script async src="https://cse.google.com/cse.js?cx=ee2429833f3608335"></script>
+
+<link rel="canonical" href="https://adz.news/startseite"/>
+
+
+
+</head>
+<body id="p7" class="no-sidebar no-print no-metalinks">
+
+	
+  <div id="container">
+    <header class="clearfix">
+      <div class="topmenu">
+        <ul>
+	  <li><a href="/shortcuts/ueber-uns">Über uns</a></li><li><a href="/shortcuts/suche">Suche</a></li><li class="has-second-level"><a href="/shortcuts/abos">Abos</a></li><li><a href="/shortcuts/anzeigen">Anzeigen</a></li><li><a href="/shortcuts/jobs">Jobs</a></li><li><a href="/shortcuts/links">Links</a></li><li><a href="/shortcuts/rss-feed">Rss-Feed</a></li><li><a href="/shortcuts/impressum">Impressum</a></li><li class="last"><a href=

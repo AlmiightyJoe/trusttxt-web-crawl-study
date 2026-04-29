@@ -1,0 +1,43 @@
+
+<!doctype html>
+
+  <head>
+    <meta charset="utf-8">
+
+    
+
+        <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+	    	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+		<!-- All in One SEO 4.7.9 - aioseo.com -->
+		<title>Early County News</title>
+	<meta name="robots" content="max-image-preview:large" />
+	<link rel="canonical" href="https://www.earlycountynews.com/" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.7.9" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="Early County News -" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Early County News" />
+		<meta property="og:url" content="https://www.earlycountynews.com/" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Early County News" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.earlycountynews.com\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.earlycountynews.com\/#listItem","position":1,"name":"Home"}]},{"@type":"Organization","@id":"https:\/\/www.earlycountynews.com\/#organization","name":"Early County News","url":"https:\/\/www.earlycountynews.com\/"},{"@type":"WebPage","@id":"https:\/\/www.earlycountynews.com\/#webpage","url":"https:\/\/www.earlycountynews.com\/","name":"Early County News","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.earlycountynews.com\/#website"},"breadcrumb":{"@id":"https:\/\/www.earlycountynews.com\/#breadcrumblist"},"datePublished":"2018-11-18T21:46:08-05:00","dateModified":"2018-11-18T21:46:08-05:00"},{"@type":"WebSite","@id":"https:\/\/www.earlycountynews.com\/#website","url":"https:\/\/www.earlycountynews.com\/","name":"Early County News","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.earlycountynews.com\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.earlycountynews.com\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//dutks0b58iw6s.cloudfront.net' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.earlycountynews.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='oht-weather-header-block-style-css' href='https://dutks0b58iw6s.cloudfront.net/oht_weather/src/blocks/weather-header-block/style.css?ver=1.0.0' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: 

@@ -1,0 +1,23 @@
+# Pittsburgh City Paper trust.txt file
+# For more information visit JournalList.net
+
+
+# memberships
+belongto=https://aan.org/
+
+
+# social channels
+social=https://www.facebook.com/PittsburghCityPaper/
+social=https://www.instagram.com/pghcitypaper/
+social=https://bsky.app/profile/pghcitypaper.com
+social=https://www.youtube.com/@pghcitypaper/featured
+social=https://www.threads.com/@pghcitypaper
+social=https://www.linkedin.com/company/pittsburgh-city-paper/
+
+# vendors
+vendor=https://publishwithfoundation.com/
+vendor=https://newspack.com
+
+# contact
+contact=RWinner@pghcitypaper.com
+contact=https://www.pghcitypaper.com/pittsburgh-ContactUs-Page

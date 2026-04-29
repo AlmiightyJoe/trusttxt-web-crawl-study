@@ -1,0 +1,31 @@
+    <!doctype html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="profile" href="https://gmpg.org/xfn/11">
+
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.1.1 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Columbus Post</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Lato%3A400%2C300%2C400italic%2C900%2C700%7CRoboto%3A100%2C300%2C400%2C500%2C700&#038;subset=latin%2Clatin-ext&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato%3A400%2C300%2C400italic%2C900%2C700%7CRoboto%3A100%2C300%2C400%2C500%2C700&#038;subset=latin%2Clatin-ext&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato%3A400%2C300%2C400italic%2C900%2C700%7CRoboto%3A100%2C300%2C400%2C500%2C700&#038;subset=latin%2Clatin-ext&#038;display=swap" /></noscript>
+	<meta name="description" content="Breaking news and world news from Columbus Post on Business, Sports, Culture. Video news. News from the US, Europe, Asia Pacific, Africa, Middle East, America." />
+	<link rel="canonical" href="https://columbuspost.com/" />
+	<link rel="next" href="https://columbuspost.com/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Columbus Post" />
+	<meta property="og:description" content="Breaking news and world news from Columbus Post on Business, Sports, Culture. Video news. News from the US, Europe, Asia Pacific, Africa, Middle East, America." />
+	<meta property="og:url" content="https://columbuspost.com/" />
+	<meta property="og:site_name" content="Columbus Post" />
+	<meta property="og:image" content="https://columbuspost.com/wp-content/uploads/2021/10/Columbus-Post-Logo.png" />
+	<meta property="og:image:width" content="338" />
+	<meta property="og:image:height" content="196" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://columbuspost.com/","url":"https://columbuspost.com/","name":"Columbus Post","isPartOf":{"@id":"https://columbuspost.com/#website"},"about":{"@id":"https://columbuspost.com/#organization"},"description":"Breaking news and world news from Columbus Post on Business, Sports, Culture. Video news. News from the US, Europe, Asia Pacific, Africa, Middle East, America.","breadcrumb":{"@id":"https://columbuspost.com/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://columbuspost.com/#breadcrumb","itemListElement":[]},{"@type":"WebSite","@id":"https://columbuspost.com/#website","url":"https://columbuspost.com/","name":"Columbus Post","description":"Complete News World","publisher":{"@id":"https://columbuspost.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://columbuspost.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://columbuspost.com/#organization","name":"Columbus Post","url":"https://columbuspost.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://columbuspost.com/#/schema/logo/image/","url":"https://columbuspost.com/wp-content/uploads/2021/10/Columbus-Post-Logo.png","contentUrl":"https://columbuspost.com/wp-content/uploads/2021/10/Columbus-Post-Logo.png","width":338,"height":196,"caption":"Columbus Post"},"image":{"@id":"https://columbuspost.com/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://

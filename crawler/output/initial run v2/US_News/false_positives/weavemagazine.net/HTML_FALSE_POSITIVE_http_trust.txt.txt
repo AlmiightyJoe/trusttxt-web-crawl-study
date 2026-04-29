@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html class='v2' dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/335934321-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='rQJrpfSbBtyrOwqdjhmIpLpdvMEVFN7Hy-KThaGhT74' name='google-site-verification'/>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://www.weavemagazine.net/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://www.weavemagazine.net/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Weave Magazine - Atom" href="http://www.weavemagazine.net/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Weave Magazine - RSS" href="http://www.weavemagazine.net/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Weave Magazine - Atom" href="https://www.blogger.com/feeds/6253474390438682631/posts/default" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='http://www.weavemagazine.net/' property='og:url'/>
+<meta content='Weave Magazine' property='og:title'/>
+<meta content='Writing. Art. Diversity. Community.' property='og:description'/>
+<title>Weave Magazine</title>
+<style type='text/css'>@font-face{font-family:'Crimson Text';font-style:italic;font-weight:400;font-display:swap;src:url(//fonts.gstatic.com/s/crimsontext/v19/wlpogwHKFkZgtmSR3NB0oRJfajhRK_M.ttf)format('truetype');}@font-face{font-family:'Crimson Text';font-style:normal;font-weight:400;font-display:swap;src:url(//fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJfbwhW.ttf)format('truetype');}</style>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Awesome Inc.
+Designer: Tina Chen
+URL:      tinachen.org
+----------------------------------------------- */
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #333333;
+background: #f6fcf5 none repeat scroll top left;
+}
+html body .content-outer {
+min-width: 0;
+max-width: 100%;
+width: 100%;
+}
+a:link {
+text-decoration: none;
+color: #d5cc29;
+}
+a:visited {
+text-decoration: none;
+color: #7d7717;
+}
+a:hover {
+text-decoration: underline;
+color: #d5cc29;
+}
+.body-fauxcolumn-outer .cap-top {
+position: absolute;
+z-index: 1;
+height: 276px;
+width: 100%;
+background: transparent none repeat-x scroll top left;
+_background-image: none;
+}
+/* Columns
+----------------------------------------------- */
+.content-inner {
+padding: 0;
+}
+.header-inner .section {
+margin: 0 16px;
+}
+.tabs-inner .section {
+margin: 0 16px;
+}
+.main-inner {
+padding-top: 30px;
+}
+.main-inner .column-center-inner,
+.main-inner .column-left-inner,
+.main-inner .column-right-inner {
+padding: 0 5px;
+}
+*+html body .main-inner .column-center-inner {
+margin-top: -30px;
+}
+#layout .main-inner .column-center-inner {
+margin-top: 0;
+}
+/* Header
+----------------------------------------------- */
+.header-outer {
+margin: 0 0 0 0;
+background: transparent none repeat scroll 0 0;
+}
+.Header h1 {
+font: normal normal 60px Crimson Text;
+color: #333333;
+text-shadow: 0 0 -1px #000000;
+}
+.Header h1 a {
+color: #333333;
+}
+.Header .description {
+font: italic normal 20px Crimson Text;
+color: #6d906a;
+}
+.header-inner .Header .titlewrapper,
+.header-inner .Header .descriptionwrapper {
+padding-left: 0;
+padding-right: 0;
+margin-bottom: 0;
+}
+.header-inner .Header .titlewrapper {
+padding-top: 22px;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-outer {
+overflow: hidden;
+position: relative;
+background: #88ca9e url(http://www.blogblog.com/1kt/awesomeinc/tabs_gradient_light.png) repeat scroll 0 0;
+}
+#layout .tabs-outer {
+overflow: visible;
+}
+.tabs-cap-top, .tabs-cap-bottom {
+position: absolute;
+width: 100%;
+border-t

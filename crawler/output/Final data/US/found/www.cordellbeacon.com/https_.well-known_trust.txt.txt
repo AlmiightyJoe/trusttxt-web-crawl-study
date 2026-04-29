@@ -1,0 +1,26 @@
+# Cordell Beacon | Washita County's home newspaper since 1897 trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# Cordell Beacon | Washita County's home newspaper since 1897 belongs to the following organizations
+#
+belongto=https://www.okpress.com/
+belongto=https://www.nna.org/
+#
+# Cordell Beacon | Washita County's home newspaper since 1897 social networks
+#
+social=https://www.facebook.com/cordellnews
+#
+# Cordell Beacon | Washita County's home newspaper since 1897 vendors
+#
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net
+#
+# Cordell Beacon | Washita County's home newspaper since 1897 contact info
+#
+contact=https://www.cordellbeacon.com/contact
+#
+# © 2022 Cordell Beacon

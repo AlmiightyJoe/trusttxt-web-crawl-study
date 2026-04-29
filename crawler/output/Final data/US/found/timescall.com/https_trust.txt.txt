@@ -1,0 +1,6 @@
+# trust.txt for timescall.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-12 19:51:13 MDT
+
+contact=https://www.timescall.com/contact-us/
+datatrainingallowed=no

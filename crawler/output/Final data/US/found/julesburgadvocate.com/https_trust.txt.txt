@@ -1,0 +1,6 @@
+# trust.txt for julesburgadvocate.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-13 10:00:29 MDT
+
+contact=https://www.julesburgadvocate.com/contact-us/
+datatrainingallowed=no

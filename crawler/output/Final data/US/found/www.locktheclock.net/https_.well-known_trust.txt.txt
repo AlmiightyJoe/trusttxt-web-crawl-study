@@ -1,0 +1,21 @@
+# Scott Yates trust.txt file added with plugin created by the awesome team at rtCamp.com
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA&#039;s list of registered Well-Known URIs
+#
+#Memberships:
+belongto=https://journallist.net/
+
+#Social
+social=https://www.linkedin.com/in/scottyates/
+social=https://www.discord.com/users/scodtt
+social=https://www.reddit.com/user/scodtt/
+social=https://twitter.com/scodtt
+social=https://x.com/scodtt
+social=https://twitter.com/lock_the_clock
+social=https://x.com/lock_the_clock
+
+#AI disclosure
+datatrainingallowed=no

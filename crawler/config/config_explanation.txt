@@ -1,0 +1,5 @@
+max_domains = 0 (unlimited crawl)
+
+global_delay_seconds: - Controls request rate to avoid server overload
+
+http_fallback: - Retries over HTTP if HTTPS fails

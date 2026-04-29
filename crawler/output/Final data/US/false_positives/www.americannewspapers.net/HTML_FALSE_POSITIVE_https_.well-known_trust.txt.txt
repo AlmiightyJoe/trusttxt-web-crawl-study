@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="id">
+<head>
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1">
+    <meta charset="utf-8">
+    <title>IdnGoal | Situs Taruhan Online Terakurat 2024 | Idn Goal</title>
+    <meta name="keywords" content="idngoal, link idngoal, idngoal login, link alternatif idngoal, slot idngoal">
+    <meta name="description" content="IdnGoal sebagai situs taruhan online terakurat 2024 dengan berbagai bonus dan promosi menarik yang diberikan pemain, Login sekarang di Idn Goal.">
+    <meta name="og:locale" content="ID_id">
+    <meta name="og:type" content="website">
+    <meta name="rating" content="general">
+    <meta name="author" content="idngoal">
+    <meta name="distribution" content="global">
+    <meta name="publisher" content="idngoal">
+    <link rel="shortcut icon" href="asset/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="https://americannewspapers.net/">
+    <link rel="amphtml" href="https://ampterusan.org/amp2/idngoal/" />
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js" crossorigin="anonymous"></script>
+    
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    
+    
+    <style amp-custom>
+        body{
+            background: rgb(3 7 18);
+            font-family: Arial, Helvetica, sans-serif;
+            color: #fff;
+        }
+        img{
+            width: 100%;
+            object-fit: contain;
+        }
+        .container{
+            margin: auto;
+            max-width: 800px;
+            background: rgb(31 41 55);
+            padding: 10px;
+            box-shadow: rgb(255 255 255 / 35%) 0px 5px 15px;
+        }
+        .logo{
+            display: flex;
+            justify-content: center;
+        }
+        .logo img{
+            max-width: 300px;
+        }
+        .mainbtn{
+            display: flex;
+            justify-content: space-evenly;
+            margin: 10px;
+        }
+        .login{
+            background:linear-gradient(0deg,#1872cc 26%,#44b7e9 100%);
+            border-radius: 10px;
+            font-size: 20px;
+            font-weight: bold;
+            padding: 15px 50px;
+            text-decoration: none;
+            text-transform: uppercase;
+            color: #fff;
+        }
+        .regis{
+            background:linear-gradient(180deg,#34bd07 33%,#227407 100%);
+            border-radius: 10px;
+            font-size: 20px;
+            font-weight: bold;
+            padding: 15px 50px;
+            text-decoration: none;
+            text-transform: uppercase;
+            color: #fff;
+        }
+        .conte h1, .conte h2, .conte p{
+            text-align: center;
+        }
+        .conte h1{
+            text-transform:uppercase;
+        }
+        .conte p{
+            margin-top: 0;
+        }
+        .paymeth {
+            display: flex;
+        }
+        .paymeth-list {
+            width: calc(25% - 2px);
+            margin: 2px;
+            background: rgb(15 23 42);
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            height: 50px;
+        }
+        .paymeth-list img {
+            width: 60px;
+            object-fit: contain;
+        }
+        .lastsec .paymeth-list:last-of-type {
+            width: calc(50% - 2px);
+        }
+        .copir{
+            text-align: center;
+        }
+        @media screen and (max-width:1100px) {
+            html{
+                overflow: auto;
+            }
+        }
+    </style>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visibl

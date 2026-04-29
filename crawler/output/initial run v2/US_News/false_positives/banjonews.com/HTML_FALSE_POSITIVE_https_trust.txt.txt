@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="en">
+<head><title>Banjo Newsletter</title><meta charset="utf-8">
+<meta name="description" content="A monthly magazine devoted to the 5 string banjo. Banjo tabs for beginners and enthusiasts, interviews, articles, and much more. We cover both three-finger and clawhammer styles." />
+<meta name="google-site-verification" content="tZ8inVtUI8qQSTvpuXVlZxAtE9gQy2N5q0uhJGjqE0A">
+<meta itemprop="name" content="Banjo Newsletter" id="itemprop">
+<link rel="stylesheet" href="//s3.us-east-1.amazonaws.com/html.banjonews/css/screen.css" media="Screen"><link rel="stylesheet" href="//s3.us-east-1.amazonaws.com/html.banjonews/css/print.css" media="print">
+<link rel="shortcut icon" href="//s3.us-east-1.amazonaws.com/images.banjonews/favicon.ico">
+<script src="//ajax.googleapis.com/ajax/libs/mootools/1.4.5/mootools-yui-compressed.js"></script>
+<script src="//s3.us-east-1.amazonaws.com/html.banjonews/js/uri.js"></script>
+<script async defer src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async defer src="//connect.facebook.net/en_US/all.js#xfbml=1" charset="utf-8"></script>
+<script src="https://s3.us-east-1.amazonaws.com/html.banjonews/js/jukebox.js"></script>
+<script src="https://checkout.stripe.com/checkout.js"></script>
+<script>var archive_regex = new RegExp('\/([0-9]{4}-[0-9]{2})\/');
+var stylechoice="allstyles",larger,teasercount,teasecnt;
+var masterpages={
+'':4493, 'index.html':4493,'advertise.html':11,'subscribe.html':1,'reset.html':1667, 'account.html':1668,'faq.html':1669,'whats_new_on_banjonews.html':1961,'free_articles_for_non-subscribers.html':2399,
+'404.html':24,'aboutbnl.html':12,'contactbnl.html':9,'site-map.html':1670,'site-usage.html':1733,'editors-picks.html':1734, 'unsubscribe.html': 1990,
+'funnies.html':19,'contributors.html':14,'classifieds.html':1597,'store.html':8,
+'htrt01.html':26,'htrt02.html':27, 'htrt03.html':28, 'htrt04.html':29,'htrt05.html':30, 'htrt06.html':31, 'htrt07.html':32, 'htrt08.html':33,'htrt09.html':34, 'htrt10.html':35, 'htrt11.html':36, 'htrt12.html':37,
+'htrt13.html':38,'htrt14.html':39, 'htrt15.html':40, 'banjotab.html':42,'archives.html':46,'contentsindex.html':1533,'october_2012_sample_issue.html':1691,
+'tabindex.html':710,'TAB_A1.html':686,'TAB_B1.html':687,'TAB_C1.html':688,'TAB_D1.html':689,'TAB_E1.html':690,'TAB_F1.html':691,'TAB_G1.html':692,'TAB_H1.html':693,'TAB_I1.html':694, 'TAB_J1.html': 695, 'TAB_K1.html': 696, 'TAB_L1.html': 697, 'TAB_M1.html': 698, 'TAB_N1.html': 699, 'TAB_O1.html': 700, 'TAB_P1.html': 701, 'TAB_Q1.html': 702, 'TAB_R1.html': 703, 'TAB_S1.html': 704, 'TAB_T1.html': 705, 'TAB_U1.html': 706, 'TAB_V1.html': 707, 'TAB_W1.html': 708, 'TAB_Y1.html': 709, 
+'Indx73_1973.html':1534,'Indx73_1974.html':1535,'Indx73_1975.html':1536,'Indx73_1976.html':1539,'Indx78_1977.html':1540,'Indx78_1978.html':1541, 'Indx78_1979.html':1542, 'Indx78_1980.html': 1543,
+'Indx82_1981.html':1544,'Indx82_1982.html':1545,'Indx82_1983.html':1546,'Indx82_1984.html':1547,'Indx86_1985.html':1548,'Indx86_1986.html':1549, 'Indx86_1987.html':1550, 'Indx86_1988.html': 1551,
+'Indx90_1989.html':1552,'Indx90_1990.html':1553,'Indx90_1991.html':1554,'Indx90_1992.html':1555,'Indx90_1993.html':1556,'Indx90_1994.html':1557, 'Indx95_1995.html':1558, 'Indx95_1996.html': 1559, 'Indx96_1997.html':1560,'Indx96_1998.html':1561,'Indx96_1999.html':1562,'Indx97_2000.html':1563,'Indx98_2001.html':1564,'Indx99_2002.html':1565, 'Indx100_2003.html':1566, 'Indx101_2004.html': 1567, 
+'Indx102_2005.html':1568,'Indx103_2006.html':1569,'Indx104.html':1570, 'Indx105.html':1571,'Indx_Vol_37_2009.html':1572,'Indx_Vol_38_2010.html':1573, 'Indx_Vol_39_2011.html':1574, 'Indx_Vol_40_2012.html': 1575, 'Indx_Vol_41_2013.html': 1576
+}
+var edition=0;var current_song=0;var next_song=0;var next_mp3='';var next_ogg='';var jukeboxon=false;var showstuff=false;var jukeboxhistory=[];var cid=0;var bgcolor = '#666666';var shipcost = 0;
+var handler = StripeCheckout.configure({
+	key: 'pk_live_51OuLfNBwWAumtF2sNgPJ0MnT6unOpAcy

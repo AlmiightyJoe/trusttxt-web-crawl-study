@@ -1,0 +1,6 @@
+# trust.txt for pressdemocrat.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2026-03-15 06:52:00 PDT
+
+contact=https://www.pressdemocrat.com/contact-us/
+datatrainingallowed=no

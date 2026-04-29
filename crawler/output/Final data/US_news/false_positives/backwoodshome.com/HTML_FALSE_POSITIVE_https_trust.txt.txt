@@ -1,0 +1,31 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+    <title>Page Not Found - Backwoods Home Magazine</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://www.backwoodshome.com/bhm/xmlrpc.php" />
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v24.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://www.backwoodshome.com/errors/offer-expired/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Page Not Found - Backwoods Home Magazine" />
+	<meta property="og:url" content="https://www.backwoodshome.com/errors/offer-expired/" />
+	<meta property="og:site_name" content="Backwoods Home Magazine" />
+	<meta property="article:publisher" content="https://www.facebook.com/bhmag/" />
+	<meta property="article:modified_time" content="2019-06-24T01:36:35+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@backwoodshome" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.backwoodshome.com/errors/offer-expired/","url":"https://www.backwoodshome.com/errors/offer-expired/","name":"Page Not Found - Backwoods Home Magazine","isPartOf":{"@id":"https://www.backwoodshome.com/#website"},"datePublished":"2016-02-16T21:59:23+00:00","dateModified":"2019-06-24T01:36:35+00:00","breadcrumb":{"@id":"https://www.backwoodshome.com/errors/offer-expired/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.backwoodshome.com/errors/offer-expired/"]}]},{"@type":"BreadcrumbList","@id":"https://www.backwoodshome.com/errors/offer-expired/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.backwoodshome.com/"},{"@type":"ListItem","position":2,"name":"Errors","item":"https://www.backwoodshome.com/errors/"},{"@type":"ListItem","position":3,"name":"Page Not Found"}]},{"@type":"WebSite","@id":"https://www.backwoodshome.com/#website","url":"https://www.backwoodshome.com/","name":"Backwoods Home Magazine","description":"Practical ideas for self-reliant living","publisher":{"@id":"https://www.backwoodshome.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.backwoodshome.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.backwoodshome.com/#organization","name":"Backwoods Home Magazine","url":"https://www.backwoodshome.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.backwoodshome.com/#/schema/logo/image/","url":"https://www.backwoodshome.com/bhm/wp-content/uploads/2019/06/HiDeff-House-and-tree-LOGO-3-6-19.png","contentUrl":"https://www.backwoodshome.com/bhm/wp-content/uploads/2019/06/HiDeff-House-and-tree-LOGO-3-6-19.png","width":1306,"height":631,"caption":"Backwoods Home Magazine"},"image":{"@id":"https://www.backwoodshome.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/bhmag/","https://x.com/backwoodshome"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Backwoods Home Magazine &raquo; Feed" href="https://www.backwoodshome.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Backwoods Home Magazine &raquo; Comments Feed" href="https://www.backwoods

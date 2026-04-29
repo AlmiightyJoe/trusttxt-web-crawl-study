@@ -1,0 +1,20 @@
+<!DOCTYPE html><html lang="bg" prefix="og: https://ogp.me/ns#"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="shortcut icon" href="//i.id24.bg/tpl/varna2/img/24fav.ico" type="image/x-icon"><meta name="facebook-domain-verification" content="g35mnr9n2wohrnv9le2vvynldnydak"><title>Varna24.bg - Новини от Варна и всичко друго на 1 място</title><link rel="canonical" href="https://www.varna24.bg"><script type="application/ld+json">{ "@context": "https://schema.org", "@type": "WebSite", "url": "https://www.varna24.bg/", "headline": "Varna24.bg", "image": "/tpl/varna2/img/varna24_blk.svg", "inLanguage": "bg_BG", "author": { "@type": "NewsMediaOrganization", "name": "Медия Груп 24 ООД", "logo": { "@type": "ImageObject", "url": "/tpl/varna2/img/varna24_blk.svg" } }, "publisher": { "@type": "NewsMediaOrganization", "name": "Медия Груп 24 ООД",	"sameAs": "https://www.varna24.bg/", "logo": { "@type": "ImageObject", "url": "/tpl/varna2/img/varna24_blk.svg" }, "url": "https://www.varna24.bg/" }, "description": "Новини, видео, снимки и информация от Варна и региона и още: кино, заведения, театри, галерии, музеи, фирми, транспорт и още много"
+}</script><link rel="manifest" href="/manifestv24.json"><meta http-equiv="content-language" content="bg" /><meta name="language" content="bulgarian" /><meta name="Robots" content="index,follow" /><meta property="fb:pages" content="https://www.facebook.com/varnentzi/" /><meta name="keywords" content=""><meta name="description" content="Varna24.bg - Новини от Варна и всичко друго на 1 място"><meta name="google-site-verification" content="Z18vBB9vW5B1Hj-mG_IacdU822ufStOPOlXxHZNDxZ4"><link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.varna24.bg/rss.php"><style>@import url('//i.id24.bg/tpl/varna2/header_new_minify.css?rr=8');
+@font-face{ font-family: 'lexisbook'; src: url("https://www.varna24.bg/tpl/varna2/Lexis-Book.woff2") format("woff2"), url("https://www.varna24.bg/tpl/varna2/Lexis-Book.woff") format("woff"), url("https://www.varna24.bg/tpl/varna2/Lexis-Book.ttf") format("truetype"); font-weight: normal; font-style: normal;
+}
+@font-face{ font-family: 'MG24-Bold'; src: url("https://www.varna24.bg/tpl/varna2/MG24-Bold.woff2") format("woff2"), url("https://www.varna24.bg/tpl/varna2/MG24-Bold.woff") format("woff"), url("https://www.varna24.bg/tpl/varna2/MG24-Bold.ttf") format("truetype"); font-weight: normal; font-style: normal;
+}
+body{ font-family: 'lexisbook';
+}
+table.calendar-table{border-spacing:0 !important;}table.calendar-table thead tr,table.calendar-table thead tr th{padding:0 !important;}table.calendar-table tbody tr.date-grid,table.calendar-table tbody tr.date-grid td{padding:0 !important;}table.calendar-table tr.day-of-week,table.calendar-table tr.day-of-week th{font-weight:normal !important;color: #707070;font-size: 0.875rem;letter-spacing: 0.1rem;font-variant: small-caps;text-align: center;padding-top: 1rem !important;padding-bottom: 1rem !important;}table.calendar-table, .center{text-align:center !important;}
+.pollcommloader{width:98%; margin-left:10px; height:100px; vertical-align:middle; background-color:#ffffff; display:none;}
+.pollerror{display:none; color: #f0f0f0;}
+.poll .poll-see-result2{position: relative;}
+.poll .poll-see-result2 .v6page4{display: block;width: 100%;margin-top: 10px;margin-bottom: 10px;padding: 0 10px;text-align: left;border: 0;background-color: #fff;-webkit-transition: all 0.2s;transition: all 0.2s;font-size: 0.85rem;color: #0f0b07;}
+.poll .poll-see-result2 img {margin: 0 0 -2px 20px;width: 12px;height: 12px;-webkit-transition: all 0.2s;transition: all 0.2s;}
+.poll .poll-see-result2:hover:after{left: -7px;}
+.poll .poll-see-result2:hover .v6page4{margin-left: 5px;color: #0f0b07;}
+.poll .txtv5 a{display: inline-block;margin-top: 10px;margin-bottom: 0;padding: 0 10px 0 0;text-align: left;border: 0;background-color: #fff;-webkit-transition: all 0.2s;transition: all 0.2s;font-size: 0.85rem;color: #707070;}
+.tabcontent{display: none;}
+table tr td.nowrap{white-space: nowrap;}
+.login-m

@@ -1,0 +1,11 @@
+# trust.txt for Eden Echo 
+# for more about trust.txt, see https://journallist.net/
+# Eden Echo belongs to the following organizations
+belongto=https://texaspress.com/
+belongto=https://nna.org/
+belongto=https://journallist.net/
+# Eden Echo contact information
+contact=https://www.edenecho.net/contact
+# Eden Echo uses these sites as a vendor
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net

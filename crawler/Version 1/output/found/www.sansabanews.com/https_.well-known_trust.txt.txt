@@ -1,0 +1,13 @@
+# trust.txt for the San Saba News
+# for more about trust.txt, see https://journallist.net/
+# San Saba News belongs to the following organizations
+belongto=https://texaspress.com/
+belongto=https://nna.org/
+# these are the social channels controlled by the San Saba News
+social=https://www.facebook.com/sansabanews
+social=https://www.twitter.com/sabanews
+# San Saba News contact information
+contact=https://www.sansabanews.com/contact
+# San Saba News uses these sites as a vendor
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net

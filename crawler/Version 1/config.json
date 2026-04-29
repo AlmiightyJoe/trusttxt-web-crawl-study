@@ -1,0 +1,17 @@
+{
+  "output_dir": "/home/almightyj/trusttxt-project/crawler/output",
+  "seeds_file": "/home/almightyj/trusttxt-project/crawler/seeds.txt",
+
+  "max_domains": 10000,
+  "timeout_seconds": 10,
+  "max_file_kb": 256,
+
+  "global_delay_seconds": 0.05,
+  "domain_pause_seconds": 1.0,
+
+  "http_fallback": true,
+  "user_agent": "trusttxt-research-crawler/5.0",
+
+  "same_etld1_only": false
+}
+

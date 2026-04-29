@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!------------------------------
+    -  Built and Designed by:
+    -  DELTA SYSTEMS GROUP
+    -  http://www.deltasys.com/
+    -------------------------------->
+  <link rel="apple-touch-icon" sizes="180x180" href="/wp-content/themes/rji/dist/images/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/wp-content/themes/rji/dist/images/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/wp-content/themes/rji/dist/images/favicons/favicon-16x16.png">
+  <link rel="mask-icon" href="/wp-content/themes/rji/dist/images/favicons/safari-pinned-tab.svg" color="black">
+  <link rel="shortcut icon" href="/wp-content/themes/rji/dist/images/favicons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#1c5e90">
+  <meta name="msapplication-TileImage" content="/wp-content/themes/rji/dist/images/favicons/mstile-150x150.png">
+  <meta name="msapplication-config" content="/wp-content/themes/rji/dist/images/favicons/browserconfig.xml">
+  <meta name="theme-color" content="#1c5e90">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@Mizzou" />
+
+      <meta name="twitter:title" content="Trust.txt launches browser extension, making verification of trusted news sources easier for publishers and audiences alike" />
+    <meta name="twitter:url" content="https://rjionline.org/news/trust-txt-launches-browser-extension-making-verification-of-trusted-news-sources-easier-for-publishers-and-audiences-alike/" />
+    <meta name="twitter:description" content="The Trust.txt system has quietly helped a network of media publishers establish mutual trust by their association with other reliable publishers since 2018." />
+              <meta name="twitter:image" content="https://rjionline.orghttps://rjionline.org/wp-content/uploads/sites/2/2025/02/trusttxt25022101.png" />
+        <meta name="twitter:image:alt" content="Mizzou logo" />
+        
+  <title>Trust.txt launches browser extension, making verification of trusted news sources easier for publishers and audiences alike &#8211; RJI</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://rjionline.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frjionline.org%2Fnews%2Ftrust-txt-launches-browser-extension-making-verification-of-trusted-news-sources-easier-for-publishers-and-audiences-alike%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://rjionline.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Frjionline.org%2Fnews%2Ftrust-txt-launches-browser-extension-making-verification-of-trusted-news-sources-easier-for-publishers-and-audiences-alike%2F&#038;format=xml" />
+		<!-- This site uses the Google Analytics by MonsterInsights plugin v9.7.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+							<script src="//www.googletagmanager.com/gtag/js?id=G-GPQDBEQRJ9"  data-cfasync="false" data-wpfc-render="false" type="text/javascript" async></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var mi_version = '9.7.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/rjionline.org\/news\/trust-txt-launches-browser-extension-making-verification-of-trusted-news-sources-easier-for-publishers-and-audiences-alike\/"};
+								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExclu

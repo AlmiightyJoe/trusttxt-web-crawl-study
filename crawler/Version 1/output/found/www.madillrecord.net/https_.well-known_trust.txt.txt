@@ -1,0 +1,12 @@
+# trust.txt for the Madill Record
+# for more about trust.txt, see https://journallist.net/
+# Madill Record belongs to the following organizations
+belongto=https://okpress.com/
+belongto=https://nna.org/
+# these are the social channels controlled by the Madill Record
+social=https://www.facebook.com/madillrecord
+# Madill Record contact information
+contact=https://www.madillrecord.net/contact
+# Madill Record uses these sites as a vendor
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net

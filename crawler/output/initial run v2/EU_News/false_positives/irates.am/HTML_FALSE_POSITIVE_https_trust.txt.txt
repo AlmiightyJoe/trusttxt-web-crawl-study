@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+	<head>
+		<base href='https://www.irates.am/'></base>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				<title>Սկիզբ</title>
+		<meta name="keywords" content="Բոլոր իրավունքները պաշտպանված են: Մեջբերումներ անելիս ակտիվ հղումը Irates.am-ին պարտադիր է: Կայքի հոդվածների մասնակի կամ ամբողջական հեռուստառադիոընթերցումն առանց Irates.am-ին հղման արգելվում է: Կայքում արտահայտված կարծիքները պարտադիր չէ, որ համընկնեն կայքի խմբագրության տեսակետին: Գովազդների բովանդակության համար կայքը պատասխանատվություն չի կրում: Էլեկտրոնային հասցե՝ info@irates.am" />
+		<meta name="description" content="Բոլոր իրավունքները պաշտպանված են: Մեջբերումներ անելիս ակտիվ հղումը Irates.am-ին պարտադիր է: Կայքի հոդվածների մասնակի կամ ամբողջական հեռուստառադիոընթերցումն առանց Irates.am-ին հղման արգելվում է: Կայքում արտահայտված կարծիքները պարտադիր չէ, որ համընկնեն կայքի խմբագրության տեսակետին: Գովազդների բովանդակության համար կայքը պատասխանատվություն չի կրում: Էլեկտրոնային հասցե՝ info@irates.am" />
+		<meta name="document-state" content="dynamic"/>
+
+		<meta property="og:image" content="https://www.irates.am/images/CxWo2AeUzDX8owoamq06No8I6W.jpg" />		<link href="favicon.png" rel="icon" type="image/x-icon" />
+		<link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.irates.am/rss.php?rsslang=1" />
+		<link type="text/css" rel="stylesheet" href="css/style.css?rev28"/>
+		<link type="text/css" rel="stylesheet" href="css/hy.css?rev12"/>
+		<link type="text/css" rel="stylesheet" href="fancybox/jquery.fancybox-1.3.4.css"/>
+		<script type="text/JavaScript" src="js/jquery-1.7.2.min.js"></script>
+		<script type="text/JavaScript" src="js/jquery.carouFredSel-5.5.0-packed.js"></script>
+		<script type="text/JavaScript" src="js/marquee.js"></script>
+		<script type="text/JavaScript" src="fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+		<script type="text/JavaScript" src="js/functions.js?rev11"></script>
+<script src="wriper/check.js" defer></script>
+					<script type="text/JavaScript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8467d8690a88e1"></script>
+					<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-40493805-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+	</head>
+	<body>
+							<div id="fb-root"></div>
+					<script>(function(d, s, id) {
+					  var js, fjs = d.getElementsByTagName(s)[0];
+					  if (d.getElementById(id)) return;
+					  js = d.createElement(s); js.id = id;
+					  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+					  fjs.parentNode.insertBefore(js, fjs);
+					}(document, 'script', 'facebook-jssdk'));</script>
+						<div class="bg center">
+			<div class="carcass">
+			<div class="top-bar">
+	<div class="top-bar-left"><a href="hy/home" class="logo">Սկիզբ</a></div>
+	<div class="top-bar-middle">
+
+		<div class="info-bar-out-pad">
+			<div class="info-bar">
+				<div class="info-cell1" style="vis

@@ -1,0 +1,264 @@
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="msvalidate.01" content="AE9492429443B7D8D9D8D303C2C23EAF" /><meta http-Equiv="Cache-Control" content="no-cache" /><meta http-Equiv="Pragma" content="no-cache" /><meta http-Equiv="Expires" content="0" /><meta name="viewport" content="width=device-width initial-scale=1.0 minimum-scale=1.0 maximum-scale=1.0 user-scalable=no" /><title>
+404 Error
+</title><meta id="MetaKeywords" name="Keywords" /><meta id="MetaDescription" name="Description" content="FacilitiesNet Site Map" />
+<link id="canonical" rel="canonical" href="http://www.facilitiesnet.com/site/page/Site-Map--34635" />
+<meta property="fb:app_id" content="115060708595717" /><meta property="fb:admins" content="640995735" /><meta property="og:site_name" content="Facilitiesnet" /><meta property="og:image" content="http://www.facilitiesnet.com/graphics/fnlogo.jpg"/><meta property="og:title" content="Site Map"/><meta property="og:url" content=""/><meta property="og:locale" content="en_US" />
+<!--FONTS-->
+<link href="http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700italic,700|Rajdhani:600|Lato:600,400,400italic" rel="stylesheet" type="text/css" />
+
+
+<!--STYLES-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://www.facilitiesnet.com/styles/ie_2011.css" />
+<![endif]-->
+
+<link rel="icon" href="http://www.facilitiesnet.com/graphics/icon.fn.png" type="image/x-icon" /><link rel="shortcut icon" href="http://www.facilitiesnet.com/graphics/icon.fn.png" type="image/x-icon" />
+
+
+<script src="http://www.facilitiesnet.com/scripts/jquery2.1.4.min.js"></script>
+
+
+
+<!--Google Analytics Code-->
+<script type="text/javascript">
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-2340969-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+<style type="text/css">
+body, article, nav {
+background: #FFF !important;
+font-family: 'Lato',sans-serif;
+color: #333;
+
+}
+nav {
+text-align: left;
+}
+nav a img  {
+width: 300px;
+padding:1%;
+}
+.warning {
+max-width: 653px;
+float: left;
+padding: 0;
+margin: 0;
+overflow:hidden;
+border-radius: 4px 4px 4px 4px;
+-moz-border-radius: 4px 4px 4px 4px;
+-webkit-border-radius: 4px 4px 4px 4px;color: #a94442;
+background-color: #f2dede !important;
+border-color: #ebccd1;
+
+margin: 0 0 1em;
+width:100%;
+max-width:640px;
+background:#FFFFFF;
+}
+article {
+  width: 100%;
+  max-width: 960px!important;
+  margin:0 auto;
+}
+
+article p,
+article h1,
+article h2,
+article ul{
+  line-height: 140%;
+
+}
+h1 {
+  font-size: 4rem;
+  font-weight: 600;
+  margin-bottom:0;
+}
+h3 {
+  font-weight: 600;
+  text-transform: uppercase;
+  margin-top:2.5em;
+}
+article a {
+  display: block;
+color:#008fd5 !important;
+text-decoration: none !important;
+font-size: 1.25em;
+margin:0 0 0.5em 2%;
+}
+article a:hover {
+text-decoration: underline !important;
+}
+article .man {
+  width: 100%;
+  max-width: 300px;
+  float:right;
+}
+@media only screen and (min-width: 1265px) {
+
+}
+
+@media only screen and (max-width: 1066px) {
+
+}
+@media only screen and (max-width: 955px) {
+
+}
+@media only screen and (max-width: 914px) {
+
+}
+@media only screen and (max-width: 766px){
+article .man {
+  max-width: 135px;
+}
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  font-size: 1.25rem;
+}
+}
+
+
+
+
+</style>
+</head>
+
+<body >
+
+
+  <nav>
+  <a href="http://www.facilitiesnet.com"><img src="http://www.facilitiesnet.com/graphics/fn-logo-blue.svg"></a>
+  </nav>
+
+
+
+
+  <article>
+        <img src="http://www.facilitiesnet.com/graphics/man-searching.svg" class="man">
+        <h1>Error code 404</h1>
+        <h2>There was a problem with the url you were trying to access.</h2>
+
+        <h2>Please use the links below to navigate to the page you were looking for:</h2>
+        <br />
+
+        <p><a href="http://www.facilitiesnet.com/">FacilitiesNet Home</a>
+        <a href="http://www.facilitiesnet.com/site/facilitiesdictionary/Keywords--1">Glossary: Find Facility Content By Key Phrase</a></p>
+
+        <h3>News and Trending</h3>
+        <ul>
+        <li><a href="http://www.facilitiesnet.com/fmtipoftheday/">Facilities Management Quick Reads</a></li>
+        <li><a href="http://www.facilitiesnet.com/">Building Maintenance Alerts</a></li>
+        <li><a href="http://www.facilitiesnet.com/fiveminuteswith/">Interviews With FMs In the Field. Five Minutes With...</a></li>
+        <li><a href="http://www.facilitiesnet.com/site/audiovideo.aspx">Audio/Video</a></li>
+        <li><a href="http://www.facilitiesnet.com/casestudies/">Case Studies</a></li>
+        <li><a href="http://www.facilitiesnet.com/site/pressreleasepages.aspx">Facilities Management Press Releases</a></li>
+        <li><a href="http://www.facilitiesnet.com/site/contributedcontent.aspx/">Contributed Content </a></li>
+        </ul>
+
+        <h3>Jobs, Salary Benchmarks and Career Headlines</h3>
+        <p><a href="http://www.facilitiesnet.com/careercenter/">Career Center Landing Page</a>
+        <a href="http://www.facilitiesnet.com/jobs/">Jobs </a>
+        <a href="http://www.facilitiesnet.com/careercenter/SalarySearch.aspx">Salary Search </a></p>
+
+        <h3>Webcasts &amp; Training</h3>
+        <p><a href="http://www.facilitiesnet.com/webcasts/">FREE Webcasts</a>
+        <a href="http://www.facilitiesnet.com/webcasts/premium.aspx">PREMIUM Webcasts</a></p>
+
+        <h3>Building Operating Management</h3>
+        <p><a href="http://www.facilitiesnet.com/bom/">Building Operating Management Landing Page</a>
+        <a href="http://www.facilitiesnet.com/bom/printToc.aspx">Current Features </a>
+        <a href="http://www.facilitiesnet.com/bom/archives.aspx">Feature Archives By Issue</a></p>
+
+        <h3>Facility Maintenance Decisions</h3>
+        <p><a href="http://www.facilitiesnet.com/fmd/">Facility Maintenance Decisions Landing Page</a>
+        <a href="http://www.facilitiesnet.com/ms/printtoc.aspx">Current Features </a>
+        <a href="http://www.facilitiesnet.com/ms/archives.aspx">Feature Archives By Issue</a></p>
+
+        <h3>Products and Manufacturer Information</h3>
+        <p><a href= "http://www.facilitiesnet.com/buildingproducts/">Product Releases Relevant For FMs</a>
+        <a href="http://www.facilitiesnet.com/prc/categories.asp">Product Manufacturers and Company Profiles</a>
+        <!-- <a href="http://www.facilitiesnet.com/supplierinsights/">Featured Supplier Pieces</a> <br />
+        <a href="http://www.facilitiesnet.com/supplierinsights/technologiesandsolutions.aspx">Supplier Contributed Case Studies and White Papers</a> --> </p>
+
+        <h3>Building Types</h3>
+        <ul style="margin-top:0;">
+          <li><a href="http://www.facilitiesnet.com/commercialofficefacilities/">Commercial</a></li>
+          <li><a href="http://www.facilitiesnet.com/educationalfacilities/">Educational</a></li>
+          <li><a href="http://www.facilitiesnet.com/healthcarefacilities/">Health Care</a></li>
+        </ul>
+
+        <h3>Facilities Topics</h3>
+        <ul class="nav_col1">
+          <li><a href="http://www.facilitiesnet.com/ada/">ADA</a></li>
+          <li><a href="http://www.facilitiesnet.com/DesignConstruction/">Design &amp; Construction</a></li>
+          <li><a href="http://www.facilitiesnet.com/datacenters/">Data Centers</a></li>
+          <li><a href="http://www.facilitiesnet.com/emergencypreparedness/">Emergency Preparedness</a></li>
+          <li><a href="http://www.facilitiesnet.com/energyefficiency/">Energy Efficiency</a></li>
+          <li><a href="http://www.facilitiesnet.com/facilitiesmanagement/">Facilities Management</a></li>
+          <li><a href="http://www.facilitiesnet.com/green/">Green</a></li>
+          <li><a href="http://www.facilitiesnet.com/outsourcing/">Outsourcing</a></li>
+          <li><a href="http://www.facilitiesnet.com/groundsmanagement/default.asp">Grounds Management</a></li>
+          <li><a href="http://www.facilitiesnet.com/iaq/">IAQ</a></li>
+          <li><a href="http://www.facilitiesnet.com/maintenanceoperations/">Maintenance &amp; Operations</a></li>
+          <li><a href="http://www.facilitiesnet.com/materialhandling/">Material Handling</a></li>
+
+          <li><a href="http://www.facilitiesnet.com/buildingautomation/">Building Automation</a></li>
+          <li><a href="http://www.facilitiesnet.com/ceilingsfurniturewalls/">Ceilings, Furniture &amp; Walls</a></li>
+          <li><a href="http://www.facilitiesnet.com/doorsHardware/">Doors &amp; Hardware</a></li>
+          <li><a href="http://www.facilitiesnet.com/elevators/">Elevators</a></li>
+          <li><a href="http://www.facilitiesnet.com/equipmentrentaltools/">Equipment Rental &amp; Tools</a></li>
+          <li><a href="http://www.facilitiesnet.com/firesafety/">Fire Safety</a></li>
+          <li><a href="http://www.facilitiesnet.com/flooring/">Flooring</a></li>
+          <li><a href="http://www.facilitiesnet.com/hvac/">HVAC</a></li>
+          <li><a href="http://www.facilitiesnet.com/lighting/">Lighting</a></li>
+          <li><a href="http://www.facilitiesnet.com/paintscoatings/">Paints &amp; Coatings</a></li>
+          <li><a href="http://www.facilitiesnet.com/plumbingrestrooms/">Plumbing &amp; Restrooms</a></li>
+          <li><a href="http://www.facilitiesnet.com/PowerCommunication/">Power &amp; Communication</a></li>
+          <li><a href="http://www.facilitiesnet.com/roofing/">Roofing</a></li>
+          <li><a href="http://www.facilitiesnet.com/security/">Security</a></li>
+          <li><a href="http://www.facilitiesnet.com/software/">Software</a></li>
+          <li><a href="http://www.facilitiesnet.com/windowsexteriorwalls/">Windows &amp; Exterior Walls </a></li>
+        </ul>
+
+        <h3>Email Subscribe/Unsubscribe</h3>
+        <ul>
+        <li> <a href="http://www.facilitiesnet.com/visitorcenter/management_bom.aspx">Building Operating Management</a></li>
+        <li> <a href="http://www.facilitiesnet.com/visitorcenter/management_fmd.aspx">Facility Maintenance Decisions</a></li>
+        </ul>
+
+        <h3>FM Resources</h3>
+        <p><a href="http://www.facilitiesnet.com/site/facilities_management_resources.aspx">Resources
+        </a>
+        <a href="http://www.facilitiesnet.com/site/facilities_management_training_education.aspx">Facilities Management Training and Education Reference</a></p>
+
+        <h3>Website</h3>
+        <p>
+        <a href="http://www.reachfms.com/">Advertising</a>
+        <a href="http://www.facilitiesnet.com/site/page/Contact-Us--26462">Contact Us</a>
+        <a href="http://www.facilitiesnet.com/site/page/Contributing-Content-to-FacilitiesNet--38391">Contributing Content to FacilitiesNet</a>
+        <a href="http://www.facilitiesnet.com/site/page/Content-Usage--34634">Our Content On Your Site</a>
+        <a href="http://www.facilitiesnet.com/site/page/Policies--26463">Policies</a>
+        <a href="http://www.facilitiesnet.com/links.asp">RSS Feeds </a>
+        <a href="http://www.facilitiesnet.com/search.aspx">Search FacilitiesNet</a>
+        <a href="http://www.reachfms.com/">Your Account Information and Content Only For Registered Users</a>
+        </p>
+
+      </article>
+
+</body>
+</html>

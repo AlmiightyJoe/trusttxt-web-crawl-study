@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-US" class="nojs">
+<head>
+		<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+			<!-- BEGIN metadata tag -->
+		<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebPage","publisher":{"@type":"Organization","name":"Las Vegas Business Press","logo":{"@type":"ImageObject","url":"https:\/\/businesspress.vegas\/wp-content\/uploads\/2025\/09\/LV_BP_logo_white.png?w=230","width":230,"height":52}},"url":"https:\/\/businesspress.vegas","headline":"Las Vegas Business Press"}</script>
+		<!-- END metadata tag -->
+					<script type="text/javascript">
+			window.dataLayer = window.dataLayer || [];
+			window.dataLayer[0] = {"rj_page_type":"home","metrics":{"pageType":"homepage"}};
+			function rj_gtag() {
+				if (!arguments || 'event' !== arguments[0] || !arguments[2] || !arguments[2].event_category || !arguments[2].event_action || !arguments[2].event_label) {
+					return;
+				}
+
+				let data = arguments[2];
+				window.dataLayer.push({
+					'event': 'GAEvent',
+					'category': data.event_category,
+					'action': data.event_action,
+					'label': data.event_label
+				});
+			}
+		</script>
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-K4Z2XC');</script>
+		<!-- End Google Tag Manager -->
+			<title>Las Vegas Business Press | Business News From Las Vegas</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//securepubads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//media.reviewjournal.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Las Vegas Business Press &raquo; Feed" href="https://businesspress.vegas/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Las Vegas Business Press &raquo; Comments Feed" href="https://businesspress.vegas/comments/feed/" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='rjth-fonts-css' href='https://fonts.googleapis.com/css?family=Raleway:400,700,900|Arvo:400,400i,700,700i|Merriweather' media='all' />
+<link rel='stylesheet' id='all-css-4' href='https://businesspress.vegas/_static/??-eJyFjEEOgzAMBD/U2KWArB6qviUgF0JJgmxLiN9D6aG95bKH2d3BdXF9TsbJ0EaOrCiTjTiHTrxs2OVsauIXrKGBCnvVH4MYEhzkggXL6+icX1lzZNcAwfUU/eOiS22by6uPVt8hfdMNwnwenvFREdW3luje7nmsWQ8=' type='text/css' media='all' />
+<script type="text/javascript" src="https://businesspress.vegas/_static/??-eJyNjsEKwjAQRH/IZKltCR7Eb0niYjc0Sd3dKv59IxTx4MHTwPDeMPBcTKxFsSjohBkFOOkESYBay4JRqRZTgyA/kG2mYpMcoHlU4rxem9HgdF+RX3v8BZlMN/aK3/CvJzMF9s0Ktaoo+wV6O9juvfep9o1LPnfO9cfRudOYNp+dUIc=" ></script><script type="text/javascript" src="https://businesspress.vegas/wp-content/themes/rjth/js/layout.min.js?ver=20251124" id="rjth-layout-js"></script>
+<script type="text/javascript" id="rjth-layout-js-after">
+/* <![CDATA[ */
+		jQuery( document ).ready(function() {
+			if (typeof dataLayer !== "undefined") {
+				dataLayer.push({"event": "jQueryIsReady", "jquery_is_ready": true});
+			}
+		});
+//# sourceURL=rjth-layout-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" async="async" src="//securepubads.g.doubleclick.net/tag/js/gpt.js" id="gpt-js"></script>
+<script type="text/javascript" id="gpt-js-after">
+/* <![CDATA[ */
+window.googletag = window.googletag || {cmd: []};
+//# sourceURL=gpt-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" async="async" src="https://media.reviewjo

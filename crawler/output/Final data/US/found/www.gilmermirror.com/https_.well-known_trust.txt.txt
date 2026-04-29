@@ -1,0 +1,24 @@
+# The Gilmer Mirror trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# The Gilmer Mirror belongs to the following organizations
+#
+belongto=https://www.texaspress.com/
+belongto=https://www.journallist.net/
+#
+# The Gilmer Mirror social networks
+#
+social=https://twitter.com/thegilmermirror
+social=https://www.youtube.com/c/TheTexasBoysOurFamilyStory
+#
+# The Gilmer Mirror vendors
+#
+vendor=https://www.websitesfornewspapers.com/
+#
+# The Gilmer Mirror contact info
+#
+contact=https://www.gilmermirror.com/contact-us/

@@ -1,0 +1,24 @@
+# The Source Weekly - Bend trust.txt file
+# For more information visit JournalList.net
+
+
+# memberships
+belongto=https://aan.org/
+belongto=https://www.spj.org/
+belongto=http://www.orenews.com/
+
+
+# social channels
+social=https://facebook.com/sourceweekly
+social=https://twitter.com/sourceweekly
+social=https://instagram.com/sourceweekly
+
+
+# vendors
+vendor=https://publishwithfoundation.com/
+vendor=https://newspack.com
+
+
+# contact
+contact=info@bendsource.com
+contact=https://www.bendsource.com/bend-contactus-page/

@@ -1,0 +1,58 @@
+<!doctype html>
+
+<html lang="cs" class="css-d">
+<head>
+    
+    <meta charset="windows-1250">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta name="viewport" content="width=1030">
+    <title>On-line port&#225;l den&#237;ku Metro</title>
+    <meta name="description" property="og:description" lang="cs" content="Nejnov&#283;j&#353;&#237; zpr&#225;vy z Prahy a okol&#237;">
+    <link rel="shortcut icon" href="https://1gr.cz/u/favicon/metro.ico">
+    <link rel="apple-touch-icon" href="https://1gr.cz/u/favicon/apple-touch-icon/metro.png">
+    <meta property="og:site_name" content="Metro.cz">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="On-line port&#225;l den&#237;ku Metro">
+    <meta name="image" property="og:image" content="https://1gr.cz/o/ogimage/metro.jpg">
+    <meta name="twitter:site" content="@idnescz">
+    <meta property="fb:app_id" content="120489248467">
+    <link rel="preload" href="https://1gr.cz/fotky/idnes/26/022/vidw/HAL7de79546ba_spz01_14239757_cmyk.jpg" as="image" fetchpriority="high">
+    <link rel="preload" href="https://1gr.cz/fonts/Inter/inter-regular.woff2" as="font" type="font/woff2" crossorigin="">
+    <link rel="preload" href="https://1gr.cz/fonts/Fira/firasans-semibold.woff2" as="font" type="font/woff2" crossorigin="">
+    <link href="https://servis.metro.cz/rss.aspx?c=metroh" rel="alternate" type="application/rss+xml" title="RSS">
+	<meta name="cXenseParse:pageclass" content="frontpage">
+	<meta name="cXenseParse:qiw-typobsahu" content="home">
+	<meta name="cXenseParse:qiw-ostrov" content="metroh">
+	<meta name="cXenseParse:qiw-rubrika" content="metroh">
+	<meta name="cXenseParse:qiw-vylouceni" content="redesign24" data-separator=",">
+
+
+
+
+
+<script>var Unidata = { "exdomena": "www.metro.cz", "ostrov": "metroh", "rubrika": "metroh", "zobrazeni": "home", "verze": "A", "score": "metroh-DFA", "reklama": true, "timestamp": 1770853655379.0, "webtype": "full", "section": "other", "subSection": "", "pageType": "default", "authors": [""], "keywords": ["redesign24"], "isLogged": false, "noAd": 0, "lidskost": 287276034086044
+    };
+        var pp_gemius_extraparameters = new Array('content=free', 'premium=false', 'verze=A', 'webtype=full');
+    
+</script>
+
+
+
+<script>   Unidata.prebidConfig = [
+{"halfpagead_rubrika_lazyload":{"code":"halfpagead_rubrika_lazyload","mediaTypes":{"banner":{"sizes":[[300,600],[300,300],[250,250],[300,250],[160,600],[120,600],[240,400],[120,240],[210,210],[250,360],[250,600]]}}},"wallpaper":{"code":"wallpaper","mediaTypes":{"banner":{"sizes":[[970,310],[750,100],[728,90],[970,250],[970,210],[500,200],[300,300],[480,300],[336,280],[750,200]]}}},"halfpagead_rubrika_spodni":{"code":"halfpagead_rubrika_spodni","mediaTypes":{"banner":{"sizes":[[300,600],[300,300],[250,250],[300,250],[160,600],[120,600],[240,400],[120,240],[210,210],[250,360],[250,600]]}}},"halfpagead_rubrika":{"code":"halfpagead_rubrika","mediaTypes":{"banner":{"sizes":[[300,600],[300,300],[250,250],[300,250],[160,600],[120,600],[240,400],[120,240],[210,210],[250,360],[250,600]]}},"bids":[{"bidder":"cpex"}]},"branding":{"code":"branding","mediaTypes":{"banner":{"sizes":[[2000,1280],[998,200],[998,100],[750,100],[728,90],[2000,1400],[970,100],[970,210],[970,90],[2000,1200],[1920,1080]]}}}}
+    ];</script>
+
+<script>   Unidata.biddingData = [
+{"branding":true,"wallpaper":true,"nativ":true,"halfpagead_rubrika":true,"halfpagead_rubrika_spodni":true,"halfpagead_rubrika_lazyload":true}
+    ];
+   
+</script>
+
+<script>window.cpexPackageConfig = {
+        publisherSettingsPath: 'https://cdn.cpex.cz/settings/production/mafra.js',
+    websiteSettingsPath: 'https://cdn.cpex.cz/settings/production/mafra/metro.cz.js'
+    }
+    document.head.appendChild(Object.assign(document.createElement('script'), { src: `https://cdn.cpex.cz/package/cpex-package${window.location.href.indexOf('debug') > -1 ? '.js' : '.min.js'}` }));
+</script>
+
+        <script type="text/javascript" src="https://delivery.r2b2.cz/hb/mafra/metro.cz_desktop" async></scr

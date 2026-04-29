@@ -1,0 +1,25 @@
+# Pawnee Republican trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# Pawnee Republican belongs to the following organizations
+#
+# belongto=
+#
+# Pawnee Republican social networks
+#
+social=https://www.facebook.com/Pawnee-Republican-119103361475391/
+#
+# Pawnee Republican vendors
+#
+vendor=https://www.etypeservices.com/
+#
+# Pawnee Republican contact info
+#
+contact=tel:402-862-2411
+contact=https://www.pawneerepublican.com/contact
+#
+# © 2022 Pawnee Republican

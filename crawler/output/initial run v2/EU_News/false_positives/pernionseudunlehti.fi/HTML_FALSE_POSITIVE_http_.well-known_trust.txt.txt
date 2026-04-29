@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="fi" class="no-js">
+<head>
+	
+	<meta charset="UTF-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" /><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.8 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Etusivu - Perniönseudun Lehti</title>
+	<meta name="description" content="Perniönseudun Lehti on eteläisen Salon paikallislehti. Lehti ilmestyy torstaisin ja on tilatuin lehti kaupungin eteläosassa. Tutustu ja tilaa!" />
+	<link rel="canonical" href="https://pernionseudunlehti.fi/" />
+	<meta property="og:locale" content="fi_FI" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Etusivu - Perniönseudun Lehti" />
+	<meta property="og:description" content="Perniönseudun Lehti on eteläisen Salon paikallislehti. Lehti ilmestyy torstaisin ja on tilatuin lehti kaupungin eteläosassa. Tutustu ja tilaa!" />
+	<meta property="og:url" content="https://pernionseudunlehti.fi/" />
+	<meta property="og:site_name" content="Perniönseudun Lehti" />
+	<meta property="article:publisher" content="https://www.facebook.com/perkkari" />
+	<meta property="article:modified_time" content="2026-01-19T12:51:00+00:00" />
+	<meta property="og:image" content="https://pernionseudunlehti.fi/wp-content/uploads/2020/03/banneripaikka.jpg" />
+	<meta property="og:image:width" content="1600" />
+	<meta property="og:image:height" content="333" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@perkkari" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://pernionseudunlehti.fi/","url":"https://pernionseudunlehti.fi/","name":"Etusivu - Perniönseudun Lehti","isPartOf":{"@id":"https://pernionseudunlehti.fi/#website"},"about":{"@id":"https://pernionseudunlehti.fi/#organization"},"primaryImageOfPage":{"@id":"https://pernionseudunlehti.fi/#primaryimage"},"image":{"@id":"https://pernionseudunlehti.fi/#primaryimage"},"thumbnailUrl":"https://pernionseudunlehti.fi/wp-content/uploads/2020/03/banneripaikka.jpg","datePublished":"2020-03-06T09:18:38+00:00","dateModified":"2026-01-19T12:51:00+00:00","description":"Perniönseudun Lehti on eteläisen Salon paikallislehti. Lehti ilmestyy torstaisin ja on tilatuin lehti kaupungin eteläosassa. Tutustu ja tilaa!","breadcrumb":{"@id":"https://pernionseudunlehti.fi/#breadcrumb"},"inLanguage":"fi","potentialAction":[{"@type":"ReadAction","target":["https://pernionseudunlehti.fi/"]}]},{"@type":"ImageObject","inLanguage":"fi","@id":"https://pernionseudunlehti.fi/#primaryimage","url":"https://pernionseudunlehti.fi/wp-content/uploads/2020/03/banneripaikka.jpg","contentUrl":"https://pernionseudunlehti.fi/wp-content/uploads/2020/03/banneripaikka.jpg","width":1600,"height":333},{"@type":"BreadcrumbList","@id":"https://pernionseudunlehti.fi/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://pernionseudunlehti.fi/#website","url":"https://pernionseudunlehti.fi/","name":"Perniönseudun Lehti","description":"Perniönseudun paikallislehti","publisher":{"@id":"https://pernionseudunlehti.fi/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://pernionseudunlehti.fi/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fi"},{"@type":"Organization","@id":"https://pernionseudunlehti.fi/#organization","name":"Perniönseudun Lehti","url":"https://pernionseudunlehti.fi/","logo":{"@type":"ImageObject","inLanguage":"fi","@id":"https://pernionseudunlehti.fi/#/schema/logo/image/","url":"https://pernionseudunlehti.fi/wp-content/uploads/2020/05/PsL_logo_slogan_thin_mv_1000.png","contentUrl":"https://pernion

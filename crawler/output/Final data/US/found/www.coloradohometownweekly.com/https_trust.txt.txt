@@ -1,0 +1,6 @@
+# trust.txt for coloradohometownweekly.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-13 03:23:15 MDT
+
+contact=https://www.coloradohometownweekly.com/contact-us/
+datatrainingallowed=no

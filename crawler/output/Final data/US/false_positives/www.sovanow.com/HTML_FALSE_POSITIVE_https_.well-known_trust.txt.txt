@@ -1,0 +1,44 @@
+
+
+
+<!doctype html>
+
+  <head>
+    <meta charset="utf-8">
+
+    
+
+        <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+	    	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+		<!-- All in One SEO 4.7.9 - aioseo.com -->
+		<title>SoVaNOW: The News &amp; Record and The Mecklenburg Sun</title>
+	<meta name="description" content="SoVaNOW.com is the home of the News &amp; Record and the Mecklenburg Sun, two Virginia-based newspapers covering South Boston, Halifax County, South Hill, Clarksville, and Chase City." />
+	<meta name="robots" content="max-image-preview:large" />
+	<link rel="canonical" href="https://www.sovanow.com/" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.7.9" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="SoVaNOW: Home of The News &amp; Record and The Mecklenburg Sun - http://www.sovanow.com" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="SoVaNOW: The News &amp; Record and The Mecklenburg Sun" />
+		<meta property="og:description" content="SoVaNOW.com is the home of the News &amp; Record and the Mecklenburg Sun, two Virginia-based newspapers covering South Boston, Halifax County, South Hill, Clarksville, and Chase City." />
+		<meta property="og:url" content="https://www.sovanow.com/" />
+		<meta property="og:image" content="https://www.sovanow.com/wp-content/uploads/2021/12/default-images.png" />
+		<meta property="og:image:secure_url" content="https://www.sovanow.com/wp-content/uploads/2021/12/default-images.png" />
+		<meta property="og:image:width" content="1280" />
+		<meta property="og:image:height" content="720" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="SoVaNOW: The News &amp; Record and The Mecklenburg Sun" />
+		<meta name="twitter:description" content="SoVaNOW.com is the home of the News &amp; Record and the Mecklenburg Sun, two Virginia-based newspapers covering South Boston, Halifax County, South Hill, Clarksville, and Chase City." />
+		<meta name="twitter:image" content="https://www.sovanow.com/wp-content/uploads/2021/12/default-images.png" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.sovanow.com\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.sovanow.com\/#listItem","position":1,"name":"Home"}]},{"@type":"Organization","@id":"https:\/\/www.sovanow.com\/#organization","name":"SoVaNOW: Home of The News & Record and The Mecklenburg Sun","description":"http:\/\/www.sovanow.com","url":"https:\/\/www.sovanow.com\/"},{"@type":"WebPage","@id":"https:\/\/www.sovanow.com\/#webpage","url":"https:\/\/www.sovanow.com\/","name":"SoVaNOW: The News & Record and The Mecklenburg Sun","description":"SoVaNOW.com is the home of the News & Record and the Mecklenburg Sun, two Virginia-based newspapers covering South Boston, Halifax County, South Hill, Clarksville, and Chase City.","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.sovanow.com\/#website"},"breadcrumb":{"@id":"https:\/\/www.sovanow.com\/#breadcrumblist"},"datePublished":"2021-06-09T19:15:52-04:00","dateModified":"2024-02-21T19:00:27-05:00"},{"@type":"WebSite","@id":"https:\/\/www.sovanow.com\/#website","url":"https:\/\/www.sovanow.com\/","name":"SoVaNOW: Home of The News & Record and The Mecklenburg Sun","description":"http:\/\/www.sovanow.com","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.sovanow.com\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.sovanow.com\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//dutks0b58iw6s.cloudfront.net' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefet

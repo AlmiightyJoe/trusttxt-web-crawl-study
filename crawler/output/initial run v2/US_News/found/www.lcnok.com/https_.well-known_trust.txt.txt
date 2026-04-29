@@ -1,0 +1,12 @@
+# trust.txt for the Lincoln County News
+# for more about trust.txt, see https://journallist.net/
+# Lincoln County News belongs to the following organizations
+belongto=https://okpress.com/
+belongto=https://nna.org/
+# these are the social channels controlled by the Lincoln County News
+social=https://www.facebook.com/lincolncountynews
+# Lincoln County News contact information
+contact=https://www.lcnok.com/contact
+# Lincoln County News uses these sites as a vendor
+vendor=https://www.etypeservices.com
+vendor=https://www.etypeservices.net

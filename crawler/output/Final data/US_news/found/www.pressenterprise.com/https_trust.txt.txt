@@ -1,0 +1,6 @@
+# trust.txt for pressenterprise.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-12 21:30:12 PDT
+
+contact=https://www.pressenterprise.com/contact-us/
+datatrainingallowed=no

@@ -1,0 +1,92 @@
+<meta http-equiv="refresh" content="5;url=http://khabor.com" />
+
+
+
+<!doctype html>
+<html lang="bn" class="no-js">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="icon" href="http://khabor.com/upload/images/logo/favicon-khabor_logo.png" type="image/x-icon">
+    <title> 404 No results found </title>
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+		<!--rss -->
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="http://khabor.com/feed" />
+    <script type="application/ld+json">{"@context": "https://schema.org","@type": "WebSite","url": "http://khabor.com","potentialAction": {"@type": "SearchAction","target": "http://khabor.com/search?q={search_term_string}","query-input": "required name=search_term_string"}}</script>
+	<link rel="stylesheet" type="text/css" href="http://khabor.com/frontend/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="http://khabor.com/frontend/css/style.css">
+	<link rel="stylesheet" type="text/css" href="http://khabor.com/frontend/css/owl.carousel.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="http://khabor.com/frontend/css/owl.theme.css" media="screen">
+	<style type="text/css">
+    .error-banner h1{font-size: 45px;}
+.error-banners {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+.error-banners p {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: shurjo;
+}
+.error-banners h1 {
+    font-size: 10em;
+}
+</style>
+	<style type="text/css">.map img{width:100%;height:100%;object-fit:contain}body{top: 0 !important;background:rgb(255, 255, 255);font-family:"Shurjo",Helvetica,Arial,sans-serif;font-size:18px;line-height:1.42857143;color:#333;}
+	@font-face {
+          font-family: "Shurjo";
+          font-display: swap;
+          font-style: normal;
+          font-weight: 400;
+          src: url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_400_v2-6a682f6f610beeda14f0.woff2) format('woff2'),
+               url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_400_v2-f516035cb806da4a249e.woff) format("woff"),
+               url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_400_v2-46e441a492e5db01a626.ttf) format("truetype");
+        }
+        @font-face {
+          font-family: "Shurjo";
+          font-display: swap;
+          font-weight: 700; 
+          font-style: normal;
+          src: url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_700_v2-ef9e058ccc3a98d85030.woff2) format("woff2"),
+               url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_700_v2-72cba63e779d86520525.woff) format('woff'),
+               url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_700_v2-7084d97ccd992205d87b.ttf) format('truetype'), 
+               url(https://assets.prothomalo.com/prothomalo/assets/ShurjoWeb_700_v2-6f30c4f7cce4d463f8e4.eot) format("embedded-opentype");
+        }
+        @font-face {
+          font-family: 'Roboto';
+          font-style: normal;
+          font-weight: 400;
+          font-display: swap;
+          src: local('Roboto'), local('Roboto-Regular'), url(https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxM.woff) format('woff');
+        }
+        .newsdot i {font-size: 10px;margin-right: 10px;}
+        .col-md-55 {width: 20%;}
+	</style>
+    
+</head>
+
+
+<body>
+    	<!-- Container -->
+	<div id="container">
+		<style>
+.classified {
+    background: #0e74bb;
+    color: white;
+    padding: 5px 30px;
+}
+.nav.navbar-nav a {
+    font-size: 20px;
+    font-weight: bold;
+}
+.mix3 .author-image {width: 55px; height: 55px; border-radius: 50%; overflow: hidden;margin-right: 10px;}
+.mmt {
+    margin-top: 5px;
+}
+.title2x {
+    border-left: 6px solid #343a40;
+    background: #f0f0f3;

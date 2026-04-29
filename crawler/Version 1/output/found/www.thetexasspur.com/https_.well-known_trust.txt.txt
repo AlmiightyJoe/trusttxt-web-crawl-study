@@ -1,0 +1,6 @@
+# trust.txt for Texas Press Association
+# For more information on trust.txt see:
+# 1. journallist.net - Home of the trust.txt specification
+# 2. datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+member=http://texaspress.com

@@ -1,0 +1,70 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title>Prim PRIM.lt</title>
+
+        <base href="http://www.prim.lt/" />
+
+        
+        <script type="text/javascript" src="http://www.prim.lt/scripts/base64.js"></script>
+
+        <script type="text/javascript" src="http://www.prim.lt/scripts/jquery-1.4.2-p1.min.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/js.cookie-2.0.4.min.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/scripts.js?v=2"></script>
+
+        <script type="text/javascript" src="http://www.prim.lt/scripts/swfupload/swfupload/swfupload.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/swfupload/js/swfupload.queue.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/swfupload/js/fileprogress.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/swfupload/js/handlers.js"></script>
+
+        <script type="text/javascript" src="http://www.prim.lt/scripts/jquery-ui-1.8.11/jquery.ui.core.min.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/jquery-ui-1.8.11/jquery.ui.widget.min.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/jquery-ui-1.8.11/jquery.ui.mouse.min.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/jquery-ui-1.8.11/jquery.ui.sortable.min.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/jquery-ui-1.8.11/jquery.ui.datepicker.min.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/jquery-ui-1.8.11/jquery.ui.datepicker-lt.js"></script>
+
+        <link rel="stylesheet" href="http://www.prim.lt/scripts/jquery-ui-1.8.11/jquery-ui-1.8.11.custom.css" type="text/css">
+
+        <script type="text/javascript" src="http://www.prim.lt/scripts/tinymce_3.4.1_jquery/tiny_mce.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/tinymce_3.4.1_jquery/jquery.tinymce.js"></script>
+
+        <script type="text/javascript" src="http://www.prim.lt/scripts/jquery.fancybox-1.3.4/jquery.easing-1.3.pack.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/jquery.fancybox-1.3.4/jquery.mousewheel-3.0.4.pack.js"></script>
+        <script type="text/javascript" src="http://www.prim.lt/scripts/jquery.fancybox-1.3.4/jquery.fancybox-1.3.4.pack.js"></script>
+        <link rel="stylesheet" href="http://www.prim.lt/scripts/jquery.fancybox-1.3.4/jquery.fancybox-1.3.4.css" type="text/css">
+
+                <link rel="stylesheet" href="http://www.prim.lt/styles/style.css?v=5" type="text/css">
+
+        
+        <script type="text/javascript">
+            $.extend(true, {
+                app : {
+                    common : {
+                        site_base_href : 'http://www.prim.lt/'
+                    }
+                }
+            });
+        </script>
+        <!--[if lte IE 7]>
+        <link rel="stylesheet" href="http://www.prim.lt/styles/style_ie67.css" type="text/css">
+        <![endif]-->
+        <!--[if lte IE 6]>
+        <style type="text/css">
+            .png { behavior:url("http://www.prim.lt/scripts/iepngfix.htc"); }
+        </style>
+        <![endif]-->
+        
+
+        <meta name="google-site-verification" content="aRclb0xmYKJkA7fZRqppF-gdrm5dndmhhZg1szj9qfI" />
+
+        <meta name="description" content="PRIM.lt, Auto, Statyba, Laisvalaikis. Automobiliai, autoverslas. Viskas apie statybas, statybos darbai, statybinės medžiagos. Laisvalaikio pramogos," />
+        <meta property="fb:app_id" content="123066407767983" />
+    </head>
+
+    <body>
+        <div id="container">
+            <div id="top">
+                <div id="top_banner">
+                          

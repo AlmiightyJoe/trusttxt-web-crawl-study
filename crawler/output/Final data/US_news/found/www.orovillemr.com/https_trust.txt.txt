@@ -1,0 +1,6 @@
+# trust.txt for orovillemr.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-13 00:33:03 PDT
+
+contact=https://www.orovillemr.com/contact-us/
+datatrainingallowed=no

@@ -1,0 +1,6 @@
+# trust.txt for bostonherald.com
+# This file declares data mining policies, ownership, and affiliations.
+# Last updated: 2025-08-12 16:08:31 EDT
+
+contact=https://www.bostonherald.com/contact-us/
+datatrainingallowed=no

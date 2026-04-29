@@ -1,0 +1,44 @@
+
+<!doctype html>
+
+  <head>
+    <meta charset="utf-8">
+
+    
+
+        <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+	    	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+		<!-- All in One SEO 4.7.9 - aioseo.com -->
+		<title>Duxbury Clipper</title>
+	<meta name="description" content="Duxbury&#039;s hometown newspaper since 1950" />
+	<meta name="robots" content="max-image-preview:large" />
+	<link rel="canonical" href="https://www.duxburyclipper.com/" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.7.9" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="Duxbury Clipper - Your hometown news since 1950" />
+		<meta property="og:type" content="activity" />
+		<meta property="og:title" content="Duxbury&#039;s Hometown Newspaper since 1950" />
+		<meta property="og:description" content="Duxbury&#039;s hometown newspaper since 1950" />
+		<meta property="og:url" content="https://www.duxburyclipper.com/" />
+		<meta property="og:image" content="https://www.duxburyclipper.com/wp-content/uploads/2023/07/DSC_0699-Henry-Cayzer-sm.jpg" />
+		<meta property="og:image:secure_url" content="https://www.duxburyclipper.com/wp-content/uploads/2023/07/DSC_0699-Henry-Cayzer-sm.jpg" />
+		<meta property="og:image:width" content="2400" />
+		<meta property="og:image:height" content="1600" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="Duxbury&#039;s Hometown Newspaper since 1950" />
+		<meta name="twitter:description" content="Duxbury&#039;s hometown newspaper since 1950" />
+		<meta name="twitter:image" content="https://www.duxburyclipper.com/wp-content/uploads/2023/07/DSC_0699-Henry-Cayzer-sm.jpg" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.duxburyclipper.com\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.duxburyclipper.com\/#listItem","position":1,"name":"Home"}]},{"@type":"Organization","@id":"https:\/\/www.duxburyclipper.com\/#organization","name":"Duxbury Clipper","description":"Your hometown news since 1950","url":"https:\/\/www.duxburyclipper.com\/"},{"@type":"WebPage","@id":"https:\/\/www.duxburyclipper.com\/#webpage","url":"https:\/\/www.duxburyclipper.com\/","name":"Duxbury Clipper","description":"Duxbury's hometown newspaper since 1950","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.duxburyclipper.com\/#website"},"breadcrumb":{"@id":"https:\/\/www.duxburyclipper.com\/#breadcrumblist"},"image":{"@type":"ImageObject","url":"https:\/\/www.duxburyclipper.com\/wp-content\/uploads\/2023\/07\/DSC_0699-Henry-Cayzer-sm.jpg","@id":"https:\/\/www.duxburyclipper.com\/#mainImage","width":2400,"height":1600,"caption":"Henry Cayzer reacts to his custom \u201cAmong Us\u201d face paint design. - Photos by Karen Wong"},"primaryImageOfPage":{"@id":"https:\/\/www.duxburyclipper.com\/#mainImage"},"datePublished":"2023-03-22T01:05:10-04:00","dateModified":"2024-09-28T14:11:26-04:00"},{"@type":"WebSite","@id":"https:\/\/www.duxburyclipper.com\/#website","url":"https:\/\/www.duxburyclipper.com\/","name":"Duxbury Clipper","description":"Your hometown news since 1950","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.duxburyclipper.com\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.duxburyclipper.com\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//dutks0b58iw6s.cloudfront.net' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='stylesheet' id='gwp-plugins-css' href='https://dutks0b58iw6s.cloudfront.net/gravityperks/styles/plugins.css?ver=6.7.2' type='text/css' media='all' />
+<link 

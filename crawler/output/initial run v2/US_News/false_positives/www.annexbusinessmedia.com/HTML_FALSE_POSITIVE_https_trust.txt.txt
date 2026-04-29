@@ -1,0 +1,71 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-CA" prefix="og: https://ogp.me/ns#">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    
+    <!-- ******************************************************************** -->
+    <!-- * Title ************************************************************ -->
+    <!-- ******************************************************************** -->
+    
+    <title>This is Annex: Great Content, Better People</title>
+    
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://www.annexbusinessmedia.com/xmlrpc.php">
+    
+    <!-- ******************************************************************** -->
+    <!-- * Custom Favicon *************************************************** -->
+    <!-- ******************************************************************** -->
+    
+        
+    <!-- ******************************************************************** -->
+    <!-- * Favicon ********************************************************** -->
+    <!-- ******************************************************************** -->
+    
+    <link rel="shortcut icon" href="https://www.annexbusinessmedia.com/wp-content/uploads/2018/06/annex-logo.png" type="image/x-icon" />
+        
+        
+    <!-- ******************************************************************** -->
+    <!-- * Custom Header JavaScript Code ************************************ -->
+    <!-- ******************************************************************** -->
+    
+    
+    <!-- ******************************************************************** -->
+    <!-- * Sticky header for mobiles **************************************** -->
+    <!-- ******************************************************************** -->
+    
+            <script type="text/javascript">
+            var stickyHeader = 0;
+        </script>
+        
+    <!-- ******************************************************************** -->
+    <!-- * WordPress wp_head() ********************************************** -->
+    <!-- ******************************************************************** -->
+    
+                        <script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Karla:400,700,400italic,700italic&amp;subset=latin']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+                        
+<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+<meta name="description" content="At Annex Business Media, we believe that good things happen when like-minded people come together to create great content and connect industries. This is Annex."/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.annexbusinessmedia.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="This is Annex: Great Content, Better People" />
+<meta property="og:description" content="At Annex Business Media, we believe that good things happen when like-minded people come together to create great content and conne

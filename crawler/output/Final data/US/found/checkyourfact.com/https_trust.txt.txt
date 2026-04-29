@@ -1,0 +1,3 @@
+controlledby=https://dailycaller.com/
+social=https://twitter.com/check_your_fact
+social=https://www.facebook.com/checkyourfact/

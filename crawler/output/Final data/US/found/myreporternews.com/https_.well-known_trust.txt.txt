@@ -1,0 +1,25 @@
+# Reporter News | Friendswood | Pearland | Manvel trust.txt file
+#
+# For more information on trust.txt see:
+# 1. https://journallist.net - Home of the trust.txt specification
+# 2. https://datatracker.ietf.org/doc/html/rfc8615 - IETF RFC 8615 - Well-Known Uniform Resource Identifiers (URIs)
+# 3. https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml - IANA's list of registered Well-Known URIs
+#
+# Reporter News | Friendswood | Pearland | Manvel belongs to the following organizations
+#
+belongto=https://www.texaspress.com/
+belongto=https://www.journallist.net/
+#
+# Reporter News | Friendswood | Pearland | Manvel social networks
+#
+social=https://www.facebook.com/TheReporterNews
+#
+# Reporter News | Friendswood | Pearland | Manvel vendors
+#
+# vendor=
+#
+# Reporter News | Friendswood | Pearland | Manvel contact info
+#
+contact=https://myreporternews.com/contact/
+#
+# © 2022 Wood Land Publishing Inc. All Rights Reserved.
