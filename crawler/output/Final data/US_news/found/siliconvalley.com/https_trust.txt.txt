@@ -1,6 +1,0 @@
-# trust.txt for siliconvalley.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 10:47:55 PDT
-
-contact=https://www.siliconvalley.com/contact-us/
-datatrainingallowed=no

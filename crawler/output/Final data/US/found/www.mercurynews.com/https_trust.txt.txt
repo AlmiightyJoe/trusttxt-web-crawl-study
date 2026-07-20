@@ -1,6 +1,0 @@
-# trust.txt for mercurynews.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 10:47:13 PDT
-
-contact=https://www.mercurynews.com/contact-us/
-datatrainingallowed=no

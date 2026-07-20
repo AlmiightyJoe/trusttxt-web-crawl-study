@@ -1,6 +1,0 @@
-# trust.txt for eastbaytimes.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 10:49:13 PDT
-
-contact=https://www.eastbaytimes.com/contact-us/
-datatrainingallowed=no

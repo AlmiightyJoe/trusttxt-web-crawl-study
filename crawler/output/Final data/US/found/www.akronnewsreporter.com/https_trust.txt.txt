@@ -1,6 +1,0 @@
-# trust.txt for akronnewsreporter.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 16:07:33 MDT
-
-contact=https://www.akronnewsreporter.com/contact-us/
-datatrainingallowed=no

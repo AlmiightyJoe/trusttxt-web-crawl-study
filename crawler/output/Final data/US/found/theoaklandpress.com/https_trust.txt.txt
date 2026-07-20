@@ -1,6 +1,0 @@
-# trust.txt for theoaklandpress.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 13:47:58 EDT
-
-contact=https://www.theoaklandpress.com/contact-us/
-datatrainingallowed=no

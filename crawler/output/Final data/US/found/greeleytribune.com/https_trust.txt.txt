@@ -1,6 +1,0 @@
-# trust.txt for greeleytribune.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 15:58:04 MDT
-
-contact=https://www.greeleytribune.com/contact-us/
-datatrainingallowed=no

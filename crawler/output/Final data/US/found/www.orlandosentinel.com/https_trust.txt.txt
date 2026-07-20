@@ -1,6 +1,0 @@
-# trust.txt for orlandosentinel.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 18:47:03 EDT
-
-contact=https://www.orlandosentinel.com/contact-us/
-datatrainingallowed=no

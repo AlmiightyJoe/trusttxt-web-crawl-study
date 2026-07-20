@@ -1,6 +1,0 @@
-# trust.txt for coloradodaily.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-12 22:15:31 MDT
-
-contact=https://www.coloradodaily.com/contact-us/
-datatrainingallowed=no

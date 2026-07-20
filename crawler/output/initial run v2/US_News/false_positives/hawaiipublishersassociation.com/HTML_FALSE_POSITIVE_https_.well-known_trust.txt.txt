@@ -1,2 +1,0 @@
-<br />
-<b>Parse error</b>:  syntax error, unexpected '' );' (T_ENCAPSED_AND_WHITESPACE) in <b>/home/hawaii58/public_html/index.php</b> on line <b>17</b><br />

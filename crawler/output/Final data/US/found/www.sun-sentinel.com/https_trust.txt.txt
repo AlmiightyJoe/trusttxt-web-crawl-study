@@ -1,6 +1,0 @@
-# trust.txt for sun-sentinel.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-12 15:21:42 EDT
-
-contact=https://www.sun-sentinel.com/contact-us/
-datatrainingallowed=no

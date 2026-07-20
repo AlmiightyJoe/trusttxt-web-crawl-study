@@ -1,6 +1,0 @@
-# trust.txt for mcall.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 18:41:39 EDT
-
-contact=https://www.mcall.com/contact-us/
-datatrainingallowed=no

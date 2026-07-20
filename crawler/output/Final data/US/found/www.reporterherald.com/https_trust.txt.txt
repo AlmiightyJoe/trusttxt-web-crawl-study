@@ -1,6 +1,0 @@
-# trust.txt for reporterherald.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-12 15:39:33 MDT
-
-contact=https://www.reporterherald.com/contact-us/
-datatrainingallowed=no

@@ -1,6 +1,0 @@
-# trust.txt for mainlinemedianews.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 18:01:04 EDT
-
-contact=https://www.mainlinemedianews.com/contact-us/
-datatrainingallowed=no

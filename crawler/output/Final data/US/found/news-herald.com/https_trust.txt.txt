@@ -1,6 +1,0 @@
-# trust.txt for news-herald.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 17:58:03 EDT
-
-contact=https://www.news-herald.com/contact-us/
-datatrainingallowed=no

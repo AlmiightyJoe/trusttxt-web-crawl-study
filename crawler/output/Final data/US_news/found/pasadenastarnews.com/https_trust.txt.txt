@@ -1,6 +1,0 @@
-# trust.txt for pasadenastarnews.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 14:57:39 PDT
-
-contact=https://www.pasadenastarnews.com/contact-us/
-datatrainingallowed=no

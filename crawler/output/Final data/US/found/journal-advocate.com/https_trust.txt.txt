@@ -1,6 +1,0 @@
-# trust.txt for journal-advocate.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 11:42:48 MDT
-
-contact=https://www.journal-advocate.com/contact-us/
-datatrainingallowed=no

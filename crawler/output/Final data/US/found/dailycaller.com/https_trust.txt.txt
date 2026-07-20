@@ -1,9 +1,0 @@
-belongto=https://digitalcontentnext.org/
-control=https://dailycaller.com/
-control=https://checkyourfact.com/
-control=https://smokeroom.com/
-contact=https://dailycaller.com/contact/
-social=https://www.facebook.com/DailyCaller/
-social=https://www.youtube.com/dailycaller
-social=https://twitter.com/dailycaller/
-social=https://www.instagram.com/dailycaller/

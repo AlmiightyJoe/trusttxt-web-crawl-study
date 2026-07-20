@@ -1,6 +1,0 @@
-# trust.txt for canoncitydailyrecord.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 08:57:12 MDT
-
-contact=https://www.canoncitydailyrecord.com/contact-us/
-datatrainingallowed=no

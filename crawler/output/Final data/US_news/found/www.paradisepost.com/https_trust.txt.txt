@@ -1,6 +1,0 @@
-# trust.txt for paradisepost.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 00:51:34 PDT
-
-contact=https://www.paradisepost.com/contact-us/
-datatrainingallowed=no

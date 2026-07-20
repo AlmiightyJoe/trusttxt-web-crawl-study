@@ -1,6 +1,0 @@
-# trust.txt for dailylocal.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 07:27:00 EDT
-
-contact=https://www.dailylocal.com/contact-us/
-datatrainingallowed=no

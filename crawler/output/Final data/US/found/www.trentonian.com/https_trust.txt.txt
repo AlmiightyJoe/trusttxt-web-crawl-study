@@ -1,6 +1,0 @@
-# trust.txt for trentonian.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 17:59:03 EDT
-
-contact=https://www.trentonian.com/contact-us/
-datatrainingallowed=no

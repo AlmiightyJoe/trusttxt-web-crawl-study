@@ -1,6 +1,0 @@
-# trust.txt for nydailynews.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-12 23:28:47 EDT
-
-contact=https://www.nydailynews.com/contact-us/
-datatrainingallowed=no

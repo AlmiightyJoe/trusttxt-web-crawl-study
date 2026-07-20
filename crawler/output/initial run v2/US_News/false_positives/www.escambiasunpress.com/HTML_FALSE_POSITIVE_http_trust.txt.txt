@@ -1,45 +1,0 @@
-<!DOCTYPE HTML>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB"
->
-<head>
-	<base href="https://escambiasunpress.com/index.php" />
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="description" content="Escambia County's Legal Newspaper" />
-	<meta name="generator" content="Joomla! - Open Source Content Management" />
-	<title>Escambia Sun Press</title>
-	<link href="/templates/content_king/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-	<link href="/components/com_jrealtimeanalytics/css/mainstyle.css" rel="stylesheet" type="text/css" />
-	<link href="/plugins/system/jcemediabox/css/jcemediabox.css?1d12bb5a40100bbd1841bfc0e498ce7b" rel="stylesheet" type="text/css" />
-	<link href="/plugins/system/jcemediabox/themes/standard/css/style.css?50fba48f56052a048c5cf30829163e4d" rel="stylesheet" type="text/css" />
-	<link href="/media/system/css/calendar-jos.css" rel="stylesheet" type="text/css"  title="Green"  media="all" />
-	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
-	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
-	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
-	<script src="/components/com_jrealtimeanalytics/js/jquery.noconflict.js" type="text/javascript"></script>
-	<script src="/components/com_jrealtimeanalytics/js/stream.js" type="text/javascript" defer="defer"></script>
-	<script src="/components/com_jrealtimeanalytics/js/heatmap.js" type="text/javascript" defer="defer"></script>
-	<script src="/media/system/js/caption.js" type="text/javascript"></script>
-	<script src="/plugins/system/jcemediabox/js/jcemediabox.js?0c56fee23edfcb9fbdfe257623c5280e" type="text/javascript"></script>
-	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="/media/jui/js/jquery.ui.core.min.js" type="text/javascript"></script>
-	<script src="/media/jui/js/jquery.ui.sortable.min.js" type="text/javascript"></script>
-	<script src="https://escambiasunpress.com/templates/content_king/js/jquery/jquery-ui-addons.js" type="text/javascript"></script>
-	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
-	<script src="/media/system/js/core.js" type="text/javascript"></script>
-	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
-	<script src="/media/system/js/punycode.js" type="text/javascript"></script>
-	<script src="/media/system/js/validate.js" type="text/javascript"></script>
-	<script src="/media/system/js/calendar.js" type="text/javascript"></script>
-	<script src="/media/system/js/calendar-setup.js" type="text/javascript"></script>
-	<script type="text/javascript">
-				var COM_JREALTIME_NETWORK_ERROR = 'A network error occurred during data stream: '; var jrealtimeBaseURI='https://escambiasunpress.com/';jQuery(document).ready(function(){
-                        jQuery.ajax({
-                            url:'index.php?option=com_dropfiles&task=googledrive.googlesync'
-                        });
-                    });jQuery(document).ready(function(){
-                        jQuery.ajax({
-                            url:'index.php?option=com_dropfiles&task=frontgoogle.index'
-                        });
-                    });jQuery(window).on('load',  function() {
-				new JCaption('img.caption');
-			});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:0,mediaselector:"audio,video"});window.setInterval(function(){var r;try{r=window.XMLHttpRequest?new XMLHtt

@@ -1,6 +1,0 @@
-# trust.txt for timesheraldonline.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 10:41:15 PDT
-
-contact=https://www.timesheraldonline.com/contact-us/
-datatrainingallowed=no
