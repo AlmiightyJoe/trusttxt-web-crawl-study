@@ -1,6 +1,0 @@
-# trust.txt for delcotimes.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 03:58:17 EDT
-
-contact=https://www.delcotimes.com/contact-us/
-datatrainingallowed=no

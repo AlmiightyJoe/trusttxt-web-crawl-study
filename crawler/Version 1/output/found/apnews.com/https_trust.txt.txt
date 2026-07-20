@@ -1,4 +1,0 @@
-#APNews.com trust.txt file
-controlledby=https://ap.org
-
-contact=https://www.ap.org/contact-us/

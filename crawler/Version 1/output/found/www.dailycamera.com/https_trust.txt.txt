@@ -1,6 +1,0 @@
-# trust.txt for dailycamera.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 05:26:11 MDT
-
-contact=https://www.dailycamera.com/contact-us/
-datatrainingallowed=no

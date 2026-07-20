@@ -1,6 +1,0 @@
-# trust.txt for County Star News 
-# County Star News belongs to the following organizations
-belongto=https://www.texaspress.com/
-# County Star News uses these sites as a vendor
-vendor=https://www.etypeservices.com
-vendor=https://www.etypeservices.net

@@ -1,6 +1,0 @@
-# trust.txt for burlington-record.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-13 11:50:20 MDT
-
-contact=https://www.burlington-record.com/contact-us/
-datatrainingallowed=no

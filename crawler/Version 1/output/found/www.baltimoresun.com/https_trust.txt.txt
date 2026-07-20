@@ -1,6 +1,0 @@
-# trust.txt for baltimoresun.com
-# This file declares data mining policies, ownership, and affiliations.
-# Last updated: 2025-08-12 13:37:33 EDT
-
-contact=https://www.baltimoresun.com/contact-us/
-datatrainingallowed=no
